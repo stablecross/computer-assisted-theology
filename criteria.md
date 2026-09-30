@@ -1,5 +1,7 @@
 # Four-Stage Evaluation Criteria
 
+*Version 9.*
+
 Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately. A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
 
 **The same rules bind author and reviewer.** Whoever asserts a proposition must support it. Whoever challenges an inference must identify and demonstrate its defect. Neither party must prove the opposite conclusion merely to show that the other's argument falls short. A reviewer's findings are propositions too, and they are tested by these rules when the review is itself reviewed.
