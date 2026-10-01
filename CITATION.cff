@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you cite a single paper, give its title and the version number stated at its top."
+title: "computer-assisted-theology: theology argued from Scripture, reviewed by AI models under published criteria"
+authors:
+  - family-names: Felts
+    given-names: William R.
+    name-suffix: III
+date-released: 2026-10-01
+url: "https://github.com/stablecross/computer-assisted-theology"
+license: CC-BY-ND-4.0
