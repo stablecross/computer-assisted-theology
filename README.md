@@ -91,6 +91,16 @@ The criteria have been revised many times. AI models have reviewed the criteria 
 - **Support is graded like attack.** A text that seems to count against the paper is ranked on a scale from fatal to neutral. A text that seems to count for the paper is ranked on a matching scale, so support is not waved through while attacks are sifted.
 - **A proof objection and a competing reading carry different burdens.** A reviewer who shows a gap in the paper's argument need not offer a rival reading. A reviewer who offers a rival reading must argue it as a proof of its own, under the same tests. Showing a gap does not establish the rival reading, and answering the rival reading does not close the gap.
 
+### How strict the criteria are
+
+Particle physics sets a high bar for announcing a result. A new particle is announced as a discovery only at five sigma. At five sigma, the chance that background noise alone would produce a signal that strong is about one in 3.5 million. A weaker signal, at three sigma, is reported as evidence, not as a discovery.
+
+The bar is high on purpose. Some real effects go unannounced until the data reach it. Physicists accept that, because a false announcement does more harm.
+
+The criteria hold conclusions to the same kind of bar. Reading a text is a judgment of its most likely meaning, as described above, so any one reading can be wrong. A conclusion built on such readings is therefore probable, not certain. So it needs a bar for when to call it established. A conclusion is reported as established only when it survives all four stages. A conclusion that is better supported than its rivals, and no more, is reported as better supported. The criteria assign no number. The comparison is to where the bar is set, not to how it is measured.
+
+So a conclusion that falls short of the bar is not shown false. It is only not shown. Readers on every side will find that something they believe falls short. That is a result of the bar, not a verdict on the belief.
+
 ## Usage
 
 To review a paper, give an AI model these files:
