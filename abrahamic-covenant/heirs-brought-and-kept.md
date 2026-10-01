@@ -1,6 +1,6 @@
 # God Brings Every Heir to Faith and Loses None of Them
 
-*Version 11.*
+*Version 12.*
 
 *Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
 
@@ -542,7 +542,7 @@ Peter's Greek separates them. In 1:4 believers escape τῆς ἐν τῷ κόσ
 
 The verse before uses the other noun of the teachers: "They promise them freedom, but they themselves are slaves of corruption; for people are slaves to whatever masters them" (2:19). The noun is φθορᾶς, the corruption believers escape at 1:4. The verb for being mastered, ἡττάομαι, is the verb of 2:20, "overpowered." Whether 2:20's *they* are these teachers or the people they entice, who "have just escaped" (2:18), is disputed. On either reading, what 2:20 says they escaped is the defilements, not the corruption of 1:4.
 
-State the strength of this exactly. Peter says the teachers are slaves of corruption now. He does not say they never escaped it, and verse 21 speaks of a real knowing and a turning back. What the different nouns warrant is that 2:20 does not describe the escape of 1:4. The objection needs it to, and Peter uses different words for the two.
+State the strength of this exactly. Peter says the teachers are slaves of corruption now. He does not say they never escaped it, and verse 21 speaks of a real knowing and a turning back. The different nouns do not show that 2:20 describes a different escape. They show that the objection cannot read 1:4 into 2:20 on the strength of shared words, because the words are not shared. The identity has to be argued, and the objection needs it.
 
 The proverbs point the same way: "The dog turns back to its own vomit," and, "The sow is washed only to wallow in the mud" (2:22). The sow was washed. It did not stop being a sow. That fits the distinction between defilements and corruption. It is a reading of the proverb, not a statement of each man's whole history.
 
