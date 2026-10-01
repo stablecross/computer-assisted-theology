@@ -49,6 +49,8 @@ AI models are imperfect reviewers. They miss real errors. They also report error
 
 So agreement among models is not the test. A reviewer's finding is itself tested: the criteria require whoever reports a defect to demonstrate it.
 
+A model's answer can be steered by how the question is asked. The same is true of people. So the review prompt is fixed and published, and it asks only whether each step follows, not whether a conclusion is true. Anyone can rerun it, on any model, or with a prompt aimed at refuting the paper. A finding counts only if its reason holds under the criteria, using nothing the corpus does not supply. That rule binds a human reviewer as much as a model.
+
 This is not an attempt to train an AI model to a theological system. Any model can be trained to give answers congenial to a particular system. The models here are not taught what to conclude. They are asked whether each step follows from the texts and steps before it. The goal is inference, not pedagogy.
 
 ## How the papers are tested
