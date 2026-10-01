@@ -137,6 +137,10 @@ The papers were reviewed by GPT (OpenAI), up to GPT-6.1 Sol at maximum effort, a
 
 The author is responsible for every claim in the papers.
 
+## Cite
+
+Use "Cite this repository" in the sidebar for APA or BibTeX. If you cite a single paper, give its title and the version number stated at its top.
+
 ## License
 
 Copyright © 2026 William R. Felts III. The papers are licensed under CC BY-ND 4.0: you may copy and share them, with credit, but may not distribute altered versions. See [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md) and [LICENSE](https://github.com/stablecross/computer-assisted-theology/blob/main/LICENSE).
