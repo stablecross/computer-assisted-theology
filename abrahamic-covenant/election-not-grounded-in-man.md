@@ -1,6 +1,6 @@
 # The Election Is Not Grounded in the Man
 
-*Version 61.*
+*Version 62.*
 
 *Companion to "Election in the Abrahamic Covenant Is to Salvation." That paper established the terminus and bracketed the basis. This one takes up the basis.*
 
@@ -182,7 +182,7 @@ Why the paper needs it. Fork two takes in a responsive condition every man in fa
 
 The per-instance reading closes that, and it is worth being exact about how, because a stronger claim is available here and does not hold. It does not establish on its own that naming God as the source excludes a criterion beneath him. That inference fails — a university admission rests on the university and is still conditioned on a grade — and step 2b exists because it fails.
 
-What the per-instance reading does is fix where 2b's conclusion attaches. Step 2b establishes that no responsive criterion is marked in this passage, and that the reading with none is better supported than the reading with faith. Read per-instance, 9:16 says that result holds of each man's election rather than only of the difference between two men. A condition every man meets is therefore excluded by 2b, and the per-instance reading is what carries 2b to it.
+What the per-instance reading does is fix where 2b's conclusion attaches. Step 2b establishes that no responsive criterion is marked in this passage, and that the reading with none is better supported than the reading with faith. Read per-instance, 9:16 says that result holds of each man's election rather than only of the difference between two men. A condition every man meets is therefore reached by 2b, and the per-instance reading is what carries 2b to it. A condition with no textual warrant is excluded. Faith is ranked below its rival, not excluded.
 
 Two of 2b's planks are already non-contrastive in the same way: 9:11–12 names the Caller rather than a rule the called satisfy, and 9:15's *idem per idem* withholds the specification without reference to any contrast.
 
@@ -430,7 +430,7 @@ That is a claim about the designation, not about Esau's final state. The compani
 
 **What this does not claim.** It does not say what Esau's final state is. It does not say how many were passed over, or that any particular other person was. It does not say why Esau was rejected — that is the hardening question, bracketed at the front and raised by Paul at 9:19. And it does not make Esau's rejection the ground of anyone's election.
 
-**What an objector can do with it.** He can dispute that the blessing Esau sought is the Abrahamic inheritance rather than a lesser paternal blessing, though Genesis 28:4 names it. He can dispute the companion paper's terminus argument, which is where that fight belongs. Or he can read ἀπεδοκιμάσθη as rejection from that one occasion rather than from the inheritance itself — in which case he owes an account of why Hebrews builds a warning against falling away on a man who merely lost a domestic dispute.
+**What an objector can do with it.** He can dispute that the blessing Esau sought is the Abrahamic inheritance rather than a lesser paternal blessing, though Genesis 28:4 names it. He can dispute the companion paper's terminus argument, which is where that fight belongs. Or he can read ἀπεδοκιμάσθη as rejection from that one occasion rather than from the inheritance itself — in which case he owes an account of why Hebrews builds a warning against falling away on a man who lost only a paternal blessing.
 
 **And one route is closed to him.** He cannot answer by way of Ishmael. Ishmael is excluded from the covenant designation in Genesis 17, and Paul uses him in Galatians 4 as the type of the flesh-born. But God blesses him, makes him fruitful, promises him a great nation (17:20), and is with the boy (21:20). Nothing renders a verdict on the man. The argument above runs on Esau because Esau is the case Scripture decides, and it needs no other.
 
@@ -664,7 +664,7 @@ Taken together, these establish two narrower claims: no one comes apart from the
 
 ## Conclusion
 
-The discriminatory election and mercy of the promise-class do not rest on the one willing or the one running, but on God who shows mercy. Therefore that election, as Scripture gives it, is not conditioned on works, does not rest on the man's willing or running, and has no other responsive condition with textual warrant. For faith, actual or foreseen, the reading on which faith is not the condition is better supported, and the reading on which it is has not been shown unavailable here. The synthesis completes that step.
+The discriminatory election and mercy of the promise-class do not rest on the one willing or the one running, but on God who shows mercy. Therefore that election, as Scripture gives it, is not conditioned on works, does not rest on the man's willing or running, and has no responsive condition other than faith with textual warrant. For faith, actual or foreseen, the reading on which faith is not the condition is better supported, and the reading on which it is has not been shown unavailable here. The synthesis completes that step.
 
 **The positive counterpart, which the argument has earned and should state.** Two questions have to be kept apart first, because one sentence covering both would claim more than the argument gives and would run against a text Paul states plainly.
 
@@ -786,6 +786,8 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 
 *The injustice objection at 9:14 arises from the pre-birth timing alone, not from the absence of a criterion.* — Step 2b, eighth plank. Available, and it costs the objector a resolvable charge left standing through 9:15–18 and answered at 9:20 by refusing the questioner's standing. It also requires supplying a hidden criterion rather than locating one, in an objection Paul himself constructs and answers. Unlike 9:19, this objection has no alternative motivation in the immediate context, since hardening is not yet in view.
 
+*The injustice charge at 9:14 comes from covenant fidelity: how can Israel's exclusion square with God's word and Israel's privileges (9:3–8)?* — Step 2b, eighth plank. Not answered in the body. Paul raises that question at 9:6, "It is not as though the word of God had failed," and answers it through 9:13. The question at 9:14 is a different one. It asks about injustice, and it follows directly on 9:13: "I have loved Jacob, but I have hated Esau." So what 9:14 asks about is the discrimination between the twins, and Paul answers it at 9:15–18 by restating that discrimination.
+
 *2 Thessalonians 2:13's en-phrase modifies "chose," not "salvation," so faith is grammatically attached to the choosing.* — Step 5a. The attachment is granted, and the objector does not need *because of*, since a means can be a condition. The verse alone does not decide whether belief is the means by which the choice is carried out or the means by which a man comes to be among the chosen. 1 Peter 1:2 and 2 Thessalonians 2:14 favor the first. The result is comparative and is weighed at 2b.
 
 *Twenty verses show that a man must believe.* — Granted throughout, and the paragraph on the remaining disagreement at the end of step 2b says why they do not touch the thesis. The dispute is not whether faith is necessary but which side supplies the differentiating term where the election of this man rather than that one is explained.
@@ -854,6 +856,10 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 
 *Romans 11:28 calls unbelieving Israel beloved "as regards election," so election language covers people outside the Romans 8 company.* — Not answered in the body. Granted: "as regards election they are beloved, for the sake of their ancestors; for the gifts and the calling of God are irrevocable" (11:28–29). The word is used there of the nation in relation to the patriarchs, and the ground it names is the ancestors, not a response of the persons in view. The paper does not claim that every occurrence of the word names the determination of Romans 8:29–30. Step 11 argues that identity from 8:28–30, 8:33, and 9:11, not from the word alone.
 
+*Genesis 22:16–18 gives the blessing "because you have done this," so a response conditions the covenant.* — Not answered in the body. The oath comes after God chose Abram (Gen 12:1–3), made the covenant (15:18), and named Isaac (17:19). It confirms with an oath what had already been given. It does not show that the earlier choosing waited on the later act. "Election in the Abrahamic Covenant Is to Salvation" takes up the obedience clauses at its step 3.
+
+*Nehemiah 9:8 says God found Abraham's heart faithful and made a covenant with him, so faith preceded the covenant.* — Not answered in the body. The prayer gives the order itself: God "chose Abram" (9:7), then "found his heart faithful before you," then "made with him a covenant" (9:8). The faithful heart comes after the choosing and before the covenant. The prayer does not give it as the ground of the choosing.
+
 **On Romans 9 itself**
 
 *9:32 names faith as the differentiator, in the same argument.* — Step 11. 9:31's Israel is the national body of 9:6's descent-referent, and 11:7 has Paul restating the same contrast with *the elect* as the term.
@@ -872,7 +878,7 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 
 *If every man eventually believes, no A/B contrast exists, so a faith-condition escapes fork two.* — Answered twice. The definition at the front and fork two: a condition does not stop being one because everyone meets it, and the contrast is how the paper tests for a condition rather than what makes something one. Then 2a's per-instance reading of 9:16, which carries 2b's result to the ground of each election without reference to whether another man fails it. Step 6a adds that the contrast case is not empty in any event, since Esau is placed outside the class by Hebrews 12:17.
 
-*Esau lost a paternal blessing, not an eternal inheritance, so step 6a proves nothing about the class.* — Step 6a. Genesis 28:4 names the thing conferred as the blessing of Abraham, and the companion paper argues that inheritance terminates in salvation. An objector who reads ἀπεδοκιμάσθη as rejection from one occasion owes an account of why Hebrews builds a warning against falling away on a man who merely lost a domestic dispute.
+*Esau lost a paternal blessing, not an eternal inheritance, so step 6a proves nothing about the class.* — Step 6a. Genesis 28:4 names the thing conferred as the blessing of Abraham, and the companion paper argues that inheritance terminates in salvation. An objector who reads ἀπεδοκιμάσθη as rejection from one occasion owes an account of why Hebrews builds a warning against falling away on a man who lost only a paternal blessing.
 
 *Ishmael was excluded from the covenant too, so the same argument would exclude him — and Scripture says God blessed him.* — Step 6a, and granted. The argument does not run on Ishmael, because Genesis 17:20 and 21:20 render no verdict on the man. Esau is the case Scripture decides.
 
