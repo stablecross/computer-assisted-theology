@@ -128,6 +128,29 @@ Model size matters. In one trial, a model small enough to run on a laptop (an M5
 
 A finding you believe is correct can be filed as a bug report.
 
+### When two papers conflict
+
+Suppose systemA.md and systemB.md argue theses that cannot both be true, and each has been reviewed as Established. Then at least one review is wrong. Established means no admissible countermodel survives, and each paper is a countermodel to the other. So a paper's standing holds only until it is reviewed against any paper that contradicts it.
+
+Two Established papers can conflict for three reasons:
+
+- **They rest on different corpus or method assumptions.** The pre-analysis of each review records these. If they differ, the dispute is about what counts as evidence, and neither review binds the other side.
+- **They do not actually contradict.** A key term such as "election" or "grace" may carry a different sense in each. Then both can stand, about different claims.
+- **Neither review faced the other paper.** Each reviewer built its own countermodel, and neither tested the other paper's best case.
+
+To resolve the conflict:
+
+1. **Find where the papers collide.** Name one thesis in each paper that cannot hold together with the other, in the same sense. Follow each paper's imports back to the earliest paper whose thesis is in conflict. A later paper's standing is capped by its imports, so settling the earliest conflict settles the later ones.
+2. **Write a question file.** It quotes the two theses, each with its paper and step, says that they cannot both hold, and asks for the standing of each. It adds no argument. If it argued, it would be a third paper with its own author.
+3. **Attach the question file, criteria.md, corpus.md, the two papers in conflict, and their imports.** Attach only the papers that carry the conflict, not every paper that depends on them.
+4. **Use this prompt unchanged:**
+
+> Evaluate the attached question under the attached criteria. The agreed corpus is stated in the attached corpus.md. The question states two theses that cannot both hold. Each is argued in an attached paper, whose imports are also attached. Treat each paper as the other's competing reading, and test both by the same rules. Report each stage separately. End with the standing of each thesis, and name the data on which the comparison turns.
+
+The review can end three ways. One thesis is Established and the other drops. Both are Supported, and one is ahead on named data. Or both are Not shown, which means the corpus does not settle the question. The third is a legitimate result: the bar exists so that the method says so when the texts do not decide.
+
+Particle physics has a precedent. In 2011 the OPERA experiment reported neutrinos arriving faster than light, at six sigma, above the threshold for a discovery. Because the result conflicted with relativity, its authors presented it as an anomaly to be checked. The checks found the main cause, a faulty fiber-optic connection in the timing system. Later measurements, OPERA's among them, found the neutrinos traveling at the speed of light. A high bar does not guarantee that a result is true. A conflict says to look for an error. It does not say which result has it. Finding the error takes checking each result, which is what the joint review does.
+
 ## How to report a bug
 
 Open an issue. Name the paper, its version, and the step.
