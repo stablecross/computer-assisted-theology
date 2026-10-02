@@ -1,8 +1,8 @@
 # Four-Stage Evaluation Criteria
 
-*Version 9.*
+*Version 11.*
 
-Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately. A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
+Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis. A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
 
 **The same rules bind author and reviewer.** Whoever asserts a proposition must support it. Whoever challenges an inference must identify and demonstrate its defect. Neither party must prove the opposite conclusion merely to show that the other's argument falls short. A reviewer's findings are propositions too, and they are tested by these rules when the review is itself reviewed.
 
@@ -177,7 +177,7 @@ To keep that honest, build a **datum ledger** before stating the countermodel:
 1. Enumerate the load-bearing textual data the argument rests on. List them as data, not as the document's conclusions from them.
 2. State the countermodel.
 3. For each datum, say whether the countermodel **naturally explains it**, **accommodates it only by adding a distinction or partition**, **qualifies its apparent force**, **leaves it unexplained**, or **contradicts it**.
-4. Name every partition or added distinction the countermodel requires, and assess its textual warrant. A partition the countermodel needs and cannot locate in the text is a cost, and it should be counted as one. Classify each such element by the three-way scheme under the general referee rules; a merely conceivable element cannot make the countermodel succeed.
+4. Name every partition or added distinction the countermodel requires, and assess its textual warrant. Classify each such element by the three-way scheme under the general referee rules. Determine admissibility before comparing cost. A distinction with positive or independent warrant may carry a cost. A merely conceivable distinction that the countermodel cannot do without disqualifies it; it is not a cost the countermodel can bear.
 5. Do the same for the document's own reading. Name every distinction or explanatory level the document supplies that the text does not mark, and charge it on the same scale. A ledger that charges only one side is not a comparison.
 6. Account for **patterns**, not only for individual verses. Where several data points form a repeated structure, a countermodel that addresses each one separately has not yet explained the structure. For example, one prenatal designation may be called incidental; two successive prenatal designations that both resolve into the same inheritance line are a pattern, and the countermodel owes an account of it.
 
@@ -222,6 +222,25 @@ End Stage 4 with:
 - the strongest further consequence and the premise it requires;
 - what the argument does **not** yet establish;
 - and which theological alternatives remain live.
+
+---
+
+## Standing of each thesis
+
+End the review with the standing of each thesis the document claims. The standing adds no new judgment. It is read off the results of Stages 1 through 3. Stage 4 may not raise or lower it.
+
+- **Established.** The argument is valid at Stage 1. Every necessary premise is accepted at Stage 2. No omission at Stage 3 is fatal, and the whole-canon countermodel test fails.
+- **Supported.** As for Established, except that a countermodel survives. The datum ledger charges it more than it charges the document's reading. The thesis is better supported than its strongest rival, and the rival is not excluded. A Supported standing must name the surviving countermodel, and every element it cannot do without must have passed the admissibility test at Stage 3.
+- **Not shown.** The offered proof fails at a stated step and no independent route survives, or a countermodel survives at equal or lower cost.
+- **Refuted.** A landed objection, after global propagation, establishes that the thesis is false.
+
+**A thesis stands no higher than the imports it needs.** Where it has independent routes, the strongest route decides. A review that does not re-evaluate an import states the standing as conditional on it: *Established, given its imports.*
+
+**Name the limiting step.** For any standing below Established, name the step, premise, import, or countermodel that keeps the thesis from the next standing up. A standing without a named limiting step is not a finding.
+
+**Grade the thesis as written and the narrowest thesis.** Where the pre-analysis found the stated thesis wider than the proof, give the standing of each.
+
+Attack candidates do not lower a standing.
 
 ---
 
@@ -289,6 +308,8 @@ Whenever an attack, a defense, or a countermodel is saved by introducing a disti
 Category (c) cannot make an attack succeed and cannot make a defense succeed. Say which category each introduced element falls in before ruling on the objection it serves. Do not rule first and classify afterward.
 
 **Argue the classification; do not announce it.** This is where an evaluator's leverage is greatest, because moving one element from (b) to (c) decides the objection it serves without any further argument. So give the reasoning each time. If a critic offers a passage as independent warrant for his element, the evaluator may not label the element merely conceivable and move on. He has to say what relation that passage does warrant, what relation the countermodel needs, and why the second does not follow from the first. The same duty applies to an element of the document's own.
+
+**The duty runs the other way too.** An element is (b) only if the evidence establishes the relation the reading needs, applied to the case in dispute. A relation shown to hold elsewhere does not warrant its application here until the application is argued. For example, a condition stated in one person's appointment does not show that a differently worded appointment of another person carries the same condition. Before classifying an element as (b), state the proposition the reading needs, what the cited evidence establishes, and the inference that connects them. Apply this to the document and to its rivals alike.
 
 ### Ground versus undisclosed reason
 
