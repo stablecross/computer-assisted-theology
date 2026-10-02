@@ -1,6 +1,6 @@
 # The Election Is Not Grounded in the Man
 
-*Version 62.*
+*Version 63.*
 
 *Companion to "Election in the Abrahamic Covenant Is to Salvation." That paper established the terminus and bracketed the basis. This one takes up the basis.*
 
@@ -76,7 +76,7 @@ And a property of the chosen is not thereby a ground of the kind the thesis deni
 
 **The evidential rule this paper runs on, and the scope it gives the claim.** A proposed factor may not function as a premise in reading a text merely because the text leaves it logically possible. If the factor does explanatory work in a reading, that reading must show the corpus states it, entails it, or warrants it elsewhere. A factor with no such warrant is not thereby declared impossible. It is unrevealed, and therefore unavailable as an account of what the text explains.
 
-The thesis is stated at that scope. It says that election, as Scripture gives it, is not conditioned on a responsive human fact. It does not say that no such condition could exist in any description of reality, and no argument below reaches that. A reader who wants the second claim will not find it here; a reader who thinks the first is the weaker of the two has mistaken which question the paper asks.
+The thesis is stated at that scope. It says that election, as Scripture gives it, is not conditioned on a responsive human fact. For faith it says this at the comparative strength stated above. It does not say that no such condition could exist in any description of reality, and no argument below reaches that. A reader who wants the second claim will not find it here; a reader who thinks the first is the weaker of the two has mistaken which question the paper asks.
 
 **A burden-shift the objector will try, and why it fails.** Told that his criterion has no warrant, he answers: if nothing forbids it, then something had better deny it. Produce a verse saying God uses no criterion.
 
@@ -328,7 +328,7 @@ First, the object in Romans 8:29 is persons, not propositions. Paul writes *hous
 
 Second, and what matters for this paper's classification: even granting the objector's reading, it lands him in fork two. If the predestining rests on the man's foreseen believing, then the answer to why this man rather than another has a responsive human term in it. Step 4 has already said why the timing of God's knowing does not change that, and why the criterion model supplies the term whatever produced the faith. So the foreknowledge texts do not open an escape from the trilemma. They name a place inside fork two. Whether faith occupies that place is what step 2b weighs, and the foreknowledge texts do not answer it either way.
 
-Two more texts an objector may bring here. Romans 8:28 names the beneficiaries as "those who love God," and Paul says elsewhere that "anyone who loves God is known by him" (1 Cor 8:3). So, the objector says, God foreknows the ones who love him. Paul's own clauses run the other way. Romans 8:28 goes on: "who are called according to his purpose." The lovers of God are identified by God's calling according to his purpose. And Paul corrects the order of knowing himself: "Now, however, that you have come to know God, or rather to be known by God" (Gal 4:9). The *or rather* puts God's knowing first. First Corinthians 8:3 says who is known. It does not say that the loving came first.
+Two more texts an objector may bring here. Romans 8:28 names the beneficiaries as "those who love God," and Paul says elsewhere that "anyone who loves God is known by him" (1 Cor 8:3). So, the objector says, God foreknows the ones who love him. Paul's own clauses run the other way. Romans 8:28 goes on: "who are called according to his purpose." The lovers of God are identified by God's calling according to his purpose. And Paul corrects the order of knowing himself: "Now, however, that you have come to know God, or rather to be known by God" (Gal 4:9). The *or rather* makes God's knowing the governing fact. First Corinthians 8:3 says who is known. It does not say that the loving came first.
 
 **5. The enabling-grace reply.**
 
@@ -376,7 +376,7 @@ The objection has a grammatical form worth stating at full strength, because it 
 
 **Two texts favor the first.** Peter uses the same phrase, ἐν ἁγιασμῷ πνεύματος, with an election word: "who have been chosen and destined by God the Father and sanctified by the Spirit to be obedient to Jesus Christ" (1 Pet 1:1–2). In the Greek the obedience is εἰς ὑπακοήν, the goal of the election. Peter calls that response "obedience to the truth" (1:22). So where an apostle puts election, the Spirit's sanctifying, and the response to the truth together, the response is what the election is for.
 
-Paul's next sentence reads, "For this purpose he called you through our proclamation of the good news, so that you may obtain the glory of our Lord Jesus Christ" (2 Thess 2:14). They believed through the proclamation. Paul puts that calling under the purpose God chose them for. So the belief comes after the choosing, as part of carrying it out.
+Paul's next sentence reads, "For this purpose he called you through our proclamation of the good news, so that you may obtain the glory of our Lord Jesus Christ" (2 Thess 2:14). They believed through the proclamation. Paul puts that calling under the purpose God chose them for. So the belief belongs to carrying the choice out. The verse places it under the choice's purpose; it does not by itself date the two.
 
 The contrast just before the verse pairs unbelief with perishing (2:10–12) and belief with salvation (2:13). That pairs belief with being saved, which this paper grants. It does not by itself pair belief with being chosen.
 
