@@ -99,9 +99,9 @@ Particle physics sets a high bar for announcing a result. A new particle is anno
 
 The bar is high on purpose. Some real effects go unannounced until the data reach it. Physicists accept that, because a false announcement does more harm.
 
-The criteria hold conclusions to the same kind of bar. Reading a text is a judgment of its most likely meaning, as described above, so any one reading can be wrong. A conclusion built on such readings is therefore probable, not certain. So it needs a bar for when to call it established. A conclusion is reported as established only when it survives all four stages. A conclusion that is better supported than its rivals, and no more, is reported as better supported. The criteria assign no number. The comparison is to where the bar is set, not to how it is measured.
+The criteria hold conclusions to the same kind of bar. Reading a text is a judgment of its most likely meaning, as described above, so any one reading can be wrong. A conclusion built on such readings is therefore probable, not certain. So it needs a bar for when to call it established. Each review ends with the standing of each thesis: Established, Supported, Not shown, or Refuted. Established is the counterpart of discovery. The argument is valid, its necessary premises hold, and no coherent reading of the relevant texts explains them while the thesis is false. Supported is the counterpart of evidence. The thesis is better supported than its strongest rival, and the rival is not excluded. The criteria assign no number. The comparison is to where the bar is set, not to how it is measured.
 
-So a conclusion that falls short of the bar is not shown false. It is only not shown. Readers on every side will find that something they believe falls short. That is a result of the bar, not a verdict on the belief.
+So a conclusion that falls short of Established is not thereby false. Only Refuted means false. Readers on every side will find that something they believe falls short. That is a result of the bar, not a verdict on the belief.
 
 ## Usage
 
@@ -119,6 +119,8 @@ Then use this prompt unchanged:
 > Evaluate the attached paper under the attached criteria. The agreed corpus is stated in the attached corpus.md. If the paper imports conclusions from other papers, those papers are also attached; test the paper's use of them, not the imports themselves. Report each stage separately. End by stating the paper's version and the criteria version.
 
 The prompt names the files and nothing else. It does not ask the model to find flaws or to confirm the argument; how hard to push is set by the criteria. Using the same prompt makes reviews comparable, so differences between reviews come from the models and not from the wording.
+
+A review of a paper that imports others gives a standing that holds only if the imports hold, such as "Established, given its imports." Each import gets its own standing in its own review. The paper then stands no higher than its weakest import. For example, if calvinism.md is Established given its imports, and one of those imports is only Supported, then calvinism.md is Supported.
 
 Record the model, its version, and the date yourself. A model's report about itself is unreliable: in trials, one model gave a date two years in the past, and another said its own version was not visible to it.
 
