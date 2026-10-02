@@ -1,6 +1,6 @@
 # Beyond the Four Points
 
-*Version 4.*
+*Version 5.*
 
 *Scripture references are to the New Revised Standard Version (1989). Scripture is cited by reference and paraphrased, not quoted.*
 
@@ -20,11 +20,12 @@ There are two reasons, and most items have both.
 
 **Priority.** calvinism.md establishes four outcome claims: who can come, whom God chooses, who believes, and who is kept. An item that those claims do not need waits its turn. Some items are bracketed on purpose. calvinism.md does not argue how the condition from Adam passes to each person, or how grace acts on the will.
 
-**Difficulty of proof under the criteria.** Each item is given one of three grades.
+**Difficulty of proof under the criteria.** Each item is given one of three grades, or a fourth when the claim itself is unclear.
 
 - **Within reach.** The item follows from the conclusions of calvinism.md with one further step, and a text states that step directly. Example: calvinism.md shows that God's decision to regenerate secures faith, justification, and keeping. 2 Thessalonians 2:13 joins God's choosing to sanctification, which carries the decision to sanctification as well.
 - **Open.** A route exists, but one load-bearing premise has no text that states it, or a rival reading has warrant that the argument would have to exclude. Example: Romans 5:18 says that one man's trespass led to condemnation for all. Whether that is guilt imputed directly or condemnation through an inherited condition is a question the verse does not settle.
 - **Doubtful.** The item needs a premise that Scripture does not appear to state at all. Usually it is a definition, a mechanism, or an arrangement the text does not declare. Under the evidential rule, such a premise is unavailable until someone shows a text that supplies it. Example: Genesis 2 shows features of a covenant, but no text names the arrangement in Eden a covenant, unless Hosea 6:7 refers to Adam the man. The NRSV reads it as a place.
+- **Ambiguous.** The confessional wording can be read as more than one claim, and the readings differ on the point in dispute. Until the claim is fixed, there is nothing to grade.
 
 A grade is a judgment about the difficulty of a proof. It is not a finding that the proof fails.
 
@@ -53,7 +54,7 @@ A grade is a judgment about the difficulty of a proof. It is not a finding that 
 | P4 | The sacraments are among the means of grace | Dort V.14; WCF 14.1 | Open | Belongs to ecclesiology |
 | B1 | God made a covenant of works with Adam | WCF 7.2 | Doubtful | Not needed for the outcome claims |
 | B2 | Elect infants who die in infancy are regenerated and saved | WCF 10.3; Dort I.17 | Within reach (WCF); Doubtful (Dort) | Priority |
-| B3 | Christ's death redeems the elect only, and is certainly applied to all it redeems | Dort II.8; WCF 8.5, 8.8 | Doubtful | Taken up in atonement.md |
+| B3 | Christ's death redeems the elect only, and is certainly applied to all it redeems | Dort II.8; WCF 8.5, 8.8 | Ambiguous | Taken up in atonement.md |
 | B4 | God has ordained whatever comes to pass, without being the author of sin | WCF 3.1 | Open | Not needed for the outcome claims |
 
 ## Total depravity
@@ -116,7 +117,7 @@ calvinism.md shows the following. No one who is justified finally falls away. It
 
 **B2. Infants** (WCF 10.3; Dort I.17). *Within reach for the Confession; Doubtful for the Canons.* The Confession's claim is conditional: if an infant is elect and dies in infancy, it is regenerated and saved. Election is to salvation, so an elect infant is saved. No one sees the kingdom of God without being born from above (John 3:3), so a saved infant is regenerated. The Canons claim more: believing parents should not doubt the election of their children who die in infancy. That picks out the elect by a mark, being the child of a believer. Abraham was a believing parent. Both of his sons received the covenant sign (Gen 17:23–26), but God established his covenant with Isaac and not with Ishmael (17:19–21). Paul draws the rule from that case: not all of Abraham's children are his descendants (Rom 9:7–8). 1 Corinthians 7:14 calls the children of a believer holy, but it says the same of an unbelieving spouse, whose salvation 7:16 leaves uncertain.
 
-**B3. Particular redemption** (Dort II.8; WCF 8.5, 8.8). *Doubtful as stated.* The argument needs two premises that no text states: that every atonement made is an atonement applied, and that the death of Christ has one purpose. [atonement.md](https://github.com/stablecross/computer-assisted-theology/blob/main/calvinism/atonement.md) takes up the question.
+**B3. Limited atonement** (Dort II.8; WCF 8.5, 8.8). *Ambiguous.* The wording on the extent of the atonement, for whom Christ died, was drafted by members who held two incompatible views. One view was that Christ died only for the elect. The other was that Christ died for everyone, and that only the elect are saved. Members holding each view approved the same wording, so it stands for both positions and can be read either way. [atonement.md](https://github.com/stablecross/computer-assisted-theology/blob/main/calvinism/atonement.md) takes up the question.
 
 **B4. The universal decree** (WCF 3.1). *Open.* Texts say God works all things according to his counsel (Eph 1:11) and assign one event both to God's purpose and to men who acted willingly and wickedly (Gen 50:20; Acts 4:27–28). Texts also say God tempts no one (Jas 1:13). The Confession's clauses on the author of sin and the will of creatures can be read as outcomes of this kind, which need no theory of how. The open steps are how far "all things" reaches in Ephesians 1:11, and Jeremiah 32:35, where a particular abomination never entered God's mind.
 
