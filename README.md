@@ -55,6 +55,14 @@ This is not an attempt to train an AI model to a theological system. Any model c
 
 ## How the papers are tested
 
+### How a paper is laid out
+
+A paper that argues from the text opens with front matter: its claims, its terms, its imports, and what it does not argue. The front matter also says what an objection has to do. For each claim, it states what an objector would have to show to defeat it.
+
+That section comes before the argument on purpose. It is the test written before the code. The conditions for failure are fixed before the argument runs, so they cannot be shaped afterward to fit what the argument managed to show. The criteria work the same way: the burden of proof is set first, and the evidence is weighed after.
+
+So the section names texts and steps the reader has not reached yet. On a first reading, skip it and come back to it after the argument. Near the end of the paper, "What is inferred, and where to attack" ties the same conditions to the steps they apply to.
+
 ### The corpus
 
 [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md) states the premises: the sixty-six books of the Protestant canon, the text quoted, and the method assumptions. A reviewer who does not accept the corpus says so, and may go on only with a conditional review: *given this corpus, the argument establishes X.*
