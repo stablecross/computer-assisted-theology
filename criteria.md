@@ -1,6 +1,6 @@
 # Four-Stage Evaluation Criteria
 
-*Version 11.*
+*Version 12.*
 
 Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis. A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
 
@@ -237,6 +237,10 @@ End the review with the standing of each thesis the document claims. The standin
 **A thesis stands no higher than the imports it needs.** Where it has independent routes, the strongest route decides. A review that does not re-evaluate an import states the standing as conditional on it: *Established, given its imports.*
 
 **Name the limiting step.** For any standing below Established, name the step, premise, import, or countermodel that keeps the thesis from the next standing up. A standing without a named limiting step is not a finding.
+
+**Comparative theses.** Some theses say that one reading is better supported than another. A rival that survives at higher cost does not make such a thesis false. Only a reading on which the rival does as well or better does. So a comparative thesis is Established when the datum ledger shows the advantage and no admissible reading equalizes or reverses it. It is Not shown when an admissible reading equalizes the comparison, and Refuted when one reverses it.
+
+**Name the deciding data.** A comparative finding, whether a comparative thesis or a Supported standing, must name the data on which the comparison turns and say which way each one cuts. A margin stated without its deciding data is not a finding.
 
 **Grade the thesis as written and the narrowest thesis.** Where the pre-analysis found the stated thesis wider than the proof, give the standing of each.
 
