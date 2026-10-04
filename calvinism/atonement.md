@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 4.*
+*Version 5.*
 
 *Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
 
@@ -293,6 +293,8 @@ This is not a faith peculiar to Paul. In the same passage he names the faith by 
 
 The giving came before the believing. Both participles are aorist: he loved, he gave. Christ gave himself for Paul at the cross, before Paul believed. Paul's faith received that giving. It did not bring it about.
 
+The claim is about what the faith receives. It is not a claim about how fully a new believer can put that into words.
+
 Jesus gives the figure for it. "Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life" (John 3:14–15). The serpent was set up for the bitten: "everyone who is bitten shall look at it and live" (Num 21:8). The bitten man looked at what had been set up for him.
 
 **14. God does not send a false message.**
@@ -377,7 +379,9 @@ Christ is the atoning sacrifice for the sins of the whole world, where "the whol
 
 Route A reaches those living after the commission. Route B's texts speak in the present: Christ "is" the atoning sacrifice for the whole world (1 John 2:2). Three things carry the extent back past the cross.
 
-First, the death's reach is not bounded by its date. "A death has occurred that redeems them from the transgressions under the first covenant" (Heb 9:15). The blood of bulls and goats never took away sins (10:4), and "without the shedding of blood there is no forgiveness of sins" (9:22). There is "no other name under heaven given among mortals by which we must be saved" (Acts 4:12). So whatever forgiveness anyone received before the cross came through Christ's death.
+First, the death's reach is not bounded by its date. Christ is the mediator of a new covenant, "so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant" (Heb 9:15). The blood of bulls and goats never took away sins (10:4), and "without the shedding of blood there is no forgiveness of sins" (9:22). There is "no other name under heaven given among mortals by which we must be saved" (Acts 4:12). So whatever forgiveness anyone received before the cross came through Christ's death.
+
+Paul says more, and without restricting it to the called. God put Christ forward as a sacrifice of atonement "to show his righteousness, because in his divine forbearance he had passed over the sins previously committed" (Rom 3:25). The Greek is τῶν προγεγονότων ἁμαρτημάτων, "the sins committed before." Two verses earlier Paul has said, "all have sinned and fall short of the glory of God" (3:23). So the sacrifice bears on the sins committed before the cross, and Paul names no subset of them.
 
 Second, Paul sets the extent of Christ's act against the extent of Adam's: "just as one man's trespass led to condemnation for all, so one man's act of righteousness leads to justification and life for all" (Rom 5:18). The first "all" includes everyone who has ever lived. The second is the same word, in the same sentence, in a parallel Paul builds to compare the two men. In the same chapter the act is the death: "Christ died for the ungodly" (5:6), and we are "justified by his blood" (5:9).
 
@@ -809,7 +813,7 @@ It is also true of those Christ did not die for. Every knee bends to him, "in he
 
 Saving faith confesses Christ as Lord. It also receives him as the one who gave himself for the believer (step 13). Lordship is part of what faith confesses. It is not an answer to what the unbeliever is told about Christ's death for his sins.
 
-A defender can press Romans 10:9 further: there the content of saving faith is "Jesus is Lord" and "God raised him from the dead," with no "for me." The hearer can then ask the question of step 54: why will believing that he was raised save me? Paul answers it: Jesus "was handed over to death for our trespasses and was raised for our justification" (Rom 4:25). The resurrection saves because of the death it follows, and the death is "for our trespasses." So Romans 10:9 does not supply a content that leaves out what the death has done about the hearer's sins. It assumes it.
+A defender can press Romans 10:9 further: there the content of saving faith is "Jesus is Lord" and "God raised him from the dead," with no "for me." The hearer can then ask the question of step 54: why will believing that he was raised save me? Paul answers it. Righteousness "will be reckoned to us who believe in him who raised Jesus our Lord from the dead, who was handed over to death for our trespasses and was raised for our justification" (Rom 4:24–25). The "us" is those who believe. What they believe includes the death "for our trespasses." The resurrection saves because of the death it follows, and the death is "for our trespasses." So Romans 10:9 does not supply a content that leaves out what the death has done about the hearer's sins. It assumes it.
 
 **56. The question that ends the round.**
 
@@ -823,7 +827,7 @@ If he says no, then what he commands the hearer to believe does not tell the hea
 
 **57. The apostles said it.**
 
-Paul said to an assembly at Pisidian Antioch, "through this man forgiveness of sins is proclaimed to you" (Acts 13:38). Some of those hearers rejected it (13:46). Paul proclaimed at Corinth, before any believed, "that Christ died for our sins" (1 Cor 15:3).
+Paul said to an assembly at Pisidian Antioch, "through this man forgiveness of sins is proclaimed to you" (Acts 13:38). Some of those hearers rejected it (13:46). Paul proclaimed at Corinth, before any believed, "that Christ died for our sins" (1 Cor 15:3). And he names the order: "so we proclaim and so you have come to believe" (15:11).
 
 So the proclamation the apostles made tells each hearer something about what Christ's death does about his sins. Limited atonement has no proposition of that kind to give every hearer. The apostles' gospel is in the indicative: Christ died for our sins. Limited atonement puts it in the conditional: if you believe, you will be forgiven. That is the proclamation claim.
 
@@ -895,7 +899,7 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 18** — the force of μάλιστα at 1 Timothy 4:10. Corroboration, since the verse names God as Savior rather than Christ's death, and the sense of "Savior" there is contested.
 
-**Step 21** — that the extent reaches those who died before the cross. Hebrews 9:15 is direct that the death reaches back to transgressions under the first covenant. The load-bearing reading is Romans 5:18's second "all": the same word, in the same sentence, in a parallel Paul builds. That it names everyone the act was for, and not only those who receive life, rests on 5:17 and on the absence of a marker like 1 Corinthians 15:23's "those who belong to Christ." Hebrews 4:2 and Galatians 3:8 are corroboration.
+**Step 21** — that the extent reaches those who died before the cross. Hebrews 9:15 is direct that the death reaches back to transgressions under the first covenant. The load-bearing reading is Romans 5:18's second "all": the same word, in the same sentence, in a parallel Paul builds. That it names everyone the act was for, and not only those who receive life, rests on 5:17 and on the absence of a marker like 1 Corinthians 15:23's "those who belong to Christ." Romans 3:25 carries the reach back to "the sins previously committed" without restricting them to the called. Hebrews 4:2 and Galatians 3:8 are corroboration.
 
 **Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction, and it is warranted by 2 Corinthians 5:19–20 and Romans 5:10–11, which are direct, with Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 as support.
 
