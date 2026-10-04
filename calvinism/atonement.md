@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 3.*
+*Version 4.*
 
 *Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
 
@@ -24,7 +24,7 @@ Most of these premises rest on one of two assumptions about Christ's death. The 
 
 Either assumption yields the conclusion that whoever Christ died for is saved, and so that he died only for those who are saved. That conclusion is what turns "Christ died for the sheep" into "Christ died for the sheep only."
 
-*The proclamation claim.* On limited atonement, the evangelist cannot tell an unbeliever anything true that saving faith could receive about what Christ's death does about that unbeliever's own sins. The apostles' gospel tells him such a thing.
+*The proclamation claim.* On limited atonement, the evangelist cannot tell an unbeliever anything true about what Christ's death has done about that unbeliever's own sins, which he can know before he believes and which saving faith could receive. The apostles' gospel tells him such a thing.
 
 **Terms, used one way throughout.**
 
@@ -99,7 +99,7 @@ Against the extent claim: break both routes of part three. Each route can be att
 
 Against the bridge claim: produce, from a text, a premise of either kind of step 3, stated as a rule. A premise drawn from a passage about "us" or "the sheep" and widened to a rule needs warrant for the widening.
 
-Against the proclamation claim: state a proposition about what Christ's death does about the hearer's own sins that is true, on limited atonement, of every hearer of the gospel, and that saving faith receives.
+Against the proclamation claim: state a proposition about what Christ's death has done about the hearer's own sins that is true, on limited atonement, of every hearer of the gospel, that he can know before he believes, and that saving faith receives.
 
 Showing that the promise "whoever trusts Christ will be forgiven through his death" is true on limited atonement, or that the hearer can know it from God's testimony, does not meet this. The paper grants both (step 54). The objection has to name what limited atonement can tell the hearer about what Christ's death does about his sins, knowable before he believes, that is neither "Christ died for you" nor "you will turn out to be elect."
 
@@ -319,7 +319,7 @@ Step 12, in the first line. A defender of limited atonement will say that what i
 
 Step 13, in the second line. A defender will say that "for me" is the believer's assurance. On this reply, it is what a man concludes about himself after he believes, and not what he is commanded to believe. But the giving in Galatians 2:20 is past, and it took place before Paul believed. And if the first act of faith cannot include "for me," its content has to be something else.
 
-Both replies leave one question open: what the unbeliever is commanded to believe about Christ's death. Part five takes up that question and every answer the defender can give it.
+Both replies leave one question open: what the unbeliever is commanded to believe about Christ's death. A reply that leaves "believe" without content does not defeat either line. Part five takes up that question and every answer the defender can give it.
 
 ### Route B: the texts that name the extent
 
@@ -339,7 +339,7 @@ Second, by his own use of the same phrase in the same letter. "We know that we a
 
 A reading that makes "the whole world" at 2:2 mean the elect scattered through the world has to give the phrase a sense at 2:2 that it does not have at 5:19, in the same letter, in the same contrast with "we." That is a partition of a repeated expression, and the criteria place the burden of marking it on the one who proposes it.
 
-The same letter agrees: "The Father has sent his Son as the Savior of the world" (1 John 4:14). And in the Gospel, which is joined to the letter here as canonical synthesis, the prayer most often cited for limited atonement makes the world precisely not the given: "I am not asking on behalf of the world, but on behalf of those whom you gave me" (John 17:9). So John's "world" cannot mean "the given" without contradicting the verse its defenders rely on.
+The same letter agrees: "The Father has sent his Son as the Savior of the world" (1 John 4:14). And in the Gospel, which is joined to the letter here as canonical synthesis, the prayer most often cited for limited atonement sets the world against the given: "I am not asking on behalf of the world, but on behalf of those whom you gave me" (John 17:9). The given were taken "from the world" (17:6), but in that prayer "world" does not name them. So the verse its defenders rely on does not make "world" a name for the given.
 
 **17. Paul's "all" in 1 Timothy 2 is one domain through one paragraph.**
 
@@ -375,15 +375,19 @@ Christ is the atoning sacrifice for the sins of the whole world, where "the whol
 
 **21. The extent reaches those who died before the cross.**
 
-Route A reaches those living after the commission. Route B's texts speak in the present: Christ "is" the atoning sacrifice for the whole world (1 John 2:2). Two things carry the extent back past the cross.
+Route A reaches those living after the commission. Route B's texts speak in the present: Christ "is" the atoning sacrifice for the whole world (1 John 2:2). Three things carry the extent back past the cross.
 
 First, the death's reach is not bounded by its date. "A death has occurred that redeems them from the transgressions under the first covenant" (Heb 9:15). The blood of bulls and goats never took away sins (10:4), and "without the shedding of blood there is no forgiveness of sins" (9:22). There is "no other name under heaven given among mortals by which we must be saved" (Acts 4:12). So whatever forgiveness anyone received before the cross came through Christ's death.
 
-Second, Paul sets the extent of Christ's act against the extent of Adam's: "just as one man's trespass led to condemnation for all, so one man's act of righteousness leads to justification and life for all" (Rom 5:18). The first "all" includes everyone who has ever lived. The second is the same word, in the same sentence, in a parallel Paul builds to compare the two men. In the same chapter the act is the death: "Christ died for the ungodly" (5:6), and we are "justified by his blood" (5:9). A reading that narrows the second "all" has to partition the word within one sentence.
+Second, Paul sets the extent of Christ's act against the extent of Adam's: "just as one man's trespass led to condemnation for all, so one man's act of righteousness leads to justification and life for all" (Rom 5:18). The first "all" includes everyone who has ever lived. The second is the same word, in the same sentence, in a parallel Paul builds to compare the two men. In the same chapter the act is the death: "Christ died for the ungodly" (5:6), and we are "justified by his blood" (5:9).
+
+Paul can narrow a paired "all," and when he does, he marks it. "For as all die in Adam, so all will be made alive in Christ. But each in his own order: Christ the first fruits, then at his coming those who belong to Christ" (1 Cor 15:22–23). There the phrase "those who belong to Christ" marks the narrower group. Romans 5:18 has no such phrase. Its nearest limit, "those who receive the abundance of grace" (5:17), names who receive life. It does not name who the act was for.
 
 The parallel gives the extent of the act, not universal salvation. Paul says who comes to life by it: "those who receive the abundance of grace and the free gift of righteousness" (5:17).
 
-*The weak joint.* Romans 5:18's second "all." Its parallel with the first is direct. That it names everyone the act was for, and not only those who come to life by it, rests on 5:17's "those who receive."
+Third, the good news was proclaimed before the cross to men who perished. "For indeed the good news came to us just as to them; but the message they heard did not benefit them" (Heb 4:2). "Them" is the generation "whose bodies fell in the wilderness" (3:17). And Scripture "declared the gospel beforehand to Abraham" (Gal 3:8). The good news the wilderness generation heard was the promise of rest (4:1), and Hebrews calls it the same good news. This is corroboration: it shows that the reasoning of Route A, a message from God to men who then perish, is not confined to hearers after the cross.
+
+*The weak joint.* Romans 5:18's second "all." Its parallel with the first is direct. That it names everyone the act was for, and not only those who come to life by it, rests on two things: 5:17's "those who receive" names receivers, and the passage has no marker like 1 Corinthians 15:23's "those who belong to Christ."
 
 ### What survives if a route falls
 
@@ -437,7 +441,13 @@ So Scripture distinguishes Christ's death for a man from that man's being reconc
 
 *The answer.* Scripture distinguishes God's not counting trespasses from a man's being reconciled (2 Cor 5:19–20). It puts the receiving of reconciliation after the death (Rom 5:10–11). It makes the sacrifice received through faith (Rom 3:25). And it names unbelief as the ground of the condemnation: "those who do not believe are condemned already, because they have not believed in the name of the only Son of God" (John 3:18). So the question "why does unbelief hinder?" has a textual answer. Unbelief is the refusal of the reconciliation God appeals for, and the one who refuses is not reconciled. Owen's argument needs a text saying that Christ's death for a man discharges his liability apart from his receiving it, and it gives none.
 
-*Result.* Failure of the offered proof. The three options are exhaustive. What gives the trilemma its force is the bridge premise.
+Owen's three options are not exhaustive.
+
+Each option treats all men alike. In the first, every man has all his sins covered. In the second, the elect have all their sins covered and the rest have none. In the third, every man has some sins covered and some left over.
+
+The options leave out a mixed case: Christ died for every sin except final unbelief, meaning unbelief a man keeps until he dies. The elect do not die in unbelief, so on the mixed case every sin of theirs is covered. Those who die in unbelief have that one sin left to answer for. The mixed case is not the third option, because the elect have no sin left over. So Owen's reason for rejecting the third option does not apply to the mixed case.
+
+*Result.* Failure of the offered proof. Owen's three options are not exhaustive, and what gives the trilemma its force is the bridge premise.
 
 **23. Double payment.**
 
@@ -445,9 +455,17 @@ So Scripture distinguishes Christ's death for a man from that man's being reconc
 
 *What it needs.* Owen's premise again, stated as a rule of justice: what Christ's death paid can never afterward be exacted from the one it was paid for, whether or not he receives it. That is a rule of commercial debt. The argument needs Christ's death to be a payment of that kind, credited to each man's account whether or not he receives it.
 
-*The answer.* This paper does not take up how Christ's death accomplishes what it accomplishes. Taken on its own terms, the argument needs a text that says the death is a payment of that kind. It cites none. The text this paper reads describes God's act toward the world in other words: "not counting their trespasses against them," followed by the appeal, "be reconciled to God" (2 Cor 5:19–20).
+*The answer.* Scripture does speak of Christ's death in commercial terms. He "bought" men (1 Cor 6:20; 2 Pet 2:1). He gave his life "a ransom" (Mark 10:45; 1 Tim 2:6). Believers were "ransomed... not with perishable things like silver or gold, but with the precious blood of Christ" (1 Pet 1:18–19). And God forgave "us all our trespasses, erasing the record that stood against us with its legal demands. He set this aside, nailing it to the cross" (Col 2:13–14).
 
-And where Jesus uses the language of debt, a released debt is later exacted (Matt 18:27, 34). God says "I do forgive" of men he then excludes from the land (Num 14:20–23). That shows Scripture's own language of debt and forgiveness does not run by the commercial rule. It does not show what Christ's death is, and this paper does not need it to.
+So the question is not whether Scripture uses the language of payment. It is whether that language runs by Owen's rule: paid for, therefore never exacted.
+
+It does not. Peter says the Master bought men who bring swift destruction on themselves (2 Pet 2:1; part two). Paul says Christ gave himself a ransom for all (1 Tim 2:6), and not all are set free. In Scripture's own commercial language, men are bought and still perish.
+
+The strongest text for the rule is Colossians 2:14, where the record of debt is erased at the cross. Paul says it of those God "made alive together with him" (2:13). It states what was done for them. It does not state that the record is erased for everyone Christ died for.
+
+Jesus' language of debt runs the same way. A released debt is later exacted (Matt 18:27, 34). God says "I do forgive" of men he then excludes from the land (Num 14:20–23).
+
+Reformed theology has drawn the same line. Charles Hodge separated a debt of money from a penalty. Of a debt: "The moment the debt is paid the debtor is free, and that completely." Of a penalty borne by a substitute: "the terms on which the benefits of his substitution shall accrue to the principal, are matters of agreement, or covenant between the substitute and the magistrate" (*Systematic Theology*, vol. 2, pt. 3, ch. 6, §3). Hodge places Christ's satisfaction in the second kind. Hodge is cited as background. He is not a premise.
 
 *Result.* Failure of the offered proof. This is Owen's bridge premise in a different form, not an independent argument.
 
@@ -495,7 +513,7 @@ Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed 
 
 *What it needs.* That Christ's being the atoning sacrifice for a man's sins entails that God's wrath is removed from that man, whether or not he receives reconciliation.
 
-*The answer.* John says Christ is "the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world" (1 John 2:2). John also says "whoever disobeys the Son will not see life, but must endure God's wrath" (John 3:36). Both are John's. So in John's own writings the sacrifice is for the whole world and wrath remains on the one who disobeys. The argument needs to make one of John's statements false.
+*The answer.* John says Christ is "the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world" (1 John 2:2). John also says "whoever disobeys the Son will not see life, but must endure God's wrath" (John 3:36). Both are John's. So in John's own writings the sacrifice is for the whole world and wrath remains on the one who disobeys. Paul joins the propitiation to faith in one phrase: God put Christ forward as a sacrifice of atonement "through faith" (διὰ πίστεως, Rom 3:25). The argument needs to make one of John's statements false.
 
 *Result.* Failure of the offered proof.
 
@@ -525,7 +543,7 @@ Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed 
 
 *What it needs.* That if Christ died for a man, God's intention in that death toward that man was his salvation. This paper grants that God's intentions succeed. What the argument needs is that the intention toward every man Christ died for was to save him.
 
-*The answer.* Scripture gives the cross different ends toward different men. It is "a fragrance from death to death" to some and "a fragrance from life to life" to others (2 Cor 2:15–16). "This is the judgment, that the light has come into the world, and people loved darkness rather than light" (John 3:19). The blood of the covenant is the ground of a worse punishment for the one who profanes it (Heb 10:29). And Peter says Christ bought men whose end is "swift destruction" (2 Pet 2:1; part two). On that account every intention of God in the death succeeds: those brought to faith are saved through it, and those who refuse it are judged by their relation to it. The argument needs a text saying that God's intention in Christ's death toward every man it was for is that man's salvation.
+*The answer.* Scripture gives the cross different ends toward different men. It is "a fragrance from death to death" to some and "a fragrance from life to life" to others (2 Cor 2:15–16). The Son was sent "not to condemn the world, but in order that the world might be saved through him," and in the next verse "those who do not believe are condemned already" (John 3:17–18). There a saving purpose toward the world and a divided outcome stand in one breath. So a divided outcome does not prove that the death was for the saved alone. "This is the judgment, that the light has come into the world, and people loved darkness rather than light" (John 3:19). The blood of the covenant is the ground of a worse punishment for the one who profanes it (Heb 10:29). And Peter says Christ bought men whose end is "swift destruction" (2 Pet 2:1; part two). On that account every intention of God in the death succeeds: those brought to faith are saved through it, and those who refuse it are judged by their relation to it. The argument needs a text saying that God's intention in Christ's death toward every man it was for is that man's salvation.
 
 *Result.* Failure of the offered proof.
 
@@ -703,7 +721,7 @@ Step 46 is an argument for limited atonement: it reads an exclusion out of the w
 
 *What it needs.* That "many" in these texts marks a part set against the rest.
 
-*The answer.* Paul uses "the many" for all in the same breath. "Sin came into the world through one man, and death came through sin, and so death spread to all because all have sinned" (Rom 5:12). Then: "if the many died through the one man's trespass" (5:15). The many who died are the all to whom death spread. In this usage "many" sets the multitude against the one, not a part against the rest. This is same-author usage applied to texts by other writers, and it is offered as such. It shows that "many" does not mark a subset by its meaning. The argument needs a marker in each text that it does.
+*The answer.* Paul uses "the many" for all in the same passage. "One man's trespass led to condemnation for all... by the one man's disobedience the many were made sinners" (Rom 5:18–19). The many made sinners are the all brought under condemnation, and no one stands outside that class: "all have sinned and fall short of the glory of God" (3:23). In this usage "many" sets the multitude against the one, not a part against the rest. This is same-author usage applied to texts by other writers, and it is offered as such. It shows that "many" does not mark a subset by its meaning. The argument needs a marker in each text that it does.
 
 *Result.* Failure of the offered proof.
 
@@ -791,6 +809,8 @@ It is also true of those Christ did not die for. Every knee bends to him, "in he
 
 Saving faith confesses Christ as Lord. It also receives him as the one who gave himself for the believer (step 13). Lordship is part of what faith confesses. It is not an answer to what the unbeliever is told about Christ's death for his sins.
 
+A defender can press Romans 10:9 further: there the content of saving faith is "Jesus is Lord" and "God raised him from the dead," with no "for me." The hearer can then ask the question of step 54: why will believing that he was raised save me? Paul answers it: Jesus "was handed over to death for our trespasses and was raised for our justification" (Rom 4:25). The resurrection saves because of the death it follows, and the death is "for our trespasses." So Romans 10:9 does not supply a content that leaves out what the death has done about the hearer's sins. It assumes it.
+
 **56. The question that ends the round.**
 
 Each candidate either names other people, says nothing about the hearer's sins, rests on the hearer's own election, or brings back "for you" in other words. The round can be ended by a question with a yes-or-no answer:
@@ -875,13 +895,13 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 18** — the force of μάλιστα at 1 Timothy 4:10. Corroboration, since the verse names God as Savior rather than Christ's death, and the sense of "Savior" there is contested.
 
-**Step 21** — that the extent reaches those who died before the cross. Hebrews 9:15 is direct that the death reaches back to transgressions under the first covenant. The load-bearing reading is Romans 5:18's second "all": the same word, in the same sentence, in a parallel Paul builds. That it names everyone the act was for, and not only those who receive life, rests on 5:17.
+**Step 21** — that the extent reaches those who died before the cross. Hebrews 9:15 is direct that the death reaches back to transgressions under the first covenant. The load-bearing reading is Romans 5:18's second "all": the same word, in the same sentence, in a parallel Paul builds. That it names everyone the act was for, and not only those who receive life, rests on 5:17 and on the absence of a marker like 1 Corinthians 15:23's "those who belong to Christ." Hebrews 4:2 and Galatians 3:8 are corroboration.
 
 **Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction, and it is warranted by 2 Corinthians 5:19–20 and Romans 5:10–11, which are direct, with Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 as support.
 
 **Step 38** — Romans 8:32. The paper's reading takes Paul's ground from 8:31 and 8:28–30. The comparison with 2 Peter 2:1 is where the weights are closest.
 
-**Step 46** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:12–15 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text.
+**Step 46** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:18–19 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text.
 
 ---
 
@@ -895,4 +915,4 @@ The Confession also says, "Neither are any other redeemed by Christ, effectually
 
 The Canons of Dort say Christ's death is "abundantly sufficient to expiate the sins of the whole world" (II.3). They say that when many perish in unbelief, "this is not owing to any defect or insufficiency in the sacrifice offered by Christ upon the cross, but is wholly to be imputed to themselves" (II.6). And they say it was God's will that Christ "should effectually redeem out of every people, tribe, nation, and language, all those, and those only, who were from eternity chosen to salvation" (II.8). The *only* of II.8 attaches to *effectually redeem*. On this paper's account, that is true. Only the elect are effectually redeemed.
 
-Both assemblies included men who held that Christ died for all while holding particular election. At Dort, John Davenant and Samuel Ward of the British delegation held it, and both signed the Canons (Michael J. Lynch, *John Davenant's Hypothetical Universalism*, 2021). At Westminster, Edmund Calamy, Lazarus Seaman, Richard Vines, and Stephen Marshall held it (Lee Gatiss, "A Deceptive Clarity? Particular Redemption in the Westminster Standards," *Reformed Theological Review* 69, 2010), and roughly one-third of the recorded speeches in the debate favored Calamy's position (Letham, pp. 181–82). The Confession passed with them in the Assembly.
+Both assemblies included men who held that Christ died for all while holding particular election. At Dort, John Davenant and Samuel Ward of the British delegation held it, and both signed the Canons (M. W. Dewar, "The British Delegation at the Synod of Dort," *Churchman* 106, no. 2, 1992, including its list of the British signatories). At Westminster, Edmund Calamy, Lazarus Seaman, Richard Vines, and Stephen Marshall held it (Lee Gatiss, "A Deceptive Clarity? Particular Redemption in the Westminster Standards," *Reformed Theological Review* 69, 2010), and roughly one-third of the recorded speeches in the debate favored Calamy's position (Letham, pp. 181–82). The Confession passed with them in the Assembly.
