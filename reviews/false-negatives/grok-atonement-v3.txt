@@ -1,0 +1,271 @@
+Public link to review: https://grok.com/share/bGVnYWN5_68930a9c-2f9b-413c-95c6-6aca789d507c
+
+The review is conditional on the agreed corpus in the attached corpus file: the sixty-six books of the Protestant canon, NRSV 1989 quotations, later texts usable to read earlier ones when marked as canonical synthesis, and the evidential rule. Those method assumptions are the ones the corpus file records. The imports are not re-tried. What is tested is whether this paper uses them as it says it does.
+
+Paper under review: Christ Died for Everyone, version 3. Criteria: Four-Stage Evaluation Criteria, version 12.
+
+## Pre-analysis
+
+The opening question says the paper argues that Christ died “for each and every human being,” against “only for the elect.” The claim block then states four theses, and they are not the same width.
+
+The exclusion claim: the proposition “Christ died only for the elect” is false. Some for whom Christ died perish.
+
+The extent claim: Christ died for every human being.
+
+The bridge claim: every argument for limited atonement taken up here needs either an exclusion premise (“for the S” read as “for the S and no others”) or a bridge premise (whoever Christ died for is saved). Scripture states neither, and no argument taken up supplies either from a text.
+
+The proclamation claim, as sentence: on limited atonement, the evangelist cannot tell an unbeliever anything true that saving faith could receive about what Christ’s death does about that unbeliever’s own sins. The apostles’ gospel tells him such a thing.
+
+The elaborated proclamation claim, in the front matter and at steps 48 and 54, adds a third test the sentence does not contain: the proposition must be knowable before faith as a ground for believing, and it must not be “Christ died for you” under another name or “you will turn out to be elect.” Step 54 grants that “if you trust Christ for forgiveness, your own sins will be forgiven through his death” is true on limited atonement, concerns the hearer’s sins, and is what faith receives. That grant meets the sentence and fails only the added test. Widest statement and argument therefore diverge. Both are graded below.
+
+Premises, by conclusion:
+
+Exclusion rests on 2 Peter 2:1–3, the Jude 4 identification of the Master, and the identification of ἀγοράζω with the blood purchase. Hebrews 10:29 and John 11:51–52 are marked corroboration. The step from “they perish” to “they are not elect” is not an import from the other papers. It is the position under review’s own identification of the elect with those who are saved. The paper’s sentence that none of the imports is a premise of the exclusion claim holds.
+
+Extent has two routes that share no textual premise. Route A has two lines, proclamation (steps 12 and 14) and commanded faith (steps 11, 13, and 14). Route B reads 1 John 2:2 with 5:19, and 1 Timothy 2:1–6. Step 21 is a further extension to those who died before the cross, carried by Hebrews 9:15 and Romans 5:18. The survival clauses in the paper are accurate: either route is sufficient for a universal conclusion, and the class narrows only if Route B falls and Route A remains.
+
+Bridge is a claim about the arguments reconstructed in part four, not about every argument anyone has ever made. The scope sentence controls it.
+
+Proclamation’s positive half rests on Acts 13:38 and 1 Corinthians 15:1–3. Its negative half rests on the tests of part five. The paper is right that it does not rest on Route A.
+
+Non-load-bearing: steps 8, 9, 18, and 19; the historical notes on Dort and Westminster.
+
+Bracketed: mechanism of the atonement, why anyone is passed over, the order of the decrees, and how the will works.
+
+Conceded: limited atonement can command repentance and promise salvation to everyone who believes; “all” and “world” can be restricted in other texts; the Day of Atonement sacrifices never took away sins; δεσπότης can name the Father; an exodus acquisition that does not save is a real scriptural pattern.
+
+Imports, and the use made of them. From the Abrahamic-covenant paper: the promise-heir class is elected to salvation, and believers belong to it. From the heart paper: the response does not occur while the heart of stone remains, and where it occurs God’s act brought it about. From the heirs paper: every heir is brought to faith, and no one justified finally falls away. These are used at step 32, step 34, and the objections “why elect?”, “then faith decides,” and “then everyone is saved.” They are not used to prove exclusion or extent. That boundary is kept. Step 34’s answer falls if the imports fall. The textual half of step 32 does not. The heirs paper’s greater-to-lesser rule is applied at step 38 as a rule about grounds, not as a conclusion smuggled across.
+
+## Stage 1 — Formal logic
+
+Exegetical premises are stipulated here.
+
+Exclusion. If those men were bought by Christ by his death, and they perish, and perishers are not elect, then “died only for the elect” is false. That follows. The identities are stated premises, not hidden bridges. No countermodel grants them and keeps the conclusion false.
+
+Extent, Route A. Each line is valid if its content premise is granted: that what is proclaimed cannot be true of a man not died for, and that the faith commanded includes an already-true “gave himself for me.” Those are exegetical premises, so they are not Stage 1 defects. The two lines do not need each other. Scope is stated: every lawful hearer, and the commission excludes no class.
+
+Extent, Route B. If “the whole world” is everyone outside the believing company, and the ransom’s “all” is the same domain as the prayer for everyone, the universal conclusion follows. Step 21 is valid only if Romans 5:18’s second “all” names everyone the act was for rather than everyone who receives life. That is an exegetical premise. The paper’s use of 5:17 to block universal salvation is consistent with that premise and is not a modal shift.
+
+Bridge. “Christ died for the S” does not entail “Christ died for the S only.” An argument of that form is invalid without an exclusion premise or a bridge premise. That is valid for the arguments as reconstructed. Whether a reconstruction omits a premise the published argument actually uses is not a formal question.
+
+Proclamation. Relative to the three tests and the enumeration, the negative half follows. Exhaustiveness of the enumeration is a premise of that half. The positive half follows if Acts 13:38 and 1 Corinthians 15:3 assert, before reception, something about the hearer’s sins. No equivocation on “died for” appears inside a single inference; the one-sense policy is a stated term, examined where a conclusion turns on it.
+
+Imports. Where they appear, they answer a consequence objection. They are not transferred into the exclusion or extent proofs. No illicit property transfer.
+
+Stage 1 verdict: formally valid for all four claims. The proclamation claim is formally valid for the elaborated claim with the third test. The sentence without that test is wider than the argument, which is a scope gap recorded in the pre-analysis, not an invalid inference.
+
+## Stage 2 — Exegesis of the cited texts
+
+Exclusion, the load-bearing text. 2 Peter 2:1 states of the same men that the Master bought them and that they bring swift destruction on themselves. Finality is strongly supported in context: condemnation pronounced long ago (2:3), angels kept for judgment (2:4), cities condemned to extinction (2:6). Direct.
+
+The Master is Christ. Canonical synthesis with Jude 4, marked by the same verb, the same noun, and the parallel structure of the two letters. The rival has the noun’s range. It has no marker in the passage. Better supported than the Father reading. The paper is also right that the Father reading would not save a purchase-entails-salvation bridge. It would, however, remove this verse from the exclusion claim. The Christ reading is the one the parallel supports.
+
+“Bought” is the blood purchase. Canonical synthesis with Revelation 5:9 and 1 Corinthians 6:20 and 7:23. Peter does not name the price. This is the joint the paper marks, and it is the right one to press.
+
+The exodus rejoinder is the strongest available. Scripture does contain a divine acquisition that does not save: Exodus 15:16, and Jude 5. Deuteronomy 32:6 does not establish the allusion. The Septuagint verb there is κτάομαι, not ἀγοράζω, and the parallels are “made” and “established,” with birth language at 32:18. The marked parallel in 2 Peter 2:1 is false prophets then and false teachers now, not the purchase. Carried to church attenders, the reading has to say what purchase those attenders stand in. 2 Peter 3:1 identifies the readers with the first letter, and 1 Peter 1:18–19 names the price as Christ’s blood. That does not place the teachers inside the ransomed “you.” It identifies the purchase Peter has in view when he writes of buying. The application of the exodus pattern to this verb is not warranted by the pattern’s existence elsewhere. The profession reading and the two-sense reading have no marker. Continuity is the shared situation, Christ buying men, once step 6 is granted. On balance the blood-purchase premise should be accepted. It is inferential, and it is better supported than the rivals that need an unmarked sense.
+
+Hebrews 10:29 is corroboration, as marked. The subject of ἡγιάσθη is grammatically open. The paper’s reading, that the spurner was sanctified by the covenant blood, fits the clause’s place in the description of what he did. The Christ-as-subject reading is possible and unmarked. Not load-bearing. The shared reading with the heirs paper is a shared reading, not an imported conclusion.
+
+John 11:51–52 is corroboration. Caiaphas’s ἔθνος at 11:48 is the nation. John’s “not for the nation only” distinguishes that object from the gathering of the children. John 10:26 has already said some of those Jews are not sheep. The political sense is Caiaphas’s; the prophetic sense is John’s. Strong as corroboration, rightly not made the carrier.
+
+Route A, line 1. Acts 13:38–39 says forgiveness is proclaimed to a mixed audience, some of whom then reject it (13:46). Direct, as far as proclamation to them. The inference that the proclamation asserts “Christ died for each of you,” rather than announcing a forgiveness received by believing, is the weak joint the paper names. The next clause is “everyone who believes is set free.” The conditional reading is natural. Line 1 is plausible and contestable. It is not necessary if line 2 or Route B stands.
+
+Route A, line 2. Galatians 2:20 states Paul’s faith: the Son loved him and gave himself for him. The aorists put the giving before the believing. Direct for Paul. The extension has two steps: that this is the faith of 2:16, and that every commanded hearer is commanded to believe an already-true “for me.” The first is same-context and reasonable. The second is the weak joint. A post-faith assurance reading explains 2:20 without that extension. Numbers 21 and John 3:14–15 support priority of provision to looking. They do not fix the class at every human being. Line 2 is contestable. Route A as a whole is the route the conclusion can spare.
+
+Route B, step 16. 1 John 2:2 says the atoning sacrifice is “not for ours only but also for the sins of the whole world.” The contrast is direct: a class beyond the company written to. 1 John 5:19 uses ὁ κόσμος ὅλος against the same “we,” for those under the evil one. Same letter, same contrast. A reading on which 2:2 means the elect scattered through the nations has to give the phrase a sense it cannot have at 5:19. That partition is unmarked. The sufficiency reading, value rather than object, is resisted by “not only but also,” which extends the object. This is the strongest extent text in the paper. John 17:9 is correctly marked as synthesis, Johannine common authorship being disputed in the corpus file. The letter does not need it.
+
+Step 17. 1 Timothy 2:1–6 repeats “all,” and the paragraph moves by γάρ from prayer for everyone, kings included without a believer-restriction, to the desire, to the ransom. Same-context inference, positively marked by the repeated phrase and the conjunctions. Restricting the ransom alone partitions an unmarked sequence. Strong.
+
+Step 18 is corroboration, and the preserver reading has context on its side. Correctly not rested on.
+
+Step 19. Second Corinthians 5:14–15 distinguishes “all,” for whom he died, from “those who live,” in a purpose clause. Both the subset reading and the purpose-for-the-living reading are available. Corroborative. Hebrews 2:9 is rightly not rested on.
+
+Step 21. Hebrews 9:15 says the death redeems transgressions under the first covenant, for those called to the inheritance. It establishes backward reach for the forgiven. It does not by itself say every pre-cross person was died for. Romans 5:18 is the carrier the paper names. The parallel is direct. That the second “all” names everyone the act was for, rather than everyone who receives life, rests on 5:17. The federal reading, second “all” coextensive with those who receive, is a real competing reading of a parallel Paul builds. Genuinely contestable. Not necessary for the extent claim if steps 16 and 17 already name an unrestricted human domain. The paper’s own caution, that Route B’s verbs are present, is why step 21 is there. The aorist “gave himself a ransom for all” is not limited to the living after the commission.
+
+The distinction the paper uses against bridge premises is positively marked. Second Corinthians 5:19–20 sets God reconciling the world, and not counting trespasses, beside an appeal to be reconciled. If those were the same act, the appeal would be empty. Romans 5:10–11 has reconciliation through the death and then reconciliation received. Romans 3:25 receives the sacrifice through faith. These are the paper’s own elements, and they have warrant. Romans 5:10 can be pressed the other way, since the “we” were reconciled while enemies. That shows reconciliation through the death for that company. It does not state the rule that everyone died for is thereby reconciled.
+
+Part four’s reconstructions ask each argument for the premise that would be false if Christ died for everyone. That demand matches the form of the arguments taken up. Owen’s trilemma is loaded by the discharge premise. The double-payment argument is the same premise in judicial dress. Romans 8:32 is correctly singled out as the closest case. Paul’s “us” is the company of 8:28–31. Widening “gave him up for all of us, so everything else” into a rule for anyone died for carries a stated “us” past the paragraph that defines it. The use of the heirs paper is a use of the rule that an inference holds for anyone of whom its ground holds. It does not import the keeping claim as a premise about 8:32. Isaiah 53:6 and the apostolic use of 53:1 against unbelieving Israel (Romans 10:16, John 12:37–38) undercut the claim that sin-bearing and justification have the same objects. Step 32’s textual answer, that Philippians 1:29 does not say faith is granted to everyone died for, stands without the imports. The imports there only block a further consequence.
+
+Stage 2 result. Very strong: the destruction clause; the 2 Corinthians 5:19–20 distinction; the 1 John 2:2 contrast; the 1 Timothy 2 sequence; “for” does not entail “only for.” Strong but inferential: Master is Christ; bought is the blood purchase; the nation at John 11:51. Genuinely contestable: Route A’s two content premises; Romans 5:18’s second “all” as extent of the act. No necessary premise of the exclusion claim or of Route B fails. On balance those premises should be accepted. Route A is not required.
+
+## Stage 3 — Canonical stress test
+
+Against the conclusion, the standard texts are the ones part four takes up: John 10:11 and 10:15, Ephesians 5:25, Matthew 1:21, Romans 8:32–34, John 17:9, Isaiah 53, Mark 10:45, Hebrews 9:28, John 6:37 and 17:2. Each is addressed. The common form is “died for the S.” None states the exclusion.
+
+Omissions:
+
+Acts 20:28, the church obtained with his own blood, and Titus 2:14, who gave himself for us, and John 15:13, life laid down for friends, are the same form as Ephesians 5:25. Neutral. The general answer covers them. Revelation 5:9, ransomed saints from every tribe, is used for the price and not answered as an object-text. Same form. Neutral.
+
+Hebrews 2:10–17 is omitted context of a verse the paper cites. An opponent would say 2:10’s many children, 2:16’s seed of Abraham, and 2:17’s atonement for the sins of the people fix the domain of 2:9. Qualifying. The paper already declines to rest on 2:9. The omission does not reach a load-bearing premise.
+
+John 3:16–17 is unused. It supports love and a saving mission toward the world, and 3:18–19 states the division at unbelief. Supportive and corroborative for extent. It also qualifies step 30: a saving purpose toward the world is stated, and the paper’s “different ends” reading has to keep 3:17 together with 3:18 and with 2 Corinthians 2:15–16. Qualifying for that subsidiary claim, not for extent.
+
+Second Peter 3:9 is commonly cited and does not reach the objects of the death. Neutral.
+
+Datum ledger, for the limited-atonement countermodel: Christ died only for the elect; the men of 2 Peter 2:1 were not bought by his death; “whole world” and “all” are restricted; the universal-looking proclamations are conditional offers.
+
+2 Peter 2:1. The countermodel accommodates it by a second sense or a non-Christ Master. The exodus pattern is independently real. Its application here is not established by that pattern. Unmarked. The paper’s reading uses the marked parallel and the purchase Peter names for these readers.
+
+1 John 2:2 with 5:19. The countermodel must partition a repeated phrase in one contrast. Unmarked. The paper uses one sense.
+
+1 Timothy 2:1–6. The countermodel must restrict the prayer, the desire, and the ransom together, or split them. No marker. The paper follows the conjunctions.
+
+2 Corinthians 5:19–20. The countermodel must take “world” as the elect, or treat the appeal as asking for what the death already completed in them. The appeal is the marker the paper uses. Advantage to the paper.
+
+John 10:11 and Ephesians 5:25. The paper accommodates them without an added exclusion. The countermodel needs one. Unmarked unless the bridge is granted, and the bridge is what 5:19–20 resists.
+
+Romans 8:32. Closest datum. The countermodel’s general-rule reading explains the greater-to-lesser cleanly if “us” means “those given up for.” The paper’s reading takes the “us” the paragraph defines. The widening has no marker. Slight advantage to the paper, and the paper is right to call the weights closest.
+
+John 11:51–52. Partition of “nation” into the elect within it is unmarked. Caiaphas’s noun and “not only” cut against it.
+
+Isaiah 53. A remnant-only “us” is available. The apostolic application of 53:1 to unbelieving Israel cuts the other way. Advantage to the paper, not decisive.
+
+Galatians 2:20 and Acts 13:39. The countermodel explains these more naturally as assurance and as a conditional. Those data belong to Route A. Route B does not need them.
+
+Romans 5:18. Both readings explain it. The Adam parallel is marked, so a two-sphere reading is admissible. Tie on this datum. It carries step 21, not steps 16 and 17.
+
+The paper’s own unmarked elements are the blood-price identification, which synthesis warrants, and the one-sense policy for “died for,” examined at the load-bearing verbs. The death-versus-reconciled distinction is marked in 2 Corinthians 5:19–20. The different-ends claim is supported by 2 Corinthians 2:15–16, Hebrews 10:29, and 2 Peter 2:1, and qualified by John 3:17.
+
+The countermodel cannot do without the 2 Peter 2:1 re-reading, the 1 John 2:2 partition, and the 1 Timothy 2 restriction. Those applications are unmarked. It fails. No omission is fatal. The Hebrews 2 context and John 3:17 are qualifying. No scope finding defeats the exclusion or extent theses. The proclamation sentence is the scope finding already mapped.
+
+## Stage 4 — Consequences
+
+The conclusions that survive are these. Some for whom Christ died perish, so “died only for the elect” is false. Christ died for every human being, on the domain fixed by 1 John 2:2 and 1 Timothy 2:1–6, with the pre-cross extension argued and contestable. The arguments taken up do not supply the premise they need. The elaborated proclamation claim stands as better supported than the answers surveyed.
+
+Ruled out: limited atonement. Also ruled out, as a rule, the effect assumption that whoever was died for is thereby reconciled, and the purpose assumption that toward everyone died for the death’s purpose is his salvation and that this purpose does not fail. “Died for” does not entail “saved.” That follows with no further premise.
+
+Pressured, not refuted: commercial satisfaction theories that identify death with discharge apart from reception; the claim that sacrifice and intercession have the same objects; the claim that the five points stand or fall together. The last is answered only given the imports.
+
+One-premise consequence: extent, plus the paper’s own texts that not all come to life (John 5:28–29, Daniel 12:2), excludes universal salvation. The premise is in the paper.
+
+Not established: the mechanism; why anyone is passed over; a full account of the death’s ends toward the non-elect; the order of the decrees. The certainty of the heirs’ faith and of final perseverance is not established here. It is imported, and the objections that universal extent would leave salvation to the man are answered only given those imports.
+
+An opponent who wants particular redemption can keep it only by defeating step 7 and the domain readings at steps 16 and 17. Conceding those and retreating to “sufficient for all, efficient for the elect” either grants the extent claim or fails the paper’s second test, as step 51 says. Hypothetical universalism, death for all and application to the heirs by God’s act, is the position this paper and the imports occupy together. This paper does not re-argue the application.
+
+## Standing of each thesis
+
+Exclusion claim, as written. Established. The limiting joint is step 7, and the rival readings it requires are unmarked. The “not elect” step uses the opponent’s own identification, not the imports.
+
+Extent claim, as written. Established, on Route B. Route A is contestable and is not required. Step 21 is the contestable extension, not the carrier. A federal reading of Romans 5:18 survives as admissible and does not equalize steps 16 and 17.
+
+Bridge claim, as written, restricted to arguments taken up. Established. It does not claim to have closed the literature.
+
+Proclamation claim, sentence as written. Not shown. The limiting step is step 54, which grants a proposition true on limited atonement, about the hearer’s sins, that saving faith receives.
+
+Proclamation claim, narrowest the argument supports: the evangelist on limited atonement has no pre-faith ground, knowable as such, for what Christ’s death does about the hearer’s sins, other than the conditional promise or the hearer’s eventual election; the apostles proclaimed an indicative. Supported. The limiting step is the third test, which is the paper’s requirement rather than a sentence the proclamation texts state. The conditional reading of Acts 13:39 survives at higher cost and does not reverse the comparison. Deciding data: Acts 13:38 says forgiveness is proclaimed to hearers who then reject it, which cuts for the paper; 13:39 states the believer-condition in the next clause, which cuts for the conditional reading; 1 Corinthians 15:1–3 puts “for our sins” in what was proclaimed before it was received, which cuts for the paper; Galatians 2:20 is first person after faith, which cuts against using it as the unbeliever’s required content.
+
+Step 34 and the “then faith decides” objection are Established given the imports, and not otherwise. A defect in an import does not reach the exclusion or extent claims.
+
+Versions: the paper is version 3. The criteria are version 12.
+
+me: What is the true proposition under limited atonement about a hearer's sins that saving faith receives?
+
+grok: The proposition the paper itself grants is this:
+
+> If you trust Christ for forgiveness, your own sins will be forgiven through his death.
+
+Step 54 states it in those words. On limited atonement it is true of every hearer, because everyone who trusts is someone Christ died for. It is about the hearer's own sins, not about some other class. And it is what saving faith receives: forgiveness of those sins through that death. Acts 10:43 is the testimony the paper grants the hearer can know before he knows anything about his election: "everyone who believes in him receives forgiveness of sins through his name."
+
+That is the proposition that meets the proclamation claim as sentence. The sentence says the evangelist cannot tell an unbeliever anything true that saving faith could receive about what Christ's death does about that unbeliever's own sins. This sentence is true on limited atonement, it is about his sins, and faith receives it. The front matter grants both the promise and its knowability, and then says the grant does not meet the objection. The sentence contains no further test for the grant to fail.
+
+What the paper then adds, and what the sentence does not contain, is a demand for a ground knowable before faith that is neither "Christ died for you" nor "you will turn out to be elect." Under limited atonement the only answers to "what about his death bears on my sins?" are those two. The conditional does not supply a third. It says what follows believing. It does not say, before believing, that the death was for this hearer. Election is known from faith (1 Thessalonians 1:4–5; 2 Peter 1:10), so it cannot be the ground on which faith begins. That is a real gap in what limited atonement can offer as a ground. It is not a gap in the existence of a true proposition about the hearer's sins that saving faith receives.
+
+me: You made the same mistake ChatGPT made. Consider your proclamation, "I you trust Christ for forgiveness, your own sins will be forgiven through his death.", my question to you is then, "Why?" What is your answer?
+
+grok: The conditional does not answer that question. I treated a promise about what follows believing as if it were a proposition about what the death does about your sins. It is not.
+
+Asked why your sins will be forgiven through his death, limited atonement has two answers, and neither is a proposition saving faith can receive about your sins.
+
+The first is "because Christ died for your sins." That is the proposition. Limited atonement holds that the preacher cannot say it to an unknown hearer, because it may be false of him.
+
+The second is "because Christ died for everyone who will trust, and if you trust you will turn out to be one of them." That is true on limited atonement. It is not about what his death does about your sins. It is about what your believing would show concerning your election. You cannot know it before you believe, and believing it is not what faith is given as its ground. First Corinthians 15:3 puts the ground first: "that Christ died for our sins." The promise comes after.
+
+"God said that everyone who believes receives forgiveness" answers a different question, how you know the promise is reliable. It does not say what his death does about your sins. Under limited atonement the death bears on your sins only if you turn out to be elect. That fact is not given to you to believe. So there is no true proposition, sayable to you beforehand, about what his death does about your sins, for saving faith to receive. The conditional never was that proposition. The "why" shows it.
+
+me: Note that with your second answer, "because Christ died for everyone who will trust, and if you trust you will turn out to be one of them" the hearer's trust in in the hearer's faith and not in Christ's death.
+
+grok: Yes. Under that answer the fact that makes his death bear on your sins is your trusting. He died for those who will trust. You come under that description by trusting. So the reason the death covers your sins is a fact about your faith.
+
+The promise can still name Christ as the one trusted. The connection cannot. Asked why his death forgives your sins, the answer is that your faith places you among those he died for. Faith is then relying on itself to be the condition under which his death counts for you. It is not relying on a death already for you.
+
+That inverts the apostolic order. "Christ died for our sins" is proclaimed before it is received, and the giving in "gave himself for me" is already past when faith receives it. On the second answer, "for me" becomes true by the believing, so the believing is the ground it receives. Trust has been moved off his death and onto the hearer's faith.
+
+me: Established. The Not shown standing is withdrawn.
+
+The limiting step was step 54's conditional. That conditional is not a proposition about what Christ's death does about the hearer's sins. Asked why it holds for him, limited atonement either says "Christ died for you," which it will not say, or it makes his trusting the fact that brings him under the death, so that his trust is in his faith. Neither is something saving faith receives about what the death does about his sins. The grant is not a counterexample to the sentence.
+
+The sentence as written therefore stands. On limited atonement no such proposition can be told to the unbeliever. The apostles' gospel tells him one: forgiveness of sins proclaimed to him through Christ's death (Acts 13:38), and "Christ died for our sins" handed on before it was received (1 Corinthians 15:1–3). The next clause at Acts 13:39 states who is set free. It does not supply the missing "why."
+
+me: Why did you make this mistake?
+
+grok: I treated a mention of his sins and of Christ's death in one sentence as a proposition about what the death does about his sins. The conditional contains those words. I matched them to the claim sentence and stopped.
+
+The paper had already separated the two questions. Step 54 says the promise passes the first two tests and fails the third, and the front matter says the grant does not meet the objection. I reclassified that third test as an addition the sentence did not contain, and then used the paper's concession of a non-answer as a counterexample to the sentence. A concession that an item does not answer the claim is not evidence that the item is an instance of the claim.
+
+The scope rule made the misclassification easy to keep. The sentence and the three tests differ in wording, so I reported a width gap and graded the sentence against the conditional. I never asked what the conditional asserts. It asserts what follows believing. It does not assert a present bearing of his death on the hearer's sins. The "why" is the test of that, and I did not put the question to the proposition I had just accepted.
+
+That is the same stop ChatGPT made: the conditional names Christ, names the hearer's sins, and is true on limited atonement, so it is counted as the thing faith receives about the death. The counting is the mistake. The reason the death would cover his sins, under that answer, is his trusting, and that reason was still unexamined when I scored the sentence Not shown.
+
+me: What is route A, what is step 21, and why is it contestable?
+
+grok: Route A is the first of the two independent arguments for the extent claim, that Christ died for every human being. It does not use 1 John 2:2 or 1 Timothy 2. It runs through the commission and the proclamation, in steps 11 through 15, and it has two lines that do not need each other.
+
+The first line is proclamation. The risen Christ sends repentance and forgiveness to all nations (Luke 24:47; Matthew 28:19). At Pisidian Antioch Paul tells a mixed audience, some of whom then reject it, that through this man forgiveness of sins is proclaimed to them (Acts 13:38–39, 46). What he handed on at Corinth, before it was received, included "Christ died for our sins" (1 Corinthians 15:1–3). God does not send a false message (Titus 1:2; 2 Corinthians 5:20). So what is proclaimed to each hearer about forgiveness through Christ's death is true of each hearer, and that cannot be true of a man Christ did not die for.
+
+The second line is the faith commanded. God commands all people everywhere to repent (Acts 17:30). The faith that justifies receives the Son who loved me and gave himself for me (Galatians 2:16, 20). Both participles are aorist: the giving is past when faith receives it, so faith does not make it true. God does not command anyone to believe what is false. So for each hearer it is already true that Christ gave himself for him.
+
+Its scope is every lawful hearer. The commission names no excluded class, so that is every human being living after the commission. The paper marks a weak joint on each line: the reply that Acts 13:38–39 proclaims only a conditional promise, and the reply that "for me" is assurance after believing rather than the content commanded beforehand. Route A falls only if both lines fall. Route B does not use it.
+
+Step 21 is not part of Route A. It sits at the end of Route B and extends the extent claim to those who died before the cross. Route A's commission reaches the living after it was given. Route B's "is the atoning sacrifice" and "gave himself a ransom for all" are not, on the paper's own caution, expressly about the dead. Two texts are asked to carry the reach backward. Hebrews 9:15 says a death has occurred that redeems from the transgressions under the first covenant, and Acts 4:12 says there is no other name. Romans 5:18 sets "condemnation for all" against "justification and life for all," the same word in one sentence, in a parallel Paul builds. The paper uses 5:17, "those who receive," to say the parallel gives the extent of the act and not universal salvation.
+
+It is contestable at that second text. Hebrews 9:15 reaches people who are redeemed from sins under the first covenant. It does not by itself say every person who died before the cross was died for. The load-bearing move is that Romans 5:18's second "all" names everyone the act was for, rather than everyone who comes to life by it. Paul builds the parallel to compare Adam and Christ, and 5:17 already limits who receive the abundance of grace. A reading on which the second "all" is coextensive with those who receive explains the sentence, the parallel, and 5:19's "the many will be made righteous" without adding a distinction between the objects of the act and the objects of justification. Both readings use 5:17. The federal one is admissible, so the pre-cross extension is not fixed by the parallel alone. Steps 16 and 17 do not need it.
+
+me: Your answer didn’t help. Let me ask again. You ruled: “Extent claim, as written. Established, on Route B. Route A is contestable and is not required. Step 21 is the contestable extension, not the carrier. A federal reading of Romans 5:18 survives as admissible and does not equalize steps 16 and 17.”
+
+I don’t understand your ruling. Break it apart and explain each piece.
+
+grok: The ruling is one verdict with four qualifications. Each piece is doing a different job.
+
+The extent claim, as written, is the sentence "Christ died for every human being." That is the proposition being scored, not the exclusion claim and not the proclamation claim. "As written" means the score is for that universal sentence, not for a narrower substitute such as "every hearer after the commission."
+
+Established means the argument for that sentence is valid, its necessary textual premises hold, and no admissible reading of the canon makes the sentence false while still explaining the texts it rests on. It is the highest standing in the criteria.
+
+On Route B means the verdict rests on one argument only, the one that reads the texts naming the objects of the death. Two of those texts carry it. First John 2:2 says Christ is the atoning sacrifice "not for ours only but also for the sins of the whole world," and in the same letter "the whole world" is everyone outside the believing "we" (1 John 5:19). First Timothy 2:1–6 uses one "all" through one paragraph joined by "for": prayer for everyone, kings included with no believer-restriction, God's desire that everyone be saved, and a ransom for all. Restricting the ransom means restricting the prayer, or splitting a sequence the paragraph does not split. Those two texts are enough for "every human being." Nothing earlier in the paper is needed for them.
+
+Route A is contestable and is not required. Route A is the other argument: the gospel is sent to every nation, forgiveness through Christ's death is proclaimed to the hearer, God does not send a false message, and the faith commanded receives a giving already past. A defender can read Acts 13:38–39 as a conditional promise, "everyone who believes is set free," and can read "gave himself for me" as what a man says after he believes. Those replies fit the wording. They do not have to be defeated, because Route B does not use Route A. A contestable unused argument does not lower a verdict that rests on another argument.
+
+Step 21 is the contestable extension, not the carrier. It is the paragraph that asks whether the same death reaches people who died before the cross. Hebrews 9:15 reaches those redeemed from sins under the first covenant. It does not by itself reach every person who died before the cross. The paragraph then uses Romans 5:18, "condemnation for all" set against "justification and life for all." That move is not what puts the extent claim in place. Steps 16 and 17 already name an unrestricted human domain. Step 21 tries to add the dead explicitly. Losing it would narrow the wording about the pre-cross dead. It would not remove the two texts the verdict uses.
+
+A federal reading of Romans 5:18 survives as admissible and does not equalize steps 16 and 17. Paul builds a parallel between Adam and Christ, and in the verse before he says life comes to "those who receive." A defender can read the second "all" as everyone in Christ, coextensive with those who receive, rather than as everyone the act was for. That reading explains Romans 5:18. It is allowed. It does not touch 1 John 2:2 or 1 Timothy 2:1–6, which are different books and different arguments. Equalizing would mean a reading on which the rival does as well as the paper on the texts the verdict actually rests on. A reading that explains only Romans 5:18 does not do that, so it does not pull Established down to Supported.
+
+me: Let’s examine “Route A is contestable and is not required. Route A is the other argument: the gospel is sent to every nation, forgiveness through Christ’s death is proclaimed to the hearer, God does not send a false message, and the faith commanded receives a giving already past. A defender can read Acts 13:38–39 as a conditional promise, “everyone who believes is set free,” and can read “gave himself for me” as what a man says after he believes. Those replies fit the wording.…”
+
+It appears to me that you made the exact same mistake here that you made with your initial proclamation ruling, and your mistake is exposed by asking the question, “believes what?”
+
+grok: Yes. The same stop, one step earlier. I treated "everyone who believes is set free" as a reading that fits Acts 13:39, and "for me" as something said after believing, and I did not ask what is believed.
+
+"Believes" needs a content. Under the gospel Paul is proclaiming in that sentence, the content is forgiveness of sins through this man, the death and resurrection he has just recounted. First Corinthians 15:3 names it: "that Christ died for our sins," handed on before it was received. If that is what the hearer is commanded to believe, the conditional does not escape Route A. God does not command anyone to believe what is false, and the giving is already past, so it is already true of him that Christ died for his sins.
+
+If that is not the content, the defender owes the content. "Trust Christ," "Christ died for sinners," and "if you believe you will be forgiven" are the answers Part five already tested. The last of them invites the question you put to the proclamation, and the only answers are "because he died for you," which limited atonement will not say, or "because your trusting places you among those he died for," which puts the trust in the hearer's faith. Lordship says nothing about his sins. So the reply fits the wording only while "believes" is left empty.
+
+The post-faith reading of Galatians 2:20 fails in the same place. If "gave himself for me" is merely what a man concludes after he believes, the first act still has to have a content about what the death does about his sins. Limited atonement has none to give him.
+
+Those two replies were the whole ground I gave for calling Route A contestable. They are not readings that preserve limited atonement. They are the proclamation gap restated. Route A is not contestable on that ground. It remains unused by the extent verdict, because Route B does not need it. "Not required" can stay. "Contestable" cannot.
+
+me: What you don’t seem to grasp is that the doctrine of limited atonement is dug in like a tick in some circles. In this circumstance, two incontestable routes are better than one.
+
+grok: The ruling should not have parked Route A. Entrenchment does not change the standing. It changes what it is worth to leave a sound route unused. Established on one route is the same grade as Established on two. It is not the same defense. An objector who cracks the domain of "whole world," or the single "all" in 1 Timothy 2, has the extent claim gone if that is the only route on the table. He does not have it gone if Route A stands without him.
+
+Route A is the second route, and the replies I used against it are not available. The gospel is sent to every nation, with no class excluded. Forgiveness of sins through Christ's death is proclaimed to the hearer, including hearers who then reject it. God does not send a false message. The faith commanded has a content, and the content is that Christ died for our sins, a giving already past when it is believed. "Believes what?" closes both replies. A conditional with an empty "believes," and a "for me" reached only after believing, are the proclamation gap again. They do not leave Route A contestable.
+
+So the extent claim, as written, is Established on two routes that share no textual premise. Route B reads 1 John 2:2 with 5:19, and the one "all" of 1 Timothy 2:1–6. Route A reads the commission, the proclamation, and the content of the faith commanded. Step 21 remains the contestable pre-cross extension. A federal reading of Romans 5:18 does not reach either route.
+
+me: Exclusion claim, as written. Established. Unchanged. Some whom Christ bought by his death perish, so "died only for the elect" is false. The limiting joint remains step 7, and the rival readings it requires are unmarked. The step from "they perish" to "they are not elect" uses the position under review, not the imports.
+
+Extent claim, as written. Established, on two routes that share no textual premise. Route B reads 1 John 2:2 with 5:19, and the one "all" of 1 Timothy 2:1–6. Route A reads the commission, the proclamation to hearers who then reject it, and the content of the faith commanded. The replies that had parked Route A do not survive "believes what?" Step 21 is not a carrier. A federal reading of Romans 5:18 remains admissible and reaches neither route.
+
+Bridge claim, as written, restricted to the arguments taken up. Established. Unchanged. It does not claim to have closed the literature.
+
+Proclamation claim, sentence as written. Established. The Not shown standing is withdrawn. The conditional is not a proposition about what Christ's death does about the hearer's sins. Asked why it holds for him, limited atonement either will not say "Christ died for you" or makes his trusting the fact that brings him under the death. The apostles' gospel tells him one: forgiveness proclaimed to him through Christ's death, and "Christ died for our sins" handed on before it was received. The elaborated claim with the third test is the same claim, not a narrower one. Established.
+
+Step 34 and the objection "then faith decides" remain Established given the imports, and not otherwise. A defect in an import still does not reach the four claims above.
