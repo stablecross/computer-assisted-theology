@@ -1,5 +1,7 @@
 # Corpus
 
+*Version 1.*
+
 This file states the body of evidence the papers in this repository argue from. The Four-Stage Evaluation Criteria require a review to record the agreed corpus before anything else is assessed. A reviewer who does not accept this corpus should say so. A binding review stops there. A conditional review may go on, labeled as conditional: *given this corpus, the argument establishes X.*
 
 ## Authority

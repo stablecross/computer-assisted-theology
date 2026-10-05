@@ -124,7 +124,7 @@ Attach the files rather than linking to them. Some models cannot fetch web pages
 
 Then use this prompt unchanged:
 
-> Evaluate the attached paper under the attached criteria. The agreed corpus is stated in the attached corpus.md. If the paper imports conclusions from other papers, those papers are also attached; test the paper's use of them, not the imports themselves. Report each stage separately. End by stating the paper's version and the criteria version.
+> Evaluate the attached paper under the attached criteria. The agreed corpus is stated in the attached corpus.md. If the paper imports conclusions from other papers, those papers are also attached; test the paper's use of them, not the imports themselves. Report each stage separately. End by stating the paper's version, the criteria version, and the corpus version.
 
 The prompt names the files and nothing else. It does not ask the model to find flaws or to confirm the argument; how hard to push is set by the criteria. Using the same prompt makes reviews comparable, so differences between reviews come from the models and not from the wording.
 
