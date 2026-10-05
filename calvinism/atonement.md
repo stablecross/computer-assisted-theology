@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 5.*
+*Version 6.*
 
 *Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
 
@@ -379,19 +379,17 @@ Christ is the atoning sacrifice for the sins of the whole world, where "the whol
 
 Route A reaches those living after the commission. Route B's texts speak in the present: Christ "is" the atoning sacrifice for the whole world (1 John 2:2). Three things carry the extent back past the cross.
 
-First, the death's reach is not bounded by its date. Christ is the mediator of a new covenant, "so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant" (Heb 9:15). The blood of bulls and goats never took away sins (10:4), and "without the shedding of blood there is no forgiveness of sins" (9:22). There is "no other name under heaven given among mortals by which we must be saved" (Acts 4:12). So whatever forgiveness anyone received before the cross came through Christ's death.
+First, Christ's saving office is defined over the human race, with no limit of date. "There is one God; there is also one mediator between God and humankind, Christ Jesus, himself human" (1 Tim 2:5). "There is salvation in no one else, for there is no other name under heaven given among mortals by which we must be saved" (Acts 4:12). "Humankind" and "mortals" render the same Greek word, ἄνθρωποι, *anthrōpoi*, human beings. Neither text limits the class by date or place.
 
-Paul says more, and without restricting it to the called. God put Christ forward as a sacrifice of atonement "to show his righteousness, because in his divine forbearance he had passed over the sins previously committed" (Rom 3:25). The Greek is τῶν προγεγονότων ἁμαρτημάτων, "the sins committed before." Two verses earlier Paul has said, "all have sinned and fall short of the glory of God" (3:23). So the sacrifice bears on the sins committed before the cross, and Paul names no subset of them.
+Second, that office acted before the cross. Christ is the mediator of a new covenant, "so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant" (Heb 9:15). The blood of bulls and goats never took away sins (10:4), and "without the shedding of blood there is no forgiveness of sins" (9:22). God put Christ forward as a sacrifice of atonement because "in his divine forbearance he had passed over the sins previously committed" (Rom 3:25). So the death reaches back past its date. These texts show the reach in time. They do not by themselves say for whom. Hebrews 9:15 names "those who are called," and Romans 3:26 names "the one who has faith in Jesus."
 
-Second, Paul sets the extent of Christ's act against the extent of Adam's: "just as one man's trespass led to condemnation for all, so one man's act of righteousness leads to justification and life for all" (Rom 5:18). The first "all" includes everyone who has ever lived. The second is the same word, in the same sentence, in a parallel Paul builds to compare the two men. In the same chapter the act is the death: "Christ died for the ungodly" (5:6), and we are "justified by his blood" (5:9).
+Third, the ransom is for the whole of that class. The mediator "between God and humankind" is the one "who gave himself a ransom for all" (1 Tim 2:5–6). "All" stands in the same sentence as "humankind," and the paragraph has one domain (step 17). The class of 2:5 is not limited by date. So the "all" of 2:6 is not limited by date either.
 
-Paul can narrow a paired "all," and when he does, he marks it. "For as all die in Adam, so all will be made alive in Christ. But each in his own order: Christ the first fruits, then at his coming those who belong to Christ" (1 Cor 15:22–23). There the phrase "those who belong to Christ" marks the narrower group. Romans 5:18 has no such phrase. Its nearest limit, "those who receive the abundance of grace" (5:17), names who receive life. It does not name who the act was for.
+Paul's Adam–Christ parallel agrees: "just as one man's trespass led to condemnation for all, so one man's act of righteousness leads to justification and life for all" (Rom 5:18). The first "all" includes everyone who has ever lived. The second is the same word, in the same sentence. Paul can narrow a paired "all," and when he does, he marks it: "all will be made alive in Christ. But each in his own order: Christ the first fruits, then at his coming those who belong to Christ" (1 Cor 15:22–23). Romans 5:18 has no such phrase. Its nearest limit, "those who receive the abundance of grace and the free gift of righteousness" (5:17), names who receive life. This verse supports the step. It does not carry it.
 
-The parallel gives the extent of the act, not universal salvation. Paul says who comes to life by it: "those who receive the abundance of grace and the free gift of righteousness" (5:17).
+The good news was also proclaimed before the cross to men who perished. "For indeed the good news came to us just as to them; but the message they heard did not benefit them" (Heb 4:2). "Them" is the generation "whose bodies fell in the wilderness" (3:17). Scripture "declared the gospel beforehand to Abraham" (Gal 3:8). This is corroboration.
 
-Third, the good news was proclaimed before the cross to men who perished. "For indeed the good news came to us just as to them; but the message they heard did not benefit them" (Heb 4:2). "Them" is the generation "whose bodies fell in the wilderness" (3:17). And Scripture "declared the gospel beforehand to Abraham" (Gal 3:8). The good news the wilderness generation heard was the promise of rest (4:1), and Hebrews calls it the same good news. This is corroboration: it shows that the reasoning of Route A, a message from God to men who then perish, is not confined to hearers after the cross.
-
-*The weak joint.* Romans 5:18's second "all." Its parallel with the first is direct. That it names everyone the act was for, and not only those who come to life by it, rests on two things: 5:17's "those who receive" names receivers, and the passage has no marker like 1 Corinthians 15:23's "those who belong to Christ."
+*The weak joint.* That the "all" of 1 Timothy 2:6 has the same undated domain as "humankind" in 2:5. The two words stand in one sentence, and step 17 argues that the paragraph has one domain. Romans 5:18 supports it. Its second "all" is contested between everyone the act was for and those who receive life.
 
 ### What survives if a route falls
 
@@ -899,7 +897,7 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 18** — the force of μάλιστα at 1 Timothy 4:10. Corroboration, since the verse names God as Savior rather than Christ's death, and the sense of "Savior" there is contested.
 
-**Step 21** — that the extent reaches those who died before the cross. Hebrews 9:15 is direct that the death reaches back to transgressions under the first covenant. The load-bearing reading is Romans 5:18's second "all": the same word, in the same sentence, in a parallel Paul builds. That it names everyone the act was for, and not only those who receive life, rests on 5:17 and on the absence of a marker like 1 Corinthians 15:23's "those who belong to Christ." Romans 3:25 carries the reach back to "the sins previously committed" without restricting them to the called. Hebrews 4:2 and Galatians 3:8 are corroboration.
+**Step 21** — that the extent reaches those who died before the cross. The carrier is 1 Timothy 2:5–6: the ransom's "all" stands in one sentence with "humankind," the class of the one mediator, and Acts 4:12 defines the one saving name over the same class with no limit of date. Hebrews 9:15 and Romans 3:25 are direct for the reach in time and do not by themselves say for whom. Romans 5:18 supports the step. Hebrews 4:2 and Galatians 3:8 are corroboration.
 
 **Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction, and it is warranted by 2 Corinthians 5:19–20 and Romans 5:10–11, which are direct, with Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 as support.
 
