@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 6.*
+*Version 7.*
 
 *Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
 
@@ -405,7 +405,7 @@ If both fall, the exclusion claim of part two still stands. Christ died for some
 
 Part one showed that every argument for limited atonement needs an exclusion premise or a bridge premise, and that most of these premises rest on the effect assumption or the purpose assumption. This part takes the arguments one by one. Each is stated in its strongest form. Each is then asked for the premise it needs, and for the text that states it.
 
-The result for each is a failure of the offered proof. None of them is refuted here, because none needs to be. The refutation of limited atonement is in part two.
+The result for most is a failure of the offered proof. Where part two shows an argument's premise false, the result says so. The refutation of limited atonement itself is in part two.
 
 The quotations from Owen, Berkhof, and Palmer below state the arguments under review. They are not evidence.
 
