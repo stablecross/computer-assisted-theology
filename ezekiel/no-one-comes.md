@@ -1,6 +1,6 @@
 # No One Comes to Christ Unless God First Changes the Heart
 
-*Version 21.*
+*Version 22.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -25,7 +25,7 @@ The verb is Jesus'. "No one can come to me unless drawn by the Father who sent m
 
 **Not under review.** Whether God withholds that change from anyone, and if so why. The basis on which God chooses. Particular redemption and perseverance. Whether an unregenerate man can do civil good, keep his word, or love his children — nothing here denies that he can.
 
-Whether the change, once begun, can be resisted is also not pursued here. It is not disowned either. Nothing below is arranged to reach that question or to steer around it, and where something argued here bears on it, the bearing is noted rather than hidden.
+Whether the change, once begun, can be resisted is also not pursued here.
 
 **What "come" means here.** Turning to God at his call: repenting, believing, obeying the summons. John pairs the coming with the believing himself — "whoever comes to me will never be hungry, and whoever believes in me will never be thirsty" (6:35) — and step 6 argues that this is the listening Ezekiel 3:7 says the stubborn heart will not do. This paper calls that act the response. A man can hear the words and follow the sentences without having done any of it, and hearing in that sense is not what is under discussion.
 
@@ -33,7 +33,7 @@ The believing in view is not every act Scripture calls belief. Two writers mark 
 
 Paul's "unless you have come to believe in vain" (1 Cor 15:2) is sometimes added to these, and this paper does not use it. Later in the chapter Paul says the same thing of faith if Christ has not been raised: "your faith has been in vain" (15:14). So 15:2 may concern faith emptied by a false premise rather than faith deficient from the start.
 
-The distinction is theirs, not a qualification introduced here to protect a claim. Paul says elsewhere where faith should rest — "not on human wisdom but on the power of God" (1 Cor 2:5) — which draws the same line from the other side. None of these cases is the response under review, and the objection that they are is answered below rather than settled here.
+The distinction is theirs. Paul says elsewhere where faith should rest — "not on human wisdom but on the power of God" (1 Cor 2:5) — which draws the same line from the other side. None of these cases is the response under review, and the objection that they are is answered below rather than settled here.
 
 **What "unless God first changes" claims.** Two things, and they come from different places.
 
@@ -41,9 +41,9 @@ The distinction is theirs, not a qualification introduced here to protect a clai
 
 *Production.* God's act does not merely clear the way. It brings about what it clears the way for. This is not inferred from the necessity argument, which would not yield it. The granting texts carry it, and Ezekiel corroborates it.
 
-The granting texts name what God gives, and they come in two kinds. In four the response itself is what is granted: repentance (2 Tim 2:25; Acts 11:18; Acts 5:31), believing (Phil 1:29). Those four are not equally strong, and step 5 ranks them. Second Timothy 2:25 carries the most, because its recipients are particular men and the object of the giving is repentance itself. Acts 5:31 carries the least, because its recipient is a people. In two the act named is on the heart, with the response given as its stated result: a heart opened, so that she attended (Acts 16:14); a heart given, with the whole-hearted return inside the same promise (Jer 24:7). These are collected at the end of step 5. They need nothing from Ezekiel and no bridge from this paper.
+The granting texts name what God gives, and they come in two kinds. In four the response itself is what is granted: repentance (2 Tim 2:25; Acts 11:18; Acts 5:31), believing (Phil 1:29). Those four are not equally strong, and step 5 ranks them. Second Timothy 2:25 carries the most, because its recipients are particular men and the object of the giving is repentance itself. Acts 11:18 and Acts 5:31 carry less, because their recipient is a people. In two the act named is on the heart, with the response given as its stated result: a heart opened, so that she attended (Acts 16:14); a heart given, with the whole-hearted return inside the same promise (Jer 24:7). These are collected at the end of step 5, and they need nothing from Ezekiel.
 
-What they report is who gives the act. What they do not give is the principle of distribution — why these recipients and not others, or whether the gift is universal. Several of them do name recipients: Paul says it was granted *to you*, and Jeremiah's promise is spoken of a defined company, the good figs already in exile.
+The granting texts report cases. Step 5 carries the claim from the cases to every instance of the response, from two sentences that say *no one*: John 6:65 and 1 Corinthians 12:3.
 
 Ezekiel corroborates production and does not carry it. His promise pairs "I will remove" with "make you follow" (36:26–27). The verb is וְעָשִׂיתִי, *wəʿāśîtî*, which is Qal; the causative force is in the construction — *I will act so that you walk in my statutes* — and not in the stem. So God produces the walking. But the clause names walking in the statutes, not the first turning, since step 6 declines to class repentance among those statutes. Step 5 argues that 36:26–27 is one promise, and that holds. Unity does not carry the causative from the walking to the first turning, because the promise does not name the turning. So the production claim rests on the granting texts.
 
@@ -61,7 +61,7 @@ Against the production claim there is a third: show that the texts calling belie
 
 **What the argument does not import.** No account of how the will works — nothing about what freedom is, whether a determined choice can be free, or how responsibility attaches to an act. The texts below do describe a condition of the will, and the argument reports what they say about it. What it does not do is supply a mechanism behind that condition.
 
-**What it uses.** First, that when God states in advance how a people will respond, that is what happens. Second, that what God does about a condition tells you what the condition required. If the remedy is to give life, then life is what was missing.
+**What it uses.** That what God does about a condition tells you what the condition required. If the remedy is to give life, then life is what was missing.
 
 **The spine.** God tells Ezekiel that Israel will not listen, and gives the reason: they are hard of forehead and hard of heart. A man who will not listen to God does not hear the call to turn and live — and the call to turn is part of what the prophet was sent to say. So the turning does not happen while the heart is what God says it is. Ezekiel later says who changes that heart, and it is God: he takes out a heart of stone and puts in a heart of flesh. That the heart of stone at 11:19 and 36:26 is the hard heart of 3:7 is an identification rather than a quotation, and step 5 argues it. Paul states the same condition without the vision and extends it past Israel to every man, and John names the act the condition prevents: no one can come.
 
@@ -83,7 +83,7 @@ An objector who stops at the second clause has the refusal traced to unwillingne
 
 That has to be met here, because it is the sentence immediately before the one this argument starts from, and it has God saying a foreign people would have heard the word Israel refuses.
 
-Two things about it, and the second cuts against this paper as much as against an objector.
+Two things about it.
 
 The form is a comparison of guilt. Jesus uses the same form — "if the deeds of power done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes" (Matt 11:21) — and its work there is to indict Chorazin. It does not say how Tyre would have come to repent. Ezekiel 3:6 makes the house of Israel worse than the nations, which is why it stands beside 3:7.
 
@@ -93,23 +93,35 @@ And it is a counterfactual about a mission God did not send. It does not say wha
 
 The refusal is theirs. Nothing here denies that they refuse, or that the refusal is an act of their will. What the verse adds is why the will is set that way, and the reason it gives is what they are.
 
-The same diagnosis appears elsewhere in the book. "Mortal, you are living in the midst of a rebellious house, who have eyes to see but do not see, who have ears to hear but do not hear; for they are a rebellious house." (Ezek 12:2–3) Again the organs are present and the perception is not, and again the reason offered is what they are.
+The same diagnosis appears elsewhere in the book. "Mortal, you are living in the midst of a rebellious house, who have eyes to see but do not see, who have ears to hear but do not hear; for they are a rebellious house." (Ezek 12:2) Again the organs are present and the perception is not, and again the reason offered is what they are.
 
 **3. A man who will not listen does not hear the call.**
 
-This is the step the rest depends on. Ezekiel gives it as an inference rather than a printed sentence, so it should be argued here. John prints it, and that is at the end of the step.
+This is the step the rest depends on. Ezekiel gives it as an inference rather than a printed sentence. John prints it, and that is at the end of the step.
 
-God states the outcome before the ministry begins. He does not say they might not listen. He says they will not.
+God states the outcome before the ministry begins. At 3:7 he does not say they might not listen. He says they will not.
 
 He then sends the prophet anyway: "Whether they hear or refuse to hear (for they are a rebellious house), they shall know that there has been a prophet among them." (Ezek 2:5)
 
-That clause is worth pausing on, because *whether they hear* looks like an open question. Two things in the verse say it is not. The parenthesis gives the same diagnosis as 3:7 — they are a rebellious house. And the outcome the verse names is not that they may turn; it is that they will know a prophet was among them. The clause governs what Ezekiel is to do and what his ministry will establish, not whether their response is undecided.
+*Whether they hear* looks like an open question. Two things in the verse say it is not. The parenthesis gives the same diagnosis as 3:7 — they are a rebellious house. And the outcome the verse names is not that they may turn; it is that they will know a prophet was among them. The clause governs what Ezekiel is to do and what his ministry will establish, not whether their response is undecided.
 
 Then the call goes out. Repent and turn from all your transgressions (18:30). Turn back, turn back from your evil ways, for why will you die (33:11). And the outcome is what God said it would be.
 
+**Where God says "perhaps."** Ezekiel has one such word. When God tells the prophet to act out the exile, he says, "Perhaps they will understand, though they are a rebellious house" (12:3). Jeremiah has others: "It may be that they will listen" (Jer 26:3). And Jeremiah reports God's own expectation going unmet: "And I thought, 'After she has done all this she will return to me'; but she did not return" (Jer 3:7; see 3:19). So not every word of God about a people's response is a forecast that settles it.
+
+This step does not need it to be. Three things carry it, and the forecast taken alone is not one of them.
+
+The first is the cause 3:7 gives. Ezekiel's sentence does not stop at *will not*. It says why: they are not willing, because of what they are. The *perhaps* of 12:3 carries the same cause in its own clause, "though they are a rebellious house," and the verse before it gives the diagnosis: they "have eyes to see but do not see" (12:2).
+
+The second is the outcome Ezekiel reports. Six verses after the *perhaps*, the house has asked only, "What are you doing?" (12:9). Thirty chapters after the commission, they "hear your words, but they will not obey them" (33:31). Step 6 takes up that verse, and the sentence at 20:8 that joins the refusal to the failure to turn.
+
+The third is John 8:43 and 8:47, at the end of this step, where Jesus states the inability and its cause.
+
+So the *perhaps* texts show that God addresses the house as men who ought to listen. They do not report the condition of 3:7 overcome by the address. Jeremiah 3:7 reports the address unanswered.
+
 So the call is genuine and it does not produce the turning. What blocks it is upstream of the call: a man who is not willing to listen to God does not receive the summons as a summons, however clearly it is spoken.
 
-**The individual cases.** Ezekiel's commission also speaks of men who take warning. "If, however, you warn the righteous not to sin, and they do not sin, they shall surely live, because they took warning" (3:21). And of the wicked: "if the wicked turn away from all their sins that they have committed and keep all my statutes and do what is lawful and right, they shall surely live" (18:21). The verdict of 3:7 is on the house. It does not say that no one in Israel ever turns, and this paper does not claim it. What the individual cases do not say is how a man's heart came to be one that turns. Ezekiel names that at 36:26, and step 5 takes it up.
+**The individual cases.** Ezekiel's commission also speaks of men who take warning. "If, however, you warn the righteous not to sin, and they do not sin, they shall surely live, because they took warning" (3:21). And of the wicked: "if the wicked turn away from all their sins that they have committed and keep all my statutes and do what is lawful and right, they shall surely live" (18:21). The verdict of 3:7 is on the house. It does not say that no one in Israel ever turns, and this paper does not claim it. What the individual cases do not say is how a man's heart came to be one that turns. Ezekiel's new heart at 36:26 is promised for the restoration, so it does not answer that for a man in Ezekiel's own day. Other texts show God doing such work on hearts before the restoration. Moses tells Israel that "to this day the LORD has not given you a mind to understand" (Deut 29:4), so giving it was God's to do then. Solomon prays that God will "incline our hearts to him, to walk in all his ways" (1 Kgs 8:58). The psalmist prays, "Turn my heart to your decrees" (Ps 119:36). And Jeremiah's promise of a heart given (Jer 24:7) is made to the exiles taken with King Jeconiah (24:1, 5), the company Ezekiel was carried off with (Ezek 1:1–2).
 
 **Jesus states the step in so many words.** To men who had heard him teach, he says: "Why do you not understand what I say? It is because you cannot accept my word." (John 8:43) The NRSV's *accept* renders the verb of hearing: οὐ δύνασθε ἀκούειν τὸν λόγον τὸν ἐμόν, *ou dynasthe akouein ton logon ton emon*, you cannot hear my word. Four verses later he gives the reason: "Whoever is from God hears the words of God. The reason you do not hear them is that you are not from God." (8:47)
 
@@ -117,7 +129,7 @@ That is the chain of Ezekiel 3:7 in Jesus' mouth. They do not hear. They cannot 
 
 The sounds reached them, since they are answering him sentence by sentence. So the hearing Jesus denies is not the arrival of the words. It is the hearing this step says the unwilling man does not do.
 
-Joining John 8 to Ezekiel 3 is canonical synthesis, the same kind of move step 6 makes at John 6:45. What it changes is the footing of this step. Step 3 no longer rests on an inference alone. It rests on the inference and on a sentence that states it.
+Joining John 8 to Ezekiel 3 is canonical synthesis. What it changes is the footing of this step. Step 3 no longer rests on an inference alone. It rests on the inference and on a sentence that states it.
 
 **4. He cannot supply the call to himself.**
 
@@ -141,7 +153,7 @@ The organ is the same and the book is the same. 3:7 names לֵב, *lēb*, and gi
 
 The two descriptions do opposite jobs on the same thing. What 3:7's heart produces is refusal — they will not listen, because they are not willing. What the operation of 36:26–27 produces is the opposite: "make you follow my statutes and be careful to observe my ordinances." One heart is named as the reason for the refusal. The other is given in the operation whose stated result is following.
 
-Ezekiel already treats the two adjectives as one condition. At 2:4 the pairing is קְשֵׁי פָנִים וְחִזְקֵי־לֵב, *qəšê pānîm wəḥizqê-lēb*, hard of face and strong of heart. At 3:7 it is חִזְקֵי־מֵצַח וּקְשֵׁי־לֵב, strong of forehead and hard of heart. The same two roots are applied across face and heart in either arrangement, a chapter apart. The book is describing one condition, not cataloguing distinct defects.
+Ezekiel already treats the two adjectives as one condition. At 2:4 the pairing is קְשֵׁי פָנִים וְחִזְקֵי־לֵב, *qəšê pānîm wəḥizqê-lēb*, hard of face and strong of heart. At 3:7 it is חִזְקֵי־מֵצַח וּקְשֵׁי־לֵב, *ḥizqê-mēṣaḥ ûqšê-lēb*, strong of forehead and hard of heart. The same two roots are applied across face and heart in either arrangement, a chapter apart. The book is describing one condition, not cataloguing distinct defects.
 
 And the canon joins hardness of heart, stone, and refusal of the prophetic word in a single sentence. Zechariah, looking back on Israel's refusal of the former prophets: "They made their hearts adamant in order not to hear the law and the words that the LORD of hosts had sent by his spirit through the former prophets." (Zech 7:12) The word rendered *adamant* is שָׁמִיר, *šāmîr*, flint. A heart made of stone, refusing the word of the prophets, is one complex there — the complex Ezekiel 3:7 and 36:26 stand at either end of.
 
@@ -155,31 +167,41 @@ And the order is stated. The gift comes, and then the walking follows. Not: they
 
 The parts can be told apart. Ezekiel names them separately, and nothing here says otherwise. What is denied is that they are separate promises, so that one might be given while the others are withheld. He marks no seam, and this paper does not supply one. What the promise names as its result is that they follow.
 
-That matters at the objection from Galatians 3 below, which is answered without splitting the operation.
-
 Five verses later the same order appears again, and with an unexpected item in it: "Then you shall remember your evil ways... and you shall loathe yourselves for your iniquities and your abominable deeds." (36:31) Even the shame comes after the gift. Ezekiel does not have them loathe their sins and then receive a heart; he has them receive the heart and then see what they were.
 
 **And what Scripture says God grants is the response itself.** Ezekiel names the operation. Elsewhere the product is named, and what is named is the thing the man does.
 
 Luke, of Lydia: "The Lord opened her heart **to listen eagerly** to what was said by Paul." (Acts 16:14) The stated result of the opening is the attending.
 
-Paul to Timothy: God "may perhaps grant that they will repent" (2 Tim 2:25) — δώῃ, the verb of giving, with repentance as what is given. The church at Jerusalem, of the Gentiles: "God has given even to the Gentiles the repentance that leads to life." (Acts 11:18) And Peter and the apostles, of the risen Christ: God exalted him "that he might give repentance to Israel and forgiveness of sins" (Acts 5:31), δοῦναι μετάνοιαν.
+Paul to Timothy: God "may perhaps grant that they will repent" (2 Tim 2:25) — δώῃ, *dōē*, the verb of giving, with repentance as what is given. The church at Jerusalem, of the Gentiles: "God has given even to the Gentiles the repentance that leads to life." (Acts 11:18) And Peter and the apostles, of the risen Christ: God exalted him "that he might give repentance to Israel and forgiveness of sins" (Acts 5:31), δοῦναι μετάνοιαν, *dounai metanoian*.
 
 **Those three are not equally strong, and the difference is in their objects.** An objector can read *give repentance* as *give the opportunity to repent*: God opens the door, and walking through it is left to the man. That reading costs least where the recipient is a people.
 
+The opportunity reading has evidence of usage behind it. Wisdom 12:10 says that God, judging the Canaanites little by little, "gave them an opportunity to repent," ἐδίδους τόπον μετανοίας, *edidous topon metanoias*. Nine verses later the same writer says God "give[s] repentance for sins," διδοῖς ἐπὶ ἁμαρτήμασιν μετάνοιαν, *didois epi hamartēmasin metanoian* (12:19), in a passage about God's patience toward nations. The book is not a premise. It shows that *give repentance* could be said of a people given room to repent. Acts has the same idea in other words: God "had opened a door of faith for the Gentiles" (Acts 14:27).
+
 Acts 5:31 has that shape. The recipient is Israel, and the giving is the purpose of an exaltation. The objector reads it as: God raised Christ so that repentance would be on offer to the nation. Nothing in the verse forbids that. Its co-object pulls against it, since forgiveness given is forgiveness had, not forgiveness offered. But a pull is not a proof, so Acts 5:31 is the weakest of the three.
 
-Acts 11:18 also names a people, the Gentiles. The church, however, draws its sentence from a case. Peter has just told them that the Spirit fell on Cornelius's household as it had on them at the beginning (11:15–17). What the church had in front of it was repentance that had occurred in particular men. So the sentence reports a result, not a door standing open.
+Acts 11:18 also names a people, the Gentiles, and its *even*, καί, *kai*, marks something extended to a new people. That is the shape of the door of 14:27. The church, however, draws its sentence from a case. Peter has just told them that the Spirit fell on Cornelius's household as it had on them at the beginning (11:15–17). What the church had in front of it was repentance that had occurred in particular men. That weighs toward a result rather than a door. It does not exclude the door, because the church may be drawing from the case what God has now opened to the Gentiles. So Acts 11:18 is contestable, and it is not a route by itself.
 
-Second Timothy 2:25 carries the most. Its objects are particular men, the opponents Timothy is to correct. The NRSV reads "God may perhaps grant that they will repent." The Greek names what God may give: δώῃ αὐτοῖς ὁ θεὸς μετάνοιαν, *dōē autois ho theos metanoian*, God may give them repentance. The object of the giving is repentance, not the opportunity to repent. God may give it through the correction Timothy offers. An opportunity reading has to explain why Paul names repentance as the thing given.
+Second Timothy 2:25 carries the most. Its objects are particular men, the opponents Timothy is to correct. The NRSV reads "God may perhaps grant that they will repent." The Greek names what God may give: δώῃ αὐτοῖς ὁ θεὸς μετάνοιαν, *dōē autois ho theos metanoian*, God may give them repentance. The object of the giving is repentance, not the opportunity to repent. God may give it through the correction Timothy offers. The next verse says what the men are while they lack it: "and that they may escape from the snare of the devil, having been held captive by him to do his will" (2:26). Their will is held.
 
-So the route rests first on 2 Timothy 2:25, with Acts 11:18 beside it. Acts 5:31 is corroborative.
+So an opportunity reading has three things to explain: why Paul names repentance as the thing given, why he says *perhaps* of an opportunity Timothy is already supplying by correcting them, and why the men are captive to another's will. The usage of Wisdom 12 concerns nations given time. It does not show that the reading applies to particular men held captive.
 
-Paul to the Philippians: it has been graciously granted to them **to believe** in Christ (1:29), ἐχαρίσθη. That verb can carry the sense of a favor conferred, and the parallel item in the sentence is suffering, so an objector can read it as the granting of a privilege rather than of the act. This verse is not asked to carry the route by itself. The repentance texts above are what carry it, 2 Timothy 2:25 first, and they use the plain verb of giving with the response as its object.
+So the route rests on 2 Timothy 2:25. Acts 11:18 and Acts 5:31 are corroborative.
+
+Paul to the Philippians: it has been graciously granted to them **to believe** in Christ (1:29), ἐχαρίσθη, *echaristhē*. That verb can carry the sense of a favor conferred, and the parallel item in the sentence is suffering, so an objector can read it as the granting of a privilege rather than of the act. This verse is not asked to carry the route by itself. Second Timothy 2:25 carries it, with the plain verb of giving and the response as its object.
 
 Jeremiah: "I will give them a heart to know that I am the LORD; and they shall be my people and I will be their God, for they shall return to me with their whole heart." (24:7) The heart is given, and the whole-hearted return stands inside the same promise, with God named as the giver of the heart. The כִּי, *kî*, joining the clauses can be read as ground or as time, so nothing here rests on the particle.
 
-Those are two kinds of text and the difference is worth keeping. In Second Timothy, Acts 11, Acts 5 and Philippians the response itself is what is granted. In Acts 16 and Jeremiah the act named is on the heart, and the response is its stated result. Neither kind describes the removal of an obstacle and nothing further. This is where the production half of the claim in the front matter is carried.
+Those are two kinds of text. In Second Timothy, Acts 11, Acts 5 and Philippians the response itself is what is granted. In Acts 16 and Jeremiah the act named is on the heart, and the response is its stated result. Neither kind describes the removal of an obstacle and nothing further. This is where the production half of the claim in the front matter is carried.
+
+**Every instance, not only these.** The texts above report cases: the opponents Timothy is to correct, Cornelius's household, Lydia, the Philippians, the good figs. The claim in the front matter is wider: wherever the response occurs, God's act brought it about. Two things carry it from the cases to every instance.
+
+The first is that the giving is required of everyone. "No one can come to me unless it is granted by the Father" (John 6:65). The Greek is οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ πατρός, *oudeis dynatai elthein pros me ean mē ē dedomenon autō ek tou patros*, no one can come to me unless it has been given to him from the Father. Paul says the same of the confession: "no one can say 'Jesus is Lord' except by the Holy Spirit" (1 Cor 12:3). Both sentences say *no one*.
+
+The second is what the giving is. John 6:65 does not say. Its main verb is *can*, and the construction is the one at John 19:11, "You would have no power over me unless it had been given you from above," where what was given is power to act. So 6:65 can be read as the gift of the ability to come rather than of the coming, and on that reading it states necessity only. The cases say more. Where Scripture names what God gives, it names the response itself (2 Tim 2:25) or an act on the heart with the response as its stated result (Acts 16:14; Jer 24:7). No text describes God giving a particular man the ability to repent or believe and leaving the response to come from somewhere else. The door of faith at Acts 14:27 is opened to a people.
+
+So no one comes without God's giving, and where the giving is named, what is given is the response. That is the production claim for every instance. Joining John and Paul here is canonical synthesis. A reader who wants some instances of the response to come about otherwise has to produce a text that says so. The texts usually offered report a disposition before believing: the good heart of Luke 8:15, the Bereans of Acts 17:11–12, the willing of John 7:17. None says where the disposition came from.
 
 **What these do not say.** They report who gives the act. What none of them gives is the principle of distribution — why these recipients and not others, or whether the gift is universal. Recipients are named in several of them: Paul writes that it was granted *to you*, and Jeremiah speaks of a defined company, the good figs already in exile. Who receives the change, and on what basis, is among the questions this paper does not pursue.
 
@@ -197,7 +219,7 @@ Notice what this does not require. It does not classify repentance as one of the
 
 **And Ezekiel reports it happening.** Thirty chapters after the commission, mid-ministry, God tells him what his audience is doing: "They come to you as people come, and they sit before you as my people, and they hear your words, but they will not obey them. For flattery is on their lips, but their heart is set on their gain." (33:31)
 
-That is 3:7 in the past tense. They hear the words. They do not do them. The explanation opens with כִּי, *kî*, "for," and it ends in the heart: the love is on their lips, and the heart goes after gain. So the reason given is again the heart. The prediction at the commission and the report from the middle of the ministry say the same thing, and the call to turn had been issued in between.
+That is 3:7 in the past tense. They hear the words. They do not do them. The explanation opens with כִּי, *kî*, "for," and it ends in the heart: the flattery is on their lips, and the heart goes after gain. So the reason given is again the heart. The prediction at the commission and the report from the middle of the ministry say the same thing, and the call to turn had been issued in between.
 
 **And Ezekiel joins the refusal to the failure to turn in one sentence.** Telling the history of the exodus generation, God says: "Cast away the detestable things your eyes feast on, every one of you, and do not defile yourselves with the idols of Egypt; I am the LORD your God. But they rebelled against me and would not listen to me; not one of them cast away the detestable things their eyes feasted on, nor did they forsake the idols of Egypt." (20:7–8)
 
@@ -213,7 +235,7 @@ Chapter 20 concerns the ancestors, but Ezekiel tells it to the elders of his own
 
 **Hebrews shows the same shape in another generation.** The writer takes the wilderness people as his case. They heard: "Who were they who heard and yet were rebellious?" (3:16). The trouble is named as a heart: "Take care, brothers and sisters, that none of you may have an evil, unbelieving heart that turns away from the living God." (3:12) The message did them no good: "the message they heard did not benefit them, because they were not united by faith with those who listened." (4:2)
 
-**That last clause deserves its full weight, because it is the sharpest thing an objector has.** The word reached both groups. The variable Hebrews names is in the hearers: they were not joined by faith to those who listened. Read alone, the verse says the difference between the two outcomes lies in the men rather than in a prior act of God.
+**That last clause is the sharpest thing an objector has.** The word reached both groups. The variable Hebrews names is in the hearers: they were not joined by faith to those who listened. Read alone, the verse says the difference between the two outcomes lies in the men rather than in a prior act of God.
 
 Two things answer it, and the second is the more useful.
 
@@ -223,11 +245,11 @@ And the verse is the best warrant in Scripture for the distinction this argument
 
 The Greek is disputed at that point — whether the participle agrees with the hearers or with the word — and nothing above turns on which reading wins, since on either the word came and the faith did not.
 
-There is an inability in the passage, and it is worth saying exactly which one. "So we see that **they were unable to enter** because of unbelief." (3:19) οὐκ ἠδυνήθησαν εἰσελθεῖν, *ouk ēdynēthēsan eiselthein*. What they could not do is enter, and the cause given is unbelief. Hebrews does not say they were unable to believe, and this paper does not read the verse as saying it.
+There is an inability in the passage. "So we see that **they were unable to enter** because of unbelief." (3:19) οὐκ ἠδυνήθησαν εἰσελθεῖν, *ouk ēdynēthēsan eiselthein*. What they could not do is enter, and the cause given is unbelief. Hebrews does not say they were unable to believe, and this paper does not read the verse as saying it.
 
 What the passage supplies is corroboration rather than a premise. The word reached them for forty years, so the deficit was not that it never arrived. The deficit is located in the heart. And the heart is called unbelieving before the failure to enter is reported, so unbelief is the standing condition and not a single event.
 
-One further thing in that passage is worth marking, because Ezekiel does not say it as plainly. Hebrews describes the hardening as happening in the act of hearing: "Today, if you hear his voice, do not harden your hearts." (3:7–8, repeated at 3:15) The heart is not only hard before the word arrives. It is further set by the word it will not have.
+One further thing in that passage goes beyond what Ezekiel says. Hebrews describes the hardening as happening in the act of hearing: "Today, if you hear his voice, do not harden your hearts." (3:7–8, repeated at 3:15) The heart is not only hard before the word arrives. It is further set by the word it will not have.
 
 **Ezekiel puts even contrition after the gift.** That was step 5's last observation and it belongs here too. "Then you shall remember your evil ways... and you shall loathe yourselves." (36:31) The self-loathing is not what earns the new heart. It is what follows it.
 
@@ -235,19 +257,23 @@ One further thing in that passage is worth marking, because Ezekiel does not say
 
 And John makes the link to hearing God explicit ten verses later: "Everyone who has heard and learned from the Father comes to me." (6:45) Hearing the Father is what produces the coming. So coming to Christ is the listening that 3:7 says the stubborn heart will not do.
 
-Part of that is John's and part is this paper's, and the parts should be kept apart. John joins coming to believing at 6:35, and at 6:45 he makes hearing the Father what produces the coming. Joining John's hearing to Ezekiel's listening is this paper's move, and it is the same move step 3 makes.
+Part of that is John's and part is this paper's. John joins coming to believing at 6:35, and at 6:45 he makes hearing the Father what produces the coming. Joining John's hearing to Ezekiel's listening is this paper's move, and it is the same move step 3 makes.
 
-Paul puts it in a different word. He writes that "not all have obeyed the good news," and the ground he gives for saying so is Isaiah's "Lord, who has believed our message?" (Rom 10:16) So not believing is, for Paul, a case of not obeying. That link is used again at Romans 8 in the objections below.
+Paul puts it in a different word. He writes that "not all have obeyed the good news," and the ground he gives for saying so is Isaiah's "Lord, who has believed our message?" (Rom 10:16) So not believing is, for Paul, a case of not obeying.
 
-**The remaining escape, and its price.** A critic can say the man does not repent before the change but merely consents to receive it, with repentance following after. Scripture never describes a man consenting to be given a new heart. He would be inventing a response the texts do not name in order to avoid the one they do.
+**The remaining escape, and its price.** A critic can say the man does not repent before the change but merely consents to receive it, with repentance following after.
 
-**One note before the crossing.** The command to repent is not peculiar to Israel. Paul tells the Athenians that God "commands all people everywhere to repent" (Acts 17:30). So the summons in view at step 3 is the summons every man gets, which is what step 10 will need.
+Scripture does show men asking God for a new heart, or asking God to turn them. "Create in me a clean heart, O God" (Ps 51:10). "Bring me back, let me come back, for you are the LORD my God" (Jer 31:18). "Restore us to yourself, O LORD, that we may be restored" (Lam 5:21). Each of these prayers is addressed to God, and asking God to turn you is already turning to him. So the asking is the response, not a step before it, and the necessity claim covers it.
+
+The critic's consent would have to be something short of turning to God that still asks God for the change. Scripture does not name such an act. He would be inventing a response the texts do not name in order to avoid the one they do.
+
+**One note before the crossing.** The command to repent is not peculiar to Israel. Paul tells the Athenians that God "commands all people everywhere to repent" (Acts 17:30). So the summons in view at step 3 is the summons every man gets.
 
 **7. The gospel makes a demand, and the power is not in the demand.**
 
 An objector may grant everything so far about Ezekiel's audience and still say the gospel is a different matter. The old word made demands; this word, he says, carries its own power, so the hearer of Christ crucified is not in the position Ezekiel's hearers were in.
 
-Part of that is true, and it should be granted before it is answered. God does give life through the preached word. Paul calls the gospel "the power of God for salvation to everyone who has faith" (Rom 1:16). Peter tells his readers they have "been born anew... through the living and enduring word of God" (1 Pet 1:23). James says God "gave us birth by the word of truth" (Jas 1:18). Nothing here denies any of that.
+Part of that is true. God does give life through the preached word. Paul calls the gospel "the power of God for salvation to everyone who has faith" (Rom 1:16). Peter tells his readers they have "been born anew... through the living and enduring word of God" (1 Pet 1:23). James says God "gave us birth by the word of truth" (Jas 1:18). Nothing here denies any of that.
 
 What does not follow is that the power sits in the sentences, available to a hearer as such. Three things block it, and two of them are Paul's.
 
@@ -311,7 +337,7 @@ One further correspondence is weaker than those five and is offered as such: "se
 
 **Elsewhere Paul does use Ezekiel's words.** To the Corinthians: "you show that you are a letter of Christ, prepared by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts." (2 Cor 3:3) The NRSV's *human hearts* renders καρδίαις σαρκίναις, *kardiais sarkinais*, hearts of flesh. The Septuagint of Ezekiel 36:26 has καρδίαν σαρκίνην, *kardian sarkinēn*, and 11:19 has the same.
 
-Paul's adjective for the stone tablets, λιθίναις, *lithinais*, is also Ezekiel's: the Septuagint has τὴν καρδίαν τὴν λιθίνην, the heart of stone, at both places. So Paul uses both halves of Ezekiel's pair. Stone tablets are also the language of Exodus (31:18), so λιθίναις alone does not carry the link. It supports it.
+Paul's adjective for the stone tablets, λιθίναις, *lithinais*, is also Ezekiel's: the Septuagint has τὴν καρδίαν τὴν λιθίνην, *tēn kardian tēn lithinēn*, the heart of stone, at both places. So Paul uses both halves of Ezekiel's pair. Stone tablets are also the language of Exodus (31:18), so λιθίναις alone does not carry the link. It supports it.
 
 Three things in Paul's sentence come from that promise. Stone is set against flesh. The heart is what is acted on. And the Spirit is the one acting. Paul says the result stands in the church at Corinth, a church of men who had been pagans (1 Cor 12:2).
 
@@ -331,19 +357,23 @@ He states it again as a universal. "All, both Jews and Greeks, are under the pow
 
 The clause that bears directly on this argument is *no one seeks God*. That is the proposition an objector needs to deny if he holds that a man moves first.
 
+Other texts speak of men seeking God. Paul tells the Athenians that God made the nations "so that they would search for God and perhaps grope for him and find him" (Acts 17:27). That is a purpose clause, and it carries its own *perhaps*. Paul then says what the nations had made of God: an image "formed by the art and imagination of mortals" (17:29), in "the times of human ignorance" (17:30). So the passage states what God made men for, and it reports no one who found him by seeking.
+
+Jeremiah writes to the exiles: "When you search for me, you will find me; if you seek me with all your heart" (Jer 29:13). The letter is sent to the exiles taken with King Jeconiah (29:1–2). Those are the good figs of chapter 24, of whom God says, "I will give them a heart to know that I am the LORD... for they shall return to me with their whole heart" (24:7). So the whole-hearted seeking of 29:13 and the whole-hearted return of 24:7 are said of the same company, and in 24:7 God gives the heart that returns. Deuteronomy 4:29 has the same seeking "with all your heart and soul," and Deuteronomy 30:6 names who circumcises that heart.
+
 Paul then states the inability without a figure. "The mind that is set on the flesh is hostile to God; it does not submit to God's law — **indeed it cannot**; and those who are in the flesh cannot please God." (Rom 8:7–8) οὐδὲ γὰρ δύναται, *oude gar dynatai*. That this describes the man without the Spirit rather than a believer in a bad week is settled in the next verse: "You are not in the flesh; you are in the Spirit, since the Spirit of God dwells in you." (8:9) That believing falls under the submitting Paul denies is a further premise, and it is argued in the objections below from Romans 10:16 and 10:3.
 
-Paul says it again to the Corinthians, and the context should be quoted with it, since a critic will otherwise say the verse is about advanced wisdom rather than the gospel. "Those who are unspiritual do not receive the gifts of God's Spirit, for they are foolishness to them, and they **are unable** to understand them because they are spiritually discerned." (1 Cor 2:14) οὐ δύναται, *ou dynatai*. What Paul has been calling the wisdom of God in that chapter is identified six verses earlier: "None of the rulers of this age understood this; for if they had, they would not have crucified the Lord of glory." (2:8) And the thing the unspiritual man finds foolish, μωρία, is the thing Paul called foolish to the perishing at the start of the letter: "the message about the cross is foolishness to those who are perishing." (1:18) So the object of the inability is the cross, not a graduate course.
+Paul says it again to the Corinthians. A critic will say the verse is about advanced wisdom rather than the gospel, and the context answers him. "Those who are unspiritual do not receive the gifts of God's Spirit, for they are foolishness to them, and they **are unable** to understand them because they are spiritually discerned." (1 Cor 2:14) οὐ δύναται, *ou dynatai*. What Paul has been calling the wisdom of God in that chapter is identified six verses earlier: "None of the rulers of this age understood this; for if they had, they would not have crucified the Lord of glory." (2:8) And the thing the unspiritual man finds foolish, μωρία, *mōria*, is the thing Paul called foolish to the perishing at the start of the letter: "the message about the cross is foolishness to those who are perishing." (1:18) So the object of the inability is the cross, not a graduate course.
 
 **Jesus says it in the plainest terms the canon has.** "No one can come to me unless drawn by the Father who sent me." (John 6:44) οὐδεὶς δύναται ἐλθεῖν, *oudeis dynatai elthein*. And again twenty-one verses later: "No one can come to me unless it is granted by the Father." (6:65)
 
-Those verses establish that the coming requires a prior act of God. They do not by themselves say what that act is, and this paper does not use them for that. Step 6 does that work.
+Those verses establish that the coming requires a prior act of God. They do not by themselves say what that act is, and this paper does not use them for that. Step 5 names the act, and step 9 shows Paul applying it to men who come to Christ.
 
 **And John puts a birth before the seeing.** "No one can see the kingdom of God without being born from above... The wind blows where it chooses, and you hear the sound of it, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit." (John 3:3, 8)
 
 Between those two sentences Jesus names the two births: "no one can enter the kingdom of God without being born of water and Spirit. What is born of the flesh is flesh, and what is born of the Spirit is spirit." (3:5–6) That is the line between flesh and Spirit that Romans 8:8–9 draws, and joining the two is canonical synthesis.
 
-**Elsewhere the same shape appears in single sentences.** Moses: "to this day the LORD has not given you a mind to understand, or eyes to see, or ears to hear" (Deut 29:4) — which is Ezekiel 12:2 four centuries early. The granting texts that belong beside it — Acts 16:14, 2 Timothy 2:25, Acts 11:18, Acts 5:31, Philippians 1:29 — are collected at the end of step 5, since what they supply is the production half of the claim rather than the crossing.
+**Elsewhere the same shape appears in single sentences.** Moses: "to this day the LORD has not given you a mind to understand, or eyes to see, or ears to hear" (Deut 29:4) — the condition of Ezekiel 12:2, named centuries earlier. The granting texts that belong beside it — Acts 16:14, 2 Timothy 2:25, Acts 11:18, Acts 5:31, Philippians 1:29 — are collected at the end of step 5, since what they supply is the production half of the claim rather than the crossing.
 
 **11. Therefore no one comes unless God changes the heart.**
 
@@ -425,7 +455,7 @@ Paul also has the Spirit at work before the believing, in his own words. "No one
 
 Luke gives a case where the reception comes later in time. The Samaritans "believed Philip" and were baptized (Acts 8:12). "As yet the Spirit had not come upon any of them" (8:16), and they received the Spirit when Peter and John laid hands on them (8:17). That is reception after believing, which this paper grants. It says nothing about what brought the believing about, which is this paper's question.
 
-That distinction is one this paper introduces. Neither writer states it as a distinction, and it should be marked rather than slipped past. What warrants it is that Paul prints both relations separately and they cannot be the same relation: the Spirit is at work in the confession at 1 Corinthians 12:3, and the Spirit is received through faith at Galatians 3:14. A reader who refuses the distinction has to say what 1 Corinthians 12:3 is describing.
+That distinction is one this paper introduces. Neither writer states it as a distinction. What warrants it is that Paul prints both relations separately and they cannot be the same relation: the Spirit is at work in the confession at 1 Corinthians 12:3, and the Spirit is received through faith at Galatians 3:14. A reader who refuses the distinction has to say what 1 Corinthians 12:3 is describing.
 
 Ephesians 1:13 gets the same answer and adds one of its own. σφραγίζω, *sphragizō*, sealing, is the marking of what is already owned. The verse names a status conferred on believers, not the first moment God acted on them.
 
@@ -445,7 +475,7 @@ There is a further difficulty. On the usual account this grace is universal and 
 
 The objection says νεκρούς, *nekrous*, at Ephesians 2:1 means alienated or estranged, and the estranged can still believe.
 
-The remedy tells you what the state required. Estrangement is part of what Scripture says is wrong — Paul calls himself a minister of reconciliation and pleads with men to be reconciled to God (2 Cor 5:18–20), and that is not a figure of speech either. But reconciliation is not the whole of the cure. Paul also writes συνεζωοποίησεν, he made us alive. Scripture describes the remedy in both registers: the dead are made alive and the estranged are reconciled. Nothing here needs them collapsed into one act.
+The remedy tells you what the state required. Estrangement is part of what Scripture says is wrong — Paul calls himself a minister of reconciliation and pleads with men to be reconciled to God (2 Cor 5:18–20), and that is not a figure of speech either. But reconciliation is not the whole of the cure. Paul also writes συνεζωοποίησεν, *synezōopoiēsen*, he made us alive. Scripture describes the remedy in both registers: the dead are made alive and the estranged are reconciled. Nothing here needs them collapsed into one act.
 
 So the argument is not that death means incapacity rather than estrangement. It is that whatever else the condition is, Scripture's remedy for it includes being made alive, and the one who makes alive is God: συνεζωοποίησεν, he made us alive.
 
@@ -477,7 +507,7 @@ John has a second case, and it is the one step 3 uses. The audience of John 8:43
 
 The third is what the objection would have to show. It needs the thing those writers marked off and the response under review to be one act, so that having the first is having the second. That identification is the objector's, and the men who reported these cases are the ones who marked them apart.
 
-**"An honest and good heart" — Luke 8:15.**
+**"An honest and good heart" — Luke 8:15; Acts 17:11–12; John 7:17.**
 
 "But as for that in the good soil, these are the ones who, when they hear the word, hold it fast in an honest and good heart, and bear fruit with patient endurance." (Luke 8:15)
 
@@ -487,7 +517,27 @@ The verse describes the receptive heart. It does not say where its goodness came
 
 That addition contradicts step 10. Step 10 argues, from Ephesians 2:3 and Romans 8:7–8, that the condition 3:7 names is every man's natural condition. The heart of 3:7 will not listen. The heart of Luke 8:15 holds the word fast. They are not the same heart.
 
+Luke says where the knowing comes from five verses earlier, between the parable and its explanation: "To you it has been given to know the secrets of the kingdom of God; but to others I speak in parables, so that 'looking they may not perceive, and listening they may not understand'" (8:10). The knowing is given, δέδοται, *dedotai*, and the line quoted is Isaiah's hardening commission (Isa 6:9). So in the same passage the knowing that separates the disciples from the others is named as a gift.
+
 So the verse says what this paper also says: the hearers who bear fruit are the ones with the good heart. It does not say where that heart comes from, and that is the question under review.
+
+Two other texts have the same shape. Luke says the Jews of Beroea "were more receptive than those in Thessalonica, for they welcomed the message very eagerly... Many of them therefore believed" (Acts 17:11–12). Jesus says, "Anyone who resolves to do the will of God will know whether the teaching is from God" (John 7:17). In both, a disposition comes before believing or knowing, and in both the disposition is reported without its source. They get the answer Luke 8:15 gets. Where Luke does name the source of a hearer's attention, he names the Lord: "The Lord opened her heart to listen eagerly" (Acts 16:14). And the willing of John 7:17 is the hearing of 8:47: "Whoever is from God hears the words of God."
+
+**Cornelius feared God before Peter came — Acts 10:2, 4, 35.**
+
+Luke calls Cornelius "a devout man who feared God with all his household; he gave alms generously to the people and prayed constantly to God" (10:2). The angel tells him, "Your prayers and your alms have ascended as a memorial before God" (10:4). Peter says, "in every nation anyone who fears him and does what is right is acceptable to him" (10:35). Yet the angel's message is that Peter "will give you a message by which you and your entire household will be saved" (11:14), and the church concludes that God has given the Gentiles repentance (11:18), which step 5 uses.
+
+The objection is that here is a man who feared God and prayed before the change, so a man can move toward God first.
+
+Three things.
+
+Luke reports the fear and does not say where it came from. The objection needs it to come from a heart God had not touched, and the passage does not say that.
+
+Jeremiah names the source of that fear in the people God restores: "I will put the fear of me in their hearts, so that they may not turn from me" (Jer 32:40).
+
+And Luke gives a parallel case in which he does name the source. Lydia is "a worshiper of God" before Paul speaks, and still "the Lord opened her heart to listen eagerly to what was said by Paul" (Acts 16:14). So in Luke's own reports a God-fearer is not a man who needs nothing from God, and where Luke names the act on such a heart, it is God's.
+
+Acts 10:35 states whom God accepts. It does not say how a man comes to fear him.
 
 **"Those who hear will live" — John 5:24–25.**
 
@@ -506,6 +556,18 @@ The second is what the objection would need the verse to say. It would need the 
 The third corroborates the first two rather than standing beside them. John shows the same thing done. Jesus calls Lazarus by name and Lazarus comes out. The order is the voice, then a raised man, then a man walking out of a tomb. What the voice does is raise him; what he does is walk. There is no stage at which a still-dead Lazarus does something that gets him raised.
 
 And "life" at 5:24 is eternal life, the thing John says at 20:31 that he wrote his book to bring men to. Identifying that with Ezekiel's replacement of the heart is again the objector's to argue.
+
+**"He gave power to become children of God" — John 1:12–13.**
+
+"But to all who received him, who believed in his name, he gave power to become children of God, who were born, not of blood or of the will of the flesh or of the will of man, but of God."
+
+The objection is that receiving and believing come first, and becoming children of God follows, so the birth follows faith.
+
+Two things.
+
+What 1:12 says follows the believing is ἐξουσία, *exousia*, the right to become children. That is a status received. The answer to Galatians 3 above draws the same line: what is received through faith is one relation, and what produces the faith is another.
+
+And 1:13 says what the birth is not. It is not "of the will of the flesh or of the will of man." It is "of God." The clause is a relative clause describing the same people, and it does not put the birth after the believing. What it does say is where the birth comes from, and it denies that the man's will is the source.
 
 **"That through believing you may have life" — John 20:31.**
 
@@ -531,7 +593,7 @@ And the sentence opens with thanks to God for the obedience. "Thanks be to God t
 
 **"You have purified your souls" — 1 Peter 1:22.**
 
-This sits one verse before a text used at step 7, so it should be met rather than skipped.
+This sits one verse before a text used at step 7.
 
 "Now that you have purified your souls by your obedience to the truth so that you have genuine mutual love, love one another deeply from the heart. You have been born anew, not of perishable but of imperishable seed, through the living and enduring word of God." (1:22–23)
 
@@ -543,7 +605,7 @@ The answer is the one this paper gives for Colossians 2:12, and Peter's grammar 
 
 "Surely, this commandment that I am commanding you today is not too hard for you, nor is it too far away. It is not in heaven, that you should say, 'Who will go up to heaven for us, and get it for us so that we may hear it and observe it?' Neither is it beyond the sea... No, the word is very near to you; it is in your mouth and in your heart for you to observe."
 
-The objection is that Moses asserts their ability, in so many words: *not too hard for you*. This is the most direct counter-text in the Old Testament and it deserves more than a citation of Paul.
+The objection is that Moses asserts their ability, in so many words: *not too hard for you*. This is the most direct counter-text in the Old Testament.
 
 **First, what Moses goes on to explain.** He makes two denials, and they are not the same denial. The commandment is not *too hard* — לֹא־נִפְלֵאת, *lōʾ-niplēʾt*, from a root that does carry difficulty, as at Deuteronomy 17:8, where a case too hard for a local court is sent up to the priests. And it is not *too far off*, רְחֹקָה, *rəḥōqâ*. So the first word cannot simply be reduced to distance, and this paper does not reduce it.
 
@@ -561,7 +623,7 @@ Chapter 29 says it as a present fact about the men standing there: "to this day 
 
 **Fourth, a harder question in the same chapter, which runs the other way.** Verse 2 has them returning to the LORD "with all your heart and with all your soul," and verse 6 has God circumcising the heart after that. A critic can read those two verses as turning first and heart-work second — his order, in the text this paper is using.
 
-The first answer is a reading, and it should be labeled as one. The returning of verse 2 and the circumcision of verse 6 have the same content, in the same words: obeying and loving the LORD בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ, with all your heart and with all your soul. On that reading they are one restoration described twice, once from the men's side and once from God's, and only verse 6 says how a heart comes to be that way. Verse 2 names the state; verse 6 names its author. A critic is entitled to answer that the paragraph has a sequential surface and that *when... then* is a real construction, and this paper does not claim that its reading is the only grammatically available one.
+The first answer is a reading. The returning of verse 2 and the circumcision of verse 6 have the same content, in the same words: obeying and loving the LORD בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ, *bəḵol-ləḇāḇəḵā ûḇəḵol-napšəḵā*, with all your heart and with all your soul. On that reading they are one restoration described twice, once from the men's side and once from God's, and only verse 6 says how a heart comes to be that way. Verse 2 names the state; verse 6 names its author. A critic is entitled to answer that the paragraph has a sequential surface and that *when... then* is a real construction, and this paper does not claim that its reading is the only grammatically available one.
 
 The second answer does not depend on which reading wins. Two claims have to be kept apart.
 
@@ -617,7 +679,7 @@ And John has already said that every man is brought before the Son. The Father "
 
 Daniel said it first: "Many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt." (Dan 12:2) Revelation shows it done: "the dead, great and small, standing before the throne." (Rev 20:12)
 
-So John has every man brought before the Son without every man coming to life. This paper does not claim that 12:32 names that event, and identifying the two would need its own argument. The datum shows that in John, being brought before Christ and being enabled to believe him are different things. The objector does have evidence for relating 12:32 to 6:44: the verb is ἑλκύω in both, and both draw toward Christ. So this paper does not rest on keeping the two sayings apart. The fork decides the objection either way.
+So John has every man brought before the Son without every man coming to life. This paper does not claim that 12:32 names that event, and identifying the two would need its own argument. The datum shows that in John, being brought before Christ and being enabled to believe him are different things. The objector does have evidence for relating 12:32 to 6:44: the verb is ἑλκύω, *helkyō*, in both, and both draw toward Christ. So this paper does not rest on keeping the two sayings apart. The fork decides the objection either way.
 
 The fork decides the objection. A universal drawing meets the fork above. If it removes the hard forehead and the stubborn heart, it is the change under another name. If it does not, the obstacle 3:7 names is still in place and a universal drawing has not moved anyone past it.
 
@@ -633,7 +695,7 @@ The first part is granted. This paper does not claim that God does nothing in a 
 
 "Indeed, to this very day whenever Moses is read, a veil lies over their minds; but when one turns to the Lord, the veil is removed."
 
-This is the strongest text an opponent has for putting the removal of an obstruction after the turning, and it should be met rather than passed over.
+This is the strongest text an opponent has for putting the removal of an obstruction after the turning.
 
 **First, ask what the veil does.** Paul tells us, twice. Moses "put a veil over his face to keep the people of Israel from gazing at the end of the glory that was being set aside" (3:13). And the opposite of the veil is sight: "all of us, with unveiled faces, seeing the glory of the Lord as though reflected in a mirror, are being transformed" (3:18).
 
@@ -643,7 +705,7 @@ The veil hides glory. That is its whole office in the passage.
 
 Hardening and veil belong to one complex of not-perceiving, and nothing here needs them prised apart into separate mechanisms. What the argument needs is narrower: Paul does not identify the covering whose removal he times at 3:16 with the heart of stone Ezekiel says God removes.
 
-This paper has been wrong about the passage in both directions. An earlier draft said a veil over a text being read is simply a different problem from a heart that will not listen, which was too convenient. The next draft conceded that the two were the same family of trouble, which gave away more than Paul's own wording requires. What the text supports is the middle: related, since both concern not perceiving, and not identical, since one hides glory and the other refuses to hear.
+What the text supports is that the two are related, since both concern not perceiving, and not identical, since one hides glory and the other refuses to hear.
 
 **Third, what follows for the order.** Ezekiel's trouble is a heart that will not *listen*, and God takes it out and puts another in so they will *walk*. Paul's trouble here is a covering that keeps men from *seeing* glory, removed so that they behold the Lord and are changed. Those can be two descriptions of one conversion. They are not the same act in the same words.
 
@@ -679,6 +741,24 @@ As for John 6:45, the objection needs the hearing there to be ordinary instructi
 
 So 6:45's hearing and learning from the Father cannot be what a preacher supplies, because what a preacher supplied in that chapter did not produce coming. It is the Father's own teaching, which is what 6:44 has just called drawing. The verse does not hand the objection a hearing that works on its own.
 
+**The inability in John is judicial hardening — John 12:37–40.**
+
+"Although he had performed so many signs in their presence, they did not believe in him... And so they could not believe, because Isaiah also said, 'He has blinded their eyes and hardened their heart'" (12:37, 39–40).
+
+The objection is that John gives a reason for the inability he reports, and the reason is a hardening of one audience, not the nature of every man. Read John 6:44, 6:65, and 8:43 the same way, the objector says, and they describe men God had blinded, not men as they are born.
+
+The objection is right about 12:39–40. John does trace that inability to God's hardening, and this paper does not deny it.
+
+What fails is extending it to the other texts. Three things stand against that.
+
+At 8:47 Jesus gives a different reason, and it concerns origin: "The reason you do not hear them is that you are not from God." He has already named the origin: "You are from your father the devil" (8:44). That is a statement about what the men are, which is the third clause of Ezekiel 3:7.
+
+At 6:44 and 6:65 the subject is οὐδείς, *oudeis*, no one, and nothing in either sentence restricts it to the hardened. Jesus gives 6:65 as the reason some of his hearers do not believe (6:64), but the reason he gives is a rule about everyone.
+
+And John states the natural condition without any hardening: "What is born of the flesh is flesh" (3:6), and "all who do evil hate the light and do not come to the light" (3:20).
+
+The crossing at step 10 does not rest on John alone. Romans 8:7–8, 1 Corinthians 2:14, and Ephesians 2:3 speak of the flesh, the unspiritual man, and what men are by nature, and none of them speaks of a hardening. If the objection were granted for every text in John, those would remain.
+
 **The inability texts are not about inability to believe the gospel.**
 
 This is the most careful form of the opposition, and it comes as five separate glosses rather than one claim. Ephesians 2:3 is read as corruption and guilt rather than incapacity. Romans 3:11's "there is no one who seeks God" becomes no one seeks as he ought. Romans 8:7–8's "cannot please God" becomes cannot please him by keeping the law, which leaves believing untouched. First Corinthians 2:14 becomes the deep things rather than the preached cross. And John 6:44's drawing becomes John 6:45's hearing, so that the prior act is the word itself.
@@ -695,13 +775,13 @@ Its first move is to read "in the flesh" as a believer having a bad stretch, and
 
 Its second move is the one that matters: *cannot please God* means cannot please him by law-keeping, which leaves believing untouched. That requires believing and submitting to be two different things, and Paul refuses the partition repeatedly in the same letter.
 
-Romans 10:16 makes not-believing the evidence for not-obeying. "But not all have obeyed the good news; for Isaiah says, 'Lord, who has believed our message?'" Paul asserts that they did not obey the gospel, and the ground he offers for that assertion — γάρ — is Isaiah's complaint that they did not believe the report. So failing to believe is, for Paul, a case of failing to obey.
+Romans 10:16 makes not-believing the evidence for not-obeying. "But not all have obeyed the good news; for Isaiah says, 'Lord, who has believed our message?'" Paul asserts that they did not obey the gospel, and the ground he offers for that assertion — γάρ, *gar* — is Isaiah's complaint that they did not believe the report. So failing to believe is, for Paul, a case of failing to obey.
 
-Romans 10:3 says it with the verb in question. Israel, ignorant of God's righteousness and seeking to establish their own, "have not submitted to God's righteousness" — οὐχ ὑπετάγησαν, *ouch hypetagēsan*, which is 8:7's οὐχ ὑποτάσσεται. And what they failed to submit to there is not the law. It is God's righteousness, which the next verse identifies with Christ, "the end of the law so that there may be righteousness for everyone who believes." (10:4) Paul uses *submit* for the receiving of righteousness by faith and calls the refusal of it non-submission.
+Romans 10:3 says it with the verb in question. Israel, ignorant of God's righteousness and seeking to establish their own, "have not submitted to God's righteousness" — οὐχ ὑπετάγησαν, *ouch hypetagēsan*, which is 8:7's οὐχ ὑποτάσσεται, *ouch hypotassetai*. And what they failed to submit to there is not the law. It is God's righteousness, which the next verse identifies with Christ, "the end of the law so that there may be righteousness for everyone who believes." (10:4) Paul uses *submit* for the receiving of righteousness by faith and calls the refusal of it non-submission.
 
 A careful objector will answer that the verbs match while the objects do not: 8:7 has the law and 10:3 has God's righteousness, so the two non-submissions could be two different failures. He can say that. What it costs him is 10:4, which stands between the two objects and joins them — Christ is the end of the law, for righteousness, to everyone who believes. To keep the objects apart he has to keep the law, the righteousness, and the believing from meeting in a verse where Paul puts all three.
 
-Hebrews says it outright, of faith and pleasing God together: "without faith it is impossible to please God" (Heb 11:6). Hebrews is not Paul, so joining the verse to Romans 8:8 is canonical synthesis, and the verbs differ — εὐαρεστῆσαι there, ἀρέσαι in Romans. What the synthesis supplies is that the canon does not place faith outside pleasing God. A gloss on which the flesh cannot please God by keeping the law, but can please him by believing, has to hold a line that Hebrews does not draw.
+Hebrews says it outright, of faith and pleasing God together: "without faith it is impossible to please God" (Heb 11:6). Hebrews is not Paul, so joining the verse to Romans 8:8 is canonical synthesis, and the verbs differ — εὐαρεστῆσαι, *euarestēsai*, there, ἀρέσαι, *aresai*, in Romans. What the synthesis supplies is that the canon does not place faith outside pleasing God. A gloss on which the flesh cannot please God by keeping the law, but can please him by believing, has to hold a line that Hebrews does not draw.
 
 Two more things the gloss has to get past, and both are inside Romans 8.
 
@@ -713,7 +793,7 @@ First Corinthians 2:14's object is named by Paul at 1:18 and 2:8 — the message
 
 That gloss has a second form, and it comes from the next paragraph of the same letter. Paul tells the Corinthians, who are believers, "I could not speak to you as spiritual people, but rather as people of the flesh." (3:1) So, the objection runs, the spiritual-and-unspiritual language is a scale of maturity inside the church rather than a line between the regenerate and everyone else.
 
-Paul's own words keep the two apart. The man at 2:14 is ψυχικός, *psychikos*. The Corinthians at 3:1 are σαρκίνοις, *sarkinois*, and at 3:3 σαρκικοί, *sarkikoi*. Both words were available to him and he does not call the Corinthians ψυχικοί. The term he uses of them is the one he attaches to behavior — jealousy and quarreling are what he names in the next clause — and the term at 2:14 is the one he sets against having the Spirit at all.
+Paul's own words keep the two apart. The man at 2:14 is ψυχικός, *psychikos*. The Corinthians at 3:1 are σαρκίνοις, *sarkinois*, and at 3:3 σαρκικοί, *sarkikoi*. Both words were available to him and he does not call the Corinthians ψυχικοί, *psychikoi*. The term he uses of them is the one he attaches to behavior — jealousy and quarreling are what he names in the next clause — and the term at 2:14 is the one he sets against having the Spirit at all.
 
 And John 6:45 is answered above, from 6:36 and 6:64.
 
@@ -745,7 +825,7 @@ Step 1 reports what the text says. Every other step makes a move, and here they 
 
 **Step 2** — that the third clause of 3:7 gives the reason for the unwillingness rather than adding a further description. The grammar supports it, since that clause is introduced by כִּי, *kî*, like the one before it. A reader may take the three clauses as parallel rather than as a chain.
 
-**Step 3** — that a man who will not listen does not hear the call. This is the load-bearing inference of the first half. It rests on God's advance statement of the outcome and on the outcome matching it. It also rests on John 8:43 and 8:47, where Jesus says his hearers cannot hear his word and gives the reason as what they are. Joining John 8 to Ezekiel 3 is canonical synthesis. The strongest objection here is that a forecast of refusal, even one explained by the heart, is not a proof that the heart cannot respond. That objection is real against Ezekiel's forecast taken alone. It is why this step also rests on John 8:43 and 8:47, and why step 10 crosses to every man on New Testament texts rather than on Ezekiel. Culpable and conditioned are not alternatives: 3:7 has the refusal both theirs and explained by what they are.
+**Step 3** — that a man who will not listen does not hear the call. This is the load-bearing inference of the first half. It rests on the cause 3:7 gives, and on the outcome Ezekiel reports matching it (12:9; 20:8; 33:31). It also rests on John 8:43 and 8:47, where Jesus says his hearers cannot hear his word and gives the reason as what they are. Joining John 8 to Ezekiel 3 is canonical synthesis. The strongest objection here is that a forecast of refusal, even one explained by the heart, is not a proof that the heart cannot respond. Ezekiel 12:3 and Jeremiah 3:7 sharpen it, since God also says *perhaps*, and once reports an expectation unmet. That objection is real against Ezekiel's forecast taken alone. It is why this step also rests on John 8:43 and 8:47, and why step 10 crosses to every man on New Testament texts rather than on Ezekiel. Culpable and conditioned are not alternatives: 3:7 has the refusal both theirs and explained by what they are.
 
 **Step 4** — that Romans 10:16 and 10:17 together establish the word as necessary and insufficient. Each verse is direct; using them together is the step.
 
@@ -753,17 +833,17 @@ Step 1 reports what the text says. Every other step makes a move, and here they 
 
 The granting texts at the end of the step are reports rather than inferences. Reading them as a pattern — that what God gives is the response and not merely its precondition — is the move, and it is the one the production half rests on. It does not depend on anything else in the step.
 
-The three repentance texts are ranked, and the ranking tells an objector where to aim. Second Timothy 2:25 carries the route, because its recipients are particular men and the object of God's giving is repentance, so an opportunity reading has to explain the wording. Acts 11:18 stands beside it, because the church draws it from the case of Cornelius's household. Acts 5:31 is corroborative, because its recipient is a people and the opportunity reading costs least there. An objector who wants to break production has to break 2 Timothy 2:25 and Acts 11:18 in the first kind, and Acts 16:14 in the second. Winning at Acts 5:31 moves nothing.
+The three repentance texts are ranked, and the ranking tells an objector where to aim. Second Timothy 2:25 carries the route, because its recipients are particular men, the object of God's giving is repentance, and the next verse calls them captive to another's will. Acts 11:18 and Acts 5:31 are corroborative, because each names a people, and there the opportunity reading has evidence of usage (Wis 12:10, 19; Acts 14:27). Acts 11:18 is drawn from the case of Cornelius's household, which weighs toward a result, but the case does not exclude the door. An objector who wants to break production in the named cases has to break 2 Timothy 2:25 in the first kind and Acts 16:14 in the second. Winning at Acts 5:31 or Acts 11:18 moves nothing.
 
-That 36:26–27 is one promise is also a move, and the claim should not be read wider than it is. The parts are distinguishable, and Ezekiel names them separately. What is denied is that they are separate promises, one of which might be given while the others are withheld, and what is asserted is that the stated result attaches to the whole rather than to any part. The support is that the two verses are one speech, with one giver, a series of gifts, and one stated result, and no seam is marked in it. A reader who wants a part detached has to find the seam. Unity does not date the parts. It does not say they are conferred at one instant, or all before faith, and this paper claims neither.
+The extension from the cases to every instance of the response is a further move. It rests on John 6:65 and 1 Corinthians 12:3, which say that no one comes or confesses without God's giving, and on the cases, which name what the giving is. John 6:65 can be read as the gift of the ability to come, on the pattern of John 19:11, and on that reading it states necessity only. The extension then rests on the cases naming the response as what God gives, and on the absence of any text naming another source for a response. An objector breaks it by producing such a text.
+
+That 36:26–27 is one promise is also a move. The parts are distinguishable, and Ezekiel names them separately. What is denied is that they are separate promises, one of which might be given while the others are withheld, and what is asserted is that the stated result attaches to the whole rather than to any part. The support is that the two verses are one speech, with one giver, a series of gifts, and one stated result, and no seam is marked in it. A reader who wants a part detached has to find the seam. Unity does not date the parts. It does not say they are conferred at one instant, or all before faith, and this paper claims neither.
 
 The one-promise premise does not carry production. It keeps the parts of the promise together. But 36:27's causative names the walking, and the promise does not name the first turning. So Ezekiel corroborates production, and the production claim stands on the granting texts.
 
 **Step 6** — that the call to repent at Ezekiel 18:30 is among the words 3:7 says they will not hear. This is the step that gives the argument its order, and it is the place to attack it. It rests on the command to repent being part of the prophet's message, which is direct, and on 3:7's refusal covering that message, which is the same inference as step 3. Ezekiel 33:31 reports the outcome the commission predicted. Ezekiel 20:8 states the link in one sentence: the men who "would not listen to me" (*lōʾ ʾābû lišmōaʿ*, not willing to listen, the words of 3:7) did not cast away (*lōʾ hišlîḵû*, the verb of the repentance command at 18:31). That sentence concerns the exodus generation, and Ezekiel applies it to his own hearers (20:30–31). A critic who wants the order reversed has to make the first turning a different kind of act from listening to God, and say where Scripture marks that difference.
 
 What this step gives is the necessity half of the relation set out in the front matter: the turning does not occur while the condition the change removes is in place. The production half is carried at the end of step 5. Whether every instance of the change yields a turning is a further question, and it is not pursued here.
-
-An earlier draft argued this differently, by classing repentance among the statutes and ordinances of Ezekiel 36:27. That reading stretched those words past what they mean in the book, and the argument does not need it.
 
 **Step 6, second part** — that Hebrews 3:7–19 shows the same shape in another generation. The verses are direct; treating the wilderness case as the same kind of case as Ezekiel's is the step. This is corroborating rather than load-bearing, and the inability Hebrews names is inability to enter, not inability to believe.
 
@@ -775,13 +855,7 @@ An earlier draft argued this differently, by classing repentance among the statu
 
 Second Corinthians 3:3 is different in kind. There Paul uses Ezekiel's own phrase, hearts of flesh, with the Spirit as the writer, of believers at Corinth. That is Paul's application of Ezekiel's words, not a correspondence. It carries the identification of Ezekiel's operation with what happens to men who come to Christ. An objector who wants to confine 36:26–27 to Israel's restoration has to say why Paul applies its words to a church of former pagans.
 
-**One consequence this paper does not pursue.** Step 5 keeps Ezekiel 36:26–27 together as one promise whose stated result is that they follow. A reader can see what that makes available, since a promise identified by its result is not fulfilled in a case where the result is absent. Where that leads is the question of whether the change, once begun, can be resisted, and that question is not argued here. The premise is on the page; the inference is not drawn. Anyone who wants to draw it should do it with texts brought for the purpose.
-
-Second Corinthians 4:4–6, used at step 7, bears on the same question from Paul's side. The light God shines at 4:6 is defined against the blindness Paul calls unbelief at 4:4. That bearing is noted here and not argued.
-
-The production half of the claim does not reach that question either, and should not be read as reaching it. That God's act brings about the response, where the response occurs, leaves open whether every instance of the act yields one.
-
-**Step 10** — the crossing from Israel to every man. This is the second load-bearing inference, because Ezekiel alone cannot reach it. It stands on Ephesians 2:3, Romans 3:9–12, Romans 8:7–9, 1 Corinthians 2:8–14, and John 6:44, 65. The Romans 8 leg needs one further premise — that believing falls under the submitting Paul says the fleshly mind cannot do — and that premise is argued in the objections from Romans 10:16, 10:3–4, and 8:4, with Hebrews 11:6 as canonical synthesis. An objector who grants Ezekiel and denies the crossing has a real position, and he should be answered from the New Testament rather than from the prophet.
+**Step 10** — the crossing from Israel to every man. This is the second load-bearing inference, because Ezekiel alone cannot reach it. It stands on Ephesians 2:3, Romans 3:9–12, Romans 8:7–9, 1 Corinthians 2:8–14, and John 6:44, 65. The Romans 8 leg needs one further premise — that believing falls under the submitting Paul says the fleshly mind cannot do — and that premise is argued in the objections from Romans 10:16, 10:3–4, and 8:4, with Hebrews 11:6 as canonical synthesis. An objector who grants Ezekiel and denies the crossing has a real position, and the answer to him comes from the New Testament, not from the prophet. The judicial-hardening reading of John is answered among the objections; the Pauline texts carry the crossing without John.
 
 ---
 
