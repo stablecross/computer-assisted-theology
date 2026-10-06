@@ -1,6 +1,6 @@
 # God Brings Every Heir to Faith and Loses None of Them
 
-*Version 13.*
+*Version 14.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -17,11 +17,11 @@ A review of this paper needs each of these files.
 
 This paper is a synthesis, so most of its premises are conclusions argued elsewhere. Each is named here with the place it is argued. A defect in an import is a defect in the paper that argues it, and any claim resting on that import falls with it.
 
-*From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The promise-heir class is elected to salvation. A promise stated as God's own act to a named man is not left unpaid to that man (step 3). Faith is the means by which what was promised is received, so the named man's faith is certain; that paper draws this for Isaac (step 8). Believers belong to the class (steps 9 through 12).
+*From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The promise-heir class is elected to salvation. A promise stated as God's own act, sworn, and called everlasting, is kept to the man it named (step 3). Faith is the means by which what was promised is received, so the named man's faith is certain; that paper draws this for Isaac (step 8). Believers belong to the class (steps 9 through 12).
 
-*From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."* The evidential rule (front matter). Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11). The olive tree of Romans 11 is not the set of Romans 8:29–30 (inference list, under Romans 11).
+*From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."* The evidential rule (front matter). Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11). Esau was passed over in the designation (step 6a). The olive tree of Romans 11 is not the set of Romans 8:29–30 (inference list, under Romans 11).
 
-*From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about.
+*From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about. Ezekiel 36:26–27 is one promise, and its stated result attaches to the whole of it (step 5).
 
 ---
 
@@ -65,7 +65,11 @@ How the will works. The next paragraph says what that excludes.
 
 **What it uses.** Two things.
 
-First, that what God states will happen, happens. "My purpose shall stand, and I will fulfill my intention" (Isa 46:10). "It shall not return to me empty, but it shall accomplish that which I purpose" (Isa 55:11). No party to this dispute denies that God's word accomplishes what he purposes. The dispute is over what he purposes, and that is argued from the texts below.
+First, that what God purposes, he accomplishes. "My purpose shall stand, and I will fulfill my intention" (Isa 46:10). "It shall not return to me empty, but it shall accomplish that which I purpose" (Isa 55:11). No party to this dispute denies that God's word accomplishes what he purposes. The dispute is over what he purposes, and that is argued from the texts below.
+
+The premise is about purpose, not about every outcome God declares. Jonah proclaimed, "Forty days more, and Nineveh shall be overthrown!" (Jonah 3:4). Then "when God saw what they did, how they turned from their evil ways, God changed his mind about the calamity that he had said he would bring upon them; and he did not do it" (3:10). Jeremiah states the rule behind such cases: "At one moment I may declare concerning a nation or a kingdom, that I will pluck up and break down and destroy it, but if that nation, concerning which I have spoken, turns from its evil, I will change my mind about the disaster that I intended to bring on it" (Jer 18:7–8). The same holds for a declared good (18:9–10). The verb at 18:8 is חָשַׁב, *ḥāšab*, to plan. So Scripture speaks of God declaring and planning an outcome that does not occur, when the condition his own rule names is met.
+
+Two things separate that rule from the texts this paper uses. First, Jeremiah 18 states the condition with the declaration, and the texts of step 6 state none. Each states God's own act on the heart and the purpose of that act. Second, the condition in Jeremiah 18 is the nation's turning. In the texts of step 6 the turning is the stated result of God's act: "they shall return to me with their whole heart" (Jer 24:7). So no condition of Jeremiah 18's kind can stand between the act and its result, because the result is the thing that condition waits on. The premise is therefore used here only of a result God states as the purpose of his own act, with no condition stated.
 
 Second, the evidential rule of "Not Grounded in the Man." A factor with no warrant in Scripture is unavailable as a premise in reading a text. It is not thereby declared impossible. It is unrevealed, and neither party may build on it.
 
@@ -91,8 +95,6 @@ The act claim rests on the six texts of step 6, each of which states God's life-
 
 The keeping claim has two routes. Step 13 runs through Romans 8 read with Galatians 3. Step 14 runs through Romans 5:9–10 and does not use step 13. The act claim corroborates both at step 15 and is a premise of neither.
 
-The keeping claim also follows from the imports. Step 1 makes the heirs persons predestined to glory. Galatians 3:29 makes everyone who belongs to Christ an heir. So everyone justified by faith is among those predestined to glory. Step 13 derives inside Romans what the imports already give. A defect in step 13 therefore leaves this consequence standing, and a defect in the imports reaches it.
-
 ---
 
 ## Part one: every heir is brought to faith
@@ -101,7 +103,7 @@ The keeping claim also follows from the imports. Step 1 makes the heirs persons 
 
 "For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn within a large family. And those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified." (Rom 8:29–30)
 
-The objects are persons. The pronoun is *hous*, masculine plural, and "Not Grounded in the Man" argues at step 11 that Paul predicates the predestining of persons rather than of a body. That paper also ties Romans 9's called to this chain: "including us whom he has called, not from the Jews only but also from the Gentiles" (Rom 9:24).
+The objects are persons. The pronoun is οὕς, *hous*, masculine plural, and "Not Grounded in the Man" argues at step 11 that Paul predicates the predestining of persons rather than of a body. That paper also ties Romans 9's called to this chain: "including us whom he has called, not from the Jews only but also from the Gentiles" (Rom 9:24).
 
 The personal part of this step rests on "Not Grounded in the Man," not on "Election in the Abrahamic Covenant Is to Salvation." "Election in the Abrahamic Covenant Is to Salvation" grants the corporate reading of Ephesians 1 at its step 11 and says it needs "the terminus, not the roster." The roster comes from Romans 8:29.
 
@@ -109,7 +111,11 @@ The personal part of this step rests on "Not Grounded in the Man," not on "Elect
 
 Two routes reach this, and each is short.
 
-The first is the entailment "Election in the Abrahamic Covenant Is to Salvation" draws at step 8. The promise to a named man is not left unpaid to him. Faith is how what was promised is received. So the named man's faith is certain. That paper draws it for Isaac. It holds for every heir, because every heir is named to the same promise: "if you belong to Christ, then you are Abraham's offspring, heirs according to the promise" (Gal 3:29).
+The first is the entailment "Election in the Abrahamic Covenant Is to Salvation" draws at step 8. A sworn promise stated as God's own act is kept to the man it named. Faith is how what was promised is received. So the named man's faith is certain. That paper draws it for Isaac, who was named before he was conceived (Gen 17:19).
+
+The entailment holds for every heir if every heir, like Isaac, is named before he believes. Step 1 makes the heirs persons predestined before they are called (Rom 8:29–30). Paul sets the inheritance under that destining: "In Christ we have also obtained an inheritance, having been destined according to the purpose of him who accomplishes all things according to his counsel and will" (Eph 1:11). The verb ἐκληρώθημεν, *eklērōthēmen*, can also be read "we were made a heritage." On either reading the destining comes first. Ephesians 1 supplies the inheritance language, and Romans 8:29 supplies the persons, as step 1 says.
+
+Galatians 3:29 does not carry this route. It says that whoever belongs to Christ is an heir, which makes believing sufficient for heirship. An argument that every heir believes needs the heirs identified before they believe.
 
 The second is Paul's chain. Everyone predestined is justified (Rom 8:30). Justification is by faith: "since we are justified by faith, we have peace with God" (Rom 5:1). So everyone predestined believes.
 
@@ -169,15 +175,15 @@ The Hebrew ties the two verses together. Both use the same three verbs.
 
 | Verb | 36:27 | 37:24 |
 |---|---|---|
-| הלך, *hālak*, walk (NRSV "follow") | תֵּלֵכוּ | יֵלֵכוּ |
-| שׁמר, *šāmar*, keep | תִּשְׁמְרוּ | יִשְׁמְרוּ |
-| עשׂה, *ʿāśâ*, do | וַעֲשִׂיתֶם | וְעָשׂוּ |
+| הלך, *hālak*, walk (NRSV "follow") | תֵּלֵכוּ, *tēlēkû* | יֵלֵכוּ, *yēlēkû* |
+| שׁמר, *šāmar*, keep | תִּשְׁמְרוּ, *tišmərû* | יִשְׁמְרוּ, *yišmərû* |
+| עשׂה, *ʿāśâ*, do | וַעֲשִׂיתֶם, *waʿăśîtem* | וְעָשׂוּ, *wəʿāśû* |
 
 John takes up Ezekiel's shepherd. "I am the good shepherd" (John 10:11). "There will be one flock, one shepherd" (10:16), which is Ezekiel's "one shepherd" (34:23; 37:24). And: "My sheep hear my voice. I know them, and they follow me" (10:27). Paul supplies the relation between the statutes and Christ: "Christ is the end of the law so that there may be righteousness for everyone who believes" (Rom 10:4). The word is τέλος, *telos*, the goal.
 
 So under Ezekiel's shepherd, walking in the statutes is following the shepherd, and John names that following as hearing his voice. Hearing his voice is the listening Ezekiel 3:7 says the stubborn heart will not do. So the promised result includes the response. The life of following the shepherd begins with hearing his voice.
 
-The weak joints are two. John's verb for "follow" is ἀκολουθέω, not a rendering of הלך, so the link runs through the shepherd and not through the verb. And the one-promise premise rests on the absence of a seam in 36:26–27, though 11:19–20 does not need it.
+The weak joints are two. John's verb for "follow" is ἀκολουθέω, *akoloutheō*, not a rendering of הלך, *hālak*, so the link runs through the shepherd and not through the verb. And the one-promise premise rests on the absence of a seam in 36:26–27, though 11:19–20 does not need it.
 
 *Jeremiah, first.* "I will give them a heart to know that I am the LORD; and they shall be my people and I will be their God, for they shall return to me with their whole heart" (Jer 24:7).
 
@@ -197,9 +203,9 @@ The result is printed twice. The heart is given "that they may fear me for all t
 
 *Paul.* "And even if our gospel is veiled, it is veiled to those who are perishing. In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God... For it is the God who said, 'Let light shine out of darkness,' who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ." (2 Cor 4:3–4, 6)
 
-The result is printed: *to give the light of the knowledge*. The purpose clause is πρὸς φωτισμόν. Three things in the passage fix what that result is.
+The result is printed: *to give the light of the knowledge*. The purpose clause is πρὸς φωτισμόν, *pros phōtismon*. Three things in the passage fix what that result is.
 
-First, the light shone in the heart is the light the unbelievers are kept from. The same noun, φωτισμός, stands in 4:4 and 4:6, with glory and Christ in both. So 4:6 describes the reversal of 4:4.
+First, the light shone in the heart is the light the unbelievers are kept from. The same noun, φωτισμός, *phōtismos*, stands in 4:4 and 4:6, with glory and Christ in both. So 4:6 describes the reversal of 4:4.
 
 Second, the hearts shone in are the hearts of the saved. The class Paul sets against "those who are perishing" (4:3) is one he has already named: "those who are being saved and... those who are perishing" (2:15).
 
@@ -211,7 +217,7 @@ One reading narrows "our hearts" to Paul's own. On that reading the purpose clau
 
 *What the six have in common.* In each, the act is named and its result is named with it: love, following, return, knowing, not turning, the light of the knowledge of God's glory. None states the act and leaves the result open. That is the act claim, drawn from the texts that name the act.
 
-Four of the six results are not the word *believe*. The corpus treats them as one response named from different sides, and it does so in the texts' own joins. Jeremiah joins knowing to returning (24:7) and fear to not turning (32:40). Hebrews makes knowing the difference between the broken covenant and the new one (8:9–11). John joins knowing God to eternal life (17:3), and eternal life to believing (3:36). A reader who wants love, return, knowing, and not turning to be four different outcomes has to give the one heart-gift four different ends.
+Four of the six results are not the word *believe*. Scripture treats them as one response named from different sides, and it does so in the texts' own joins. Jeremiah joins knowing to returning (24:7) and fear to not turning (32:40). Hebrews makes knowing the difference between the broken covenant and the new one (8:9–11). John joins knowing God to eternal life (17:3), and eternal life to believing (3:36). A reader who wants love, return, knowing, and not turning to be four different outcomes has to give the one heart-gift four different ends.
 
 **7. John names the born as the believing.**
 
@@ -221,13 +227,15 @@ John states the relation between God's begetting and the response in both direct
 
 "Everyone who believes that Jesus is the Christ has been born of God" (1 John 5:1). So everyone who believes has been born of God.
 
-Together the two sentences leave no class of the begotten who do not believe, and no class of believers who were not begotten. "Not Grounded in the Man" notes that the perfect γεγέννηται at 5:1 does not by itself state an order of the two. Nothing here needs an order. What is used is that the two classes are one.
+Together the two sentences leave no class of the begotten who do not believe, and no class of believers who were not begotten. "Not Grounded in the Man" notes that the perfect γεγέννηται, *gegennētai*, at 5:1 does not by itself state an order of the two. Nothing here needs an order. What is used is that the two classes are one.
 
 John's Gospel says the same of the same company. Those who "received him, who believed in his name" are those "who were born, not of blood or of the will of the flesh or of the will of man, but of God" (John 1:12–13).
 
+Peter and James name the begetting with its instrument and its result. "You have been born anew, not of perishable but of imperishable seed, through the living and enduring word of God" (1 Pet 1:23). "In fulfillment of his own purpose he gave us birth by the word of truth, so that we would become a kind of first fruits of his creatures" (Jas 1:18). In both, God's act through the word is named with the birth it produces. James gives the act its purpose twice: "in fulfillment of his own purpose," βουληθείς, *boulētheis*, and "so that we would become." Peter's readers are those who "through him have come to trust in God" (1 Pet 1:21). Neither text names the response as the result, so neither is counted among the six of step 6. Both are corroboration. The answer to the parable of the sower uses 1 Peter 1:23.
+
 **8. God's word does not fail, and the new covenant's "all" is its members.**
 
-The premise named in the front matter does its work here. God's word "shall not return to me empty, but it shall accomplish that which I purpose" (Isa 55:11). Of his promise to the heirs, Hebrews says it is one "in which it is impossible that God would prove false" (Heb 6:18). So a result God states with his act is a result that occurs. If God wrote on a heart and the man did not come to know him, a promise God states in the covenant Jesus mediates would have returned empty.
+The premise named in the front matter does its work here. God's word "shall not return to me empty, but it shall accomplish that which I purpose" (Isa 55:11). Of his promise to the heirs, Hebrews says it is one "in which it is impossible that God would prove false" (Heb 6:18). So a result God states as the purpose of his own act, with no condition stated, is a result that occurs. The front matter sets out why Jonah 3 and Jeremiah 18:7–10 are not of this kind. If God wrote on a heart and the man did not come to know him, a promise God states in the covenant Jesus mediates would have returned empty.
 
 *The same move appears where the word seems to fail.* Paul meets the apparent failure of God's word with a class distinction: "It is not as though the word of God had failed. For not all Israelites truly belong to Israel" (Rom 9:6). Hebrews meets the falling away of 6:4–6 with God's oath to "the heirs of the promise" (6:17), in which "it is impossible that God would prove false" (6:18). Both writers explain apparent failure by the same fact. Those who fell were not the heirs. Neither explains it by a promise that failed.
 
@@ -245,7 +253,7 @@ Every instance of God's regenerating act yields faith. The claim rests on the si
 
 The ground is this. The texts of step 6 are promises. Each says what God will do when he gives the act, and each states what the act will produce. They describe the act as such, not a list of occasions on which it happened to succeed. And what God states as the purpose of his act occurs (step 8). So every instance of the act yields its stated result, and step 6 argues that the result includes the response.
 
-Wherever Scripture names God's life-giving act on the heart, it names the result with it. That could have been otherwise. A text could report that the act was given and failed. That text would break the claim. A text could also name the act and leave its result unstated. That text would not contradict the claim, but it would break the pattern step 6 reports, and the claim would then rest on the six texts, on step 7, and on step 8. The candidates usually produced are Acts 7:51, John 12:32, Hebrews 6:4–6, and 1 Samuel 10:9, and the objections take them up. The absence of such a text is not the claim. It is what an objector would have to overturn. The claim does not assert a survey of every operation of God toward men.
+Wherever Scripture names God's life-giving act on the heart, it names the result with it. That could have been otherwise. A text could report that the act was given and failed. That text would break the claim. A text could also name the act and leave its result unstated. That text would not contradict the claim, but it would break the pattern step 6 reports, and the claim would then rest on the six texts, on step 7, and on step 8. The candidates usually produced are Acts 7:51, John 12:32, the parable of the sower (Matt 13:19–23; Luke 8:12), Hebrews 6:4–6, and 1 Samuel 10:9, and the objections take them up. The absence of such a text is not the claim. It is what an objector would have to overturn. The claim does not assert a survey of every operation of God toward men.
 
 *What this does not claim.* It does not say how the act works on the will. It does not say that the man does not believe; he does, and the believing is his, as "Not Grounded in the Man" grants throughout. It does not claim an interval between the act and the believing. And it does not say that everyone who hears the word receives the act, since step 5 has the same word hardening some.
 
@@ -296,8 +304,8 @@ The argument runs in six steps.
 1. Everyone who is justified is justified by faith. "A person is justified not by the works of the law but through faith in Jesus Christ" (Gal 2:16). "Since we are justified by faith, we have peace with God" (Rom 5:1).
 2. Everyone who has that faith is a son of God and an heir. "In Christ Jesus you are all children of God through faith" (Gal 3:26). "And if you belong to Christ, then you are Abraham's offspring, heirs according to the promise" (3:29). The second sentence is a conditional, so it states a rule about whoever belongs to Christ, not only a description of the Galatians. Paul joins justification and heirship in one clause elsewhere: "so that, having been justified by his grace, we might become heirs according to the hope of eternal life" (Titus 3:7).
 3. Romans 8 uses the same terms for the same people. "For all who are led by the Spirit of God are children of God" (8:14). "And if children, then heirs, heirs of God and joint heirs with Christ" (8:17). The noun at Galatians 3:26 and Romans 8:14 is the same, υἱοί, *huioi*, sons. And everyone who belongs to Christ has the Spirit: "Anyone who does not have the Spirit of Christ does not belong to him" (8:9). Paul moves from having the Spirit at 8:9 to being led by the Spirit at 8:14 in one paragraph.
-4. In Romans 8 the children and heirs are the people the chain carries. Three markers join them. The heirs are to be "glorified with him," συνδοξασθῶμεν (8:17), and the chain ends "he also glorified," ἐδόξασεν (8:30). The predestined are conformed to the Son "in order that he might be the firstborn within a large family" (8:29), which is the family of 8:14–17. And one company, "we" and "us," runs from 8:15 through 8:39 without a change of subject.
-5. In the same paragraph Paul puts the elect and God's justifying together. "Who will bring any charge against God's elect? It is God who justifies" (8:33). The Greek is τίς ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ; θεὸς ὁ δικαιῶν. The sentence says the elect are the ones God justifies. It does not state the converse, that everyone God justifies is among the elect. Items 3 and 4 carry the converse. Item 5 confirms that Paul is speaking of one company throughout.
+4. In Romans 8 the children and heirs are the people the chain carries. Three markers join them. The heirs are to be "glorified with him," συνδοξασθῶμεν, *syndoxasthōmen* (8:17), and the chain ends "he also glorified," ἐδόξασεν, *edoxasen* (8:30). The predestined are conformed to the Son "in order that he might be the firstborn within a large family" (8:29), which is the family of 8:14–17. And one company, "we" and "us," runs from 8:15 through 8:39 without a change of subject.
+5. In the same paragraph Paul puts the elect and God's justifying together. "Who will bring any charge against God's elect? It is God who justifies" (8:33). The Greek is τίς ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ; θεὸς ὁ δικαιῶν, *tis enkalesei kata eklektōn theou; theos ho dikaiōn*. The sentence says the elect are the ones God justifies. It does not state the converse, that everyone God justifies is among the elect. Items 3 and 4 carry the converse. Item 5 confirms that Paul is speaking of one company throughout.
 6. Therefore everyone who is justified is among those the chain carries to glory.
 
 *The warning inside the paragraph.* Paul says to the same company, "So then, brothers and sisters, we are debtors, not to the flesh, to live according to the flesh—for if you live according to the flesh, you will die; but if by the Spirit you put to death the deeds of the body, you will live" (8:12–13). The next sentence begins with γάρ, *gar*, for: "For all who are led by the Spirit of God are children of God" (8:14). So the ones who by the Spirit put to death the deeds of the body are the led. The led are the children and heirs of 8:17, and 8:30 carries them to glory. The conditional of 8:13 states a means, as the conditional texts do (see the section on warnings). The paragraph then names the people in whom the means is found and carries them to glory.
@@ -427,11 +435,27 @@ Grant the first half. "All people" means all people. What fails is the second ha
 
 John sets the saying beside judgment: "Now is the judgment of this world" (12:31). And he has already said that every man is brought before the Son. The Father "has given all judgment to the Son" (5:22). "The hour is coming when all who are in their graves will hear his voice and will come out—those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation" (5:28–29). Daniel says it before him: "some to everlasting life, and some to shame and everlasting contempt" (Dan 12:2). Revelation shows "the dead, great and small, standing before the throne" (Rev 20:12).
 
-So John has every man brought before the Son without every man coming to life. That datum shows that in John, being brought before Christ and being enabled to believe him can differ. It does not decide what *draw* means at 12:32. The objector has textual reasons to read 12:32 with 6:44: the verb is ἑλκύω in both, and the saying stands among Greeks who "wish to see Jesus" (12:21) and the call to "believe in the light" (12:36). This paper does not rest on keeping the two sayings apart. The objection needs a drawing that enables and leaves the result open, and neither saying names one.
+So John has every man brought before the Son without every man coming to life. That datum shows that in John, being brought before Christ and being enabled to believe him can differ. It does not decide what *draw* means at 12:32. The objector has textual reasons to read 12:32 with 6:44: the verb is ἑλκύω, *helkyō*, in both, and the saying stands among Greeks who "wish to see Jesus" (12:21) and the call to "believe in the light" (12:36). This paper does not rest on keeping the two sayings apart. The objection needs a drawing that enables and leaves the result open, and neither saying names one.
 
 John ties the saying to the cross in the next verse: "He said this to indicate the kind of death he was to die" (12:33). And the other drawing text in John does not supply the third kind either. "No one can come to me unless drawn by the Father who sent me; and I will raise that person up on the last day" (6:44). There the drawing stands beside the raising, and in John 6 the raising is always to life (6:39, 40, 54). At 12:32 the drawing stands beside judgment. Neither text names a drawing on the heart whose result is left open, and this paper does not call either one the regenerating act.
 
 This paper does not claim that 12:32 names the summons of 5:28–29. Identifying the two would need its own argument, and the answer above does not depend on it.
+
+**"The devil comes and takes away the word from their hearts" — Matthew 13:3–23; Luke 8:11–15.**
+
+"Now the parable is this: The seed is the word of God. The ones on the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved" (Luke 8:11–12). Matthew calls it "what is sown in the heart" (Matt 13:19).
+
+The objection is aimed at the act claim. God's word reaches the heart, and in three soils of four it does not yield the response. So God's work on the heart sometimes fails.
+
+Three things answer it.
+
+First, the parable puts the difference in the soil. The seed is the same in all four soils. Luke names the good soil: "these are the ones who, when they hear the word, hold it fast in an honest and good heart, and bear fruit with patient endurance" (8:15). So the hearts differed when the seed fell. The parable does not say how the good soil came to be good. That is the question the act claim answers, and the texts of step 6 answer it with an act on the heart itself, not on the seed. God circumcises the heart (Deut 30:6). He removes the heart of stone and gives a heart of flesh (Ezek 36:26). Jeremiah puts the figure of soil and the figure of circumcision in one sentence: "Break up your fallow ground, and do not sow among thorns. Circumcise yourselves to the LORD, remove the foreskin of your hearts" (Jer 4:3–4). There it is a command to the people. At Deuteronomy 30:6 the circumcision of the heart is God's promise to do it himself. So in Scripture's own figures the life-giving act works on the soil. The parable reports the seed failing in soil that is not good. It reports no soil God made good in which the seed failed.
+
+Second, Matthew places the soils under the two acts of step 5. Between the parable and its explanation, Jesus says, "To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given" (Matt 13:11). He then quotes Isaiah's hardening commission: "You will indeed listen, but never understand... and understand with their heart and turn—and I would heal them" (13:14–15; Isa 6:9–10). He adds, "But blessed are your eyes, for they see, and your ears, for they hear" (13:16). The path is the one who "hears the word of the kingdom and does not understand it" (13:19), and the good soil is "the one who hears the word and understands it" (13:23). The verb is the same throughout: συνίημι, *syniēmi*, understand, at 13:13, 14, 15, 19, and 23. So the understanding that marks the good soil is the understanding the hardening withholds, and 13:11 says it was given.
+
+Third, Scripture distinguishes the word from God's begetting through it. "You have been born anew, not of perishable but of imperishable seed, through the living and enduring word of God" (1 Pet 1:23). The word is the instrument, marked by διά, *dia*, through. The begetting is God's act, and Peter names it with its result: born anew. The parable shows the word heard and taken away. It does not show God's begetting through the word and a heart left unborn.
+
+The strongest rejoinder is that the sowing itself is an act of God on the heart, since the word is "sown in the heart." The parable marks the sowing as hearing: "When anyone hears the word of the kingdom and does not understand it" (13:19). Hearing is the word coming to a man. It is one of the approaches the front matter sets aside, with John 1:9, and it is not stated with a result in the heart. Reading the sowing as the regenerating act adds an element no text marks, and by the evidential rule that element is unavailable.
 
 **"God gave him another heart" — 1 Samuel 10:9.**
 
@@ -459,33 +483,37 @@ No reading of this passage is settled. This paper takes the reading on which the
 
 *Tasted.* The verb can carry full experience; Jesus "might taste death for everyone" (Heb 2:9). So the verb does not decide. The objects decide. What they tasted was "the goodness of the word of God and the powers of the age to come" (6:5). A man can truly experience both from outside. The rocky ground does: "when they hear the word, receive it with joy. But these have no root; they believe only for a while and in a time of testing fall away" (Luke 8:13).
 
-*Shared in the Holy Spirit.* Hebrews has already said what the Spirit distributed in the congregation. God testified "by signs and wonders and various miracles, and by gifts of the Holy Spirit, distributed according to his will" (2:4). The Greek pairs δυνάμεσιν, powers, with Πνεύματος Ἁγίου μερισμοῖς, distributions of the Holy Spirit. At 6:5 the fallen tasted "the powers [δυνάμεις] of the age to come." So sharing in the Holy Spirit can be sharing in those distributions. The words for the Spirit's part differ between 2:4 and 6:4; the link is the powers named in both, and it is a reading rather than a lexical equation. Jesus names men who did exactly that and were never his: "did we not prophesy in your name, and cast out demons in your name, and do many deeds of power [δυνάμεις] in your name? Then I will declare to them, 'I never knew you'" (Matt 7:22–23).
+*Shared in the Holy Spirit.* Hebrews has already said what the Spirit distributed in the congregation. God testified "by signs and wonders and various miracles, and by gifts of the Holy Spirit, distributed according to his will" (2:4). The Greek pairs δυνάμεσιν, *dynamesin*, powers, with Πνεύματος Ἁγίου μερισμοῖς, *Pneumatos Hagiou merismois*, distributions of the Holy Spirit. At 6:5 the fallen tasted "the powers [δυνάμεις, *dynameis*] of the age to come." So sharing in the Holy Spirit can be sharing in those distributions. The words for the Spirit's part differ between 2:4 and 6:4; the link is the powers named in both, and it is a reading rather than a lexical equation. Jesus names men who did exactly that and were never his: "did we not prophesy in your name, and cast out demons in your name, and do many deeds of power [δυνάμεις, *dynameis*] in your name? Then I will declare to them, 'I never knew you'" (Matt 7:22–23).
 
-*Again to repentance.* The Greek of 6:6 is πάλιν ἀνακαινίζειν εἰς μετάνοιαν, "to restore again to repentance." The *again* implies the fallen had repented once. Hebrews uses the same noun of Esau, whom "Not Grounded in the Man" places outside the class at its step 6a: "he was rejected, for he found no chance to repent [μετανοίας], even though he sought the blessing with tears" (12:17). So the writer's repentance vocabulary reaches a man who was never an heir. The *again* shows that the fallen had repented in some sense. It does not show that theirs was "the repentance that leads to life" (Acts 11:18).
+*Again to repentance.* The Greek of 6:6 is πάλιν ἀνακαινίζειν εἰς μετάνοιαν, *palin anakainizein eis metanoian*, "to restore again to repentance." The *again* implies the fallen had repented once. Hebrews uses the same noun of Esau, whom "Not Grounded in the Man" argues was passed over in the designation (step 6a): "he was rejected, for he found no chance to repent [μετανοίας, *metanoias*], even though he sought the blessing with tears" (12:17). So the writer's repentance vocabulary reaches a man passed over for the inheritance. The *again* shows that the fallen had repented in some sense. It does not show that theirs was "the repentance that leads to life" (Acts 11:18).
 
 *What the writer withholds.* He says the fallen shared in the Holy Spirit. He does not call them partners of Christ. He keeps that title for those who endure: "we have become partners of Christ, if only we hold our first confidence firm to the end" (3:14).
 
 *The writer's own figure.* He explains the case at once with two kinds of ground under the same rain. "Ground that drinks up the rain falling on it repeatedly, and that produces a crop useful to those for whom it is cultivated, receives a blessing from God. But if it produces thorns and thistles, it is worthless and on the verge of being cursed; its end is to be burned over" (6:7–8). The rain is the same on both. The ground differs, and the crop shows the ground. That is the reading this paper takes of 6:4–6, in the writer's own figure.
 
-*What the writer says next.* "Even though we speak in this way, beloved, we are confident of better things in your case, things that belong to salvation" (6:9). He adds the means: "we want each one of you to show the same diligence so as to realize the full assurance of hope to the very end" (6:11). That is the keeping account of the warnings. Then he turns to God's oath to Abraham, made "to the heirs of the promise" (6:17), "so that through two unchangeable things, in which it is impossible that God would prove false, we who have taken refuge might be strongly encouraged" (6:18). The warning opens with ἀδύνατον, impossible (6:4). The oath closes with ἀδύνατον ψεύσασθαι θεόν, impossible that God would prove false (6:18). The fallen cannot be restored, and God cannot fail the heirs. An objector who cites 6:4–6 has to answer 6:13–18, which is the rest of the same argument.
+*What the writer says next.* "Even though we speak in this way, beloved, we are confident of better things in your case, things that belong to salvation" (6:9). He adds the means: "we want each one of you to show the same diligence so as to realize the full assurance of hope to the very end" (6:11). That is the keeping account of the warnings. Then he turns to God's oath to Abraham, made "to the heirs of the promise" (6:17), "so that through two unchangeable things, in which it is impossible that God would prove false, we who have taken refuge might be strongly encouraged" (6:18). The warning opens with ἀδύνατον, *adynaton*, impossible (6:4). The oath closes with ἀδύνατον ψεύσασθαι θεόν, *adynaton pseusasthai theon*, impossible that God would prove false (6:18). The fallen cannot be restored, and God cannot fail the heirs. An objector who cites 6:4–6 has to answer 6:13–18, which is the rest of the same argument.
 
 **"Profaned the blood of the covenant by which they were sanctified" — Hebrews 10:26–29.**
 
 "How much worse punishment do you think will be deserved by those who have spurned the Son of God, profaned the blood of the covenant by which they were sanctified, and outraged the Spirit of grace?" (10:29)
 
-The objection is that *sanctified* describes a real work of grace in a man who then apostatized.
+The objection is that *sanctified* describes a real work of grace in a man who then apostatized, and that 10:26 says the same man had received the knowledge of the truth.
 
 As with Hebrews 6, no reading of this verse is settled, and the keeping claim does not rest on the one taken here. The same chapter weighs against the objection. Fifteen verses earlier the writer says, "For by a single offering he has perfected for all time those who are sanctified" (10:14). Suppose the man of 10:29 had that sanctification. Then he was perfected for all time, and his destruction contradicts 10:14. So the sanctification of 10:29 is not the sanctification of 10:14.
 
 The objector has a rejoinder. Hebrews 10 is about the sufficiency of Christ's one offering and the access it opens, and "perfected for all time" may describe what the offering achieves rather than settle whether one who received it can later fall. That rejoinder has local support. This paper's answer is that 10:14 predicates the perfecting of the sanctified themselves, "those who are sanctified," which is more than a statement about the offering. The question is weighed, not closed.
 
-Hebrews shows the other sense, in the same words. "The blood of the covenant" at 10:29 is τὸ αἷμα τῆς διαθήκης. The writer has used that phrase once before, quoting Moses at Sinai. Moses "sprinkled both the scroll itself and all the people, saying, 'This is the blood of the covenant that God has ordained for you'" (9:19–20). That people is the generation of Hebrews 3: "Was it not all those who left Egypt under the leadership of Moses?... whose bodies fell in the wilderness" (3:16–17). So in Hebrews the blood of the covenant is applied to a whole people, and most of that people fell.
+Hebrews shows the other sense, in the same words. "The blood of the covenant" at 10:29 is τὸ αἷμα τῆς διαθήκης, *to haima tēs diathēkēs*. The writer has used that phrase once before, quoting Moses at Sinai. Moses "sprinkled both the scroll itself and all the people, saying, 'This is the blood of the covenant that God has ordained for you'" (9:19–20). That people is the generation of Hebrews 3: "Was it not all those who left Egypt under the leadership of Moses?... whose bodies fell in the wilderness" (3:16–17). So in Hebrews the blood of the covenant is applied to a whole people, and most of that people fell.
 
 The weak joint is that 10:29 speaks of Christ's blood, not the blood Moses sprinkled. The paper does not claim they are the same blood. It claims that Hebrews uses covenant blood to set apart a whole people, and that being set apart did not keep that people from falling. That is an analogy, and it shows that the phrase can describe a setting apart that did not save; it does not show that it does so at 10:29. Hebrews also distinguishes an outward purifying from an inward one: the blood of animals "sanctifies those who have been defiled so that their flesh is purified," and the blood of Christ will "purify our conscience from dead works to worship the living God" (9:13–14). That contrast is between two bloods, not between two groups sanctified by Christ's, so it supports the distinction without establishing it.
 
+Then 10:26: "For if we willfully persist in sin after having received the knowledge of the truth, there no longer remains a sacrifice for sins." The phrase is τὴν ἐπίγνωσιν τῆς ἀληθείας, *tēn epignōsin tēs alētheias*. Two things hold of it. First, the verse is a conditional in the first person plural, and like the other conditionals it states a rule without reporting an instance. Second, knowledge of the truth is not by itself justification. Peter uses the same noun, ἐπίγνωσις, *epignōsis*, of the men of 2 Peter 2:20, who escaped the defilements "through the knowledge of our Lord and Savior Jesus Christ," and he does not call them justified (see the answer to 2 Peter 2 below).
+
+John shows belief itself standing where Jesus does not trust it. "Many believed in his name because they saw the signs that he was doing. But Jesus on his part would not entrust himself to them, because he knew all people" (John 2:23–24). The verb is the same in both clauses, πιστεύω, *pisteuō*: they believed in him, and he did not entrust himself to them. And "believed in his name" is the phrase of John 1:12. So John records a believing, in the words he uses for saving faith, that Jesus did not trust. Knowledge received, a setting apart, and a belief can each be present without the change the act claim describes. The writer of Hebrews sorts his hearers by that difference.
+
 Then the writer sorts his hearers, as at 6:9: "we are not among those who shrink back and so are lost, but among those who have faith and so are saved" (10:39).
 
-The objector has one more point, and it is in the Greek of 10:38. The NRSV reads "my righteous one will live by faith. My soul takes no pleasure in anyone who shrinks back." But the Greek has no new subject in the second clause: ἐὰν ὑποστείληται, "if he shrinks back," continues "my righteous one." So the writer contemplates the righteous one shrinking back.
+The objector has one more point, and it is in the Greek of 10:38. The NRSV reads "my righteous one will live by faith. My soul takes no pleasure in anyone who shrinks back." But the Greek has no new subject in the second clause: ἐὰν ὑποστείληται, *ean hyposteilētai*, "if he shrinks back," continues "my righteous one." So the writer contemplates the righteous one shrinking back.
 
 Grant the grammar. The sentence is a conditional, and it states a true rule: God takes no pleasure in the one who shrinks back. It does not report a righteous one who did. The very next sentence says the writer and his readers are not of that kind. And the conditional is one of the means of 1 Peter 1:5: the heirs are kept through faith, and a warning addressed to the faith is part of the keeping.
 
@@ -493,13 +521,11 @@ Grant the grammar. The sentence is a conditional, and it states a true rule: God
 
 "They were broken off because of their unbelief, but you stand only through faith. So do not become proud, but stand in awe" (11:20). "God's kindness toward you, provided you continue in his kindness; otherwise you also will be cut off" (11:22).
 
-Read locally, the passage seems to say a believer can be cut off. The objection needs that believer to be justified. Run it through what the corpus has already established, and it fails.
+Read locally, the passage says that a branch standing through faith can be cut off. The objection needs that branch to be a justified man. The passage does not say so. It speaks of standing in the tree, and "Not Grounded in the Man" argues that the olive tree is not the Romans 8 set. The tree holds the elect and the hardened together: "The elect obtained it, but the rest were hardened" (11:7). And branches are removed from the tree and grafted back into it (11:17, 23), so the tree is a body whose membership changes.
 
-A justified man who is cut off contradicts Romans 8:30: "those whom he justified he also glorified." So the objection is coherent only if the standing at 11:20 is not justification. "Not Grounded in the Man" argues that it is not, because the olive tree is not the Romans 8 set. The tree holds the elect and the hardened together: "The elect obtained it, but the rest were hardened" (11:7). And a branch in the tree can be removed, while the chain removes no one.
+The address shifts. At 11:13 Paul addresses "you Gentiles" in the plural. At 11:17–24 he shifts to the singular σύ, *sy*: "you, a wild olive shoot, were grafted in" (11:17), "you stand [σὺ... ἕστηκας, *sy... hestēkas*] only through faith" (11:20). At 11:25 he returns to the plural. The singular addresses either the Gentile branch as a whole or a representative Gentile, in the style Paul uses elsewhere (Rom 2:1; 9:20). A representative can be any member of the class, justified or not. So the grammar does not decide who is addressed.
 
-The address shifts. At 11:13 Paul addresses "you Gentiles" in the plural. At 11:17–24 he shifts to the singular σύ: "you, a wild olive shoot, were grafted in" (11:17), "you stand [σὺ... ἕστηκας] only through faith" (11:20). At 11:25 he returns to the plural. The singular addresses either the Gentile branch as a whole or a representative Gentile, in the style Paul uses elsewhere (Rom 2:1; 9:20). A representative can be any member of the class, justified or not. So the grammar does not decide who is addressed.
-
-So 11:20–22 conditions a branch's place in the tree on faith. The tree is a mixed body, like the church at Sardis below, and the warning is true of every branch in it. To a branch that was never justified, it states what will happen. To a justified branch, it is one of the means by which God keeps him through faith (1 Pet 1:5). It describes no fate he meets, since "those whom he justified he also glorified" (8:30).
+So 11:20–22 conditions a branch's place in the tree on faith. The tree is a mixed body, like the church at Sardis below, and the warning is true of every branch in it. To a branch that was never justified, it states what will happen. To a justified branch, it is one of the means by which God keeps him through faith (1 Pet 1:5). It describes no fate he meets, since steps 13 and 14 carry every justified man to glory.
 
 **"I will not blot your name out of the book of life" — Revelation 3:5.**
 
@@ -509,7 +535,7 @@ The objection is that the promise implies a name can be blotted out, and so a na
 
 The promise has a condition, and Revelation says how the condition is met. John writes that "whatever is born of God conquers the world. And this is the victory that conquers the world, our faith" (1 John 5:4). So everyone born of God meets the condition, and the promise covers everyone born of God. Revelation says the same within its own pages. The conquerors conquer "by the blood of the Lamb" (Rev 12:11). Those with the Lamb are "called and chosen and faithful" (17:14). "Those who conquer will inherit these things" (21:7).
 
-The letter to Sardis also separates two kinds of name. The church has "a name of being alive" but is dead (3:1). The Greek is ὄνομα ἔχεις ὅτι ζῇς. "A few persons in Sardis" have not soiled their clothes (3:4), and the Greek there is ὀλίγα ὀνόματα, "a few names." The promise at 3:5 concerns "your name" in the book of life. So the letter sets a reputation inside a mixed church beside a name written in the book, and the two can come apart. The promise at 3:5 is made to the one who conquers, and John has said who conquers. Revelation reports no name written in the book being blotted out.
+The letter to Sardis also separates two kinds of name. The church has "a name of being alive" but is dead (3:1). The Greek is ὄνομα ἔχεις ὅτι ζῇς, *onoma echeis hoti zēs*. "A few persons in Sardis" have not soiled their clothes (3:4), and the Greek there is ὀλίγα ὀνόματα, *oliga onomata*, "a few names." The promise at 3:5 concerns "your name" in the book of life. So the letter sets a reputation inside a mixed church beside a name written in the book, and the two can come apart. The promise at 3:5 is made to the one who conquers, and John has said who conquers. Revelation reports no name written in the book being blotted out.
 
 *Exodus 32:33.* "Whoever has sinned against me I will blot out of my book." The context says what the blotting was. The next verses are "when the day comes for punishment, I will punish them for their sin," and "Then the LORD sent a plague on the people" (32:34–35). Psalm 69:28 speaks of being "blotted out of the book of the living." The paper does not rest on identifying Moses' book with the Lamb's book or on distinguishing them. What it rests on is Revelation's own account of the Lamb's book: its names were written "from the foundation of the world" (17:8), and Revelation reports none of them blotted out.
 
@@ -525,7 +551,7 @@ So the vine, like the olive tree, has a branch in it that was never clean. John 
 
 **"Not one of them was lost except the one destined to be lost" — John 17:12.**
 
-"While I was with them, I protected them in your name that you have given me. I guarded them, and not one of them was lost except the one destined to be lost, so that the scripture might be fulfilled." The Greek for the exception is εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, "except the son of destruction."
+"While I was with them, I protected them in your name that you have given me. I guarded them, and not one of them was lost except the one destined to be lost, so that the scripture might be fulfilled." The Greek for the exception is εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, *ei mē ho huios tēs apōleias*, "except the son of destruction."
 
 The objection is that Judas was among those the Father gave, and he was lost. Then Jesus' word that he will "lose nothing of all that he has given me" (6:39) fails, and so does the corroboration step 11 draws from John.
 
@@ -533,7 +559,7 @@ John answers it himself. At the arrest, "Judas, who betrayed him, was standing w
 
 The rest of the Gospel agrees. "Jesus knew from the first who were the ones that did not believe, and who was the one that would betray him" (6:64). "Did I not choose you, the twelve? Yet one of you is a devil" (6:70). "I am not speaking of all of you; I know whom I have chosen" (13:18).
 
-The words εἰ μή can be read as "except" or as "but only," and the answer does not depend on which. Nor does the keeping claim. It rests on Romans 8 and Romans 5, and John is corroboration at step 11.
+The words εἰ μή, *ei mē*, can be read as "except" or as "but only," and the answer does not depend on which. Nor does the keeping claim. It rests on Romans 8 and Romans 5, and John is corroboration at step 11.
 
 **"The dog turns back to its own vomit" — 2 Peter 2:20–22.**
 
@@ -545,11 +571,11 @@ Peter does not say these men were justified. He says they escaped the world's de
 
 The objector's best support is Peter's own opening. Believers have been given "everything needed for life and godliness, through the knowledge of him who called us," so that they "may escape from the corruption that is in the world because of lust, and may become participants of the divine nature" (1:3–4). Knowledge and escape appear in both places, so the objector says 2:20 describes the same saving state.
 
-Peter's Greek separates them. In 1:4 believers escape τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς, *the corruption in the world because of lust*, and become participants of the divine nature. In 2:20 these men escape τὰ μιάσματα τοῦ κόσμου, *the defilements of the world*. That is a different noun, and nothing is said of the divine nature.
+Peter's Greek separates them. In 1:4 believers escape τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς, *tēs en tō kosmō en epithymia phthoras*, *the corruption in the world because of lust*, and become participants of the divine nature. In 2:20 these men escape τὰ μιάσματα τοῦ κόσμου, *ta miasmata tou kosmou*, *the defilements of the world*. That is a different noun, and nothing is said of the divine nature.
 
-The verse before uses the other noun of the teachers: "They promise them freedom, but they themselves are slaves of corruption; for people are slaves to whatever masters them" (2:19). The noun is φθορᾶς, the corruption believers escape at 1:4. The verb for being mastered, ἡττάομαι, is the verb of 2:20, "overpowered." Whether 2:20's *they* are these teachers or the people they entice, who "have just escaped" (2:18), is disputed. On either reading, what 2:20 says they escaped is the defilements, not the corruption of 1:4.
+The verse before uses the other noun of the teachers: "They promise them freedom, but they themselves are slaves of corruption; for people are slaves to whatever masters them" (2:19). The noun is φθορᾶς, *phthoras*, the corruption believers escape at 1:4. The verb for being mastered, ἡττάομαι, *hēttaomai*, is the verb of 2:20, "overpowered." Whether 2:20's *they* are these teachers or the people they entice, who "have just escaped" (2:18), is disputed. On either reading, what 2:20 says they escaped is the defilements, not the corruption of 1:4.
 
-State the strength of this exactly. Peter says the teachers are slaves of corruption now. He does not say they never escaped it, and verse 21 speaks of a real knowing and a turning back. The different nouns do not show that 2:20 describes a different escape. They show that the objection cannot read 1:4 into 2:20 on the strength of shared words, because the words are not shared. The identity has to be argued, and the objection needs it.
+This answer has a limit. Peter says the teachers are slaves of corruption now. He does not say they never escaped it, and verse 21 speaks of a real knowing and a turning back. The different nouns do not show that 2:20 describes a different escape. They show that the objection cannot read 1:4 into 2:20 on the strength of shared words, because the words are not shared. The identity has to be argued, and the objection needs it.
 
 The proverbs point the same way: "The dog turns back to its own vomit," and, "The sow is washed only to wallow in the mud" (2:22). The sow was washed. It did not stop being a sow. That fits the distinction between defilements and corruption. It is a reading of the proverb, not a statement of each man's whole history.
 
@@ -565,7 +591,7 @@ First, the application is a conditional: *if you do not forgive … from your he
 
 Second, forgiveness language does not by itself name justification. Scripture has God forgive and still exclude. After the spies, "the LORD said, 'I do forgive, just as you have asked; nevertheless... none of the people who have seen my glory and the signs that I did in Egypt and in the wilderness, and yet have tested me these ten times and have not obeyed my voice, shall see the land'" (Num 14:20–23). So a forgiven debt in a parable is not, on its face, the justification of Romans 5:1.
 
-That answer defeats the automatic equation. It does not decide what the parable's forgiveness and judgment are, and Numbers does not turn the parable into temporal discipline. What the keeping claim needs is only that the parable does not report a man justified by faith and finally lost, and on the analysis here it does not show one. The passage deserves fuller treatment than this paper gives it.
+That answer defeats the automatic equation. It does not decide what the parable's forgiveness and judgment are, and Numbers does not turn the parable into temporal discipline. What the keeping claim needs is only that the parable does not report a man justified by faith and finally lost, and on the analysis here it does not show one.
 
 **"All ate the same spiritual food" — 1 Corinthians 10:1–13; Jude 5.**
 
@@ -581,7 +607,7 @@ Then Paul gives both accounts in two sentences. The warning: "So if you think yo
 
 "You who want to be justified by the law have cut yourselves off from Christ; you have fallen away from grace."
 
-Paul names the people he means: those "who want to be justified by the law." The NRSV's *want to be* renders a present, δικαιοῦσθε, of a course being taken up. Paul has just stated the condition: "if you let yourselves be circumcised, Christ will be of no benefit to you" (5:2). So 5:4 tells the Galatians what that course means. Justification by law is the way Paul says no one is justified (Gal 2:16), and whoever takes it has left grace for another way.
+Paul names the people he means: those "who want to be justified by the law." The NRSV's *want to be* renders a present, δικαιοῦσθε, *dikaiousthe*, of a course being taken up. Paul has just stated the condition: "if you let yourselves be circumcised, Christ will be of no benefit to you" (5:2). So 5:4 tells the Galatians what that course means. Justification by law is the way Paul says no one is justified (Gal 2:16), and whoever takes it has left grace for another way.
 
 Paul does not report that any of them finished that course. He says they "were running well" (5:7), and he expects them to return: "I am confident about you in the Lord that you will not think otherwise" (5:10). So the verse works as the conditional texts work. It tells believers what a course would mean, and it is one of the means by which they are kept (1 Pet 1:5). It reports no justified man who finally fell.
 
@@ -613,7 +639,7 @@ Paul writes the warning and the indicative together. "And this is what some of y
 
 "But when the righteous turn away from their righteousness and commit iniquity... they shall die."
 
-The objection is that Ezekiel, the source of this corpus's cure, also says the righteous can turn away and die.
+The objection is that Ezekiel, the source of the cure "No One Comes" argues, also says the righteous can turn away and die.
 
 The verse is a conditional in a chapter that states the rules of judgment to the house of Israel as a people. The rule is true, and the keeping claim does not deny it. What Ezekiel says of those who receive the new heart is the opposite of the conditional's first clause: "I will... make you follow my statutes" (36:27), and "They shall follow my ordinances and be careful to observe my statutes" (37:24). So the book itself says the men God gives the new heart do not turn away. Chapter 18 states the rule, and chapters 36 and 37 say who is kept from meeting it.
 
@@ -633,9 +659,9 @@ This paper imports no account of the will, and this objection needs one. What th
 
 The imports are argued in their own papers and are not listed here. An attack on one of them belongs there. What follows are the moves this paper makes.
 
-**Step 1** — that the heirs are persons. This is taken from "Not Grounded in the Man," step 11, on the pronoun *hous* at Romans 8:29. It is listed because the heir claim's personal reach depends on it, and "Election in the Abrahamic Covenant Is to Salvation" does not supply it.
+**Step 1** — that the heirs are persons. This is taken from "Not Grounded in the Man," step 11, on the pronoun οὕς, *hous*, at Romans 8:29. It is listed because the heir claim's personal reach depends on it, and "Election in the Abrahamic Covenant Is to Salvation" does not supply it.
 
-**Step 2** — that the entailment "Election in the Abrahamic Covenant Is to Salvation" draws for Isaac holds for every heir. The support is that every heir is named to the same promise (Gal 3:29). Paul's chain reaches the same place by a second route, since everyone predestined is justified and justification is by faith.
+**Step 2** — that the entailment "Election in the Abrahamic Covenant Is to Salvation" draws for Isaac holds for every heir. The support is that every heir, like Isaac, is named before he believes: step 1 makes the heirs persons predestined before they are called, and Ephesians 1:11 sets the inheritance under that destining. Galatians 3:29 is not used for this, since it makes believing sufficient for heirship. Paul's chain reaches the same place by a second route, since everyone predestined is justified and justification is by faith. Both routes use step 1.
 
 **Step 5** — that Scripture distinguishes the life-giving act from the hardening act by their results, and exhibits no life-giving act whose result is left open. It does not claim that every act of God on a man is one of the two. God's acts on hearts for other ends, such as a king's heart turned to his office (Prov 21:1; 1 Sam 10:9), also state their results, and they are not the regenerating act. The first half is printed: Acts 28:25 attributes Isaiah's hardening commission to the Holy Spirit, and 2 Corinthians 4:6 states the life-giving act with its result. The second half is a claim about what Scripture does not contain. It is stated at the strength the evidential rule gives it, that no such act is exhibited, and it is tested by producing a text.
 
@@ -649,7 +675,7 @@ The imports are argued in their own papers and are not listed here. An attack on
 
 **Step 10** — the answers to congruism. The first rests on the granting texts of "No One Comes," whose object is the response itself. The second rests on the evidential rule, and it grants that God's knowledge of what would happen is warranted (1 Sam 23:11–13; Matt 11:21) while denying warrant to the use congruism makes of it. The step from Isaiah 46:10, which concerns what happens, to knowledge of what would have happened is not stated in Scripture, and the paper does not take it.
 
-**Step 13** — one of the two routes to the keeping claim. It joins Galatians 3:26–29 to Romans 8:14–17 on the shared noun υἱοί and the shared inheritance language, which is a same-author identification across two letters. It then joins the heirs of Romans 8:17 to the called and predestined of 8:28–30, which is a same-context inference supported by the shared verb of glorifying, the family of 8:29, the unbroken first person plural, and 8:33's joining of the elect with God's justifying, which confirms one company without stating the converse. An objector who wants the keeping claim gone has to separate the heirs of 8:17 from the glorified of 8:30, and he then still has step 14 to break.
+**Step 13** — one of the two routes to the keeping claim. It joins Galatians 3:26–29 to Romans 8:14–17 on the shared noun υἱοί, *huioi*, and the shared inheritance language, which is a same-author identification across two letters. It then joins the heirs of Romans 8:17 to the called and predestined of 8:28–30, which is a same-context inference supported by the shared verb of glorifying, the family of 8:29, the unbroken first person plural, and 8:33's joining of the elect with God's justifying, which confirms one company without stating the converse. An objector who wants the keeping claim gone has to separate the heirs of 8:17 from the glorified of 8:30, and he then still has step 14 to break.
 
 **Step 14** — the second route to the keeping claim. It rests on the argument from the greater to the lesser at Romans 5:9–10, whose ground is being justified, and on the identity of the "we" there with the justified by faith of 5:1, which is same-context and which Romans 4:23–25 extends in Paul's own words to all who believe. It uses neither step 13 nor the act claim. An objector has to add a condition the sentence does not state, and show that God leaves its fulfillment unsecured. Only such a condition would undo Paul's inference, and no text supplies one.
 
@@ -679,7 +705,7 @@ The word *irresistible* is not Scripture's, and it invites the reply that Stephe
 
 The keeping claim is the *finally* half of that sentence. The paper argues that no one justified finally falls away. It does not argue the *totally* half, which concerns how far a justified man may fall before he is restored. That is a further question and is not taken up here.
 
-**The five points.** Measured against the usual summary, the corpus now stands as follows.
+**The five points.** Measured against the usual summary, the papers now stand as follows.
 
 *Total depravity* is argued by "No One Comes." That paper argues the inability half at length, that no one comes to Christ unless God first changes the heart. It gives the other half, that no one is good, in a paragraph (Luke 18:19; Rom 3:10–12).
 
@@ -689,7 +715,7 @@ The keeping claim is the *finally* half of that sentence. The paper argues that 
 
 *Perseverance* is the keeping claim of this paper, in its *finally* form.
 
-*Limited atonement* is not argued anywhere in the corpus, and nothing in the four papers depends on it. The texts this paper uses about *all*, John 12:32 among them, are left at their full width.
+*Limited atonement* is not argued in any of these papers, and nothing in them depends on it. The texts this paper uses about *all*, John 12:32 among them, are left at their full width.
 
 ---
 
