@@ -1,6 +1,6 @@
 # Election in the Abrahamic Covenant Is to Salvation
 
-*Version 41.*
+*Version 42.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -21,7 +21,7 @@ None.
 
 **Claim under review.** Election in the Abrahamic covenant — **the designation of the promise-heir class, with Isaac as the founding case and those Paul places in his category as its later members** — is election to salvation. Isaac was named before he existed as the one with whom the covenant would be established. Paul then puts believers in Isaac's category, so the claim covers the children of the promise, not just Isaac and Jacob in Genesis.
 
-The qualifier in the claim sentence is doing work and should not be dropped in summary. Scripture uses election language of corporate Israel in places this argument says nothing about — Deuteronomy 7:6–8 and Isaiah 41:8–9 among them, and Romans 11:28, where Paul calls Israel enemies as regards the gospel and beloved as regards election, for the sake of their ancestors. The claim does not reach those. What is under review is the naming of the heir.
+The phrase after the dash says what election in the Abrahamic covenant is, and it should not be dropped in summary. Scripture also uses election language of Israel as a nation — Deuteronomy 7:6–8, Isaiah 41:8–9, and Romans 11:28, where Paul calls Israel enemies as regards the gospel and beloved as regards election, for the sake of their ancestors. This paper does not take up those texts. What is under review is the naming of the heir.
 
 **Not under review.** Whether that election was conditioned on foreseen faith. Whether grace in producing faith is resistible. Total depravity, particular redemption, perseverance. Whether every person who stood in the marked Abrahamic community was elect — Ishmael, the wilderness generation, and the broken branches are all distinguished below.
 
@@ -81,11 +81,17 @@ Hebrews says the same of all of them: "All of these died in faith without having
 
 Genesis calls the covenant everlasting and the holding perpetual (Gen 17:7–8). The Hebrew word is the same in both places, עוֹלָם, *ʿôlām*. God swore by himself, having no one greater to swear by (Gen 22:16). It is impossible for God to lie, and he confirmed the promise with an oath so that the heirs of the promise might see the unchangeable character of his purpose (Heb 6:17–18).
 
-The Genesis 22 oath names offspring, enemies' gates, and blessing to the nations — not the land clause in so many words. So the indefectibility here rests on the everlasting language of the grant and on the character of the one who gave it, with the oath confirming his purpose toward the heirs.
+Hebrews says just before that Abraham "obtained the promise" (Heb 6:15). The promise it has just quoted is "I will surely bless you and multiply you" (6:14), and that one Abraham did see, in Isaac. Step 2 separates the promises discharged in his lifetime from the land, and Hebrews 11:13 says he died without receiving the rest.
 
-Paul gives the same thing a word. The promise rests on grace, "in order that the promise may rest on grace and be **guaranteed** to all his descendants" (Rom 4:16) — βεβαίαν, made firm. And he says in that verse what it is guaranteed through: "For this reason it depends on faith." So the guarantee and the faith are not competitors in Paul's sentence. The promise is secured, and faith is the manner of its securing. Step 8 turns on exactly that arrangement.
+The Genesis 22 oath names offspring, enemies' gates, and blessing to the nations, not the land. But Genesis says the land was sworn too. Abraham tells his servant that God "swore to me, 'To your offspring I will give this land'" (Gen 24:7). God tells Isaac, "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham" (26:3). Joseph speaks of "the land that he swore to Abraham, to Isaac, and to Jacob" (50:24), and Exodus says the same (Exod 33:1). So the oath covers the land, and it covers Isaac by name.
 
-The claim is narrow. It is not that every benefit of the covenant is unconditional for every party to it — Genesis 17 has covenant-breaking language in the same chapter, and Ishmael is circumcised and is not the heir. It is that what was promised to Abraham is not left unpaid to Abraham. A promise stated as God's own act, in terms he calls everlasting, is kept to the man it named.
+The indefectibility rests on the oath and on the character of the one who swore it, not on the word *ʿôlām* alone. Everlasting language by itself is not enough. God told Eli, "'I promised that your family and the family of your ancestor should go in and out before me forever'; but now the LORD declares: 'Far be it from me'" (1 Sam 2:30). The Hebrew is עַד־עוֹלָם, *ʿad-ʿôlām*, and the promise was withdrawn. Nothing in the account says that promise was sworn. The promise to Abraham was, and Hebrews says why the oath was given: to show the heirs that God's purpose does not change (Heb 6:17).
+
+A sworn promise to a named man stands even when his descendants fail. God swore to David, and said of David's sons, "If his children forsake my law… then I will punish their transgression with the rod… but I will not remove from him my steadfast love… Once and for all I have sworn by my holiness; I will not lie to David" (Ps 89:30–35). The sons are punished. The promise to the named man stands. That is the distinction step 4 draws between Abraham and his descendants, and step 8 draws for Isaac.
+
+Paul gives the same thing a word. The promise rests on grace, "in order that the promise may rest on grace and be **guaranteed** to all his descendants" (Rom 4:16) — βεβαίαν, *bebaian*, made firm. And he says in that verse what it is guaranteed through: "For this reason it depends on faith." So the guarantee and the faith are not competitors in Paul's sentence. The promise is secured, and faith is the manner of its securing. Step 8 turns on exactly that arrangement.
+
+The claim is narrow. It is not that every benefit of the covenant is unconditional for every party to it — Genesis 17 has covenant-breaking language in the same chapter, and Ishmael is circumcised and is not the heir. It is that what was promised to Abraham is not left unpaid to Abraham. A promise stated as God's own act, sworn, and called everlasting, is kept to the man it named.
 
 **The clause at the head of the chapter.** Genesis 17 opens with a demand before it opens with a grant: "I am God Almighty; walk before me, and be blameless. And I will make my covenant between me and you, and will make you exceedingly numerous." (17:1–2) A reader may take the second sentence as the payoff of the first — be blameless, and then I will make the covenant.
 
@@ -131,7 +137,7 @@ Two grants, two instruments, two sets of terms. What Israel received under Joshu
 
 **Paul says this in as many words.** "My point is this: the law, which came four hundred thirty years later, does not annul a covenant previously ratified by God, so as to nullify the promise. For if the inheritance comes from the law, it no longer comes from the promise; but God granted it to Abraham through the promise." (Gal 3:17–18)
 
-And he says it again a chapter later, in the passage four verses before the one step 11 uses. Hagar and Sarah are "two covenants" — one from Mount Sinai, bearing children for slavery, and the other the free woman, whose child came by promise (Gal 4:21–31). Sinai and the promise are not one instrument on Paul's account. They are two, and he names them.
+And he says it again a chapter later, in the passage four verses before the one step 9 uses. Hagar and Sarah are "two covenants" — one from Mount Sinai, bearing children for slavery, and the other the free woman, whose child came by promise (Gal 4:21–31). Sinai and the promise are not one instrument on Paul's account. They are two, and he names them.
 
 So the two are not one instrument. The later one does not annul the earlier, does not replace it, and does not exhaust it. And Paul frames the point in terms of the inheritance — the very thing at issue here. If the inheritance came by way of Sinai, it would not come by promise; it came by promise, so Sinai is not how it is given.
 
@@ -157,7 +163,7 @@ Paul states the scope of the promise, and the whole verse should be quoted: "For
 
 Hebrews then gives the recipient's own expectation, and joins the two hopes in one sentence: "By faith he stayed for a time in the land he had been promised, as in a foreign land, living in tents... **For** he looked forward to the city that has foundations, whose architect and builder is God." (Heb 11:9–10) The staying as a foreigner and the looking are not rival objects. The second explains the first. "But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God; indeed, he has prepared a city for them." (Heb 11:16)
 
-A note on that clause, since step 5 and J15 both use it. The NRSV renders the connective as *indeed*, which strengthens the assertion without relating it to what precedes. The Greek is γάρ — causal — and the KJV translates it so: "for he hath prepared for them a city." The reading this argument uses is that the prepared city is the reason the title is not shameful, and that reading rests on γάρ, not on any version's English.
+A note on that clause, which this step uses. The NRSV renders the connective as *indeed*, which strengthens the assertion without relating it to what precedes. The Greek is γάρ, *gar* — causal — and the KJV translates it so: "for he hath prepared for them a city." The reading this argument uses is that the prepared city is the reason the title is not shameful, and that reading rests on γάρ, not on any version's English.
 
 Hebrews then names the city, which shortens the reach to Revelation. "But you have come to Mount Zion and to the city of the living God, **the heavenly Jerusalem**, and to innumerable angels in festal gathering." (Heb 12:22) So the city introduced at 11:10 and prepared at 11:16 is not left unnamed by its own author. Hebrews calls it Jerusalem.
 
@@ -175,7 +181,7 @@ So *heavenly* in Hebrews names the city's origin and builder, not a destination 
 
 **One more text, which the paper cites elsewhere and an opponent will turn here.** Galatians 4:26 says the free woman "corresponds to the Jerusalem above; she is free, and she is our mother" — and step 4 uses that passage for its two-covenant argument. A reader may say Paul has located the promise-covenant's object *above*, which is the heaven-versus-earth contrast this step denies. The answer is Revelation 21 again: the Jerusalem above is the city that comes down. *Above* names where she is from and whose she is, as *heavenly* does in Hebrews. Paul's contrast at 4:25–26 is between the present Jerusalem in slavery and the free one, not between a place off the earth and a place on it.
 
-Jesus takes up the same inheritance language. The psalm says the meek shall inherit the land (Ps 37:11); he says the meek shall inherit the earth (Matt 5:5). The English looks like an expansion, and the step does not lean on that appearance: the Septuagint and Matthew both have γῆ, which carries land or earth, so the Greek does not by itself widen anything. Romans 4:13 supplies the scope. Matthew 5:5 corroborates that the inheritance language is still in use and still unbounded by Canaan's borders.
+Jesus takes up the same inheritance language. The psalm says the meek shall inherit the land (Ps 37:11); he says the meek shall inherit the earth (Matt 5:5). The English looks like an expansion, and the step does not lean on that appearance: the Septuagint and Matthew both have γῆ, *gē*, which carries land or earth, so the Greek does not by itself widen anything. Romans 4:13 supplies the scope. Matthew 5:5 corroborates that the inheritance language is still in use and still unbounded by Canaan's borders.
 
 **6. Jesus places the three men in the kingdom.**
 
@@ -203,10 +209,12 @@ So the second clause of Genesis 17:7 is still in force when Jesus speaks. And He
 
 **8. Isaac was named into the same covenant before he existed.**
 
-*The premise this step supplies:* when God says he will establish his covenant with Isaac, the designation covers the covenant as defined eight verses earlier — inheritance and personal God-relation together — unless the text supplies a partition limiting the naming to part of it. The paragraph below is the case that no such partition is given.
+*The premise this step supplies:* when God says he will establish his covenant with Isaac, the designation covers the covenant as defined at 17:7–8 — inheritance and personal God-relation together — unless the text supplies a partition limiting the naming to part of it. The paragraph below is the case that no such partition is given.
 
 
-"My covenant I will establish with Isaac, whom Sarah shall bear to you at this season next year." (Gen 17:19, 21) Said while Sarah was barren and Isaac unconceived. God repeats the grant to Isaac himself: "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham." (Gen 26:3) He repeats it to Jacob, with the blessing of Abraham named (Gen 28:3–4, 13–15). Exodus calls it God's "covenant with Abraham, Isaac, and Jacob." (Exod 2:24; see 6:4–5)
+"Your wife Sarah shall bear you a son, and you shall name him Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him." (Gen 17:19) "But my covenant I will establish with Isaac, whom Sarah shall bear to you at this season next year." (17:21) Said while Sarah was barren and Isaac unconceived.
+
+Genesis 17:19 uses the form of 17:7. There God said he would establish his covenant "between me and you, and your offspring after you throughout their generations, for an everlasting covenant." At 17:19 he says it of Isaac: "with him as an everlasting covenant for his offspring after him." Step 1 showed that 17:7 names Abraham personally, alongside his offspring. The same form now names Isaac. A reader who takes 17:19 to name Isaac only as the head of a line has to say why the same form names Abraham personally twelve verses earlier. God repeats the grant to Isaac himself: "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham." (Gen 26:3) He repeats it to Jacob, with the blessing of Abraham named (Gen 28:3–4, 13–15). Exodus calls it God's "covenant with Abraham, Isaac, and Jacob." (Exod 2:24; see 6:4–5)
 
 One covenant, three men, no second grant introduced. Hebrews states it outright: Abraham lived in tents in the land he had been promised, "as did Isaac and Jacob, who were **heirs with him of the same promise**." (Heb 11:9) Not heirs of a promise resembling his. The same one.
 
@@ -286,7 +294,7 @@ Read the order of the clauses. God chose Abraham so that he would charge his hou
 
 So the verse does not show the fulfillment hanging on something God's choice left open. Whether that purpose can fail is a further question. The covenant answers it by saying who performs what it requires.
 
-**The covenant says who performs what it requires.** Genesis 17 requires blamelessness and circumcision (17:1, 10–14). Moses carries the requirement to the heart. He commands it: "Circumcise, then, the foreskin of your heart" (Deut 10:16). Then he promises that God will do it: "the LORD your God will circumcise your heart and the heart of your descendants, so that you will love the LORD your God with all your heart and with all your soul, in order that you may live" (Deut 30:6). He ties that promise to the oath God swore to Abraham, to Isaac, and to Jacob (30:20). So the covenant's own text commands the obligation and then puts its performance on God's side.
+**The covenant says who performs what it requires.** Genesis 17 requires blamelessness and circumcision (17:1, 10–14). Moses carries the requirement to the heart. He commands it: "Circumcise, then, the foreskin of your heart" (Deut 10:16). Then he promises that God will do it: "the LORD your God will circumcise your heart and the heart of your descendants, so that you will love the LORD your God with all your heart and with all your soul, in order that you may live" (Deut 30:6). He ties that promise to the oath God swore to Abraham, to Isaac, and to Jacob (30:20). So the covenant's own text commands the obligation and then puts its performance on God's side. The promise comes in a passage about Israel's return from exile (30:1–5), so it does not by itself show that any one man's faith was certain. It shows on whose side the covenant puts the performance.
 
 Paul says God performs it in everyone who believes. "In him also you were circumcised with a spiritual circumcision, by putting off the body of the flesh in the circumcision of Christ" (Col 2:11). The word the NRSV renders "spiritual" is ἀχειροποιήτῳ, *acheiropoiētō*, not made with hands. "It is we who are the circumcision, who worship in the Spirit of God" (Phil 3:3). And of the obedience itself: "it is God who is at work in you, enabling you both to will and to work for his good pleasure" (Phil 2:13).
 
@@ -320,6 +328,8 @@ Steps 10 through 13 take the longer route — singular seed, adoption, co-heirsh
 
 The objection to expect is that *like* means resemblance rather than category membership — that believers are called children of the promise by analogy with Isaac rather than placed in his class.
 
+The NRSV's *like* renders κατὰ Ἰσαάκ, *kata Isaak*, literally *according to Isaac*. *Kata* can mark likeness, and it can mark the standard a thing conforms to. So the Greek does not settle the question by itself.
+
 **Paul answers it himself, three verses later, and drops the comparison while doing it.**
 
 "But just as at that time the child who was born according to the flesh persecuted the child who was born according to the Spirit, so it is now also. But what does the scripture say? 'Drive out the slave and her child; for **the child of the slave will not share the inheritance** with the child of the free woman.' So then, friends, **we are children, not of the slave but of the free woman**." (Gal 4:29–31)
@@ -344,7 +354,7 @@ So the singular heir of the Abrahamic promise is Christ. Whatever else is said a
 
 The timing is stated: "He destined us for adoption as his children through Jesus Christ, according to the good pleasure of his will" — and he "chose us in Christ before the foundation of the world." (Eph 1:4–5)
 
-The NRSV's *children* renders υἱοί and υἱοθεσία, the Greek of sonship, and its *destined* renders προορίσας, predestined. This paper keeps *sons*, *adoption as sons*, and *predestined* for those words.
+The NRSV's *children* renders υἱοί, *huioi*, and υἱοθεσία, *huiothesia*, the Greek of sonship, and its *destined* renders προορίσας, *proorisas*, predestined. This paper keeps *sons*, *adoption as sons*, and *predestined* for those words.
 
 So what Ephesians names as predestined, before the foundation of the world, is adoption as sons.
 
@@ -368,13 +378,13 @@ So the adoption of Galatians 4 and Ephesians 1 comes through redemption and is a
 
 Paul says it directly, in the same letter and the same argument as step 10: "And if you belong to Christ, then you are Abraham's offspring, **heirs according to the promise**." (Gal 3:29) Not heirs of something else on account of Christ. Heirs according to the promise — the one made to Abraham and to the seed, thirteen verses earlier.
 
-**And 3:29 keeps 3:16's singular rather than undoing it.** The subject is plural — *este*, you all are. The predicate noun is singular — *sperma*, the same word and the same number Paul insisted on at 3:16. He does not say you are Abraham's seeds. The number alone would not show that a plural company is the one seed, since a collective noun can stand for many. The clause before it shows it: *if you belong to Christ*, εἰ δὲ ὑμεῖς Χριστοῦ. They are the seed by belonging to the one who is.
+**And 3:29 keeps 3:16's singular rather than undoing it.** The subject is plural — ἐστέ, *este*, you all are. The predicate noun is singular — *sperma*, the same word and the same number Paul insisted on at 3:16. He does not say you are Abraham's seeds. The number alone would not show that a plural company is the one seed, since a collective noun can stand for many. The clause before it shows it: *if you belong to Christ*, εἰ δὲ ὑμεῖς Χριστοῦ, *ei de hymeis Christou*. They are the seed by belonging to the one who is.
 
 So the co-heirship of the next paragraph is not two parties holding adjacent shares of one estate. It is a plural group standing in the singular heir. That is why the object cannot come apart: there is one seed, Christ, and believers are that seed by being his.
 
 Romans 8:17 then gives the form of the holding: "heirs of God and **joint heirs with Christ**." Co-heirs, of what he is heir of as the seed.
 
-An opponent will finish the verse: "if, in fact, we suffer with him so that we may also be glorified with him." That names the path by which the heirs arrive at the glory they inherit. Grant the grammar its full reach: let *eiper sympaschomen* qualify the co-heirship itself and not merely its realization. It still specifies a condition on how the heirs reach co-glorification. It does not identify a different inheritance from the one Galatians 3:29 has already named — heirs according to the promise. Twelve verses later Paul gives the chain that loses no member between predestination and glory (8:29–30), in the same argument.
+An opponent will finish the verse: "if, in fact, we suffer with him so that we may also be glorified with him." That names the path by which the heirs arrive at the glory they inherit. Grant the grammar its full reach: let εἴπερ συμπάσχομεν, *eiper sympaschomen*, qualify the co-heirship itself and not merely its realization. It still specifies a condition on how the heirs reach co-glorification. It does not identify a different inheritance from the one Galatians 3:29 has already named — heirs according to the promise. Twelve verses later Paul gives the chain that loses no member between predestination and glory (8:29–30), in the same argument.
 
 So the inheritance the adopted sons receive is not a parallel blessing with its own terms. That matters against the obvious objection to this route — that adoption confers a new-covenant standing unrelated to Genesis 17. Galatians forecloses it before it can be raised.
 
@@ -408,7 +418,7 @@ That is corroboration for what this step assembles rather than a premise it need
 
 **Therefore: the election of the Abrahamic promise-heir class is election to salvation.** Isaac is the founding case, named before conception into a covenant whose consummation is salvific. The adopted sons are fellow heirs of the same promise, predestined to that adoption before the foundation of the world. So the class is predestined to that adoption by God's purpose, and what it inherits is what steps 1 through 8 located in the kingdom.
 
-That sentence is the whole claim, and not the wider one. It says nothing about every use of election language in the Abrahamic material, and nothing about corporate Israel. An objection that defeats the wider claim leaves this one standing.
+That sentence is the whole claim. It says nothing about the election of Israel as a nation.
 
 ---
 
@@ -452,19 +462,19 @@ The premise is direct. Its scope is contested. And it is not the only support fo
 
 The inferences below carry more weight than the rest, and an attack is better spent on one of them than on the list above.
 
-**The indefectibility of the grant** (step 3). Everlasting language and God's character carry it; the Genesis 22 oath does not recite the land clause.
+**The indefectibility of the grant** (step 3). The oath carries it, with God's character. Everlasting language alone would not, as 1 Samuel 2:30 shows. Genesis 24:7, 26:3, and 50:24 show that the land was sworn.
 
 **Personal reception after death** (step 4). This stands on Stephen's two-party wording. A corporate reading has to say what Abraham personally was promised and what he got, and it does not touch the God-relation clause at all.
 
-**The scope of the naming** (step 8). This is the hinge of the Isaac half. The argument's premise is that "my covenant I will establish with Isaac" covers the covenant as defined at 17:7–8, absent a textual partition. The opponent's counter-premise is that it covers a vocational subset. Neither sentence is printed in Genesis. What the text gives is the order: God defines the covenant, then names Isaac as the one with whom he will establish it, in one speech. The paper reads the naming at the scope of the definition it follows. A partition is available as a possibility and unsupported by the speech that defines the covenant.
+**The scope of the naming** (step 8). This is the hinge of the Isaac half. The argument's premise is that "my covenant I will establish with Isaac" covers the covenant as defined at 17:7–8, absent a textual partition. The opponent's counter-premise is that it covers a vocational subset. Neither sentence is printed in Genesis. What the text gives is the order and the form: God defines the covenant, then names Isaac as the one with whom he will establish it, in one speech, and 17:19 uses for Isaac the form 17:7 used for Abraham. The paper reads the naming at the scope of the definition it follows. A partition is available as a possibility and unsupported by the speech that defines the covenant.
 
-**The certainty of Isaac's faith** (step 8, second half). This is an entailment rather than a reading of a text, and it should be labeled as one. From three things the objection grants — the promise does not fail to the man it names, Isaac is named to that same promise, and faith is how what is promised is received — it follows that Isaac's faith is not left open by the naming. The step imports nothing beyond those three. Its weakest joint is the second, since indefectibility is argued of Abraham at step 3 and carried to Isaac on the strength of Genesis 17:19 and Hebrews 11:9 saying it is the same covenant and the same promise. An objector who wants the conclusion gone has to cut one of the three. The objection in its usual form grants all three. An objector can instead contest the second, that the promise is indefectible to Isaac personally, and that is the second exit named at step 8. The texts offered for that exit are taken up there: Romans 9:6, Genesis 18:19, the obligations of Genesis 17 with Deuteronomy 30:6 and Paul, Romans 4:16 with 9:7–8, 1 Chronicles 28, and Hebrews 6:12.
+**The certainty of Isaac's faith** (step 8, second half). This is an entailment rather than a reading of a text, and it should be labeled as one. From three things the objection grants — the promise does not fail to the man it names, Isaac is named to that same promise, and faith is how what is promised is received — it follows that Isaac's faith is not left open by the naming. The step imports nothing beyond those three. Its weakest joint is the second, since indefectibility is argued of Abraham at step 3 and carried to Isaac on the strength of Genesis 17:19 and Hebrews 11:9 saying it is the same covenant and the same promise, and of Genesis 26:3, where the oath is repeated to Isaac by name. An objector who wants the conclusion gone has to cut one of the three. The objection in its usual form grants all three. An objector can instead contest the second, that the promise is indefectible to Isaac personally, and that is the second exit named at step 8. The texts offered for that exit are taken up there: Romans 9:6, Genesis 18:19, the obligations of Genesis 17 with Deuteronomy 30:6 and Paul, Romans 4:16 with 9:7–8, 1 Chronicles 28, and Hebrews 6:12.
 
 Two limits on that entailment, both stated where it is made. It is a conditional proof: it grants the naming's full scope and shows what follows, so an objector who still wants the later-faith move must win the partition first. And it establishes that the faith is certain, not why — a reader who holds that God named Isaac because he foresaw the faith can grant the entailment and keep his account of the basis.
 
 **The land-to-city objection** (step 5) is answered rather than conceded: Paul gives the inheritance a cosmic scope, Hebrews names its own city the heavenly Jerusalem, and Revelation brings a city of that name down into the creation. What remains contestable is whether Romans 4:13 glosses Genesis 17:8 in particular or summarizes the Abrahamic promises collectively. Either way the scope is the world, which is what the step uses. The cross-book identification of the two cities is still an inference, and Hebrews 12:22 narrows it rather than removing it.
 
-**The singular seed** (step 10). Galatians 3:16 rests on the number of a noun — *sperma* rather than *spermasin*. A reader may say the Hebrew collective does not bear that weight. Paul makes the argument anyway, and the paper takes it from him; an objector is disputing Paul's reading of Genesis, not this argument's.
+**The singular seed** (step 10). Galatians 3:16 rests on the number of a noun — τῷ σπέρματι, *tō spermati*, singular, rather than τοῖς σπέρμασιν, *tois spermasin*, plural. A reader may say the Hebrew collective does not bear that weight. Paul makes the argument anyway, and the paper takes it from him; an objector is disputing Paul's reading of Genesis, not this argument's.
 
 **What is co-inherited** (step 12). Galatians 3:29 names believers heirs according to the promise, and does so with a plural subject taking the singular *sperma* as predicate, on the condition that they belong to Christ — so an objector cannot make the co-heir's portion a different object from the seed's without emptying the co-, and cannot take 3:29 as retreating from 3:16's singular, since it uses it. What he can try is to shrink the object: that "promise" at Galatians 3 has been specified as the Spirit (3:14), so what is inherited is standing rather than the Abrahamic grant. Step 12 answers that three ways — from Romans 4:13, from the position of 3:14 relative to 3:16 and 3:29, and from 3:18, where Paul calls the promised thing an inheritance that God granted to Abraham, in the stretch the attack has to read across. Acts 3:25–26 corroborates from outside Paul, where Peter quotes the Abrahamic promise and names its blessing as being turned from wickedness. It is the one live attack on this step, and it reaches further than this step, because the second support for the crossing — Galatians 3:29 joined to Hebrews 11:9 — needs the same identity. So an objector who wins here wins twice. He now has 3:18 to get past first.
 
@@ -547,7 +557,7 @@ The second point is Paul's own practice, and it is the one that matters. Hosea's
 
 The class is introduced as **children of God** and children of the promise (9:8). The Jacob case is explained by God's purpose of election continuing "not by works but by **his call**" (9:11–12). The conclusion is that it rests on God who shows **mercy** (9:16), and mercy continues as the subject at 9:18. When the positive class appears again, they are "the **objects of mercy**, which he has prepared beforehand for **glory**—including us whom he has **called**, not from the Jews only but also from the Gentiles," and they are named "**children of the living God**." (9:23–26)
 
-The verb in 9:23 is worth stopping on. *Proētoimasen* — prepared beforehand. Paul does not say the objects of mercy turned out to be glorified. He says they were prepared, in advance, for glory. The antecedence is in the verb, and the terminus is in its complement, *for glory*. Both are Paul's.
+The verb in 9:23 is worth stopping on. προητοίμασεν, *proētoimasen* — prepared beforehand. Paul does not say the objects of mercy turned out to be glorified. He says they were prepared, in advance, for glory. The antecedence is in the verb, and the terminus is in its complement, *for glory*. Both are Paul's.
 
 Set the terms side by side:
 
@@ -585,6 +595,6 @@ This matters against a charge of circularity. If the class were simply *those wh
 
 ## Acknowledgements
 
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Greek or Hebrew is given.*
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Greek or Hebrew is given, with transliteration.*
 
 *New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
