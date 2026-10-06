@@ -1,6 +1,6 @@
 # God Brings Every Heir to Faith and Loses None of Them
 
-*Version 14.*
+*Version 15.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -79,7 +79,7 @@ Against the heir claim: break one of the imports, or show that an heir can fail 
 
 Against the act claim: produce a text that reports God's life-giving act on the heart given and failing. Or show that the proof fails: that the texts of step 6 do not describe what the act does whenever God gives it, or that their stated results do not include the response. A text that names the act and leaves its result unstated would not contradict the claim, but it would weaken its support, as step 9 says. Step 6 sets out the figures of that act and their stated results. A text in which God turns a heart for some other end does not meet the burden, for the reason the definition gives.
 
-Against the keeping claim: produce a text that states or reports that a man justified by faith finally falls away. The text need not use the word *justified*, but the objector must then show from the texts both that the man was justified and that the same man finally fell away. Or break both routes to it. Step 13 joins the children and heirs of Romans 8:14–17 to the called and predestined of Romans 8:28–30. Step 14 argues from Romans 5:9–10 that the justified will be saved from wrath, and it does not use step 13. The paper does not define "justified" so as to exclude such a man. Step 13 derives that the justified are in the chain, and the warning texts are read by their own writers' diagnoses of the people they describe.
+Against the keeping claim: produce a text that states or reports that a man justified by faith finally falls away. The text need not use the word *justified*, but the objector must then show from the texts both that the man was justified and that the same man finally fell away. Or break all three routes to it. Step 13 joins the children and heirs of Romans 8:14–17 to the called and predestined of Romans 8:28–30. Step 14 argues from Romans 5:9–10 that the justified will be saved from wrath, and it does not use step 13. Step 15 argues from Philippians 1:6 and 2:12–13 that God completes the work he began in every justified man and works his continuing, and it uses neither of the others. The paper does not define "justified" so as to exclude such a man. Step 13 derives that the justified are in the chain, and the warning texts are read by their own writers' diagnoses of the people they describe.
 
 A warning passage does none of these unless it states or reports that a justified man finally falls away. A conditional does not. It states what follows if its antecedent holds, and it does not say the antecedent occurs. The section after part three says how the warnings work.
 
@@ -87,13 +87,13 @@ A warning passage does none of these unless it states or reports that a justifie
 
 Then the act. Wherever Scripture names God's life-giving act on the heart, it names the result with it: "so that you will love," "make you follow," "they shall return to me," "they shall all know me," "so that they may not turn from me," "to give the light of the knowledge." God's word does not return empty. So the act does not fail.
 
-Then the keeping. Whoever believes is a child of God and an heir. Romans 8 carries the children and heirs from predestination to glory and says nothing will separate them. And Paul argues from justification itself: since God justified his enemies, he will much more surely save the justified from wrath.
+Then the keeping. Whoever believes is a child of God and an heir. Romans 8 carries the children and heirs from predestination to glory and says nothing will separate them. And Paul argues from justification itself: since God justified his enemies, he will much more surely save the justified from wrath. And God, who began the work in them, works their willing and their working to the end.
 
 **How the parts depend on each other.** The heir claim rests on the three imports. It is close to a direct statement, since Jesus and Paul each state it (step 4).
 
 The act claim rests on the six texts of step 6, each of which states God's life-giving act on the heart with its result, and on the premise that God's word accomplishes what he purposes. No one of the six carries it alone, and losing one leaves the others. Step 8 uses "Election in the Abrahamic Covenant Is to Salvation" to say who the new covenant's members are. The identification of the figures as one act is corroboration.
 
-The keeping claim has two routes. Step 13 runs through Romans 8 read with Galatians 3. Step 14 runs through Romans 5:9–10 and does not use step 13. The act claim corroborates both at step 15 and is a premise of neither.
+The keeping claim has three routes. Step 13 runs through Romans 8 read with Galatians 3. Step 14 runs through Romans 5:9–10. Step 15 runs through Philippians 1:6 and 2:12–13. None of the three uses another. The act claim corroborates them at step 15 and is a premise of none.
 
 ---
 
@@ -295,7 +295,7 @@ Jesus says the believer "has eternal life, and does not come under judgment, but
 
 The chain's relative pronouns range over those God predestined. So an opponent can grant every link and still hold that some justified men are not in the chain. On that view a man can be justified by a real faith, stand outside the predestined, and later fall away. The chain would lose none of its own, and he would be lost anyway.
 
-So this route to the keeping claim needs one further premise: everyone who is justified is among those the chain carries. Step 13 argues it. Step 14 gives a second route that does not need it.
+So this route to the keeping claim needs one further premise: everyone who is justified is among those the chain carries. Step 13 argues it. Steps 14 and 15 give two more routes that do not need it.
 
 **13. Everyone who is justified is among those the chain carries.**
 
@@ -330,17 +330,26 @@ Paul's "we" is the company of 5:1: "since we are justified by faith, we have pea
 
 *Independence.* This route uses neither Galatians 3 nor Romans 8:14–30. It does not need step 13's identity, and it does not need the act claim.
 
-**15. The act claim reaches the same result from the other side.**
+**15. A third route: God works the continuing.**
 
-This step is corroborative. It does not add a premise the keeping claim needs.
+This route uses neither step 13 nor step 14. It runs in four steps.
 
-Every justified man's faith was brought about by God's act (step 3). That act does not fail where it is given (step 9). Paul says what becomes of a work God begins: "I am confident of this, that the one who began a good work among you will bring it to completion by the day of Jesus Christ" (Phil 1:6). Paul says this of the Philippians and their partnership in the gospel, so it corroborates what God does with a work he begins rather than proving a rule for every person. And Peter says how the keeping works: believers "are being protected by the power of God through faith for a salvation ready to be revealed in the last time" (1 Pet 1:5).
+1. In every justified man, God has begun a work. His faith was brought about by God's act (step 3).
+2. God completes the work he begins. "I am confident of this, that the one who began a good work among you will bring it to completion by the day of Jesus Christ" (Phil 1:6). The Greek is ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει, *ho enarxamenos en hymin ergon agathon epitelesei*. Paul's confidence about the Philippians as persons rests on what he has seen of them, their "sharing in the gospel from the first day until now" (1:5). The premise his confidence uses is about God: the one who began will complete. What Paul judges about persons is whether God began the work in them. Whether God completes what he begins is not in question in the sentence.
+3. The continuing is itself God's work. "Therefore, my beloved, just as you have always obeyed me... work out your own salvation with fear and trembling; for it is God who is at work in you, enabling you both to will and to work for his good pleasure" (Phil 2:12–13). The Greek of 2:13 is θεὸς γάρ ἐστιν ὁ ἐνεργῶν ἐν ὑμῖν καὶ τὸ θέλειν καὶ τὸ ἐνεργεῖν ὑπὲρ τῆς εὐδοκίας, *theos gar estin ho energōn en hymin kai to thelein kai to energein hyper tēs eudokias*. The objects of God's working are the willing and the working themselves, τὸ θέλειν, *to thelein*, and τὸ ἐνεργεῖν, *to energein*. The NRSV's *enabling* is not in the Greek. And γάρ, *gar*, for, makes God's working the ground of the command. So the continuing Paul commands is what God works in them.
+4. God's good pleasure is to save those who believe. "God decided, through the foolishness of our proclamation, to save those who believe" (1 Cor 1:21). The verb is εὐδόκησεν, *eudokēsen*, from the root of 2:13's εὐδοκία, *eudokia*. Paul uses the noun of the predestining itself: "according to the good pleasure of his will" (Eph 1:5). Jesus says the same to his disciples: "it is your Father's good pleasure to give you the kingdom" (Luke 12:32). Joining Luke to Paul is canonical synthesis. What God purposes, he accomplishes (front matter).
 
-Jeremiah states it of the heart-gift itself: "I will put the fear of me in their hearts, so that they may not turn from me" (Jer 32:40). The gift is given so that the ones who receive it do not turn away.
+Therefore no one who is justified finally falls away. God began the work in him, God works his continuing, and the good pleasure for which God works it is the salvation of those who believe.
 
-Paul names the Spirit given to believers as the pledge of what is to come: "when you had heard the word of truth, the gospel of your salvation, and had believed in him, were marked with the seal of the promised Holy Spirit; this is the pledge of our inheritance toward redemption as God's own people" (Eph 1:13–14). A pledge is given on what will be paid.
+This route meets the objector of step 14 directly. He needs a condition whose fulfillment God leaves unsecured. Philippians 2:13 says God works the fulfillment.
 
-Peter's sentence matters for the warnings below. The keeping runs through the faith, not around it. God keeps the heirs by keeping them believing.
+*The weak joints.* Philippians 2:13 has no pronoun with εὐδοκίας, *eudokias*, and Paul uses the same noun of human goodwill at 1:15: "others from goodwill." A reader can take 2:13's phrase as goodwill among the Philippians. That touches only item 4. Items 1 through 3 carry the route without it. And the "you" of 1:6 and 2:13 is a church. The route does not rest on a verdict about each member. It rests on what Paul's sentences state about God: that he completes what he begins, and that he works the willing and the working.
+
+*Independence.* This route uses neither Romans 8:14–30 nor Romans 5:9–10, and it does not use the act claim. It uses step 3, from "No One Comes."
+
+*Corroboration.* Peter says how the keeping works: believers "are being protected by the power of God through faith for a salvation ready to be revealed in the last time" (1 Pet 1:5). Jeremiah states it of the heart-gift: "I will put the fear of me in their hearts, so that they may not turn from me" (Jer 32:40), and the act claim says the act does not fail where it is given (step 9). Paul names the Spirit given to believers as the pledge of what is to come: "when you had heard the word of truth, the gospel of your salvation, and had believed in him, were marked with the seal of the promised Holy Spirit; this is the pledge of our inheritance toward redemption as God's own people" (Eph 1:13–14). A pledge is given on what will be paid.
+
+The keeping runs through the faith, not around it. God keeps the heirs by keeping them believing, and Paul puts the command and God's working in one sentence.
 
 **16. No one attains the inheritance outside the class.**
 
@@ -356,7 +365,7 @@ So everyone who attains was written from the foundation of the world, and everyo
 
 **17. Therefore no one who is justified finally falls away.**
 
-The chain loses no one (step 11). Everyone justified is in the chain (step 13). So everyone justified is glorified. By a second route, everyone justified will be saved from wrath (step 14). That is the keeping claim.
+The chain loses no one (step 11). Everyone justified is in the chain (step 13). So everyone justified is glorified. By a second route, everyone justified will be saved from wrath (step 14). By a third, God completes the work he began in every justified man and works his continuing (step 15). That is the keeping claim.
 
 ---
 
@@ -377,7 +386,7 @@ A warning read aloud to a mixed body reaches the counterfeit members in it. When
 
 The roster is the Lord's, as 2 Timothy 2:19 says. What the church sees is who professed, who was baptized, and who sat at the table. That is not the list of the justified, and it cannot enlarge that list. So a man's fall from the congregation is not a report that a justified man fell.
 
-**The warnings keep.** Peter says the heirs are protected "through faith" (1 Pet 1:5). A warning addresses that faith and is one of the means by which God keeps it. So a warning can be real, and addressed to an heir, and still describe no fate an heir meets.
+**The warnings keep.** Peter says the heirs are protected "through faith" (1 Pet 1:5). A warning addresses that faith and is one of the means by which God keeps it. So a warning can be real, and addressed to an heir, and still describe no fate an heir meets. Paul puts the command and God's working in one sentence: "work out your own salvation with fear and trembling; for it is God who is at work in you" (Phil 2:12–13).
 
 Paul says this of God's discipline in so many words: "when we are judged by the Lord, we are disciplined so that we may not be condemned along with the world" (1 Cor 11:32). The judgment is real, and its purpose is that the one judged not be condemned.
 
@@ -392,6 +401,8 @@ Jesus shows the keeping at work through a real lapse. "Simon, Simon, listen! Sat
 **The warnings are conditionals, and a conditional does not report an instance.** "My righteous one will live by faith. My soul takes no pleasure in anyone who shrinks back" (Heb 10:38). "Otherwise you also will be cut off" (Rom 11:22). "When the righteous turn away from their righteousness... they shall die" (Ezek 18:24). Each states a rule. The rule is true. The keeping claim does not deny the rule. It denies that anyone justified finally meets the rule's first clause.
 
 **The writers sort their hearers after warning them.** Hebrews warns at 6:4–6 and then writes, "we are confident of better things in your case, things that belong to salvation" (6:9). It warns at 10:26–31 and then writes, "we are not among those who shrink back and so are lost, but among those who have faith and so are saved" (10:39). Paul warns the Galatians that some have "fallen away from grace" (Gal 5:4) and then writes, "I am confident about you in the Lord that you will not think otherwise" (5:10). In each case the writer expects his hearers to be on the other side of the warning, and says so right after it. That supports the keeping account. It does not by itself say what the fallen were before they fell. Only 1 John 2:19 gives that diagnosis, and only of the men it names.
+
+**A reading on which a justified man is finally lost is not available.** Some warnings, read alone, bear more than one reading. A reading on which a warning reports a man justified by faith and finally lost has to be held with the rest of Scripture. There it contradicts three things Paul states. The justified will be saved from wrath (Rom 5:9–10; step 14). God completes the work he begins (Phil 1:6; step 15). God works the willing and the working of those he addresses (Phil 2:13; step 15). A reading of one text that contradicts warranted readings of others is not available (corpus.md, method assumption 1). So the question for each warning is not only which reading is possible when it is read alone, but which reading holds with the rest.
 
 ---
 
@@ -477,7 +488,7 @@ The phrase is לֵב אַחֵר, *lēb ʾaḥēr*, "another heart." It is not Ez
 
 The objection is that these are regenerate men, since they were enlightened, tasted, and shared in the Holy Spirit, and they fell away.
 
-No reading of this passage is settled. This paper takes the reading on which the passage describes men who experienced the Spirit's work in the congregation without being changed by it. Each of the terms bears that reading, and Hebrews' own usage supports it.
+Read alone, the passage has more than one reading. This paper takes the reading on which the passage describes men who experienced the Spirit's work in the congregation without being changed by it. Each of the terms bears that reading, and Hebrews' own usage supports it.
 
 *Enlightened.* Hebrews uses the same participle of its readers: "after you had been enlightened, you endured a hard struggle with sufferings" (10:32). So in Hebrews, being enlightened is something the fallen and the readers share. The writer separates the two groups by endurance, not by enlightenment: "we are not among those who shrink back and so are lost, but among those who have faith and so are saved" (10:39). And John uses the verb of men who went on to reject the light. "The true light, which enlightens everyone, was coming into the world" (John 1:9), and yet "the world did not know him" and "his own people did not accept him" (1:10–11). John names the life-giving act separately: those who received him "were born... of God" (1:13). So the light can shine on a man without shining in him.
 
@@ -491,7 +502,7 @@ No reading of this passage is settled. This paper takes the reading on which the
 
 *The writer's own figure.* He explains the case at once with two kinds of ground under the same rain. "Ground that drinks up the rain falling on it repeatedly, and that produces a crop useful to those for whom it is cultivated, receives a blessing from God. But if it produces thorns and thistles, it is worthless and on the verge of being cursed; its end is to be burned over" (6:7–8). The rain is the same on both. The ground differs, and the crop shows the ground. That is the reading this paper takes of 6:4–6, in the writer's own figure.
 
-*What the writer says next.* "Even though we speak in this way, beloved, we are confident of better things in your case, things that belong to salvation" (6:9). He adds the means: "we want each one of you to show the same diligence so as to realize the full assurance of hope to the very end" (6:11). That is the keeping account of the warnings. Then he turns to God's oath to Abraham, made "to the heirs of the promise" (6:17), "so that through two unchangeable things, in which it is impossible that God would prove false, we who have taken refuge might be strongly encouraged" (6:18). The warning opens with ἀδύνατον, *adynaton*, impossible (6:4). The oath closes with ἀδύνατον ψεύσασθαι θεόν, *adynaton pseusasthai theon*, impossible that God would prove false (6:18). The fallen cannot be restored, and God cannot fail the heirs. An objector who cites 6:4–6 has to answer 6:13–18, which is the rest of the same argument.
+*What the writer says next.* "Even though we speak in this way, beloved, we are confident of better things in your case, things that belong to salvation" (6:9). He adds the means: "we want each one of you to show the same diligence so as to realize the full assurance of hope to the very end" (6:11). That is the keeping account of the warnings. Then he turns to God's oath to Abraham, made "to the heirs of the promise" (6:17), "so that through two unchangeable things, in which it is impossible that God would prove false, we who have taken refuge might be strongly encouraged" (6:18). The warning opens with ἀδύνατον, *adynaton*, impossible (6:4). The oath closes with ἀδύνατον ψεύσασθαι θεόν, *adynaton pseusasthai theon*, impossible that God would prove false (6:18). The fallen cannot be restored, and God cannot fail the heirs. An objector who cites 6:4–6 has to answer 6:13–18, which is the rest of the same argument. And a reading on which the fallen were justified meets the answer given in the section on warnings.
 
 **"Profaned the blood of the covenant by which they were sanctified" — Hebrews 10:26–29.**
 
@@ -499,9 +510,9 @@ No reading of this passage is settled. This paper takes the reading on which the
 
 The objection is that *sanctified* describes a real work of grace in a man who then apostatized, and that 10:26 says the same man had received the knowledge of the truth.
 
-As with Hebrews 6, no reading of this verse is settled, and the keeping claim does not rest on the one taken here. The same chapter weighs against the objection. Fifteen verses earlier the writer says, "For by a single offering he has perfected for all time those who are sanctified" (10:14). Suppose the man of 10:29 had that sanctification. Then he was perfected for all time, and his destruction contradicts 10:14. So the sanctification of 10:29 is not the sanctification of 10:14.
+As with Hebrews 6, the verse read alone has more than one reading. The same chapter weighs against the objection. Fifteen verses earlier the writer says, "For by a single offering he has perfected for all time those who are sanctified" (10:14). Suppose the man of 10:29 had that sanctification. Then he was perfected for all time, and his destruction contradicts 10:14. So the sanctification of 10:29 is not the sanctification of 10:14.
 
-The objector has a rejoinder. Hebrews 10 is about the sufficiency of Christ's one offering and the access it opens, and "perfected for all time" may describe what the offering achieves rather than settle whether one who received it can later fall. That rejoinder has local support. This paper's answer is that 10:14 predicates the perfecting of the sanctified themselves, "those who are sanctified," which is more than a statement about the offering. The question is weighed, not closed.
+The objector has a rejoinder. Hebrews 10 is about the sufficiency of Christ's one offering and the access it opens, and "perfected for all time" may describe what the offering achieves rather than settle whether one who received it can later fall. That rejoinder has local support. This paper's answer is that 10:14 predicates the perfecting of the sanctified themselves, "those who are sanctified," which is more than a statement about the offering. Read alone, the question is weighed, not closed.
 
 Hebrews shows the other sense, in the same words. "The blood of the covenant" at 10:29 is τὸ αἷμα τῆς διαθήκης, *to haima tēs diathēkēs*. The writer has used that phrase once before, quoting Moses at Sinai. Moses "sprinkled both the scroll itself and all the people, saying, 'This is the blood of the covenant that God has ordained for you'" (9:19–20). That people is the generation of Hebrews 3: "Was it not all those who left Egypt under the leadership of Moses?... whose bodies fell in the wilderness" (3:16–17). So in Hebrews the blood of the covenant is applied to a whole people, and most of that people fell.
 
@@ -509,9 +520,11 @@ The weak joint is that 10:29 speaks of Christ's blood, not the blood Moses sprin
 
 Then 10:26: "For if we willfully persist in sin after having received the knowledge of the truth, there no longer remains a sacrifice for sins." The phrase is τὴν ἐπίγνωσιν τῆς ἀληθείας, *tēn epignōsin tēs alētheias*. Two things hold of it. First, the verse is a conditional in the first person plural, and like the other conditionals it states a rule without reporting an instance. Second, knowledge of the truth is not by itself justification. Peter uses the same noun, ἐπίγνωσις, *epignōsis*, of the men of 2 Peter 2:20, who escaped the defilements "through the knowledge of our Lord and Savior Jesus Christ," and he does not call them justified (see the answer to 2 Peter 2 below).
 
-John shows belief itself standing where Jesus does not trust it. "Many believed in his name because they saw the signs that he was doing. But Jesus on his part would not entrust himself to them, because he knew all people" (John 2:23–24). The verb is the same in both clauses, πιστεύω, *pisteuō*: they believed in him, and he did not entrust himself to them. And "believed in his name" is the phrase of John 1:12. So John records a believing, in the words he uses for saving faith, that Jesus did not trust. Knowledge received, a setting apart, and a belief can each be present without the change the act claim describes. The writer of Hebrews sorts his hearers by that difference.
+John shows belief itself standing where Jesus does not trust it. "Many believed in his name because they saw the signs that he was doing. But Jesus on his part would not entrust himself to them, because he knew all people" (John 2:23–24). The verb is the same in both clauses, πιστεύω, *pisteuō*: they believed in him, and he did not entrust himself to them. And "believed in his name" is the phrase of John 1:12. So John records a believing, in the words he uses for saving faith, that Jesus did not trust. Knowledge received, a setting apart, and a belief can each be present without the change the act claim describes.
 
 Then the writer sorts his hearers, as at 6:9: "we are not among those who shrink back and so are lost, but among those who have faith and so are saved" (10:39).
+
+**Held with the rest of Scripture.** The objector's reading of *sanctified* has warrant in Hebrews' usage. Christ's offering and blood sanctify for salvation at 10:10, "we have been sanctified through the offering of the body of Jesus Christ once for all," and at 13:12, "in order to sanctify the people by his own blood." So the reading is available when the verse is read alone. Held with the rest of Scripture, it has a man justified by faith and finally lost, and that contradicts Romans 5:9–10, Philippians 1:6, and Philippians 2:13, as the section on warnings sets out. The contradiction does not weigh the same in both directions. Paul's sentences state that God completes the work and works the continuing. The objector's reading rests on a verb's usage, and Hebrews uses the same verb of an outward purifying (9:13). So the objector's reading is not available. The reading this paper takes has warrant of its own in 9:13–14, 9:19–20, 3:14, and 10:39, and it is the one that stands.
 
 The objector has one more point, and it is in the Greek of 10:38. The NRSV reads "my righteous one will live by faith. My soul takes no pleasure in anyone who shrinks back." But the Greek has no new subject in the second clause: ἐὰν ὑποστείληται, *ean hyposteilētai*, "if he shrinks back," continues "my righteous one." So the writer contemplates the righteous one shrinking back.
 
@@ -525,7 +538,7 @@ Read locally, the passage says that a branch standing through faith can be cut o
 
 The address shifts. At 11:13 Paul addresses "you Gentiles" in the plural. At 11:17–24 he shifts to the singular σύ, *sy*: "you, a wild olive shoot, were grafted in" (11:17), "you stand [σὺ... ἕστηκας, *sy... hestēkas*] only through faith" (11:20). At 11:25 he returns to the plural. The singular addresses either the Gentile branch as a whole or a representative Gentile, in the style Paul uses elsewhere (Rom 2:1; 9:20). A representative can be any member of the class, justified or not. So the grammar does not decide who is addressed.
 
-So 11:20–22 conditions a branch's place in the tree on faith. The tree is a mixed body, like the church at Sardis below, and the warning is true of every branch in it. To a branch that was never justified, it states what will happen. To a justified branch, it is one of the means by which God keeps him through faith (1 Pet 1:5). It describes no fate he meets, since steps 13 and 14 carry every justified man to glory.
+So 11:20–22 conditions a branch's place in the tree on faith. The tree is a mixed body, like the church at Sardis below, and the warning is true of every branch in it. To a branch that was never justified, it states what will happen. To a justified branch, it is one of the means by which God keeps him through faith (1 Pet 1:5). It describes no fate he meets, since steps 13 through 15 carry every justified man to glory.
 
 **"I will not blot your name out of the book of life" — Revelation 3:5.**
 
@@ -585,13 +598,13 @@ A king forgives a slave a debt he could never pay: "the lord of that slave relea
 
 The objection is that here a real forgiveness is followed by a real punishment, and Jesus applies it to his hearers.
 
-This is the strongest text of its kind, because it narrates the reversal rather than only warning of one. Two things are said about it here, and neither closes it.
+This is the strongest text of its kind, because it narrates the reversal rather than only warning of one. Two things are said about it here. Read alone, neither closes it.
 
 First, the application is a conditional: *if you do not forgive … from your heart*. Like the other conditionals, it states a rule and makes a disposition of the heart necessary. It does not report a justified man who finally lacked it.
 
 Second, forgiveness language does not by itself name justification. Scripture has God forgive and still exclude. After the spies, "the LORD said, 'I do forgive, just as you have asked; nevertheless... none of the people who have seen my glory and the signs that I did in Egypt and in the wilderness, and yet have tested me these ten times and have not obeyed my voice, shall see the land'" (Num 14:20–23). So a forgiven debt in a parable is not, on its face, the justification of Romans 5:1.
 
-That answer defeats the automatic equation. It does not decide what the parable's forgiveness and judgment are, and Numbers does not turn the parable into temporal discipline. What the keeping claim needs is only that the parable does not report a man justified by faith and finally lost, and on the analysis here it does not show one.
+That answer defeats the automatic equation. It does not decide what the parable's forgiveness and judgment are, and Numbers does not turn the parable into temporal discipline. What the keeping claim needs is only that the parable does not report a man justified by faith and finally lost, and on the analysis here it does not show one. Held with the rest of Scripture, a reading on which the slave was justified and finally lost meets the answer given in the section on warnings, and it is not available.
 
 **"All ate the same spiritual food" — 1 Corinthians 10:1–13; Jude 5.**
 
@@ -675,13 +688,15 @@ The imports are argued in their own papers and are not listed here. An attack on
 
 **Step 10** — the answers to congruism. The first rests on the granting texts of "No One Comes," whose object is the response itself. The second rests on the evidential rule, and it grants that God's knowledge of what would happen is warranted (1 Sam 23:11–13; Matt 11:21) while denying warrant to the use congruism makes of it. The step from Isaiah 46:10, which concerns what happens, to knowledge of what would have happened is not stated in Scripture, and the paper does not take it.
 
-**Step 13** — one of the two routes to the keeping claim. It joins Galatians 3:26–29 to Romans 8:14–17 on the shared noun υἱοί, *huioi*, and the shared inheritance language, which is a same-author identification across two letters. It then joins the heirs of Romans 8:17 to the called and predestined of 8:28–30, which is a same-context inference supported by the shared verb of glorifying, the family of 8:29, the unbroken first person plural, and 8:33's joining of the elect with God's justifying, which confirms one company without stating the converse. An objector who wants the keeping claim gone has to separate the heirs of 8:17 from the glorified of 8:30, and he then still has step 14 to break.
+**Step 13** — one of three routes to the keeping claim. It joins Galatians 3:26–29 to Romans 8:14–17 on the shared noun υἱοί, *huioi*, and the shared inheritance language, which is a same-author identification across two letters. It then joins the heirs of Romans 8:17 to the called and predestined of 8:28–30, which is a same-context inference supported by the shared verb of glorifying, the family of 8:29, the unbroken first person plural, and 8:33's joining of the elect with God's justifying, which confirms one company without stating the converse. An objector who wants the keeping claim gone has to separate the heirs of 8:17 from the glorified of 8:30, and he then still has steps 14 and 15 to break.
 
-**Step 14** — the second route to the keeping claim. It rests on the argument from the greater to the lesser at Romans 5:9–10, whose ground is being justified, and on the identity of the "we" there with the justified by faith of 5:1, which is same-context and which Romans 4:23–25 extends in Paul's own words to all who believe. It uses neither step 13 nor the act claim. An objector has to add a condition the sentence does not state, and show that God leaves its fulfillment unsecured. Only such a condition would undo Paul's inference, and no text supplies one.
+**Step 14** — the second route to the keeping claim. It rests on the argument from the greater to the lesser at Romans 5:9–10, whose ground is being justified, and on the identity of the "we" there with the justified by faith of 5:1, which is same-context and which Romans 4:23–25 extends in Paul's own words to all who believe. It uses neither step 13 nor the act claim. An objector has to add a condition the sentence does not state, and show that God leaves its fulfillment unsecured. Only such a condition would undo Paul's inference, and no text supplies one. Philippians 2:13 states the contrary (step 15).
+
+**Step 15** — the third route to the keeping claim. It rests on step 3 for God's having begun the work in every justified man; on the premise about God that Paul's confidence at Philippians 1:6 uses; on Philippians 2:13, whose objects of God's working are the willing and the working themselves, given as the ground of 2:12's command; and on 1 Corinthians 1:21 and Ephesians 1:5 for God's good pleasure, with Luke 12:32 as canonical synthesis. It uses neither step 13, step 14, nor the act claim. An objector has to read 2:13's working as enabling only, which adds a word the Greek does not have, or read 1:6 as a judgment about the Philippians with no premise about God behind it. The good-pleasure link is the weak joint, and the route stands without it.
 
 **Step 16** — not needed for the keeping claim. It uses 1 John 5:1 and 5:4 for the identity of the begotten and the believing, not for an order. It joins 1 John to Revelation, which is canonical synthesis within the Johannine writings, and it treats the writing of names in the book of life as the naming "Election in the Abrahamic Covenant Is to Salvation" argues for.
 
-**The warnings** — that each warning taken up here falls under one of two accounts the texts give. The exposing account covers Hebrews 6:4–6, Hebrews 10:26–29, 1 Corinthians 10:1–5 with Jude 5, John 15:2 and 6, 2 Peter 2:20–22, Revelation 3:5, and 1 Corinthians 6:9. The keeping account covers 1 Corinthians 9:27, Hebrews 10:38, Galatians 5:4, Romans 8:13, 1 Corinthians 8:11 with Romans 14:15 and 20, and the conditional texts (Heb 3:6, 14; Col 1:23; 1 Cor 15:2; 2 Tim 2:12; Matt 18:35). Romans 11:20–22 is answered by propagation. Some placements are readings, as at Hebrews 6. The 2 Peter 2 placement rests on Peter's different nouns at 1:4 and 2:20, and it is a reading; the text does not say those men were never free. The keeping claim does not depend on them. It depends on no warning stating or reporting that a justified man finally falls away. The markers that sort them are in the texts: the writer's sorting sentence after the warning (Heb 6:9; 10:39; Gal 5:10; 2 Tim 2:19), the writer's own figure (Heb 6:7–8), the writer's own diagnosis of the fallen (1 John 2:19; John 13:10–11), and the writer's figure for them (2 Pet 2:22), and the first person where the writer warns himself (1 Cor 9:27).
+**The warnings** — that each warning taken up here falls under one of two accounts the texts give. The exposing account covers Hebrews 6:4–6, Hebrews 10:26–29, 1 Corinthians 10:1–5 with Jude 5, John 15:2 and 6, 2 Peter 2:20–22, Revelation 3:5, and 1 Corinthians 6:9. The keeping account covers 1 Corinthians 9:27, Hebrews 10:38, Galatians 5:4, Romans 8:13, 1 Corinthians 8:11 with Romans 14:15 and 20, and the conditional texts (Heb 3:6, 14; Col 1:23; 1 Cor 15:2; 2 Tim 2:12; Matt 18:35). Romans 11:20–22 is answered by propagation. Some placements are readings, as at Hebrews 6. The 2 Peter 2 placement rests on Peter's different nouns at 1:4 and 2:20, and it is a reading; the text does not say those men were never free. The keeping claim does not depend on them. It depends on no warning stating or reporting that a justified man finally falls away. A reading of a warning on which a justified man is finally lost is not available once it is held with Romans 5:9–10, Philippians 1:6, and Philippians 2:13. The markers that sort them are in the texts: the writer's sorting sentence after the warning (Heb 6:9; 10:39; Gal 5:10; 2 Tim 2:19), the writer's own figure (Heb 6:7–8), the writer's own diagnosis of the fallen (1 John 2:19; John 13:10–11), and the writer's figure for them (2 Pet 2:22), and the first person where the writer warns himself (1 Cor 9:27).
 
 ---
 
