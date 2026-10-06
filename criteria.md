@@ -1,6 +1,6 @@
 # Four-Stage Evaluation Criteria
 
-*Version 12.*
+*Version 13.*
 
 Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis. A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
 
@@ -177,7 +177,7 @@ To keep that honest, build a **datum ledger** before stating the countermodel:
 1. Enumerate the load-bearing textual data the argument rests on. List them as data, not as the document's conclusions from them.
 2. State the countermodel.
 3. For each datum, say whether the countermodel **naturally explains it**, **accommodates it only by adding a distinction or partition**, **qualifies its apparent force**, **leaves it unexplained**, or **contradicts it**.
-4. Name every partition or added distinction the countermodel requires, and assess its textual warrant. Classify each such element by the three-way scheme under the general referee rules. Determine admissibility before comparing cost. A distinction with positive or independent warrant may carry a cost. A merely conceivable distinction that the countermodel cannot do without disqualifies it; it is not a cost the countermodel can bear.
+4. Name every partition or added distinction the countermodel requires, and assess its textual warrant. State each introduced element as the exact proposition the reading needs, applied to the case in dispute, and classify that proposition by the three-way scheme under "Classification of introduced elements." Do not compare costs until every element a reading cannot do without has been classified (a) or (b). This applies to the document's reading and the countermodel alike. A distinction with positive or independent warrant may carry a cost. A merely conceivable distinction that the countermodel cannot do without disqualifies it; it is not a cost the countermodel can bear.
 5. Do the same for the document's own reading. Name every distinction or explanatory level the document supplies that the text does not mark, and charge it on the same scale. A ledger that charges only one side is not a comparison.
 6. Account for **patterns**, not only for individual verses. Where several data points form a repeated structure, a countermodel that addresses each one separately has not yet explained the structure. For example, one prenatal designation may be called incidental; two successive prenatal designations that both resolve into the same inheritance line are a pattern, and the countermodel owes an account of it.
 
