@@ -1,12 +1,44 @@
 # Four Points of Calvinism: What the Papers Establish
 
-*Version 7.*
+*Version 8.*
 
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
-*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
+---
 
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+## Dependencies
+
+A review of this paper needs each of these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
+
+### Imports
+
+Each import is argued in its own paper. A defect in an import is a defect in the paper that argues it, and any claim here that rests on the import falls with it.
+
+**From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."**
+- The election of the promise-heir class is to salvation.
+- Believers belong to that class (steps 9 through 12).
+
+**From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."**
+- The definition of election: "The antecedent divine determination by which a person is assigned the salvific destiny of the promise-class" (front matter).
+- Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11).
+- The election is not conditioned on works, and it does not rest on the man's willing or running (steps 1 through 7).
+- No responsive candidate other than faith has a text making it the condition of election, so under the evidential rule none is available (step 2a).
+- For faith, the reading with no human criterion is better supported, and the rival is not shown unavailable there (steps 2b, 5a, and the conclusion).
+
+**From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."**
+- Necessity: the saving response does not occur while the condition Ezekiel names remains in place (front matter; step 11).
+- Production: where the response occurs, God's act brought it about (front matter; step 5).
+- The condition is every man's natural condition (step 10).
+- No one is good before God (closing section).
+
+**From "[God Brings Every Heir to Faith and Loses None of Them](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/heirs-brought-and-kept.md)."**
+- The heir claim: every heir is brought to faith by God's act (step 4).
+- The act claim: every instance of the regenerating act yields faith (step 9).
+- The keeping claim: no one who is justified finally falls away (step 17), by two routes, Romans 8 (step 13) and Romans 5:9–10 (step 14).
+- Not all come to life (John 5:28–29; Dan 12:2), a fact that paper uses and adds nothing to.
 
 ---
 
@@ -22,35 +54,6 @@
 **How the doctrines are stated here.** Each doctrine is stated as a claim about outcomes: who can come, whom God chooses and why, who believes, and who is kept. The traditional formulations also give an account of how grace acts on the will. Scripture says that God is at work in the willing of believers — "it is God who is at work in you, enabling you both to will and to work for his good pleasure" (Phil 2:13) — but it does not say how, and this paper brackets the mechanism. The Canons of Dort and the Westminster Confession are named below only to report where the outcomes agree with them. They are not premises.
 
 **Not under review.** For whom Christ died. Why God passes over anyone, and how many. How the will works. How the condition inherited from Adam passes to each person. Whether a property a man does not perform — something he is rather than something he does — bears on his election. Whether a believer can fall totally for a time, short of finally.
-
----
-
-## The imports
-
-Each import is argued in its own paper. A defect in an import is a defect in the paper that argues it, and any claim here that rests on the import falls with it.
-
-**From "Election in the Abrahamic Covenant Is to Salvation"** ([abrahamic-covenant/](https://github.com/stablecross/computer-assisted-theology/tree/main/abrahamic-covenant)).
-- The election of the promise-heir class is to salvation.
-- Believers belong to that class (steps 9 through 12).
-
-**From "The Election Is Not Grounded in the Man"** ([abrahamic-covenant/](https://github.com/stablecross/computer-assisted-theology/tree/main/abrahamic-covenant)).
-- The definition of election: "The antecedent divine determination by which a person is assigned the salvific destiny of the promise-class" (front matter).
-- Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11).
-- The election is not conditioned on works, and it does not rest on the man's willing or running (steps 1 through 7).
-- No responsive candidate other than faith has a text making it the condition of election, so under the evidential rule none is available (step 2a).
-- For faith, the reading with no human criterion is better supported, and the rival is not shown unavailable there (steps 2b, 5a, and the conclusion).
-
-**From "No One Comes to Christ Unless God First Changes the Heart"** ([ezekiel/](https://github.com/stablecross/computer-assisted-theology/tree/main/ezekiel)).
-- Necessity: the saving response does not occur while the condition Ezekiel names remains in place (front matter; step 11).
-- Production: where the response occurs, God's act brought it about (front matter; step 5).
-- The condition is every man's natural condition (step 10).
-- No one is good before God (closing section).
-
-**From "God Brings Every Heir to Faith and Loses None of Them"** ([abrahamic-covenant/](https://github.com/stablecross/computer-assisted-theology/tree/main/abrahamic-covenant)).
-- The heir claim: every heir is brought to faith by God's act (step 4).
-- The act claim: every instance of the regenerating act yields faith (step 9).
-- The keeping claim: no one who is justified finally falls away (step 17), by two routes, Romans 8 (step 13) and Romans 5:9–10 (step 14).
-- Not all come to life (John 5:28–29; Dan 12:2), a fact that paper uses and adds nothing to.
 
 ---
 
@@ -161,3 +164,11 @@ The imports are argued in their own papers, and an attack on one of them belongs
 For whom Christ died. Why God regenerates the ones he does, beyond that no qualifying condition of it is something they do. How grace acts on the will. How the condition from Adam passes to each person. That no property a man does not perform bears on his election. That a believer cannot fall totally for a time. That every act of the unregenerate is as evil as it could be.
 
 Nor is it claimed that the man does not believe. He does, the believing is his, and it is how he receives what was promised.
+
+---
+
+## Acknowledgements
+
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+
+*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*

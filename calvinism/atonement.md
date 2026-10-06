@@ -1,12 +1,29 @@
 # Christ Died for Everyone
 
-*Version 7.*
+*Version 8.*
 
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
-*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
+---
 
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+## Dependencies
+
+A review of this paper needs each of these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
+
+### Imports
+
+A defect in an import is a defect in the paper that argues it, and any claim resting on that import falls with it.
+
+*From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The promise-heir class is elected to salvation, and believers belong to it.
+
+*From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about.
+
+*From "[God Brings Every Heir to Faith and Loses None of Them](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/heirs-brought-and-kept.md)."* The heir claim: every heir of the promise is brought to faith by God's act. The keeping claim: no one who is justified finally falls away.
+
+None of these imports is a premise of the exclusion claim or the extent claim. They are used in part four and in the objections, to answer arguments that say universal extent would leave salvation to the man.
 
 ---
 
@@ -45,7 +62,7 @@ Scripture also says Christ *bought* men (2 Pet 2:1; Rev 5:9), gave himself as a 
 
 *Limited atonement.* The proposition that Christ died only for the elect.
 
-*The elect.* The persons God predestined to glory. This paper uses the corpus's account of them, which is imported below.
+*The elect.* The persons God predestined to glory. This paper uses the corpus's account of them, which is imported above.
 
 *Reconciled.* Scripture uses this word in two ways, and this paper keeps them apart by keeping to Scripture's own phrases.
 
@@ -62,16 +79,6 @@ Limited atonement is a universal negative. It says no one outside the elect was 
 The extent claim is a universal positive. It says everyone was died for. A single case does not establish it. Part three gives two routes to it.
 
 Part one shows something further. No collection of texts saying that Christ died for some can establish limited atonement, however many there are. So every argument for it needs another premise, and part one says what form that premise must take.
-
-**What this paper imports.** A defect in an import is a defect in the paper that argues it, and any claim resting on that import falls with it.
-
-*From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The promise-heir class is elected to salvation, and believers belong to it.
-
-*From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about.
-
-*From "[God Brings Every Heir to Faith and Loses None of Them](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/heirs-brought-and-kept.md)."* The heir claim: every heir of the promise is brought to faith by God's act. The keeping claim: no one who is justified finally falls away.
-
-None of these imports is a premise of the exclusion claim or the extent claim. They are used in part four and in the objections, to answer arguments that say universal extent would leave salvation to the man.
 
 **Not under review.**
 
@@ -918,3 +925,11 @@ The Confession also says, "Neither are any other redeemed by Christ, effectually
 The Canons of Dort say Christ's death is "abundantly sufficient to expiate the sins of the whole world" (II.3). They say that when many perish in unbelief, "this is not owing to any defect or insufficiency in the sacrifice offered by Christ upon the cross, but is wholly to be imputed to themselves" (II.6). And they say it was God's will that Christ "should effectually redeem out of every people, tribe, nation, and language, all those, and those only, who were from eternity chosen to salvation" (II.8). The *only* of II.8 attaches to *effectually redeem*. On this paper's account, that is true. Only the elect are effectually redeemed.
 
 Both assemblies included men who held that Christ died for all while holding particular election. At Dort, John Davenant and Samuel Ward of the British delegation held it, and both signed the Canons (M. W. Dewar, "The British Delegation at the Synod of Dort," *Churchman* 106, no. 2, 1992, including its list of the British signatories). At Westminster, Edmund Calamy, Lazarus Seaman, Richard Vines, and Stephen Marshall held it (Lee Gatiss, "A Deceptive Clarity? Particular Redemption in the Westminster Standards," *Reformed Theological Review* 69, 2010), and roughly one-third of the recorded speeches in the debate favored Calamy's position (Letham, pp. 181–82). The Confession passed with them in the Assembly.
+
+---
+
+## Acknowledgements
+
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+
+*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*

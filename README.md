@@ -57,11 +57,13 @@ This is not an attempt to train an AI model to a theological system. Any model c
 
 ### How a paper is laid out
 
-A paper that argues from the text opens with front matter: its claims, its terms, its imports, and what it does not argue. The front matter also says what an objection has to do. For each claim, it states what an objector would have to show to defeat it.
+A paper that argues from the text opens with its dependencies: corpus.md, criteria.md, and the papers whose conclusions it imports, each with a link. Front matter follows: the paper's claims, its terms, and what it does not argue. The front matter also says what an objection has to do. For each claim, it states what an objector would have to show to defeat it.
 
 That section comes before the argument on purpose. It is the test written before the code. The conditions for failure are fixed before the argument runs, so they cannot be shaped afterward to fit what the argument managed to show. The criteria work the same way: the burden of proof is set first, and the evidence is weighed after.
 
 So the section names texts and steps the reader has not reached yet. On a first reading, skip it and come back to it after the argument. Near the end of the paper, "What is inferred, and where to attack" ties the same conditions to the steps they apply to.
+
+The NRSV copyright notice, and the note on which text of Scripture is quoted, are in the acknowledgements at the end of each paper.
 
 ### The corpus
 
@@ -118,7 +120,7 @@ To review a paper, give an AI model these files:
 - the paper;
 - [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md);
 - [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md);
-- every paper it imports, as listed in its folder's README.
+- every paper it imports, as listed in its Dependencies section.
 
 Attach the files rather than linking to them. Some models cannot fetch web pages, and others fetch GitHub's page around the file instead of the file itself. A paper and its imports can run to 75,000 words, which fits in the largest models' context windows but not in every free tier.
 

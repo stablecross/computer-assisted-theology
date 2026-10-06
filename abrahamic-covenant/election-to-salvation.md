@@ -1,12 +1,23 @@
 # Election in the Abrahamic Covenant Is to Salvation
 
-*Version 40.*
+*Version 41.*
 
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Greek or Hebrew is given.*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
-*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
+---
 
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+## Dependencies
+
+A review of this paper needs each of these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
+
+### Imports
+
+None.
+
+---
 
 **Claim under review.** Election in the Abrahamic covenant — **the designation of the promise-heir class, with Isaac as the founding case and those Paul places in his category as its later members** — is election to salvation. Isaac was named before he existed as the one with whom the covenant would be established. Paul then puts believers in Isaac's category, so the claim covers the children of the promise, not just Isaac and Jacob in Genesis.
 
@@ -146,7 +157,7 @@ Paul states the scope of the promise, and the whole verse should be quoted: "For
 
 Hebrews then gives the recipient's own expectation, and joins the two hopes in one sentence: "By faith he stayed for a time in the land he had been promised, as in a foreign land, living in tents... **For** he looked forward to the city that has foundations, whose architect and builder is God." (Heb 11:9–10) The staying as a foreigner and the looking are not rival objects. The second explains the first. "But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God; indeed, he has prepared a city for them." (Heb 11:16)
 
-A note on that clause, since step 5 and J15 both use it. The NRSV renders the connective as *indeed*, which strengthens the assertion without relating it to what precedes. The Greek is γάρ — causal — and the other standard versions translate it so: "for he hath prepared for them a city" (KJV), "for he has prepared for them a city" (ESV). The reading this argument uses is that the prepared city is the reason the title is not shameful, and that reading rests on γάρ, not on any version's English.
+A note on that clause, since step 5 and J15 both use it. The NRSV renders the connective as *indeed*, which strengthens the assertion without relating it to what precedes. The Greek is γάρ — causal — and the KJV translates it so: "for he hath prepared for them a city." The reading this argument uses is that the prepared city is the reason the title is not shameful, and that reading rests on γάρ, not on any version's English.
 
 Hebrews then names the city, which shortens the reach to Revelation. "But you have come to Mount Zion and to the city of the living God, **the heavenly Jerusalem**, and to innumerable angels in festal gathering." (Heb 12:22) So the city introduced at 11:10 and prepared at 11:16 is not left unnamed by its own author. Hebrews calls it Jerusalem.
 
@@ -570,5 +581,10 @@ This matters against a charge of circularity. If the class were simply *those wh
 
 **So by this route as well:** the children of the promise are a class constituted by election whose terminus is glory, and Galatians places believers in it.
 
-
 ---
+
+## Acknowledgements
+
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Greek or Hebrew is given.*
+
+*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*

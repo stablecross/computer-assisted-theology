@@ -1,10 +1,8 @@
 # Beyond the Four Points
 
-*Version 5.*
+*Version 6.*
 
-*Scripture references are to the New Revised Standard Version (1989). Scripture is cited by reference and paraphrased, not quoted.*
-
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
 ---
 
@@ -126,3 +124,9 @@ calvinism.md shows the following. No one who is justified finally falls away. It
 Anyone who wants to establish one of these items under the criteria is welcome to try. Write it as a paper. State its claim, list its imports, number its steps, and submit it to review under the [criteria](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md). The same rules bind it that bind every paper in this repository.
 
 A grade can also be wrong. Citing a text is not enough to show that. A text can be placed beside a claim without supporting it. The argument that a text supplies a missing premise has to meet the criteria: the text read in its context, and that reading tested against the rest of Scripture. An argument that does is a bug report, and the [top-level README](https://github.com/stablecross/computer-assisted-theology#how-to-report-a-bug) says how to file one.
+
+---
+
+## Acknowledgements
+
+*Scripture references are to the New Revised Standard Version (1989). Scripture is cited by reference and paraphrased, not quoted.*

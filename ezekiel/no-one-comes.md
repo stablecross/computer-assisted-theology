@@ -1,12 +1,23 @@
 # No One Comes to Christ Unless God First Changes the Heart
 
-*Version 20.*
+*Version 21.*
 
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
-*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
+---
 
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+## Dependencies
+
+A review of this paper needs each of these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
+
+### Imports
+
+None.
+
+---
 
 **Claim under review.** No one comes to Christ — turns, repents, believes — unless God first changes his heart. The condition a man is in before that change is what keeps the call from landing, and the change is God's act, not the man's.
 
@@ -789,3 +800,11 @@ Two things the label does not mean, and this paper does not claim.
 It does not mean that every act a man performs is as wicked as it could be. The tradition itself denies this — the Canons of Dort grant the unregenerate a regard for virtue and for good order in society (III/IV, art. 4).
 
 And it does not mean that God withholds the change from anyone, or why. That is a separate question and it is not argued here.
+
+---
+
+## Acknowledgements
+
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+
+*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*

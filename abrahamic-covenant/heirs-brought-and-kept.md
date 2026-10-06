@@ -1,16 +1,31 @@
 # God Brings Every Heir to Faith and Loses None of Them
 
-*Version 12.*
+*Version 13.*
 
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
-
-*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
-
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
-
-*This is the fourth paper in a series. "Election in the Abrahamic Covenant Is to Salvation" established that the election of the Abrahamic promise-heir class is to salvation. "Not Grounded in the Man" established that this election is personal and antecedent, and that it rests on God's call and mercy rather than on works or on the man's willing. "No One Comes" established that no one comes to Christ unless God first changes the heart. Each of the three left certain questions open. This paper asks what follows when their conclusions are held together, and it answers the questions they left open.*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
 ---
+
+## Dependencies
+
+A review of this paper needs each of these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
+
+### Imports
+
+This paper is a synthesis, so most of its premises are conclusions argued elsewhere. Each is named here with the place it is argued. A defect in an import is a defect in the paper that argues it, and any claim resting on that import falls with it.
+
+*From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The promise-heir class is elected to salvation. A promise stated as God's own act to a named man is not left unpaid to that man (step 3). Faith is the means by which what was promised is received, so the named man's faith is certain; that paper draws this for Isaac (step 8). Believers belong to the class (steps 9 through 12).
+
+*From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."* The evidential rule (front matter). Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11). The olive tree of Romans 11 is not the set of Romans 8:29–30 (inference list, under Romans 11).
+
+*From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about.
+
+---
+
+*This is the fourth paper in a series. "Election in the Abrahamic Covenant Is to Salvation" established that the election of the Abrahamic promise-heir class is to salvation. "Not Grounded in the Man" established that this election is personal and antecedent, and that it rests on God's call and mercy rather than on works or on the man's willing. "No One Comes" established that no one comes to Christ unless God first changes the heart. Each of the three left certain questions open. This paper asks what follows when their conclusions are held together, and it answers the questions they left open.*
 
 **Claim under review.** Three claims.
 
@@ -35,14 +50,6 @@ Nor is the term used for God's acts on a heart for other ends. "The king's heart
 The *response* is what "No One Comes" calls the response: turning, repenting, believing, coming to Christ. In this paper *faith* and *the response* name the same act.
 
 **The heir claim and the act claim are different claims.** The heir claim counts persons. The act claim counts acts. Here is a case that separates them. Suppose God acts on an heir's heart, the heir refuses, and God later acts again and the heir believes. Then every heir is brought to faith, so the heir claim is true. But one instance of the act did not yield faith, so the act claim is false. Part one argues the heir claim. Part two argues the act claim.
-
-**What this paper imports.** It is a synthesis, so most of its premises are conclusions argued elsewhere. Each is named here with the place it is argued. A defect in an import is a defect in the paper that argues it, and any claim resting on that import falls with it.
-
-*From "Election in the Abrahamic Covenant Is to Salvation."* The promise-heir class is elected to salvation. A promise stated as God's own act to a named man is not left unpaid to that man (step 3). Faith is the means by which what was promised is received, so the named man's faith is certain; that paper draws this for Isaac (step 8). Believers belong to the class (steps 9 through 12).
-
-*From "Not Grounded in the Man."* The evidential rule (front matter). Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11). The olive tree of Romans 11 is not the set of Romans 8:29–30 (inference list, under Romans 11).
-
-*From "No One Comes."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about.
 
 **Not under review.**
 
@@ -683,3 +690,11 @@ The keeping claim is the *finally* half of that sentence. The paper argues that 
 *Perseverance* is the keeping claim of this paper, in its *finally* form.
 
 *Limited atonement* is not argued anywhere in the corpus, and nothing in the four papers depends on it. The texts this paper uses about *all*, John 12:32 among them, are left at their full width.
+
+---
+
+## Acknowledgements
+
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where an argument turns on the underlying wording, the Hebrew or Greek is given, with transliteration.*
+
+*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*

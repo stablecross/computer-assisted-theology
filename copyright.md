@@ -24,7 +24,7 @@ The NRSV may be quoted without written permission under these conditions:
 - no changes to the text;
 - the copyright notice above appears in the work.
 
-Each paper carries the notice in its header, so a paper copied out of this repository keeps its notice.
+Each paper that quotes the NRSV carries the notice in its acknowledgements, at the end of the paper, so a paper copied out of this repository keeps its notice.
 
 The papers in this repository together quote no more than 500 distinct NRSV verses, so they remain within the limit even if the repository is treated as one work. The count is rechecked whenever a paper is added or revised. If the repository as a whole would pass 500 verses, each paper will be presented as a separate work, or permission will be sought from the National Council of the Churches of Christ in the USA.
 

@@ -1,16 +1,27 @@
 # The Election Is Not Grounded in the Man
 
-*Version 63.*
+*Version 64.*
 
-*Companion to "Election in the Abrahamic Covenant Is to Salvation." That paper established the terminus and bracketed the basis. This one takes up the basis.*
-
-*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where the argument turns on the Greek or Hebrew, the original is given, and literal renderings are set in italics and marked as such.*
-
-*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
-
-*Corpus: the sixty-six books of the Protestant canon; see [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md). © 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+*© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
 ---
+
+## Dependencies
+
+A review of this paper needs each of these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
+
+### Imports
+
+A defect in an import is a defect in the paper that argues it, and any claim resting on that import falls with it.
+
+*From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The election of the promise-heir class is to salvation.
+
+---
+
+*Companion to "Election in the Abrahamic Covenant Is to Salvation." That paper established the terminus and bracketed the basis. This one takes up the basis.*
 
 **Claim under review.** The election of the promise-class, **as Scripture gives it**, is not conditioned on works, and it does not rest on the man's willing or running. No responsive fact about the man other than faith has textual warrant as the condition his election depends on. For faith, actual or foreseen, this paper shows that the reading with no human criterion is better supported than the reading that makes faith the criterion. It does not show here that the second reading is unavailable.
 
@@ -891,3 +902,11 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 **Not objections to this thesis**
 
 That God produces the believing — not claimed here. That any person other than Esau was passed over, or how many are outside the class — not claimed. Esau's final state — not claimed. That a non-responsive property of the man may bear on his election — not denied here. Total inability, particular redemption, perseverance — other arguments. Why God finds fault — bracketed, and raised by Paul at 9:19.
+
+---
+
+## Acknowledgements
+
+*Scripture quotations are from the New Revised Standard Version (1989) unless otherwise noted. The NRSV Updated Edition (2021) differs in places and is not the text quoted. Where the argument turns on the Greek or Hebrew, the original is given, and literal renderings are set in italics and marked as such.*
+
+*New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.*
