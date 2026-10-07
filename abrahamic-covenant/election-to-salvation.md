@@ -1,6 +1,6 @@
 # Election in the Abrahamic Covenant Is to Salvation
 
-*Version 42.*
+*Version 43.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -81,13 +81,17 @@ Hebrews says the same of all of them: "All of these died in faith without having
 
 Genesis calls the covenant everlasting and the holding perpetual (Gen 17:7–8). The Hebrew word is the same in both places, עוֹלָם, *ʿôlām*. God swore by himself, having no one greater to swear by (Gen 22:16). It is impossible for God to lie, and he confirmed the promise with an oath so that the heirs of the promise might see the unchangeable character of his purpose (Heb 6:17–18).
 
-Hebrews says just before that Abraham "obtained the promise" (Heb 6:15). The promise it has just quoted is "I will surely bless you and multiply you" (6:14), and that one Abraham did see, in Isaac. Step 2 separates the promises discharged in his lifetime from the land, and Hebrews 11:13 says he died without receiving the rest.
+Hebrews says just before that Abraham "obtained the promise" (Heb 6:15). The promise it has just quoted is "I will surely bless you and multiply you" (6:14). Hebrews does not say what his obtaining consisted of. The multiplying had begun in his lifetime: Isaac was born when Abraham was a hundred (Gen 21:5), and Isaac's sons were born fifteen years before Abraham died (25:7, 26). Nothing in 6:15 says he received the land. Step 2 separates the promises discharged in his lifetime from the land, and Hebrews 11:13 says he died without receiving the rest.
 
 The Genesis 22 oath names offspring, enemies' gates, and blessing to the nations, not the land. But Genesis says the land was sworn too. Abraham tells his servant that God "swore to me, 'To your offspring I will give this land'" (Gen 24:7). God tells Isaac, "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham" (26:3). Joseph speaks of "the land that he swore to Abraham, to Isaac, and to Jacob" (50:24), and Exodus says the same (Exod 33:1). So the oath covers the land, and it covers Isaac by name.
 
 The indefectibility rests on the oath and on the character of the one who swore it, not on the word *ʿôlām* alone. Everlasting language by itself is not enough. God told Eli, "'I promised that your family and the family of your ancestor should go in and out before me forever'; but now the LORD declares: 'Far be it from me'" (1 Sam 2:30). The Hebrew is עַד־עוֹלָם, *ʿad-ʿôlām*, and the promise was withdrawn. Nothing in the account says that promise was sworn. The promise to Abraham was, and Hebrews says why the oath was given: to show the heirs that God's purpose does not change (Heb 6:17).
 
 A sworn promise to a named man stands even when his descendants fail. God swore to David, and said of David's sons, "If his children forsake my law… then I will punish their transgression with the rod… but I will not remove from him my steadfast love… Once and for all I have sworn by my holiness; I will not lie to David" (Ps 89:30–35). The sons are punished. The promise to the named man stands. That is the distinction step 4 draws between Abraham and his descendants, and step 8 draws for Isaac.
+
+The psalm does not stop there. "But now you have spurned and rejected him… You have renounced the covenant with your servant" (89:38–39). It ends with an appeal: "Lord, where is your steadfast love of old, which by your faithfulness you swore to David?" (89:49). So the psalmist sees the oath looking broken in history, and he appeals to it as still binding. That is the shape of Abraham's case. He died without the land, and the oath was not void.
+
+Another psalm puts a condition inside an oath. "The LORD swore to David a sure oath from which he will not turn back: 'One of the sons of your body I will set on your throne. If your sons keep my covenant and my decrees that I shall teach them, their sons also, forevermore, shall sit on your throne'" (Ps 132:11–12). The condition attaches to the descendants' continued tenure. The part said to David is unconditional, and Peter applies it to Christ: God "had sworn with an oath to him that he would put one of his descendants on his throne" (Acts 2:30). So one oath can hold an unconditional promise to the named man and a conditional tenure for his descendants. That is the line this step draws.
 
 Paul gives the same thing a word. The promise rests on grace, "in order that the promise may rest on grace and be **guaranteed** to all his descendants" (Rom 4:16) — βεβαίαν, *bebaian*, made firm. And he says in that verse what it is guaranteed through: "For this reason it depends on faith." So the guarantee and the faith are not competitors in Paul's sentence. The promise is secured, and faith is the manner of its securing. Step 8 turns on exactly that arrangement.
 
@@ -154,6 +158,10 @@ The claim should not be overstated in the other direction either. Deuteronomy ti
 Stephen says so himself, in the speech this step relies on. After reporting that Abraham got nothing (7:5), he says, "as the time drew near for the fulfillment of the promise that God had made to Abraham, our people in Egypt increased and multiplied" (7:17). So the exodus and the conquest fulfill the promise to the descendants historically. They do not exhaust the personal and eschatological fulfillment argued here, since the same speech reports that Abraham himself received nothing.
 
 **The corporate objection, and why it does not close this off.** Someone will say the promise was made to a family and is paid when the family is paid — and Moses restates the oath as "To your descendants I will give it" (Exod 33:1; likewise Deut 34:4). But Stephen's sentence has both parties in it and reports a deficit to the first. A reader who takes the grant corporately has to say what Abraham himself was promised and what he got. And whatever he says about the land, the second clause is not open to that reading at all: no descendant can be the man whose God God is. A land grant can be received by a son on a father's behalf. "To be God to you" (Gen 17:7) cannot be satisfied by being God to somebody else.
+
+**Genesis 15.** The corporate reading has its strongest text in the covenant ceremony itself. God says, "I am the LORD who brought you from Ur of the Chaldeans, to give you this land to possess." Abraham asks, "O Lord GOD, how am I to know that I shall possess it?" (Gen 15:7–8). Part of the answer is his own death and his descendants' return: "As for yourself, you shall go to your ancestors in peace; you shall be buried in a good old age. And they shall come back here in the fourth generation" (15:15–16). So the objector says the grant to Abraham was always to be received in his descendants.
+
+The same chapter makes the grant to him: "to give you this land to possess" (15:7). The prophecy says when the descendants will hold the land. It does not say that their holding is his. Stephen, after narrating Abraham's death, still reports the promise as made "to him as his possession and to his descendants after him" (Acts 7:5). And Hebrews says the patriarchs "died in faith without having received the promises" and were "seeking a homeland" (Heb 11:13–14). Both writers read the personal grant as outstanding after the death Genesis 15 foretold.
 
 **5. The inheritance is the world, and the city comes down into it.**
 
@@ -397,6 +405,8 @@ At 3:18 he uses a different word for the thing: "For if **the inheritance** come
 At 3:22 the promise is again what believers receive: "so that what was promised through faith in Jesus Christ might be given to those who believe."
 
 So between 3:14 and 3:29 Paul calls the promised thing an inheritance, and says God granted it to Abraham. An objection that the word stays narrowed has to account for the verse that widens it, in the same argument, eleven verses before the one it is attacking.
+
+Hebrews joins the same two words. Christ "is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance" (Heb 9:15). The Greek is τὴν ἐπαγγελίαν… τῆς αἰωνίου κληρονομίας, *tēn epangelian… tēs aiōniou klēronomias*, the promise of the eternal inheritance. Two chapters later Hebrews uses the inheritance word of Abraham's place: he "set out for a place that he was to receive as an inheritance" (11:8). So what the called receive under the new covenant is a promised inheritance, and it is eternal. That is another writer, and it corroborates the step. Paul's 3:18 carries it.
 
 The attack is worth naming and is not worth conceding. It has a real hook at 3:14. It has to read past 3:18 to keep it.
 
