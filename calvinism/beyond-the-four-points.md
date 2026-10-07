@@ -1,8 +1,17 @@
 # Beyond the Four Points
 
-*Version 6.*
+*Version 7.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
+
+---
+
+## Dependencies
+
+The grades assume these files.
+
+- [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md): the sixty-six books of the Protestant canon, the text quoted, and the method assumptions.
+- [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md): the evaluation criteria.
 
 ---
 
@@ -57,13 +66,13 @@ A grade is a judgment about the difficulty of a proof. It is not a finding that 
 
 ## Total depravity
 
-calvinism.md shows the following. No one comes to Christ unless God first changes his heart. The condition that keeps a man from coming is native to every man, Christ excepted. It comes from Adam, as a marked synthesis. It is found in the heart, the will, the mind, and the understanding.
+calvinism.md shows the following. No one comes to Christ unless God first changes his heart. The condition that keeps a man from coming is native to every man, Christ excepted. It comes from Adam, by a same-author identification and by an argument within Romans. It is found in the heart, the will, the mind, and the understanding.
 
 **T1. Original righteousness, holiness, and ability to obey** (Dort III/IV.1; WCF 4.2, 6.2, 9.2). *Doubtful.* The usual route runs from the image of God (Gen 1:27) and God's verdict that creation is very good (1:31). The image of God is undefined. Goodness is likewise undefined: in the same account, God says it is not good for the man to be alone (2:18). A command to Adam does not show that he could keep it.
 
 **T2. Imputed guilt** (WCF 6.3). *Open.* Romans 5:18 says one man's trespass led to condemnation for all. The Confession says more: Adam's guilt itself is reckoned to each descendant. A rival reading has the condemnation come through the condition each person inherits. The argument would also have to answer Ezekiel 18:20, which says a child does not bear a parent's iniquity. It would have to show that Adam stands to his descendants as more than a parent.
 
-**T3. Transmission by ordinary generation** (Dort III/IV.2; WCF 6.3). *Open.* The claim names the line along which the condition passes, not how it passes. Texts tie the condition to birth and descent: Adam fathers a son in his likeness (Gen 5:3); no one brings a clean thing out of an unclean (Job 14:4); the psalmist was sinful from conception (Ps 51:5); what is born of the flesh is flesh (John 3:6). Each has a rival reading. Psalm 51:5 may speak only of the psalmist, and "flesh" in John 3:6 shifts with its context.
+**T3. Transmission by ordinary generation** (Dort III/IV.2; WCF 6.3). *Open.* The claim names the line along which the condition passes, not how it passes. Texts tie the condition to birth and descent: Adam fathers a son in his likeness (Gen 5:3); no one brings a clean thing out of an unclean (Job 14:4); the psalmist was sinful from conception (Ps 51:5); what is born of the flesh is flesh (John 3:6). Each falls short of the step. Psalm 51:5 speaks of one man. John uses "flesh" for what the Word became (John 1:14), so "what is born of the flesh is flesh" does not by itself name a corruption, though the passage does say that everyone born must be born from above (3:3, 7). Luke 1:35 ties Christ's holiness to the Spirit's overshadowing. It does not say what ordinary conception passes on.
 
 **T4. Every faculty and part** (Dort III/IV.1; WCF 6.2). *Doubtful as stated.* "Every" needs a list to check against, and Scripture gives no inventory of faculties. A claim that the whole person is affected is open.
 
@@ -71,7 +80,7 @@ calvinism.md shows the following. No one comes to Christ unless God first change
 
 **T6. Corruption remains in the regenerate, and its motions are sin** (WCF 6.5). *Open.* That sin remains in believers is direct (1 John 1:8; Gal 5:17). Romans 7:7 makes a desire, coveting, a breach of the law. Romans 7:14–25 describes sin that dwells in the one speaking. If the speaker is regenerate, that carries the claim. Who the speaker is is disputed, and the rival readings have warrant: compare 7:14 with 6:18. James 1:15 has desire conceive and then give birth to sin, which a rival reads as a line between desire and sin.
 
-**T7. The good works of the unregenerate are sinful** (WCF 16.7). *Open.* Those without faith cannot please God (Rom 8:8; Heb 11:6). That is not yet that their works are sinful. Against the claim stand Cornelius's prayers and alms (Acts 10:4). No One Comes grants that the unregenerate do civil good.
+**T7. The good works of the unregenerate are sinful** (WCF 16.7). *Open.* Those in the flesh cannot please God (Rom 8:8), and without faith it is impossible to please him (Heb 11:6). That is not yet that their works are sinful. No One Comes grants that the unregenerate do civil good.
 
 ## Unconditional election
 
@@ -115,7 +124,7 @@ calvinism.md shows the following. No one who is justified finally falls away. It
 
 **B2. Infants** (WCF 10.3; Dort I.17). *Within reach for the Confession; Doubtful for the Canons.* The Confession's claim is conditional: if an infant is elect and dies in infancy, it is regenerated and saved. Election is to salvation, so an elect infant is saved. No one sees the kingdom of God without being born from above (John 3:3), so a saved infant is regenerated. The Canons claim more: believing parents should not doubt the election of their children who die in infancy. That picks out the elect by a mark, being the child of a believer. Abraham was a believing parent. Both of his sons received the covenant sign (Gen 17:23–26), but God established his covenant with Isaac and not with Ishmael (17:19–21). Paul draws the rule from that case: not all of Abraham's children are his descendants (Rom 9:7–8). 1 Corinthians 7:14 calls the children of a believer holy, but it says the same of an unbelieving spouse, whose salvation 7:16 leaves uncertain.
 
-**B3. Limited atonement** (Dort II.8; WCF 8.5, 8.8). *Ambiguous.* The wording on the extent of the atonement, for whom Christ died, was drafted by members who held two incompatible views. One view was that Christ died only for the elect. The other was that Christ died for everyone, and that only the elect are saved. Members holding each view approved the same wording, so it stands for both positions and can be read either way. [atonement.md](https://github.com/stablecross/computer-assisted-theology/blob/main/calvinism/atonement.md) takes up the question.
+**B3. Limited atonement** (Dort II.8; WCF 8.5, 8.8). *Ambiguous.* Members of both assemblies held two incompatible views of the extent of the atonement, for whom Christ died. One view was that Christ died only for the elect. The other was that Christ died for everyone, and that only the elect are saved. At Dort, men who held the second view signed the Canons. At Westminster, men who held it took part in the Assembly that passed the Confession. What was agreed is the words, and the words can be read either way. [atonement.md](https://github.com/stablecross/computer-assisted-theology/blob/main/calvinism/atonement.md) takes up the question.
 
 **B4. The universal decree** (WCF 3.1). *Open.* Texts say God works all things according to his counsel (Eph 1:11) and assign one event both to God's purpose and to men who acted willingly and wickedly (Gen 50:20; Acts 4:27–28). Texts also say God tempts no one (Jas 1:13). The Confession's clauses on the author of sin and the will of creatures can be read as outcomes of this kind, which need no theory of how. The open steps are how far "all things" reaches in Ephesians 1:11, and Jeremiah 32:35, where a particular abomination never entered God's mind.
 
