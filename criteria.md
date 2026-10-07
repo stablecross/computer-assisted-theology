@@ -1,8 +1,8 @@
 # Four-Stage Evaluation Criteria
 
-*Version 13.*
+*Version 14.*
 
-Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis. A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
+Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis and the record described under "Standing of each thesis." A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
 
 **The same rules bind author and reviewer.** Whoever asserts a proposition must support it. Whoever challenges an inference must identify and demonstrate its defect. Neither party must prove the opposite conclusion merely to show that the other's argument falls short. A reviewer's findings are propositions too, and they are tested by these rules when the review is itself reviewed.
 
@@ -22,6 +22,7 @@ Before beginning, identify:
 6. Questions the document explicitly brackets.
 7. Readings the document explicitly concedes for the sake of argument.
 8. The evidentiary corpus both parties have agreed is admissible. Record it before anything else is assessed. The question is not which corpus is the right one — that is not this protocol's business — but which body of evidence the document and its critic have both accepted for the purposes of this argument. Where they have not agreed, say so. A binding review stops there: a disagreement about what counts as evidence is prior to any disagreement about what the evidence says, and running the four stages on top of an unresolved one produces a verdict neither party is bound by. A conditional review may still be run, and it must be labeled as one: *given this corpus, the argument establishes X.* It binds no one who has not accepted the corpus. Record also any method assumption the review relies on that the parties have not agreed, such as whether a later text may govern the reading of an earlier one. Many apparent interpretive disputes are authority disputes conducted as interpretive ones, and naming the corpus is what makes the difference visible.
+9. Each attached paper that is not an import of the document. Such a paper supplies no premise to the document. Only the imports listed in the document's Dependencies section do that. An attached paper's own imports come with it, and they supply no premise to the document either. For each such paper, identify every pair of theses, one in the document and one in that paper, that cannot both hold. Quote both, each with its paper and step. State the sense each paper gives to every term the two theses share. If a shared term carries a different sense in each, the pair does not collide in that respect; record that. If the paper has no collision with the document, record that too. Where a colliding thesis rests on an import, follow the imports back to the earliest paper whose thesis collides, since a paper stands no higher than its imports. The collisions found here are findings, and they are tested like any other. Where more than one paper is under review, do this for each of them, with respect to every other attached paper that is not its import.
 
 **A defect in one route defeats the conclusion only if no independent route survives.** Say which route an objection touches before assessing its force.
 
@@ -192,7 +193,8 @@ End Stage 3 with:
 - whether any omission is fatal;
 - whether any omission is a scope finding rather than a defeat, and the narrowest thesis it leaves standing;
 - the datum ledger and the partitions the countermodel requires;
-- and the result of the whole-canon countermodel test.
+- the result of the whole-canon countermodel test;
+- and, for each attached paper that collides with the document, the result of testing the document against it, collision by collision, with the data on which each comparison turns.
 
 ---
 
@@ -245,6 +247,8 @@ End the review with the standing of each thesis the document claims. The standin
 **Grade the thesis as written and the narrowest thesis.** Where the pre-analysis found the stated thesis wider than the proof, give the standing of each.
 
 Attack candidates do not lower a standing.
+
+**State what the standing was tested against.** End the review with a record: the version of the document, of the criteria, and of the corpus; the version of each import attached; and the version of each other paper attached. A standing holds for that combination. It is conditional on the imports at the versions named, and it was tested against the countermodels the reviewer built and the other papers named. A later version of any of these papers, or a colliding paper the review did not see, reopens it. Where more than one paper is under review, give the standing of each thesis of each paper.
 
 ---
 
@@ -352,6 +356,8 @@ The evaluator must make the strongest admissible case against every load-bearing
 Do not test the argument only against obvious, common, or easily answered objections. Construct the strongest objection the agreed corpus supports. State it in the form its most capable advocate would use. Then test the document's strongest answer. Then construct the strongest rejoinder to that answer. Do not stop because the document has anticipated an objection.
 
 Where several attacks are available, prefer the one which, if it succeeded, would defeat the most. Where a published or otherwise well-developed opposing reading states the objection better than the evaluator first did, use that version.
+
+**Other attached papers.** An attached paper that is not an import of the document, and that collides with it, is a well-developed opposing reading in this sense. It is a competing reading, and so a proof of its own, and it is tested under every rule that binds the document, at the stage where each rule applies. Test the document against it at Stage 3, alongside the countermodels you build yourself. It does not replace those countermodels. Its failure does not establish the document, and the document's failure does not establish it. Where that paper does not accept the agreed corpus, the comparison is conditional, as under item 8 of the pre-analysis.
 
 **The evaluator's effort must be hostile; his standards must not be.** An attack is inadmissible if it changes the thesis, denies a premise stipulated at that stage, imports authority outside the agreed corpus, rests on mere conceivability where warrant is required, demands proof of a bracketed proposition, or borrows consequences belonging to a later stage.
 
