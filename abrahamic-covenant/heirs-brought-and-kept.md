@@ -1,6 +1,6 @@
 # God Brings Every Heir to Faith and Loses None of Them
 
-*Version 15.*
+*Version 16.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -497,6 +497,12 @@ Read alone, the passage has more than one reading. This paper takes the reading 
 *Shared in the Holy Spirit.* Hebrews has already said what the Spirit distributed in the congregation. God testified "by signs and wonders and various miracles, and by gifts of the Holy Spirit, distributed according to his will" (2:4). The Greek pairs δυνάμεσιν, *dynamesin*, powers, with Πνεύματος Ἁγίου μερισμοῖς, *Pneumatos Hagiou merismois*, distributions of the Holy Spirit. At 6:5 the fallen tasted "the powers [δυνάμεις, *dynameis*] of the age to come." So sharing in the Holy Spirit can be sharing in those distributions. The words for the Spirit's part differ between 2:4 and 6:4; the link is the powers named in both, and it is a reading rather than a lexical equation. Jesus names men who did exactly that and were never his: "did we not prophesy in your name, and cast out demons in your name, and do many deeds of power [δυνάμεις, *dynameis*] in your name? Then I will declare to them, 'I never knew you'" (Matt 7:22–23).
 
 *Again to repentance.* The Greek of 6:6 is πάλιν ἀνακαινίζειν εἰς μετάνοιαν, *palin anakainizein eis metanoian*, "to restore again to repentance." The *again* implies the fallen had repented once. Hebrews uses the same noun of Esau, whom "Not Grounded in the Man" argues was passed over in the designation (step 6a): "he was rejected, for he found no chance to repent [μετανοίας, *metanoias*], even though he sought the blessing with tears" (12:17). So the writer's repentance vocabulary reaches a man passed over for the inheritance. The *again* shows that the fallen had repented in some sense. It does not show that theirs was "the repentance that leads to life" (Acts 11:18).
+
+*The man the writer names.* Esau is the one man Hebrews puts in a warning by name, and the writer describes him as a man who failed to inherit. "See to it that no one becomes like Esau... You know that later, when he wanted to inherit [κληρονομῆσαι, *klēronomēsai*] the blessing, he was rejected" (12:16–17). The writer uses the same word family for the heirs in chapter 6. He urges his readers to imitate "those who through faith and patience inherit [κληρονομούντων, *klēronomountōn*] the promises" (6:12). God's oath is made "to the heirs [κληρονόμοις, *klēronomois*] of the promise" (6:17). So in one letter, one word family names the man who failed to inherit and the people the oath secures.
+
+Esau shared real works of God with the heir. Rebekah was barren, "and the LORD granted his prayer, and his wife Rebekah conceived" (Gen 25:21). Paul stresses that the twins came from the same conception: Rebecca "had conceived children by one husband," ἐξ ἑνὸς κοίτην ἔχουσα, *ex henos koitēn echousa* (Rom 9:10). Isaac blessed both sons: "By faith Isaac invoked blessings for the future on Jacob and Esau" (Heb 11:20). Esau was still passed over in the designation ("Not Grounded in the Man," step 6a). Paul puts the difference in God's choice, made "not by works but by his call" (Rom 9:11–12).
+
+The objection reasons from the goods of 6:4–5 to the conclusion that the fallen were heirs. Hebrews' own named example is a man who received God's works alongside the heir and was not the heir. So in Hebrews, sharing a work of God with the heirs does not make a man one of them. The example does not by itself say what "shared in the Holy Spirit" means; the paragraph on that phrase gives the reading. Nor does it say what Esau's final state is.
 
 *What the writer withholds.* He says the fallen shared in the Holy Spirit. He does not call them partners of Christ. He keeps that title for those who endure: "we have become partners of Christ, if only we hold our first confidence firm to the end" (3:14).
 
