@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 10.*
+*Version 11.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -124,7 +124,7 @@ The extent claim has two routes. Route A runs through the gospel's commission an
 
 The bridge claim does not need the exclusion claim or the extent claim. It asks each argument for its premise.
 
-The proclamation claim does not rest on Route A. Its negative half rests on part five's tests. Its positive half rests on what the apostles said: "that Christ died for our sins" (1 Cor 15:3), proclaimed before it was received. A weak joint in Route A limits the extent claim on that route. It does not limit the proclamation claim.
+The proclamation claim does not rest on Route A. Its negative half rests on part five's tests. Its positive half rests on what the apostles said: "that Christ died for our sins" (1 Cor 15:3), proclaimed before it was received, and the message of reconciliation, which tells the world what God did about its trespasses before it appeals to men to be reconciled (2 Cor 5:19–20). A weak joint in Route A limits the extent claim on that route. It does not limit the proclamation claim.
 
 ---
 
@@ -374,15 +374,19 @@ The Greek is σωτὴρ πάντων ἀνθρώπων μάλιστα πιστ�
 
 *The rejoinder.* "Savior" here means preserver, in the sense of providence, not Savior from sin. The context gives this some support. Paul has just spoken of foods "which God created to be received with thanksgiving" (4:3) and of godliness "holding promise for both the present life and the life to come" (4:8). Against it, the Pastoral Epistles use the language of God's saving for his saving through Christ (1 Tim 1:15; 2:3–4; Titus 2:13–14; 3:4–6). This step is corroboration only. It names God as Savior rather than Christ's death, and the sense of "Savior" here is contested.
 
-**19. Three further texts.**
+**19. Further texts.**
 
-These three carry less alone, and they are listed as corroboration.
+These carry less alone, and they are listed as corroboration.
 
 "We do see Jesus... crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone" (Heb 2:9). The Greek is ὑπὲρ παντός, *hyper pantos*, singular: for each one. A reader can argue that the "many children" of 2:10 fix the domain, and this paper does not rest on the verse.
 
 "Here is the Lamb of God who takes away the sin of the world!" (John 1:29). The domain is John's "world," as in step 16.
 
-"For the love of Christ urges us on, because we are convinced that one has died for all; therefore all have died. And he died for all, so that those who live might live no longer for themselves" (2 Cor 5:14–15). Paul distinguishes "all," for whom Christ died, from "those who live." On limited atonement the two classes are one. On the reading taken here they are a class and its part, which is how Paul's wording sets them.
+"For the love of Christ urges us on, because we are convinced that one has died for all; therefore all have died. And he died for all, so that those who live might live no longer for themselves" (2 Cor 5:14–15). Paul describes those Christ died for as "all" and then names "those who live." Two descriptions can name one class or a class and its part. On limited atonement they must be one class, and the wording does not mark them as one.
+
+"The bread that I will give for the life of the world is my flesh" (John 6:51). The domain is John's "world," as in step 16, and the same discourse makes the receiving a matter of eating (6:53–54).
+
+"For the grace of God has appeared, bringing salvation to all" (Titus 2:11). The Greek is σωτήριος πᾶσιν ἀνθρώποις, *sōtērios pasin anthrōpois*, to all people. Three verses later the redeeming and purifying are stated of "us" and "a people of his own" (2:14). A reader can take "all people" as all kinds, as the paragraph's slaves and masters invite.
 
 **20. Therefore Christ died for the whole world.**
 
@@ -554,7 +558,7 @@ The first premise is the purpose assumption of step 3.
 
 *The answer.* The text the argument most needs is 2 Corinthians 5:14: "one has died for all; therefore all have died." There Paul draws a consequence from "died for all." If "all have died" means died with Christ in union, the verse states the bridge premise.
 
-The verse does not say *with*. Where Paul speaks of union, he does: "we have died with Christ" (Rom 6:8); "if with Christ you died" (Col 2:20); "I have been crucified with Christ" (Gal 2:19). The Greek of 2 Corinthians 5:14 is εἷς ὑπὲρ πάντων ἀπέθανεν, ἄρα οἱ πάντες ἀπέθανον, *heis hyper pantōn apethanen, ara hoi pantes apethanon*, with no σύν, *syn*, with. On the reading taken here, the inference runs from the one's death for all to the death of all: the one died for them, so his death counts as theirs. That is true of everyone the death was for.
+The verse does not say *with*. Where Paul speaks of union, he does: "we have died with Christ" (Rom 6:8); "if with Christ you died" (Col 2:20); "I have been crucified with Christ" (Gal 2:19). The Greek of 2 Corinthians 5:14 is εἷς ὑπὲρ πάντων ἀπέθανεν, ἄρα οἱ πάντες ἀπέθανον, *heis hyper pantōn apethanen, ara hoi pantes apethanon*, with no σύν, *syn*, with. The missing preposition is evidence, not proof, since Paul could imply union without it. On the reading taken here, the inference runs from the one's death for all to the death of all: the one died for them, so his death counts as theirs. That is true of everyone the death was for.
 
 What that death does for each of them is then received. Paul writes the appeal five verses later: "be reconciled to God" (5:20). And Romans 6 says how union is entered: "all of us who have been baptized into Christ Jesus were baptized into his death" (6:3).
 
@@ -890,6 +894,8 @@ The first is that the "our" of 1 Corinthians 15:3 is the believers' "our." Paul 
 
 The second is that no sermon in Acts says to unbelievers, "Christ died for you." That is an absence, and an absence does not establish a reading. What the sermons do say concerns the hearers. "When God raised up his servant, he sent him first to you, to bless you by turning each of you from your wicked ways" (Acts 3:26). "Through this man forgiveness of sins is proclaimed to you" (13:38). Neither narrows its "you" to those who will believe.
 
+Paul also states what the apostolic message contains, without the first person. God "has given us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us" (2 Cor 5:18–19). The message says what God in Christ did about the world's trespasses. The appeal comes after it: "we entreat you on behalf of Christ, be reconciled to God" (5:20). The Greek has no "you" there: δεόμεθα ὑπὲρ Χριστοῦ, καταλλάγητε τῷ θεῷ, *deometha hyper Christou, katallagēte tō theō*. So the ambassadors' message tells whoever hears it what God did about his trespasses, and then asks him to be reconciled. That does not turn on whose sins "our" names in 1 Corinthians 15:3.
+
 So the proclamation the apostles made tells each hearer something about what Christ's death does about his sins. Limited atonement has no proposition of that kind to give every hearer. The apostles' gospel is in the indicative: Christ died for our sins. Limited atonement puts it in the conditional: if you believe, you will be forgiven. That is the proclamation claim.
 
 ---
@@ -964,7 +970,7 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction. It is warranted by 2 Corinthians 5:19–20, where Romans 4:8 is answered, and by Romans 5:10–11, which has reconciliation done and received but does not by itself show two acts. Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 are support.
 
-**Step 29** — that 2 Corinthians 5:14 does not state the bridge premise. "All have died" has no σύν, *syn*, with, where Paul's statements of union have it, and the paper reads it as the death of the one counted as the death of all. The union reading, taken as a rule, makes everyone Christ died for united to him, and with 1 John 2:2 and 2 Peter 2:1 that contradicts John 5:28–29.
+**Step 29** — that 2 Corinthians 5:14 does not state the bridge premise. "All have died" has no σύν, *syn*, with, where Paul's statements of union have it, and the paper reads it as the death of the one counted as the death of all. That is evidence, not proof. What carries the step is that the union reading, taken as a rule, makes everyone Christ died for united to him, and with 1 John 2:2 and 2 Peter 2:1 that contradicts John 5:28–29.
 
 **Step 30** — that Scripture speaks of God's purpose in two ways: what God ordains, which always comes to pass, and what God desires and commands, which men can refuse. This is the paper's own distinction. It is warranted by Luke's use of βουλή, *boulē*, for both (Acts 2:23; 4:28; Luke 7:30), by Lamentations 3:32–33 with 3:37–38, by Ezekiel 33:11, and by 1 Timothy 2:4. The step then sorts the saving purposes Scripture attaches to the death and the mission. Every determining saving purpose is stated of a company. Every saving purpose stated of the world has a divided outcome reported in its context. The weak joint is the second group: an objector can read the world of John 3:17 as the elect, and step 16 answers that reading from John's usage. Second Corinthians 5:15 is support only.
 
