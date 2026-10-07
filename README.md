@@ -57,13 +57,20 @@ This is not an attempt to train an AI model to a theological system. Any model c
 
 ### How a paper is laid out
 
-A paper that argues from the text opens with its dependencies: corpus.md, criteria.md, and the papers whose conclusions it imports, each with a link. Front matter follows: the paper's claims, its terms, and what it does not argue. The front matter also says what an objection has to do. For each claim, it states what an objector would have to show to defeat it.
+A paper that argues from the text has these parts, in this order. The required parts are what a review needs. The optional parts help a reader and a reviewer.
 
-That section comes before the argument on purpose. It is the test written before the code. The conditions for failure are fixed before the argument runs, so they cannot be shaped afterward to fit what the argument managed to show. The criteria work the same way: the burden of proof is set first, and the evidence is weighed after.
-
-So the section names texts and steps the reader has not reached yet. On a first reading, skip it and come back to it after the argument. Near the end of the paper, "What is inferred, and where to attack" ties the same conditions to the steps they apply to.
-
-The NRSV copyright notice, and the note on which text of Scripture is quoted, are in the acknowledgements at the end of each paper.
+1. **Title.** Required.
+2. **Version line.** Required. A review records the version it tested.
+3. **Copyright and license line.** Optional. It is the author's choice.
+4. **Dependencies.** Required. It lists corpus.md and criteria.md, and under "Imports" each paper whose conclusions it uses, each with a link and the conclusions taken. A paper that imports nothing says "None."
+5. **Claims under review.** Required. Each thesis the paper argues, stated so it can be quoted.
+6. **Terms.** Optional. The sense of each key term, used one way throughout.
+7. **What is not argued.** Optional. The questions the paper brackets.
+8. **What an objection has to do.** Optional. For each claim, what an objector would have to show to defeat it. When a paper has this section, it comes before the argument on purpose. It is the test written before the code. The conditions for failure are fixed before the argument runs, so they cannot be shaped afterward to fit what the argument managed to show. The criteria work the same way: the burden of proof is set first, and the evidence is weighed after. The section names texts and steps the reader has not reached yet, so on a first reading, skip it and come back to it after the argument.
+9. **The argument.** Required. Numbered steps, so a reader can point to the step that fails.
+10. **Objections.** Optional. Named objections and the answers to them.
+11. **What is inferred, and where to attack.** Optional. Each move the paper makes, with its kind and its weak joints. It ties the conditions of "What an objection has to do" to the steps they apply to.
+12. **Acknowledgements.** Required when a text the paper quotes carries a permission notice, as the NRSV does; the notice goes here. It also says which text of Scripture is quoted.
 
 ### The corpus
 
@@ -120,17 +127,22 @@ To review a paper, give an AI model these files:
 - the paper;
 - [criteria.md](https://github.com/stablecross/computer-assisted-theology/blob/main/criteria.md);
 - [corpus.md](https://github.com/stablecross/computer-assisted-theology/blob/main/corpus.md);
-- every paper it imports, as listed in its Dependencies section.
+- every paper it imports, as listed in its Dependencies section;
+- any other papers you want the paper tested against, with their imports.
 
 Attach the files rather than linking to them. Some models cannot fetch web pages, and others fetch GitHub's page around the file instead of the file itself. A paper and its imports can run to 75,000 words, which fits in the largest models' context windows but not in every free tier.
 
 Then use this prompt unchanged:
 
-> Evaluate the attached paper under the attached criteria. The agreed corpus is stated in the attached corpus.md. If the paper imports conclusions from other papers, those papers are also attached; test the paper's use of them, not the imports themselves. Report each stage separately. End by stating the paper's version, the criteria version, and the corpus version.
+> Evaluate *file name* under the attached criteria. The agreed corpus is stated in the attached corpus.md. If the paper imports conclusions from other papers, those papers are also attached; test the paper's use of them, not the imports themselves. Any other attached paper is used as the criteria direct. Report each stage separately.
+
+Other papers may be attached. The criteria say how they are used. A paper that is not an import supplies no premise. The reviewer finds where it collides with the paper under review, tests the paper against it there, and still builds its own countermodels. A reviewer cannot find a conflict with a paper it does not see, so a review answers only for the papers attached to it.
 
 The prompt names the files and nothing else. It does not ask the model to find flaws or to confirm the argument; how hard to push is set by the criteria. Using the same prompt makes reviews comparable, so differences between reviews come from the models and not from the wording.
 
 A review of a paper that imports others gives a standing that holds only if the imports hold, such as "Established, given its imports." Each import gets its own standing in its own review. The paper then stands no higher than its weakest import. For example, if calvinism.md is Established given its imports, and one of those imports is only Supported, then calvinism.md is Supported.
+
+The criteria require each review to end with a record of what it tested: the versions of the paper, the criteria, the corpus, each import, and each other paper attached. A standing holds for that combination. A new version of any of those papers, or a colliding paper the review did not see, reopens it.
 
 Record the model, its version, and the date yourself. A model's report about itself is unreliable: in trials, one model gave a date two years in the past, and another said its own version was not visible to it.
 
@@ -142,24 +154,22 @@ A finding you believe is correct can be filed as a bug report.
 
 Suppose systemA.md and systemB.md argue theses that cannot both be true, and each has been reviewed as Established. Then at least one review is wrong. Established means no admissible countermodel survives, and each paper is a countermodel to the other. So a paper's standing holds only until it is reviewed against any paper that contradicts it.
 
+Particle physics has a precedent. In 2011 the OPERA experiment reported neutrinos arriving faster than light, at six sigma, above the threshold for a discovery. Because the result conflicted with relativity, its authors presented it as an anomaly to be checked. The checks found the main cause, a faulty fiber-optic connection in the timing system. Later measurements, OPERA's among them, found the neutrinos traveling at the speed of light. A high bar does not guarantee that a result is true. A conflict says to look for an error. It does not say which result has it. Finding the error takes checking each result.
+
 Two Established papers can conflict for three reasons:
 
 - **They rest on different corpus or method assumptions.** The pre-analysis of each review records these. If they differ, the dispute is about what counts as evidence, and neither review binds the other side.
 - **They do not actually contradict.** A key term such as "election" or "grace" may carry a different sense in each. Then both can stand, about different claims.
 - **Neither review faced the other paper.** Each reviewer built its own countermodel, and neither tested the other paper's best case.
 
-To resolve the conflict:
+To resolve the conflict, review the papers together, with the papers on both sides under review in one session. Neither side states where they collide. The reviewer finds the collisions and quotes each pair of theses, so the framing of the dispute is not left to either party. Either side may be carried by more than one paper.
 
-1. **Find where the papers collide.** Name one thesis in each paper that cannot hold together with the other, in the same sense. Follow each paper's imports back to the earliest paper whose thesis is in conflict. A later paper's standing is capped by its imports, so settling the earliest conflict settles the later ones.
-2. **Write a question file.** It quotes the two theses, each with its paper and step, says that they cannot both hold, and asks for the standing of each. It adds no argument. If it argued, it would be a third paper with its own author.
-3. **Attach the question file, criteria.md, corpus.md, the two papers in conflict, and their imports.** Attach only the papers that carry the conflict, not every paper that depends on them.
-4. **Use this prompt unchanged:**
+1. **Attach criteria.md, corpus.md, the papers on each side, and their imports.** Attach the papers that carry the conflict, not every paper that depends on them. A later paper stands no higher than its imports, so settling the earliest conflict settles the later ones.
+2. **Use this prompt unchanged, naming the papers under review:**
 
-> Evaluate the attached question under the attached criteria. The agreed corpus is stated in the attached corpus.md. The question states two theses that cannot both hold. Each is argued in an attached paper, whose imports are also attached. Treat each paper as the other's competing reading, and test both by the same rules. Report each stage separately. End with the standing of each thesis, and name the data on which the comparison turns.
+> Evaluate *file names* under the attached criteria. The agreed corpus is stated in the attached corpus.md. If a paper imports conclusions from other papers, those papers are also attached; test each paper's use of them, not the imports themselves. Any other attached paper is used as the criteria direct. Test every paper by the same rules. Report each stage separately.
 
 The review can end three ways. One thesis is Established and the other drops. Both are Supported, and one is ahead on named data. Or both are Not shown, which means the corpus does not settle the question. The third is a legitimate result: the bar exists so that the method says so when the texts do not decide.
-
-Particle physics has a precedent. In 2011 the OPERA experiment reported neutrinos arriving faster than light, at six sigma, above the threshold for a discovery. Because the result conflicted with relativity, its authors presented it as an anomaly to be checked. The checks found the main cause, a faulty fiber-optic connection in the timing system. Later measurements, OPERA's among them, found the neutrinos traveling at the speed of light. A high bar does not guarantee that a result is true. A conflict says to look for an error. It does not say which result has it. Finding the error takes checking each result, which is what the joint review does.
 
 ## How to report a bug
 
