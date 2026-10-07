@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 9.*
+*Version 10.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -500,7 +500,7 @@ Reformed theology has drawn the same line. Charles Hodge separated a debt of mon
 
 *The argument.* Palmer again: "Christ not only shed his blood, he also spilled it. He intended to save all, but only some will be saved. Therefore, some of his blood was wasted: it was spilled" (pp. 49–50).
 
-*What it needs.* Two premises. That if Christ died for a man, God's purpose in that death toward the man was his salvation. And that blood not followed by a man's salvation is blood spilled to no purpose.
+*What it needs.* Two premises. That if Christ died for a man, God's purpose in that death toward the man was his salvation, and that purpose does not fail. And that blood not followed by a man's salvation is blood spilled to no purpose.
 
 *The answer.* Leviticus commands blood to be poured out as part of the sin offering. "The priest shall put some of the blood on the horns of the altar of fragrant incense... and the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering" (Lev 4:7). In the sacrificial rite itself, blood poured out is not blood wasted. It is the rite performed as God commanded.
 
@@ -511,6 +511,8 @@ The defender can narrow the principle to Christ's blood, because it is more prec
 And on the defender's own confession there is nothing extra to waste. The Canons of Dort call Christ's death "of infinite worth and value, abundantly sufficient to expiate the sins of the whole world" (II.3). On that view Christ did not suffer more in order to die for more people.
 
 Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed for anyone it does not save." That is limited atonement itself, offered as a premise for limited atonement.
+
+The first premise is the purpose assumption of step 3.
 
 *Result.* Failure of the offered proof.
 
@@ -564,9 +566,29 @@ The union reading also fails when it is held with the rest of Scripture. Taken a
 
 *The argument.* God accomplishes everything he intends (Isa 46:10; 55:11). If Christ died for everyone, God intended to save everyone. Not everyone is saved. So Christ did not die for everyone.
 
-*What it needs.* That if Christ died for a man, God's intention in that death toward that man was his salvation. This paper grants that God's intentions succeed. What the argument needs is that the intention toward every man Christ died for was to save him.
+*What it needs.* That if Christ died for a man, God determined in that death that the man would be saved. The argument says "intended." Scripture speaks of God's purpose in two ways, and the argument needs the first.
 
-*The answer.* Scripture gives the cross different ends toward different men. It is "a fragrance from death to death" to some and "a fragrance from life to life" to others (2 Cor 2:15–16). The Son was sent "not to condemn the world, but in order that the world might be saved through him," and in the next verse "those who do not believe are condemned already" (John 3:17–18). There a saving purpose toward the world and a divided outcome stand in one breath. So a divided outcome does not prove that the death was for the saved alone. "This is the judgment, that the light has come into the world, and people loved darkness rather than light" (John 3:19). The blood of the covenant is the ground of a worse punishment for the one who profanes it (Heb 10:29). And Peter says Christ bought men whose end is "swift destruction" (2 Pet 2:1; part two). On that account every intention of God in the death succeeds: those brought to faith are saved through it, and those who refuse it are judged by their relation to it. The argument needs a text saying that God's intention in Christ's death toward every man it was for is that man's salvation.
+*Two ways Scripture speaks of God's purpose.* Luke, who wrote both the Gospel and Acts (Acts 1:1), uses one noun, βουλή, *boulē*, purpose, in both ways. In Acts, God's βουλή determined the cross. Jesus was "handed over to you according to the definite plan [βουλῇ] and foreknowledge of God" (Acts 2:23). His enemies did "whatever your hand and your plan [βουλή] had predestined to take place" (4:28). In the Gospel, men refuse God's βουλή: "the Pharisees and the lawyers rejected God's purpose [βουλήν] for themselves" (Luke 7:30). So one author uses one noun for a purpose that comes to pass whatever men do and for a purpose that men refuse.
+
+Lamentations has God doing what he does not desire. "Who can command and have it done, if the Lord has not ordained it? Is it not from the mouth of the Most High that good and bad come?" (Lam 3:37–38). Yet "although he causes grief, he will have compassion according to the abundance of his steadfast love; for he does not willingly afflict or grieve anyone" (3:32–33). The Hebrew of 3:33 is לֹא עִנָּה מִלִּבּוֹ, *lōʾ ʿinnāh millibbô*, he does not afflict from his heart. So God ordains affliction he does not desire.
+
+Ezekiel and Paul have God desiring what does not come to pass. "As I live, says the Lord GOD, I have no pleasure in the death of the wicked, but that the wicked turn from their ways and live; turn back, turn back from your evil ways; for why will you die, O house of Israel?" (Ezek 33:11). Not all the wicked turn. God "desires everyone to be saved" (1 Tim 2:4). Not everyone is saved. Ezekiel 33:11 also shows how God's command stands to his desire. The verse states the desire, that the wicked turn, and then commands it: "turn back." The command speaks the desire.
+
+This paper calls the first way the *determining purpose*: what God ordains, which always comes to pass (Isa 46:10). It calls the second the *desiring purpose*: what God desires and commands, which men can refuse. The argument needs a determining purpose to save everyone Christ died for.
+
+*The answer.* Scripture states saving purposes of Christ's death and mission in two groups. Neither group supplies that premise.
+
+The first group states a saving purpose toward a company that is saved. Christ gave himself up for the church "in order to make her holy... so as to present the church to himself in splendor" (Eph 5:25–27). He redeemed "us" from the curse "so that we might receive the promise of the Spirit through faith" (Gal 3:13–14). He gave himself "that he might redeem us from all iniquity and purify for himself a people of his own" (Titus 2:14). He would die "to gather into one the dispersed children of God" (John 11:52). The given will come to him, and he will lose none of them (John 6:37–39). Those "called according to his purpose" are carried from foreknowledge to glory (Rom 8:28–30). These are determining purposes, and each succeeds. Each is stated of its company. None is stated of everyone the death was for.
+
+The second group states a saving purpose toward the world. The Son was sent "not to condemn the world, but in order that the world might be saved through him" (John 3:17). In the next verse, "those who do not believe are condemned already" (3:18). God "desires everyone to be saved" (1 Tim 2:4), and in the same paragraph Christ "gave himself a ransom for all" (2:6). Not all are saved. So the context of each text reports a divided outcome. These are desiring purposes, and men refuse them.
+
+John 3:16–18 has both kinds in one paragraph. God loved the world and gave his Son (3:16). The purpose clause then names whom the giving saves: "so that everyone who believes in him may not perish but may have eternal life." That purpose does not fail, because every believer has eternal life. The next verse states the purpose toward the world (3:17). The verse after that sorts the world by faith (3:18).
+
+Paul has the same form in one sentence: "he died for all, so that those who live might live no longer for themselves" (2 Cor 5:15). The death is for all. The purpose clause is stated of "those who live." Some read "those who live" as everyone alive, so this verse is support and not a ground.
+
+The cross also has an end of judgment. It is "a fragrance from death to death" to some and "a fragrance from life to life" to others (2 Cor 2:15–16). "This is the judgment, that the light has come into the world, and people loved darkness rather than light" (John 3:19). So a divided outcome does not show that the death was for the saved alone.
+
+The argument needs a determining purpose to save everyone the death was for. The determining saving purposes Scripture states are stated of a company. The saving purposes stated of the world are desiring purposes, and their own contexts report a divided outcome. No text states a determining purpose to save everyone the death was for.
 
 *Result.* Failure of the offered proof.
 
@@ -626,11 +648,13 @@ Each argument here reads *only* into a text that says *for*. No text in this fam
 
 **36. "Christ loved the church and gave himself up for her."**
 
-*The argument.* "Husbands, love your wives, just as Christ loved the church and gave himself up for her" (Eph 5:25). A husband's self-giving for his bride is particular. So Christ gave himself for the church in a way he did not give himself for the world.
+*The argument.* "Husbands, love your wives, just as Christ loved the church and gave himself up for her" (Eph 5:25). A husband's self-giving for his bride is for her alone. So Christ gave himself for the church in a way he did not give himself for the world. And the giving has a stated purpose: "in order to make her holy by cleansing her with the washing of water by the word, so as to present the church to himself in splendor, without a spot or wrinkle or anything of the kind" (5:26–27). So those Christ died for, he makes holy.
 
-*What it needs.* That a statement of particular love and self-giving excludes any wider giving.
+*What it needs.* That a statement of love and self-giving for the bride excludes any wider giving. Or that a saving purpose stated of the church is stated of everyone the death was for.
 
-*The answer.* The text puts the church among those Christ gave himself for. It does not say that no one else is among them. And Paul is answering how husbands should love their wives, not for whom Christ died. Christ's particular love for his bride is real, and it is untouched if his death has a wider object.
+*The answer.* The text puts the church among those Christ gave himself for. It does not say that no one else is among them. And Paul is answering how husbands should love their wives, not for whom Christ died. Christ's love for the church is a bridegroom's love for his bride, and it is untouched if his death has a wider object.
+
+The purpose of 5:26–27 is a determining purpose stated of the church (step 30). It succeeds for the church. It is not stated of everyone the death was for.
 
 *Result.* Failure of the offered proof.
 
@@ -690,7 +714,7 @@ The two readings can be weighed. On the reading taken here, Romans 8:32 is a sta
 
 *What it needs.* That a purpose of gathering the children excludes any other object of the death.
 
-*The answer.* The sentence names two objects. Jesus would die "for the nation, and not for the nation only, but to gather into one the dispersed children of God." The nation is the Jewish people as a whole (step 9). So the verse that names the gathering of the children also names a wider object of the same death.
+*The answer.* The sentence names two objects. Jesus would die "for the nation, and not for the nation only, but to gather into one the dispersed children of God." The nation is the Jewish people as a whole (step 9). So the verse that names the gathering of the children also names a wider object of the same death. The gathering is a determining purpose stated of the children (step 30).
 
 *Result.* Failure of the offered proof.
 
@@ -700,9 +724,15 @@ The two readings can be weighed. On the reading taken here, Romans 8:32 is a sta
 
 *The argument.* The Father chose a definite people. The Son died to accomplish the Father's will for those the Father gave him (John 6:37–39). The Spirit applies redemption to the same people. The persons of the Trinity do not have conflicting purposes. So the Son did not die for a wider class than the Father chose and the Spirit regenerates.
 
-*What it needs.* That harmony of purpose requires every saving act of the three persons to have the same objects.
+A form of the argument runs through love. God does not love everyone with the same love. The death expresses his love for his own. So it is for them. Edwin Palmer gives this form (*The Five Points of Calvinism*, ch. 3).
 
-*The answer.* Harmony requires purposes that do not conflict. It does not require that every act have the same extent. John 17:2 gives two of the Son's relations two extents in one sentence: authority over all people, eternal life to the given. And the death has different ends toward different men (step 30). A purpose to save the heirs through the cross, and a purpose that the same cross judge those who refuse it, do not conflict.
+*What it needs.* That harmony of purpose requires every saving act of the three persons to have the same objects. In the form from love, that the death comes only from God's love for his own.
+
+*The answer.* Harmony requires purposes that do not conflict. It does not require that every act have the same extent. John 17:2 gives two of the Son's relations two extents in one sentence: authority over all people, eternal life to the given. The Father's choosing and the Son's keeping of the given are determining purposes toward the heirs. The sending of the Son also carries a desiring purpose toward the world (John 3:17; step 30). The two do not conflict, because the first does not deny the second.
+
+Scripture speaks of God's love in two senses. One is kindness toward the wicked, which Jesus makes the pattern for loving enemies: "Love your enemies and pray for those who persecute you, so that you may be children of your Father in heaven; for he makes his sun rise on the evil and on the good" (Matt 5:44–45). "He is kind to the ungrateful and the wicked" (Luke 6:35). The other is covenant love, tied to an oath: "It was because the LORD loved you and kept the oath that he swore to your ancestors... the faithful God who maintains covenant loyalty with those who love him" (Deut 7:8–9).
+
+Christ's love for the church is the covenant kind, a bridegroom's love for his bride, and Scripture calls a wife a wife "by covenant" (Mal 2:14). God's love for the world in John 3:16 is the first kind, since that world includes those condemned in 3:18. Scripture names both as the motive of one giving. Christ "loved the church and gave himself up for her" (Eph 5:25). "God so loved the world that he gave his only Son" (John 3:16). So the death does not come from covenant love alone. The form from love needs a text saying that it does.
 
 *Result.* Failure of the offered proof.
 
@@ -712,7 +742,7 @@ The two readings can be weighed. On the reading taken here, Romans 8:32 is a sta
 
 *What it needs.* That the given are the only objects of the death.
 
-*The answer.* The texts cited say the given will come and will receive eternal life. They state the outcome for the given, which this paper agrees is certain. They do not say the Son died for no others. John 17:2, which is cited for the argument, names "all people" in the same breath as a wider class over which the Son has been given authority.
+*The answer.* The texts cited say the given will come and will receive eternal life. They state the outcome for the given, which this paper agrees is certain. That outcome is a determining purpose stated of the given (step 30). They do not say the Son died for no others. John 17:2, which is cited for the argument, names "all people" in the same breath as a wider class over which the Son has been given authority.
 
 *Result.* Failure of the offered proof.
 
@@ -882,7 +912,7 @@ No. Christ's death for a man is not the man's being reconciled (part four, the s
 
 **"Then Christ's death failed for the lost."**
 
-Only if God's purpose in it toward them was their salvation. Step 30 answers that.
+Not in what God determined. What God determines comes to pass (step 30). Toward the world the death carries God's desire that men be saved (John 3:17; 1 Tim 2:4). Men refuse that desire, as they refuse other desires of God (Ezek 33:11; Luke 7:30). A refused desire is not a determining purpose that failed.
 
 **"The gospel was sent only to Israel."**
 
@@ -935,6 +965,8 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 **Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction. It is warranted by 2 Corinthians 5:19–20, where Romans 4:8 is answered, and by Romans 5:10–11, which has reconciliation done and received but does not by itself show two acts. Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 are support.
 
 **Step 29** — that 2 Corinthians 5:14 does not state the bridge premise. "All have died" has no σύν, *syn*, with, where Paul's statements of union have it, and the paper reads it as the death of the one counted as the death of all. The union reading, taken as a rule, makes everyone Christ died for united to him, and with 1 John 2:2 and 2 Peter 2:1 that contradicts John 5:28–29.
+
+**Step 30** — that Scripture speaks of God's purpose in two ways: what God ordains, which always comes to pass, and what God desires and commands, which men can refuse. This is the paper's own distinction. It is warranted by Luke's use of βουλή, *boulē*, for both (Acts 2:23; 4:28; Luke 7:30), by Lamentations 3:32–33 with 3:37–38, by Ezekiel 33:11, and by 1 Timothy 2:4. The step then sorts the saving purposes Scripture attaches to the death and the mission. Every determining saving purpose is stated of a company. Every saving purpose stated of the world has a divided outcome reported in its context. The weak joint is the second group: an objector can read the world of John 3:17 as the elect, and step 16 answers that reading from John's usage. Second Corinthians 5:15 is support only.
 
 **Step 38** — Romans 8:32. Read alone, the sentence supports a rule, since its stated ground is the giving up of the Son. The rule needs the purpose assumption that step 30 answers, and held with 2 Peter 2:1 and 1 John 2:2 it is not available. This is where the weights are closest.
 
