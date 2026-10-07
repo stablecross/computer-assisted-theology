@@ -1,6 +1,6 @@
 # Four Points of Calvinism: What the Papers Establish
 
-*Version 9.*
+*Version 10.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -62,7 +62,7 @@ Each import is argued in its own paper. A defect in an import is a defect in the
 
 **What is imported.** No One Comes argues that no one comes to Christ unless God first changes his heart. The response does not occur while the heart Ezekiel names remains, and where the response occurs, God's act brought it about. Step 10 of that paper crosses from Ezekiel's audience to every man, on Romans 8:7–8, Ephesians 2:3, 1 Corinthians 2:14, and John 6:44 and 65. Its closing section adds that no one is good: "No one is good but God alone" (Luke 18:19), which Paul states from the Psalter (Rom 3:10–12).
 
-**The condition is native.** Paul says where it comes from in the man: "we were by nature children of wrath, like everyone else" (Eph 2:3). The word is φύσει, *physei*, by nature. Genesis says it is there from youth: "the inclination of the human heart is evil from youth" (Gen 8:21). Jesus places it at birth: "What is born of the flesh is flesh" (John 3:6). Paul says "those who are in the flesh cannot please God" (Rom 8:8). Joining the two is canonical synthesis, the join No One Comes makes at step 10. David says it of himself: "I was born guilty, a sinner when my mother conceived me" (Ps 51:5). That is one man's case, and it corroborates. So the condition is not merely acquired by habit or example. A man has it as he is. It can also grow worse by practice: those who would not honor God "became futile in their thinking, and their senseless minds were darkened" (Rom 1:21).
+**The condition is native.** Paul says where it comes from in the man: "we were by nature children of wrath, like everyone else" (Eph 2:3). The word is φύσει, *physei*, by nature. Genesis says it is there from youth: "the inclination of the human heart is evil from youth" (Gen 8:21). Jesus says that everyone born must be born again: "no one can see the kingdom of God without being born from above" (John 3:3), and "You must be born from above" (3:7). John uses "flesh" for what the Word became (1:14), so "what is born of the flesh is flesh" (3:6) does not by itself name a corruption. What the passage does say is that natural birth does not supply what seeing the kingdom requires, and that holds of everyone born. David says it of himself: "I was born guilty, a sinner when my mother conceived me" (Ps 51:5). That is one man's case, and it corroborates. So the condition is not merely acquired by habit or example. A man has it as he is. It can also grow worse by practice: those who would not honor God "became futile in their thinking, and their senseless minds were darkened" (Rom 1:21).
 
 **The condition comes from Adam.** Paul names the source. "Sin came into the world through one man, and death came through sin, and so death spread to all because all have sinned" (Rom 5:12). "By the one man's disobedience the many were made sinners" (5:19). "All die in Adam" (1 Cor 15:22).
 
