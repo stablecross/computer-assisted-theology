@@ -1,6 +1,6 @@
 # The Election Is Not Grounded in the Man
 
-*Version 65.*
+*Version 66.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -35,7 +35,7 @@ The mode does not matter, and this paper does not ask what stands behind the res
 
 **Granted going in.** That the election is to salvation, which the companion paper establishes and this one imports. That faith is necessary, real, and the man's own act — which is not an import but a concession the argument runs against, since steps 4 and 5 need faith to be the man's act in order for foreseen faith to be a fact about him. Neither decides the question.
 
-**Not under review.** How many are outside the class, and why. Step 6a argues that at least one man was passed over in the designation — Esau, whom Hebrews says was rejected when he sought to inherit the blessing — and that is all the extension this argument needs. It does not claim to know Esau's final state. It does not follow, and is not claimed, that any other named person was passed over, nor does this paper take up why anyone is passed over. Whether God's choosing may select on a non-responsive property of the man — something he is rather than something he does: this paper does not deny it and does not assert it, no step below tests such a candidate, and the ledger at step 2b runs on the responsive ones. Total inability, particular redemption, and perseverance are likewise elsewhere.
+**Not under review.** How many are outside the class, and why. Step 6a argues that at least one man was passed over in the patriarchal designation — Esau, whom Hebrews says was rejected when he sought to inherit the blessing — and that is all the extension this argument needs. It does not claim to know Esau's final state. It does not follow, and is not claimed, that any other named person was passed over, nor does this paper take up why anyone is passed over. Whether God's choosing may select on a non-responsive property of the man — something he is rather than something he does: this paper does not deny it and does not assert it, no step below tests such a candidate, and the ledger at step 2b runs on the responsive ones. Total inability, particular redemption, and perseverance are likewise elsewhere.
 
 **What this argument does not import.** The companion paper imports no metaphysics, and neither does this one. The trilemma at step 1 does not assume that every difference has an account — fork three is precisely the position that this one has none, and it is answered from the text at step 2 rather than ruled out in advance. Nothing here depends on an account of how responsibility attaches to an act, on who owns an act, or on any claim about what would be fair. Those doors stay shut.
 
@@ -47,7 +47,7 @@ One dependency runs outside this paper and should be named where a reader will s
 
 Two supports reach it, and they fall to different attacks. Galatians 4:28 states it with Isaac named — children of the promise, like Isaac — and is attacked by reading *like* as resemblance. Galatians 3:29 states it without any comparison, and Hebrews 11:9 puts Isaac on the same side of that description as heir of the same promise. The thin-*like* attack has nothing to grip on the second. An opponent must therefore break the proposition twice, by different arguments.
 
-Step 6a is a special case and should be labeled as one. It argues that at least one man was passed over in the designation, which keeps the two-man test from having an empty domain. It is not load-bearing: 2a's per-instance reading of 9:16 covers the same ground by another route, and it was added for that purpose. So an objector who defeats 6a has removed a case from the test and has not touched the thesis.
+Step 6a is a special case and should be labeled as one. It argues that at least one man was passed over in the patriarchal designation, which gives the two-man test a case at the level of that designation. It is not load-bearing: 2a's per-instance reading of 9:16 covers the same ground by another route, and it was added for that purpose. So an objector who defeats 6a has removed a case from the test and has not touched the thesis.
 
 **What "election" names in this paper.** The antecedent divine determination by which a person is assigned the salvific destiny of the promise-class. Romans 9 calls the governing purpose *election*; Romans 8 describes the same persons as foreknown, predestined, called, justified, and glorified. The vocabulary differs and the object is one: an act of God, with a person as its object, whose terminus is that person's salvation.
 
@@ -111,7 +111,7 @@ Two men. Same nature. Same gospel preached. Same conviction by the Spirit, the s
 
 Two things granted at the front turn that scene into the question this paper asks. Election is to salvation, and faith is the means. Add the thing every party to this dispute already holds — that salvation is by God's mercy — and where the mercy has fallen, a man believes.
 
-State the scene's limits, because it is an illustration and not a verdict. That B does not believe today does not tell you B is outside the class; he may believe tomorrow. Step 6a names one man Scripture says was passed over in the designation, and no other individual is claimed. The two men are a way of putting the question in front of you, not a ruling on either man. What the illustration displays is a difference in outcome under the same conditions, and the question is what accounts for such a difference wherever it obtains.
+State the scene's limits, because it is an illustration and not a verdict. That B does not believe today does not tell you B is outside the class; he may believe tomorrow. Step 6a names one man Scripture says was passed over in the patriarchal designation, and no other individual is claimed. The two men are a way of putting the question in front of you, not a ruling on either man. What the illustration displays is a difference in outcome under the same conditions, and the question is what accounts for such a difference wherever it obtains.
 
 So the question is not, in the first instance, what produced one man's believing. It is what accounts for the mercy falling where it falls — the discriminatory election the front matter named. That is what Romans 9:16 speaks to, and that is the difference the forks below are drawn about.
 
@@ -197,7 +197,7 @@ What the per-instance reading does is fix where 2b's conclusion attaches. Step 2
 
 Two of 2b's planks are already non-contrastive in the same way: 9:11–12 names the Caller rather than a rule the called satisfy, and 9:15's *idem per idem* withholds the specification without reference to any contrast.
 
-So the contrastive reading and the per-instance reading do different work, and neither is decorative. Step 6a argues separately that the contrast case is not empty — that some man was in fact passed over in the designation — but the coverage above does not depend on that step.
+So the contrastive reading and the per-instance reading do different work, and neither is decorative. Step 6a argues separately that some man was in fact passed over in the patriarchal designation, but the coverage above does not depend on that step.
 
 An objector will press the parallel. Exodus says Pharaoh hardened his own heart and also says God hardened it, so human facts are evidently not excluded from the hardening side; why should they be excluded from the mercy side? Note that the premise comes from Exodus, not from 9:18, and the answer has to meet it there.
 
@@ -253,9 +253,7 @@ State the plank's weight accordingly. On the indefinite reading, the formula sta
 
 **Sixth: 9:19 is corroborative only.** *Why then does he still find fault? For who can resist his will?* This verse does not prove that the objector read 9:16 as excluding every criterion. The hardening clause in 9:18 can motivate the fault-finding objection whatever one thinks about the mercy side. So the paper does not use 9:19 as a load-bearing inference about what the objector must have understood. The narrower observation is simply that Paul answers the objection without restoring a human criterion. That absence fits this reading, but because the objection can arise from hardening it carries less weight than the data above.
 
-**Seventh: when Paul restates the division, he names the successful group by election.** *Israel failed to obtain what it was seeking. The elect obtained it, but the rest were hardened* (Rom 11:7). A criterion model can read *the elect* as those whom God elected according to foreseen faith, and that is coherent — *elect* is a fine label for whomever God elected, by whatever means.
-
-So do not charge the model with inventing a category. Charge it with the word Paul chose. He is restating the very contrast of 9:30–32, where faith was named; and restating it, he writes *the elect obtained it*, not *the believers obtained it*. The second sentence was available and says what the criterion model would have him mean.
+**Seventh: 11:7 is corroborative only.** *Israel failed to obtain what it was seeking. The elect obtained it, but the rest were hardened* (Rom 11:7). Paul names the side that obtained by election, two verses after calling the remnant "chosen by grace" and "no longer on the basis of works" (11:5–6). So election bears on the division inside Israel. A criterion model can read *the elect* as those God elected in view of foreseen faith, and the label is accurate on that model too. So the word Paul chose does not count against the model. The verse places election in the division. It does not decide whether faith is election's criterion.
 
 **Eighth: the objection Paul raises at 9:14 is the one a criterion model answers on the spot.** "What then are we to say? Is there injustice on God's part? By no means!" (9:14)
 
@@ -277,7 +275,7 @@ The nearest such text to election language is the judgment scene in Matthew: "Co
 
 Now compare costs rather than asking whether a criterion model is logically possible. It can accommodate every datum, and it does so by one governing distinction rather than several: God determines the gracious rule, and the man's satisfying *C* determines who falls under it.
 
-An objector will say that is a single posit, not five epicycles, and he is right about the count. The count is not the point. The cost is that the distinction is unmarked at every place it has to be applied. Paul names the Caller at 9:11–12 and does not name a rule the called meet. He states the dependence at 9:16 with no second level in view. He places the willing in God twice at 9:18. He calls the successful side *the elect* at 11:7 where *the believers* was available. At each of those the model must supply a level the sentence does not mark — the same level each time, which is what makes it one distinction, and unmarked each time, which is what makes it a cost.
+An objector will say that is a single posit, not five epicycles, and he is right about the count. The count is not the point. The cost is that the distinction is unmarked at every place it has to be applied. Paul names the Caller at 9:11–12 and does not name a rule the called meet. He states the dependence at 9:16 with no second level in view. He places the willing in God twice at 9:18. At each of those the model must supply a level the sentence does not mark — the same level each time, which is what makes it one distinction, and unmarked each time, which is what makes it a cost.
 
 The standard foreseen-faith model simply sets *C = faith*.
 
@@ -319,7 +317,7 @@ That does not by itself dispose of foreseen *faith*, since Paul's stated exclusi
 
 Paul's answer to that question has no human term in it. He denies two and names one, and the one he names is God who shows mercy.
 
-An objector will say a criterion can sit underneath a source-statement without being mentioned in it. That is the move step 2b answers comparatively: 9:11–12 names the Caller against works; 9:15 states no criterion; 9:16 places the stated dependence on God; 9:18 twice makes God's will distributive; 9:19 adds only the weaker observation that Paul does not restore a criterion; and 11:7 restates the successful side as the elect. No one datum deductively excludes a subordinate criterion. The case is that the criterion model must insert the same unmarked source/criterion distinction across the whole sequence.
+An objector will say a criterion can sit underneath a source-statement without being mentioned in it. That is the move step 2b answers comparatively: 9:11–12 names the Caller against works; 9:15 states no criterion; 9:16 places the stated dependence on God; 9:18 twice makes God's will distributive; 9:19 adds only the weaker observation that Paul does not restore a criterion; and 11:7 adds only that Paul names the successful side by election. No one datum deductively excludes a subordinate criterion. The case is that the criterion model must insert the same unmarked source/criterion distinction across the whole sequence.
 
 Middle knowledge is the same move made carefully. On that account God knows what each possible man would freely do under each set of circumstances, and creates and places accordingly. But *what Jacob would do* is a fact about Jacob's responding, and therefore responsive by the definition at the front. It occupies the same slot in the explanation that Jacob's actual faith would occupy, and the sentence is indifferent to whether the fact is actual or counterfactual.
 
@@ -411,7 +409,7 @@ Look at what 9:16 is concluding from. Verse 15 quotes Exodus: "I will have mercy
 
 And 9:16 opens with *ara oun* — so then. It is a conclusion drawn from the cases of Isaac and Jacob, which are cases of one and not the other. A reading on which the mercy was identical for both explains nothing about the cases it is drawn from.
 
-**6a. At least one man was passed over in the designation.**
+**6a. At least one man was passed over in the patriarchal designation.**
 
 Earlier versions of this paper declined to argue this. The decision is reversed, and the reason should be stated before the argument.
 
@@ -441,7 +439,7 @@ So the birthright Esau sold, the blessing he lost, and the blessing of Abraham b
 
 **And the Abrahamic inheritance terminates in salvation.** That is the companion paper's result, imported at the front of this one.
 
-Put the four together. Esau wanted to inherit the thing whose terminus is salvation, and he was rejected from inheriting it. So one named man was passed over in the designation, and the contrast the argument tests by is not empty.
+Put the four together. Esau wanted to inherit the thing whose terminus is salvation, and he was rejected from inheriting it. So one named man was passed over in the patriarchal designation. That makes the contrast non-empty at the level of that designation. It does not place him outside the antecedent salvific determination, as the next paragraph says.
 
 That is a claim about the designation, not about Esau's final state. The companion paper shows that the designated heir's inheritance ends in salvation. It does not show that everyone passed over in a patriarchal designation is shut out of every later share in the promise through Christ, and this paper does not claim it. The Ishmael paragraph below needs the same distinction.
 
@@ -514,6 +512,8 @@ What the attacker's relation requires is that a given man's election was conting
 James has the same shape and the same objection available. "Has not God chosen the poor in the world to be **rich in faith** and to be heirs of the kingdom that he has promised to those who love him?" (Jas 2:5) An objector will say poverty is a human property named with the choosing. Poverty is non-responsive, so the first answer above covers it directly. The grammar points the same way as in 1 Corinthians. The Greek is ἐξελέξατο τοὺς πτωχοὺς τῷ κόσμῳ πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας, *exelexato tous ptōchous tō kosmō plousious en pistei kai klēronomous tēs basileias* — a double accusative, with *rich in faith* and *heirs* as predicate accusatives further defining *the poor*. There is no verb *to be*; the English versions supply it. The predicate accusatives describe the chosen as rich in faith and as heirs. They do not say when the chosen became so, and the grammar alone does not settle it. Nor do they put faith on the near side of the choice. The last clause, "that he has promised to those who love him," names who receive the promised kingdom. It does not say what the choosing depended on.
 
 The same contrast appears in this very letter, in Paul's own not-this-but-that form: "So too at the present time there is a remnant, chosen by grace. But if it is by grace, it is no longer on the basis of works." (Rom 11:5–6) The next sentence names who obtained and who did not: "Israel failed to obtain what it was seeking. The elect obtained it, but the rest were hardened." (11:7)
+
+The verse before the remnant sentence describes the remnant by its conduct: "I have kept for myself seven thousand who have not bowed the knee to Baal" (11:4). An objector will say the reserved are marked by a response. Paul draws the conclusion himself in the next two verses: the present remnant is "chosen by grace," and "if it is by grace, it is no longer on the basis of works" (11:5–6). Not bowing to Baal is conduct, and Paul puts conduct outside the basis. His wording also puts the keeping on God's side. The Greek is κατέλιπον ἐμαυτῷ, *katelipon emautō*, I have kept for myself. "For myself" is in neither the Hebrew nor the Septuagint of 1 Kings 19:18. Paul added it.
 
 ---
 
@@ -627,7 +627,7 @@ Grant it. Two answers, and the first is Paul's own frame rather than a distincti
 
 Say that precisely, because the two categories overlap. The national body *contains* the promise-remnant; it is not coextensive with it, and it is not simply the opposite of it. So 9:32 states why the nation in its flesh-defined pursuit did not arrive. It does not state the ground on which the remnant inside that nation became children of promise.
 
-**Paul restates the same contrast himself, and the differentiator he names is not faith.** "What then? Israel failed to obtain what it was seeking. **The elect obtained it, but the rest were hardened.**" (Rom 11:7) That is the remnant-and-rest division inside descent-Israel, in Paul's own words, two chapters later — and the word he uses for the ones who obtained is *elect*. An objector who takes 9:32 as naming the differentiator inside the seeking nation has to say why Paul, restating the same failure, names election instead.
+**Paul restates the division himself.** "What then? Israel failed to obtain what it was seeking. **The elect obtained it, but the rest were hardened.**" (Rom 11:7) That is the remnant-and-rest division inside descent-Israel, in Paul's own words, two chapters later, and the word he uses for the ones who obtained is *elect*. That places election in the division. It does not by itself show that faith is not election's criterion, since *the elect* is an accurate label on either reading. The answer to the objection is the one above: 9:31's Israel is the national body, and 9:30–32 says how righteousness is attained.
 
 **And the faith-works contrast may be the mark of the distinction rather than its cause.** The children of promise believe the promise; the flesh-defined remainder pursues as if by works. On that reading 9:30–32 describes how the distinction of 9:6–18 shows itself, not what produced it. Nothing in this paper requires that reading, but the objector needs the opposite one and the text does not supply it.
 
@@ -737,7 +737,7 @@ With the companion paper: the election is to salvation, and it is not grounded i
 
 **And that the same verse bears a per-instance reading alongside the contrastive one.** Step 2a argues this and the thesis needs it, because a responsive condition every man meets falls under fork two and shows up in a contrast test only when some man fails it. The per-instance reading is the plainer of the two — it takes the sentence as stating what the matter rests on rather than what separates two men — and 9:11–12 and 9:15 supply the same shape without reference to any contrast. An objector who wants the contrastive reading alone has to say why *ara oun* converts a dependence statement into a comparative one.
 
-**That at least one man was passed over in the designation.** Step 6a, from Hebrews 12:17 read with Genesis 28:4 and the companion paper's terminus argument. This is corroborative rather than necessary: it supplies a case for the two-man test, and 2a's per-instance reading covers the same coverage gap without it. Defeating 6a does not defeat the thesis.
+**That at least one man was passed over in the patriarchal designation.** Step 6a, from Hebrews 12:17 read with Genesis 28:4 and the companion paper's terminus argument. This is corroborative rather than necessary: it supplies a case for the two-man test, and 2a's per-instance reading covers the same coverage gap without it. Defeating 6a does not defeat the thesis.
 
 **That the responsive candidates with textual standing are works and faith.** The paper does not claim that *willing* and *running* lexically enumerate every responsive act, and it does not claim that every human act other than faith is a work — that inference fails, and faith is the counterexample to it. What it claims is that works are excluded from the basis of choosing by name (9:11–12; 11:6), that faith is marked by Paul as distinct from works (Rom 4:4–5) and so has to be tested separately, and that it is tested at 2b, 4, and 5. A third candidate needs positive textual warrant that it functions as the condition of election; once supplied, and if it is responsive, 2b's generic test applies. Mere conceivability is not a countermodel.
 
@@ -879,7 +879,7 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 
 **On Romans 9 itself**
 
-*9:32 names faith as the differentiator, in the same argument.* — Step 11. 9:31's Israel is the national body of 9:6's descent-referent, and 11:7 has Paul restating the same contrast with *the elect* as the term.
+*9:32 names faith as the differentiator, in the same argument.* — Step 11. 9:31's Israel is the national body of 9:6's descent-referent, and 9:30–32 says how righteousness is attained, not what the calling rests on.
 
 *9:30's Gentiles attained by faith, and that is a human fact distinguishing persons.* — Step 11. Attaining is the means; the calling is what 9:16 concerns.
 
