@@ -1,6 +1,6 @@
 # No One Comes to Christ Unless God First Changes the Heart
 
-*Version 22.*
+*Version 23.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -371,7 +371,9 @@ Those verses establish that the coming requires a prior act of God. They do not 
 
 **And John puts a birth before the seeing.** "No one can see the kingdom of God without being born from above... The wind blows where it chooses, and you hear the sound of it, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit." (John 3:3, 8)
 
-Between those two sentences Jesus names the two births: "no one can enter the kingdom of God without being born of water and Spirit. What is born of the flesh is flesh, and what is born of the Spirit is spirit." (3:5–6) That is the line between flesh and Spirit that Romans 8:8–9 draws, and joining the two is canonical synthesis.
+Between those two sentences Jesus names the two births: "no one can enter the kingdom of God without being born of water and Spirit. What is born of the flesh is flesh, and what is born of the Spirit is spirit." (3:5–6) John uses "flesh" for what the Word became (1:14), so the line here runs between natural birth and birth from the Spirit, not between a corrupt nature and a renewed one. What the passage says is that natural birth does not give what seeing and entering the kingdom require, and Jesus says it of everyone: "You must be born from above" (3:7). The "you" is plural, ὑμᾶς, *hymas*.
+
+Paul draws the same line with Abraham's two sons. "One, the child of the slave, was born according to the flesh; the other, the child of the free woman, was born through the promise" (Gal 4:23). Hagar conceived in the ordinary way (Gen 16:4), so "flesh" in Galatians 4 also means natural birth. Paul then calls Isaac the child "born according to the Spirit" (4:29), and he puts believers on Isaac's side: "Now you, my friends, are children of the promise, like Isaac" (4:28). This is Paul's usage, not John's. It agrees with the reading of John 3:6 given above, and that reading rests on John 1:14.
 
 **Elsewhere the same shape appears in single sentences.** Moses: "to this day the LORD has not given you a mind to understand, or eyes to see, or ears to hear" (Deut 29:4) — the condition of Ezekiel 12:2, named centuries earlier. The granting texts that belong beside it — Acts 16:14, 2 Timothy 2:25, Acts 11:18, Acts 5:31, Philippians 1:29 — are collected at the end of step 5, since what they supply is the production half of the claim rather than the crossing.
 
@@ -755,7 +757,7 @@ At 8:47 Jesus gives a different reason, and it concerns origin: "The reason you 
 
 At 6:44 and 6:65 the subject is οὐδείς, *oudeis*, no one, and nothing in either sentence restricts it to the hardened. Jesus gives 6:65 as the reason some of his hearers do not believe (6:64), but the reason he gives is a rule about everyone.
 
-And John states the natural condition without any hardening: "What is born of the flesh is flesh" (3:6), and "all who do evil hate the light and do not come to the light" (3:20).
+And John states a need that comes with natural birth, with no hardening in view: "no one can see the kingdom of God without being born from above" (3:3), and "You must be born from above" (3:7). He also says that "all who do evil hate the light and do not come to the light" (3:20).
 
 The crossing at step 10 does not rest on John alone. Romans 8:7–8, 1 Corinthians 2:14, and Ephesians 2:3 speak of the flesh, the unspiritual man, and what men are by nature, and none of them speaks of a hardening. If the objection were granted for every text in John, those would remain.
 
