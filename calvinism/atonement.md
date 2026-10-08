@@ -506,7 +506,9 @@ Reformed theology has drawn the same line. Charles Hodge separated a debt of mon
 
 *What it needs.* Two premises. That if Christ died for a man, God's purpose in that death toward the man was his salvation, and that purpose does not fail. And that blood not followed by a man's salvation is blood spilled to no purpose.
 
-*The answer.* Leviticus commands blood to be poured out as part of the sin offering. "The priest shall put some of the blood on the horns of the altar of fragrant incense... and the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering" (Lev 4:7). In the sacrificial rite itself, blood poured out is not blood wasted. It is the rite performed as God commanded.
+*The answer.* The first premise is the purpose assumption of step 3.
+
+The second premise fails on the sacrificial law itself. Leviticus commands blood to be poured out as part of the sin offering. "The priest shall put some of the blood on the horns of the altar of fragrant incense... and the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering" (Lev 4:7). In the sacrificial rite itself, blood poured out is not blood wasted. It is the rite performed as God commanded.
 
 Hebrews goes further. "It is impossible for the blood of bulls and goats to take away sins" (Heb 10:4). God commanded that blood for centuries, and none of it took away a sin. So "God does not shed blood that does not save" is false on Hebrews' own terms.
 
@@ -515,8 +517,6 @@ The defender can narrow the principle to Christ's blood, because it is more prec
 And on the defender's own confession there is nothing extra to waste. The Canons of Dort call Christ's death "of infinite worth and value, abundantly sufficient to expiate the sins of the whole world" (II.3). On that view Christ did not suffer more in order to die for more people.
 
 Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed for anyone it does not save." That is limited atonement itself, offered as a premise for limited atonement.
-
-The first premise is the purpose assumption of step 3.
 
 *Result.* Failure of the offered proof.
 
