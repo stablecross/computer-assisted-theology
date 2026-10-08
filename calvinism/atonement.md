@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 11.*
+*Version 12.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -436,7 +436,7 @@ Most of the bridge premises say that if Christ died for a man, the man is reconc
 
 An objector will say that "not counting their trespasses" is justification, because Paul uses the same verb for it: "blessed is the one against whom the Lord will not reckon sin" (Rom 4:8), οὐ μὴ λογίσηται, *ou mē logisētai*, which Paul calls being reckoned righteous apart from works (4:6). Then the world of 2 Corinthians 5:19 would be the justified. The two sentences differ. Romans 4:8 states the blessing of the man whose sin is not reckoned. Second Corinthians 5:19 has a present participle, μὴ λογιζόμενος, *mē logizomenos*, inside the imperfect "was reconciling," ἦν… καταλλάσσων, *ēn… katallassōn*, and it describes God's act in Christ toward the world. The next verse still appeals to men to be reconciled. On the objector's reading, 5:20 appeals to the justified to be reconciled.
 
-*Paul has reconciliation both done and received.* "If while we were enemies, we were reconciled to God through the death of his Son, much more surely, having been reconciled, will we be saved by his life. But more than that, we even boast in God through our Lord Jesus Christ, through whom we have now received reconciliation" (Rom 5:10–11). The verb of verse 11 is ἐλάβομεν, *elabomen*, we received.
+*Romans 5 puts the reconciling in the death, and says it of the justified.* "If while we were enemies, we were reconciled to God through the death of his Son, much more surely, having been reconciled, will we be saved by his life. But more than that, we even boast in God through our Lord Jesus Christ, through whom we have now received reconciliation" (Rom 5:10–11). Paul defines the "we" in the same paragraph: "since we are justified by faith" (5:1), and "now that we have been justified by his blood" (5:9). So the verse says that Christ's death reconciled the justified, and that they have received the reconciliation. It does not say the death reconciled everyone it was for. A statement of that form is the subject of step 2. Romans 5 does not by itself separate the death from the reconciliation. Second Corinthians 5:19–20 does.
 
 *Paul argues to final salvation from being justified, not from Christ's having died.* In the same passage: "while we still were sinners Christ died for us. Much more surely then, now that we have been justified by his blood, will we be saved through him from the wrath of God" (5:8–9). The ground of the "much more" is "now that we have been justified." "God Brings Every Heir to Faith and Loses None of Them" makes this point at its step 14: the inference holds for anyone of whom its ground holds, and the ground is being justified.
 
@@ -462,7 +462,7 @@ So Scripture distinguishes Christ's death for a man from that man's being reconc
 
 *What it needs.* The argument's first option is loaded before the choice is made. "Christ underwent the pains of hell for the sins of a man" is taken to mean that the man's liability is thereby discharged, whether or not he receives reconciliation. Only on that meaning does the first option entail that all are free. That is the bridge premise: if Christ died for a man, the man is free of punishment.
 
-*The answer.* Scripture distinguishes God's not counting trespasses from a man's being reconciled (2 Cor 5:19–20). It puts the receiving of reconciliation after the death (Rom 5:10–11). It makes the sacrifice received through faith (Rom 3:25). And it names unbelief as the ground of the condemnation: "those who do not believe are condemned already, because they have not believed in the name of the only Son of God" (John 3:18). So the question "why does unbelief hinder?" has a textual answer. Unbelief is the refusal of the reconciliation God appeals for, and the one who refuses is not reconciled. Owen's argument needs a text saying that Christ's death for a man discharges his liability apart from his receiving it, and it gives none.
+*The answer.* Scripture distinguishes God's not counting trespasses from a man's being reconciled (2 Cor 5:19–20). It makes the sacrifice received through faith (Rom 3:25). And it names unbelief as the ground of the condemnation: "those who do not believe are condemned already, because they have not believed in the name of the only Son of God" (John 3:18). So the question "why does unbelief hinder?" has a textual answer. Unbelief is the refusal of the reconciliation God appeals for, and the one who refuses is not reconciled. Owen's argument needs a text saying that Christ's death for a man discharges his liability apart from his receiving it, and it gives none.
 
 Owen's three options are not exhaustive.
 
@@ -546,7 +546,7 @@ The first premise is the purpose assumption of step 3.
 
 *What it needs.* That God's reconciling act in Christ and a man's being reconciled are one.
 
-*The answer.* Paul puts them in consecutive verses as two things: God was "reconciling the world to himself," and "be reconciled to God" (2 Cor 5:19–20). He has reconciliation done through the death and then received (Rom 5:10–11).
+*The answer.* Paul puts them in consecutive verses as two things: God was "reconciling the world to himself," and "be reconciled to God" (2 Cor 5:19–20). Romans 5:10 says the death reconciled "us," and the "us" are the justified (5:1, 9). That is a statement about the justified, not a rule about everyone the death was for (step 2).
 
 *Result.* Failure of the offered proof.
 
@@ -968,7 +968,7 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 21** — that the extent reaches those who died before the cross. The carrier is 1 Timothy 2:5–6: the ransom's "all" stands in one sentence with "humankind," the class of the one mediator, and Acts 4:12 defines the one saving name over the same class with no limit of date. Hebrews 9:15 and Romans 3:25 are direct for the reach in time and do not by themselves say for whom. Romans 5:18 supports the step. Hebrews 4:2 and Galatians 3:8 are corroboration.
 
-**Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction. It is warranted by 2 Corinthians 5:19–20, where Romans 4:8 is answered, and by Romans 5:10–11, which has reconciliation done and received but does not by itself show two acts. Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 are support.
+**Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction. It is warranted by 2 Corinthians 5:19–20, where Romans 4:8 is answered, Romans 5:10–11 puts the reconciling in the death and says it of the justified (5:1, 9). It does not show two acts, and the distinction does not rest on it. Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 are support.
 
 **Step 29** — that 2 Corinthians 5:14 does not state the bridge premise. "All have died" has no σύν, *syn*, with, where Paul's statements of union have it, and the paper reads it as the death of the one counted as the death of all. That is evidence, not proof. What carries the step is that the union reading, taken as a rule, makes everyone Christ died for united to him, and with 1 John 2:2 and 2 Peter 2:1 that contradicts John 5:28–29.
 
