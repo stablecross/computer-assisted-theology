@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 14.*
+*Version 15.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -748,6 +748,10 @@ Christ's love for the church is the covenant kind, a bridegroom's love for his b
 
 *The answer.* The texts cited say the given will come and will receive eternal life. They state the outcome for the given, which this paper agrees is certain. That outcome is a determining purpose stated of the given (step 30). They do not say the Son died for no others. John 17:2, which is cited for the argument, names "all people" in the same breath as a wider class over which the Son has been given authority.
 
+The discourse these texts come from does speak of the death, and it names a wider object. Verses 37–40 do not mention the death. Verse 38 gives the purpose of his coming down from heaven. The death comes at 6:51: "the bread that I will give for the life of the world is my flesh." The preposition is ὑπέρ, *hyper*, as when the good shepherd "lays down his life for the sheep" (10:11), and the discourse goes on to the eating of his flesh and the drinking of his blood (6:53–56).
+
+The same verse says who may eat that bread: "whoever eats of this bread will live forever." Jesus sets it before his hearers as the condition of life: "unless you eat the flesh of the Son of Man and drink his blood, you have no life in you" (6:53). He says this to people he has already told, "you have seen me and yet do not believe" (6:36). Many of them turn back (6:66). So the flesh given for the life of the world is set before people who refuse it. To hold "world" to the elect, one has to say that Jesus offered them flesh that was not given for them.
+
 *Result.* Failure of the offered proof.
 
 **44. The high priest and the Day of Atonement.**
@@ -975,6 +979,8 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 **Step 30** — that Scripture speaks of God's purpose in two ways: what God ordains, which always comes to pass, and what God desires and commands, which men can refuse. This is the paper's own distinction. It is warranted by Luke's use of βουλή, *boulē*, for both (Acts 2:23; 4:28; Luke 7:30), by Lamentations 3:32–33 with 3:37–38, by Ezekiel 33:11, and by 1 Timothy 2:4. The step then sorts the saving purposes Scripture attaches to the death and the mission. Every determining saving purpose is stated of a company. Every saving purpose stated of the world has a divided outcome reported in its context. The weak joint is the second group: an objector can read the world of John 3:17 as the elect, and step 16 answers that reading from John's usage. Second Corinthians 5:15 is support only.
 
 **Step 38** — Romans 8:32. Read alone, the sentence supports a rule, since its stated ground is the giving up of the Son. The rule needs the purpose assumption that step 30 answers, and held with 2 Peter 2:1 and 1 John 2:2 it is not available. This is where the weights are closest.
+
+**Step 43** — that "my flesh," given "for the life of the world" (John 6:51), is the death. This rests on the preposition ὑπέρ, *hyper*, as at 10:11, and on the flesh-and-blood language of 6:53–56. The step does not show that "world" there means everyone. It shows that the flesh so given is set before hearers who refuse it (6:36, 53, 66), so that holding "world" to the elect requires an offer of flesh not given for those offered it.
 
 **Step 46** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:18–19 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text.
 
