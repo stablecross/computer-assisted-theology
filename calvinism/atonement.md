@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 12.*
+*Version 13.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -258,7 +258,7 @@ The sentence's subject is the man who spurned, profaned, and outraged. The relat
 
 "He did not say this on his own, but being high priest that year he prophesied that Jesus was about to die for the nation, and not for the nation only, but to gather into one the dispersed children of God." (John 11:51–52)
 
-"The nation" is τὸ ἔθνος, *to ethnos*. Caiaphas has just used the word for the Jewish people as a whole: "the Romans will come and destroy both our holy place and our nation" (11:48). John's comment takes up his word. And John has already reported that many in that nation did not belong to Christ's sheep: "you do not believe, because you do not belong to my sheep" (10:26), spoken to "the Jews" (10:24).
+"The nation" is τὸ ἔθνος, *to ethnos*. The council has just used the word for the Jewish people as a whole: "the Romans will come and destroy both our holy place and our nation" (11:48). Caiaphas uses it again: "it is better for you to have one man die for the people than to have the whole nation destroyed" (11:50). John's comment takes up their word. And John has already reported that many in that nation did not belong to Christ's sheep: "you do not believe, because you do not belong to my sheep" (10:26), spoken to "the Jews" (10:24).
 
 So in John, Jesus dies for the nation, and the nation includes men who are not his sheep. To read "the nation" at 11:51 as the elect within the nation is to partition John's own repeated noun, and the passage marks no partition.
 
@@ -950,7 +950,7 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 8** — the reading of Hebrews 10:29, shared with "God Brings Every Heir to Faith and Loses None of Them," where a reading on which the man was justified and finally lost is shown not to be available. Corroboration only.
 
-**Step 9** — that "the nation" at John 11:51 is the Jewish people as a whole, on Caiaphas's use of the same noun at 11:48. Corroboration only.
+**Step 9** — that "the nation" at John 11:51 is the Jewish people as a whole, on the council's and Caiaphas's use of the same noun at 11:48 and 11:50. Corroboration only.
 
 **Step 11** — that the commission excludes no one from the gospel's hearers. Luke 24:47 and Matthew 28:19 are direct. Acts 17:30 is direct for the command.
 
