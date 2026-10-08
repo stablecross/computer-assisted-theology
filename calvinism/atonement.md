@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 13.*
+*Version 14.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -866,7 +866,7 @@ So the promise passes the first two tests and fails the third. The only reason l
 
 This is true, and it concerns the hearer. "For to this end Christ died and lived again, so that he might be Lord of both the dead and the living" (Rom 14:9). And saving faith confesses it: "if you confess with your lips that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved" (Rom 10:9).
 
-But it says what Christ's death gained for him. It does not say what his death does about the hearer's sins. So it passes the second test and fails the first.
+But it says what Christ's death and rising were for: his rule over the dead and the living. It does not say what his death does about the hearer's sins. So it passes the second test and fails the first.
 
 It is also true of those Christ did not die for. Every knee bends to him, "in heaven and on earth and under the earth," and every tongue confesses "that Jesus Christ is Lord" (Phil 2:10–11). The demons know who he is (Mark 1:24), and "it is clear that he did not come to help angels" (Heb 2:16). A proposition that is true of those he did not die for tells the hearer nothing about his own sins.
 
