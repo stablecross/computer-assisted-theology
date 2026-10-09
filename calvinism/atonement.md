@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 15.*
+*Version 16.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -486,17 +486,19 @@ It does not. Peter says the Master bought men who bring swift destruction on the
 
 The strongest text for the rule is Colossians 2:14, where the record of debt is erased at the cross. Paul says it of those God "made alive together with him" (2:13). It states what was done for them. It does not state that the record is erased for everyone Christ died for.
 
-Reformed theology has drawn the same line. Charles Hodge separated a debt of money from a penalty. Of a debt: "The moment the debt is paid the debtor is free, and that completely." Of a penalty borne by a substitute: "the terms on which the benefits of his substitution shall accrue to the principal, are matters of agreement, or covenant between the substitute and the magistrate" (*Systematic Theology*, vol. 2, pt. 3, ch. 6, §3). Hodge places Christ's satisfaction in the second kind. Hodge is cited as background. He is not a premise.
+Reformed theology has drawn the same line. Charles Hodge separated a debt of money from a penalty. Of a debt: "The moment the debt is paid the debtor is free, and that completely." Of a penalty borne by a substitute: "the terms on which the benefits of his substitution shall accrue to the principal, are matters of agreement, or covenant between the substitute and the magistrate" (*Systematic Theology*, vol. 2, pt. 3, ch. 6, §3, pp. 470–71). Hodge places Christ's satisfaction in the second kind. Hodge held particular redemption, and he is cited as background, not as a premise. His distinction shows that a penalty borne by a substitute frees no one automatically. It does not decide whether that penalty will certainly free everyone it was borne for.
 
 *Result.* Failure of the offered proof. This is Owen's bridge premise in a different form, not an independent argument.
 
 **24. "If substitution, then all would be saved."**
 
-*The argument.* Edwin Palmer states the conclusion directly: the Calvinist "says that if Christ actually took away the penalty of everybody's sins, then everybody is saved" (*The Five Points of Calvinism: A Study Guide*, pp. 49–50).
+*The argument.* Edwin Palmer states the conclusion directly: the Calvinist "says that if Christ actually took away the penalty of everybody's sins, then everybody is saved" (*The Five Points of Calvinism: A Study Guide*, pp. 49–50). Later in the chapter he gives it the form of a dilemma: "either the atonement is limited in its extent or it is limited in its nature or power." An atonement unlimited in power saves everyone it was made for, so, unless all are saved, it must be limited in extent.
 
-*What it needs.* That is the bridge premise, stated as the conclusion of the paragraph that introduces it.
+*What it needs.* That is the bridge premise, stated as the conclusion of the paragraph that introduces it. The dilemma needs it too: it holds only if unlimited saving power means the salvation of everyone Christ died for.
 
 *The answer.* The texts in the section above distinguish Christ's death for men from their reconciliation. Palmer's sentence collapses the two without a text.
+
+The dilemma collapses the same two things. What makes a man's salvation certain is election and God's act on the heart: "All that the Father gives me will come to me" (John 6:37); "as many as had been destined for eternal life became believers" (Acts 13:48). Neither text makes the certainty depend on the extent of the death. So an atonement universal in extent saves everyone God brings to faith.
 
 *Result.* Failure of the offered proof.
 
@@ -504,19 +506,19 @@ Reformed theology has drawn the same line. Charles Hodge separated a debt of mon
 
 *The argument.* Palmer again: "Christ not only shed his blood, he also spilled it. He intended to save all, but only some will be saved. Therefore, some of his blood was wasted: it was spilled" (pp. 49–50).
 
-*What it needs.* Two premises. That if Christ died for a man, God's purpose in that death toward the man was his salvation, and that purpose does not fail. And that blood not followed by a man's salvation is blood spilled to no purpose.
+*What it needs.* Two premises. That if Christ died for a man, God's purpose in that death toward the man was his salvation, and that purpose does not fail. And that blood shed for someone it does not save is wasted.
 
 *The answer.* The first premise is the purpose assumption of step 3.
 
-The second premise fails on the sacrificial law itself. Leviticus commands blood to be poured out as part of the sin offering. "The priest shall put some of the blood on the horns of the altar of fragrant incense... and the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering" (Lev 4:7). In the sacrificial rite itself, blood poured out is not blood wasted. It is the rite performed as God commanded.
+The second premise fails on the sacrificial law itself. "It is impossible for the blood of bulls and goats to take away sins" (Heb 10:4). By the premise, all of that blood was wasted. Yet God commanded it for centuries, and Hebrews names what it did: "in these sacrifices there is a reminder of sin year after year" (10:3). Blood that saved no one still served the purpose God gave it.
 
-Hebrews goes further. "It is impossible for the blood of bulls and goats to take away sins" (Heb 10:4). God commanded that blood for centuries, and none of it took away a sin. So "God does not shed blood that does not save" is false on Hebrews' own terms.
+As for Palmer's word "spilled," Leviticus commands that some of the blood be put on the altar and the rest poured out: "The priest shall put some of the blood on the horns of the altar of fragrant incense... and the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering" (Lev 4:7). More blood was shed than was put on the horns, and the text does not call the rest wasted.
 
 The defender can narrow the principle to Christ's blood, because it is more precious. Hebrews uses its preciousness the other way. "Anyone who has violated the law of Moses dies without mercy... How much worse punishment do you think will be deserved by those who have... profaned the blood of the covenant" (10:28–29). The greater worth of Christ's blood is what makes the case against those who profane it heavier. Hebrews does not use its worth to keep it from them.
 
 And on the defender's own confession there is nothing extra to waste. The Canons of Dort call Christ's death "of infinite worth and value, abundantly sufficient to expiate the sins of the whole world" (II.3). On that view Christ did not suffer more in order to die for more people.
 
-Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed for anyone it does not save." That is limited atonement itself, offered as a premise for limited atonement.
+Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed for anyone it does not save." That is the bridge premise in other words, and Palmer assumes it without argument.
 
 *Result.* Failure of the offered proof.
 
@@ -732,7 +734,7 @@ A form of the argument runs through love. God does not love everyone with the sa
 
 *What it needs.* That harmony of purpose requires every saving act of the three persons to have the same objects. In the form from love, that the death comes only from God's love for his own.
 
-*The answer.* Harmony requires purposes that do not conflict. It does not require that every act have the same extent. John 17:2 gives two of the Son's relations two extents in one sentence: authority over all people, eternal life to the given. The Father's choosing and the Son's keeping of the given are determining purposes toward the heirs. The sending of the Son also carries a desiring purpose toward the world (John 3:17; step 30). The two do not conflict, because the first does not deny the second.
+*The answer.* Harmony requires purposes that do not conflict. It does not require that every act have the same extent. John 17:2 gives two of the Son's relations two extents in one sentence: authority over all people, eternal life to the given. "All people" is πάσης σαρκός, *pasēs sarkos*, "all flesh," the Old Testament's phrase for humankind (Gen 6:12; Isa 40:5). The sentence names the given separately, so "all flesh" cannot be narrowed to them without making the verse say that the Son has authority over the given to give life to the given. The Father's choosing and the Son's keeping of the given are determining purposes toward the heirs. The sending of the Son also carries a desiring purpose toward the world (John 3:17; step 30). The two do not conflict, because the first does not deny the second.
 
 Scripture speaks of God's love in two senses. One is kindness toward the wicked, which Jesus makes the pattern for loving enemies: "Love your enemies and pray for those who persecute you, so that you may be children of your Father in heaven; for he makes his sun rise on the evil and on the good" (Matt 5:44–45). "He is kind to the ungrateful and the wicked" (Luke 6:35). The other is covenant love, tied to an oath: "It was because the LORD loved you and kept the oath that he swore to your ancestors... the faithful God who maintains covenant loyalty with those who love him" (Deut 7:8–9).
 
