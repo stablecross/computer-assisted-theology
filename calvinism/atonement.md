@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 16.*
+*Version 17.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -200,9 +200,9 @@ The Greek is τὸν μόνον δεσπότην καὶ κύριον ἡμῶν
 
 The two letters run parallel through this whole section. Both speak of men who slip in, deny the Master, and pervert grace into licentiousness (2 Pet 2:1–2; Jude 4). Both set them beside the angels who sinned (2 Pet 2:4; Jude 6) and beside Sodom and Gomorrah (2 Pet 2:6; Jude 7). Both describe them with the same figures (2 Pet 2:17; Jude 12–13). So joining the two is canonical synthesis between two closely parallel texts, and the parallel is marked in the wording.
 
-*The rejoinder.* Δεσπότης, *despotēs*, is used of God the Father elsewhere (Luke 2:29; Acts 4:24; Rev 6:10). So the Master of 2 Peter 2:1 could be the Father.
+*The rejoinder.* Δεσπότης, *despotēs*, is used of God the Father elsewhere (Luke 2:29; Acts 4:24; Rev 6:10). So the Master of 2 Peter 2:1 could be the Father. John Owen pressed this, saying the word is "seldom or never ascribed" to Christ (*The Death of Death in the Death of Christ*, bk. 4, ch. 5).
 
-Grant that the noun can name the Father. The question is which reading the text supports. The nearest parallel names Christ, with the same verb and the same noun, of the same men. Peter's own letter calls Christ "our God and Savior Jesus Christ" (2 Pet 1:1) and "our Lord and Savior Jesus Christ" (2:20), and the men of 2:20 who fall back are said to have known him. A reading that makes the Master the Father has the noun's range on its side. It has no marker in the passage.
+Grant that the noun can name the Father. The question is which reading the text supports. The nearest parallel names Christ, with the same verb and the same noun, of men of the same kind. Jude 4 is the place Owen's "seldom or never" leaves out: there the word is ascribed to Christ by name. Peter's own letter calls Christ "our God and Savior Jesus Christ" (2 Pet 1:1) and "our Lord and Savior Jesus Christ" (2:20), and the men of 2:20 who fall back are said to have known him. A reading that makes the Master the Father has the noun's range on its side. It has no marker in the passage.
 
 The exclusion claim needs this identity. If the Master were the Father, a purchase by the Father would not by itself be a purchase by Christ's death, and 2 Peter 2:1 would not show that some for whom Christ died perish.
 
@@ -232,13 +232,21 @@ First Peter 1:18–19 names the price for believers, not for the false teachers.
 
 Grudem notes that Peter "very frequently portrays the churches to which he is writing in terms of the rich imagery of the people of God in the Old Testament." This answer follows that observation. When Peter carries the exodus purchase over to the churches, he says what they were bought with.
 
-*The second rejoinder: bought in their own profession.* On this reading Peter means the teachers claimed to have been bought, or were bought in the judgment of the church, and were not.
+*The second rejoinder: bought in their own profession.* On this reading Peter means the teachers claimed to have been bought, or were bought in the judgment of the church, and were not. Owen gives this reading: Peter speaks of "that estimation which others had of them" and "the profession that themselves made to be purchased by him." He compares the gods of Damascus, said to have defeated Ahaz because Ahaz thought so (2 Chr 28:23).
 
 Nothing in the sentence marks that. Peter does not say "who claim to have been bought" or "who seemed to be bought." He says the Master bought them. A qualifier inserted to keep the verb from meaning what it says is the clearest case of what the evidential rule excludes.
 
-*The third rejoinder: the purchase is real but not the atoning purchase.* On this reading Christ bought these men in some sense, perhaps as Lord of all, and did not die for them.
+Owen's parallel has the marks that Peter's sentence lacks. The Chronicler gives Ahaz's reasoning in Ahaz's own words, "and said, 'Because the gods of the kings of Aram helped them, I will sacrifice to them so that they may help me,'" and then corrects it: "But they were the ruin of him, and of all Israel" (2 Chr 28:23).
 
-That reading needs two senses of "bought" in the New Testament, a saving sense in Revelation 5:9 and a non-saving sense in 2 Peter 2:1. The criteria place the burden on the one who partitions a repeated expression into unrelated senses, once continuity is marked. Here the verb, its subject, and its object are the same: Christ buys men. The partition needs a marker, and the passage gives none.
+*The third rejoinder: the purchase is real but not the atoning purchase.* On this reading Christ bought these men in some sense, perhaps as Lord of all, and did not die for them. Owen's form of it takes the buying to be the men's deliverance from "the defilement of the world in idolatry… by the knowledge of the truth," which he finds in 2:20.
+
+Peter calls what happened in 2:20 an escape, "through the knowledge of our Lord and Savior Jesus Christ." He does not call it a purchase. And whether the men of 2:20 are the teachers is disputed (step 5).
+
+The reading needs two senses of "bought" in the New Testament: a purchase by his blood in Revelation 5:9, and a purchase of another kind in 2 Peter 2:1. The criteria place the burden on the one who partitions a repeated expression into unrelated senses, once continuity is marked. Here the verb, its subject, and its object are the same: Christ buys men. The partition needs a marker, and the passage gives none.
+
+*The fourth rejoinder: a purchase common to all aggravates no one's sin.* Owen argues that if Christ bought everyone, being bought cannot make these men's sin worse than anyone else's, yet Peter uses it against them.
+
+Peter does not put the aggravation in their being bought. He puts it in what they do with it: they "deny the Master who bought them." Hebrews puts it in the same place. The worse punishment is for those who have "profaned the blood of the covenant by which they were sanctified" (Heb 10:29). Being bought is common to all. Denying the one who bought them, and profaning his blood, is theirs alone.
 
 So the case stands. The men of 2 Peter 2:1 were bought by Christ, and they perish.
 
