@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 17.*
+*Version 18.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -798,7 +798,7 @@ Step 46 is an argument for limited atonement: it reads an exclusion out of the w
 
 *What it needs.* That "many" in these texts marks a part set against the rest.
 
-*The answer.* Paul uses "the many" for all in the same passage. "One man's trespass led to condemnation for all... by the one man's disobedience the many were made sinners" (Rom 5:18–19). The many made sinners are the all brought under condemnation, and no one stands outside that class: "all have sinned and fall short of the glory of God" (3:23). In this usage "many" sets the multitude against the one, not a part against the rest. This is same-author usage applied to texts by other writers, and it is offered as such. It shows that "many" does not mark a subset by its meaning. The argument needs a marker in each text that it does.
+*The answer.* Paul uses "the many" for all in the same passage. "One man's trespass led to condemnation for all... by the one man's disobedience the many were made sinners" (Rom 5:18–19). The many made sinners are the all brought under condemnation, and no one stands outside that class: "all have sinned and fall short of the glory of God" (3:23). In this usage "many" sets the multitude against the one, not a part against the rest. This is same-author usage applied to texts by other writers, and it is offered as such. It shows that "many" does not mark a subset by its meaning. The argument needs a marker in each text that it does. For Mark 10:45 there is more. Paul restates the saying in the same frame. The Son of Man came "to give his life a ransom for many" (λύτρον ἀντὶ πολλῶν). Christ Jesus "gave himself a ransom for all" (ἀντίλυτρον ὑπὲρ πάντων, 1 Tim 2:6). Where Mark has "many," Paul has "all."
 
 *Result.* Failure of the offered proof.
 
@@ -992,7 +992,7 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 43** — that "my flesh," given "for the life of the world" (John 6:51), is the death. This rests on the preposition ὑπέρ, *hyper*, as at 10:11, and on the flesh-and-blood language of 6:53–56. The step does not show that "world" there means everyone. It shows that the flesh so given is set before hearers who refuse it (6:36, 53, 66), so that holding "world" to the elect requires an offer of flesh not given for those offered it.
 
-**Step 46** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:18–19 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text.
+**Step 46** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:18–19 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text. For Mark 10:45 the sense is fixed more closely: Paul restates the saying with "all" in place of "many" (1 Tim 2:6).
 
 ---
 
