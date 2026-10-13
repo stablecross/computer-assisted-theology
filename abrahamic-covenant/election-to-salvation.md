@@ -1,6 +1,6 @@
 # Election in the Abrahamic Covenant Is to Salvation
 
-*Version 43.*
+*Version 44.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -23,7 +23,7 @@ None.
 
 The phrase after the dash says what election in the Abrahamic covenant is, and it should not be dropped in summary. Scripture also uses election language of Israel as a nation — Deuteronomy 7:6–8, Isaiah 41:8–9, and Romans 11:28, where Paul calls Israel enemies as regards the gospel and beloved as regards election, for the sake of their ancestors. This paper does not take up those texts. What is under review is the naming of the heir.
 
-**Not under review.** Whether that election was conditioned on foreseen faith. Whether grace in producing faith is resistible. Total depravity, particular redemption, perseverance. Whether every person who stood in the marked Abrahamic community was elect — Ishmael, the wilderness generation, and the broken branches are all distinguished below.
+**Not under review.** Whether that election was conditioned on foreseen faith. Whether grace in producing faith is resistible. Total depravity, particular redemption, perseverance. Whether every person who stood in the marked Abrahamic community was elect — Ishmael and the broken branches are distinguished below.
 
 **What "to salvation" means here.** Salvation is the intended terminus of the election — where the naming lands, not merely a benefit available within the community the named man enters. The distinction matters. Suppose God names ten men into a covenant in which salvation is promised to whoever believes, and five believe. All ten were named into a covenant containing salvation. It would not follow that ten were elected to salvation. This argument claims the stronger thing.
 
@@ -33,7 +33,7 @@ Two live positions, and only one of them is an objection.
 
 *Not an objection:* that God named Isaac because he foresaw his faith. That agrees about the terminus and disputes the basis. It is a different argument, taken up elsewhere.
 
-*An objection:* that Isaac was named into a covenant in which salvation is offered, without the naming determining that he would receive it. This is the common view and the real opponent. It is met twice below. Step 8 argues that it cannot be held together with premises it already grants. Steps 9 through 13 then show that the class Paul constitutes terminates in salvation. The claim does not deny that faith is the means by which what was promised is received — step 8 turns on that being so.
+*An objection:* that Isaac was named into a covenant in which salvation is offered, without the naming determining that he would receive it. This is the common view and the real opponent. It is met twice below. Step 8 argues that it cannot be held together with what steps 1 through 8 establish, and answers the texts brought against them. Steps 9 through 13 then show that the class Paul constitutes terminates in salvation. The claim does not deny that faith is the means by which what was promised is received — step 8 turns on that being so.
 
 **What the argument does not import.** No theory of the will. No account of how responsibility attaches to an act. No claim about what would be fair. No definition of freedom, and no position on whether a determined choice can be a free one. The steps below run on who was named, what was promised, who received it, and where Scripture places the men afterward. An objector cannot answer any of them by adjusting his view of volition, because none of them consults it.
 
@@ -43,7 +43,7 @@ Two live positions, and only one of them is an objection.
 
 **How the parts depend on each other.** Two routes reach the conclusion. The main route runs steps 1 through 13: the personal grant, its indefectibility, reception after death, the scope of the inheritance, the patriarchs in the kingdom, Isaac named into the same covenant, then across to the class. The appendix reaches the same place through Romans 9, by arguing that the class Paul introduces at 9:8 is the class he describes at 9:23–26.
 
-Each route has premises the other does not use. So a defect in either route's own premises leaves the other standing.
+Each route has premises the other does not use. So a defect in either route's own premises leaves the other standing for the class. The claim about Isaac himself rests on the main route alone, since the appendix argues the class's terminus and not any one man's reception.
 
 Both routes need one proposition: **believers belong to the Abrahamic promise-heir class.** If that fails, both lose their crossing, and what survives is a claim about Abraham, Isaac, and Jacob.
 
@@ -83,7 +83,7 @@ Genesis calls the covenant everlasting and the holding perpetual (Gen 17:7–8).
 
 Hebrews says just before that Abraham "obtained the promise" (Heb 6:15). The promise it has just quoted is "I will surely bless you and multiply you" (6:14). Hebrews does not say what his obtaining consisted of. The multiplying had begun in his lifetime: Isaac was born when Abraham was a hundred (Gen 21:5), and Isaac's sons were born fifteen years before Abraham died (25:7, 26). Nothing in 6:15 says he received the land. Step 2 separates the promises discharged in his lifetime from the land, and Hebrews 11:13 says he died without receiving the rest.
 
-The Genesis 22 oath names offspring, enemies' gates, and blessing to the nations, not the land. But Genesis says the land was sworn too. Abraham tells his servant that God "swore to me, 'To your offspring I will give this land'" (Gen 24:7). God tells Isaac, "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham" (26:3). Joseph speaks of "the land that he swore to Abraham, to Isaac, and to Jacob" (50:24), and Exodus says the same (Exod 33:1). So the oath covers the land, and it covers Isaac by name.
+The Genesis 22 oath names offspring, enemies' gates, and blessing to the nations, not the land. But Scripture says the land was sworn too, and sworn to the patriarchs themselves. God tells Isaac, "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham" (Gen 26:3). Moses speaks of "the land that I swore to your ancestors, to Abraham, to Isaac, and to Jacob, to give to them and to their descendants after them" (Deut 1:8). The psalm calls it "his sworn promise to Isaac … saying, 'To you I will give the land of Canaan as your portion for an inheritance'" (Ps 105:9–11). So the oath covers the land, it names the patriarchs as recipients alongside their descendants, and it covers Isaac by name. Some statements of the oath name only the offspring: "To your offspring I will give this land" (Gen 24:7; likewise Exod 33:1). Those give the descendants' side of the oath. They do not remove the side Deuteronomy 1:8 states.
 
 The indefectibility rests on the oath and on the character of the one who swore it, not on the word *ʿôlām* alone. Everlasting language by itself is not enough. God told Eli, "'I promised that your family and the family of your ancestor should go in and out before me forever'; but now the LORD declares: 'Far be it from me'" (1 Sam 2:30). The Hebrew is עַד־עוֹלָם, *ʿad-ʿôlām*, and the promise was withdrawn. Nothing in the account says that promise was sworn. The promise to Abraham was, and Hebrews says why the oath was given: to show the heirs that God's purpose does not change (Heb 6:17).
 
@@ -222,7 +222,7 @@ So the second clause of Genesis 17:7 is still in force when Jesus speaks. And He
 
 "Your wife Sarah shall bear you a son, and you shall name him Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him." (Gen 17:19) "But my covenant I will establish with Isaac, whom Sarah shall bear to you at this season next year." (17:21) Said while Sarah was barren and Isaac unconceived.
 
-Genesis 17:19 uses the form of 17:7. There God said he would establish his covenant "between me and you, and your offspring after you throughout their generations, for an everlasting covenant." At 17:19 he says it of Isaac: "with him as an everlasting covenant for his offspring after him." Step 1 showed that 17:7 names Abraham personally, alongside his offspring. The same form now names Isaac. A reader who takes 17:19 to name Isaac only as the head of a line has to say why the same form names Abraham personally twelve verses earlier. God repeats the grant to Isaac himself: "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham." (Gen 26:3) He repeats it to Jacob, with the blessing of Abraham named (Gen 28:3–4, 13–15). Exodus calls it God's "covenant with Abraham, Isaac, and Jacob." (Exod 2:24; see 6:4–5)
+Genesis 17:19 uses the form of 17:7. There God said he would establish his covenant "between me and you, and your offspring after you throughout their generations, for an everlasting covenant." At 17:19 he says it of Isaac: "with him as an everlasting covenant for his offspring after him." Step 1 showed that 17:7 names Abraham personally, alongside his offspring. The same form now names Isaac. A reader who takes 17:19 to name Isaac only as the head of a line has to say why the same form names Abraham personally twelve verses earlier. God repeats the grant to Isaac himself: "to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham." (Gen 26:3) Isaac passes "the blessing of Abraham" to Jacob (Gen 28:3–4), and God repeats the grant to Jacob himself at Bethel (28:13–15). Exodus calls it God's "covenant with Abraham, Isaac, and Jacob." (Exod 2:24; see 6:4–5)
 
 One covenant, three men, no second grant introduced. Hebrews states it outright: Abraham lived in tents in the land he had been promised, "as did Isaac and Jacob, who were **heirs with him of the same promise**." (Heb 11:9) Not heirs of a promise resembling his. The same one.
 
@@ -256,7 +256,7 @@ The objection has two halves. One is that the naming took in only part of the co
 
 What follows shows that the second half cannot be held once the first is given up. It is a conditional proof, and its condition is this: grant the objector's best case, that the naming covered everything 17:7–8 defines, and the later-faith move is no longer available to him. An objector who wants to keep it has to go back and win the partition, which is the paragraph above, or deny that the promise is indefectible to Isaac personally, which is the second exit named below.
 
-Four things are then on the table, and the objection in its usual form grants all four.
+Four things are then on the table. The objection in its usual form grants the second, third, and fourth. It cannot grant the first as applied to Isaac and keep its later-faith move, and denying it is the second exit named below.
 
 First, the promise to a named man is not left unpaid to that man. Step 3 argues this of Abraham, from the everlasting language of the grant and the character of the one who gave it.
 
@@ -272,7 +272,7 @@ Which means that *later by faith* states the order in time and nothing further. 
 
 The difference matters. The claim is not that the naming produces the faith or causes it. That would be an account of how the faith comes about, and this paper has no such account and does not need one. The claim is that the naming, together with the other two grants, entails that the faith is certain. A reader who holds that God named Isaac because he foresaw the faith can accept the entailment as stated, since he agrees the two go together and disputes only which explains which.
 
-So the usual form of the objection cannot be held together. It wants three things at once: that the naming covered the grant whose end is the kingdom; that the promise cannot fail to Isaac; and that Isaac's reception waited on whether he happened to believe. The first two are steps 1 through 8. The third is the ten-men model from the front matter. The third cannot sit on top of the first two.
+So these three cannot be held together: that the naming covered the grant whose end is the kingdom; that the promise cannot fail to Isaac; and that Isaac's reception waited on whether he happened to believe. The first two are steps 1 through 8. The third is the ten-men model from the front matter. The third cannot sit on top of the first two.
 
 **Abraham reasons this way himself, and the text says so.** "By faith Abraham, when put to the test, offered up Isaac. He who had received the promises was ready to offer up his only son, of whom he had been told, 'It is through Isaac that descendants shall be named for you.' **He considered the fact that God is able even to raise someone from the dead** — and figuratively speaking, he did receive him back." (Heb 11:17–19)
 
@@ -309,8 +309,6 @@ Paul says God performs it in everyone who believes. "In him also you were circum
 So the obligations do not show a gap between being named heir and receiving the inheritance. In this covenant God undertakes what it requires, as a promise to the descendants of the oath (Deut 30:6) and, Paul says, in all who believe.
 
 That reaches Isaac through his category. Paul puts believers in it by name (step 9): "you, my friends, are children of the promise, like Isaac" (Gal 4:28). For the children of the promise, the requirement is performed by God. An objector who holds that Isaac alone had to supply it himself is proposing a partition inside the category Paul built on him, and he has to find it in a text.
-
-**The guarantee is made to the seed called in Isaac.** Paul says the promise depends on faith "in order that the promise may rest on grace and be guaranteed to all his descendants" (Rom 4:16). The objector reads that as a guarantee to a class and not to Isaac. But in the same letter Paul says which seed it is: "It is through Isaac that descendants shall be named for you … the children of the promise are counted as descendants" (9:7–8). The noun is the same in both places, σπέρμα, *sperma*, and so is the promise. So the seed to whom the promise is guaranteed is the seed called in Isaac. A guarantee to that class reaches Isaac, because his naming is what defines it.
 
 **Two comparisons remain.** Solomon was chosen as God's son, and God said he would establish his kingdom forever on condition that Solomon kept his commandments (1 Chr 28:6–7). The condition is stated there. "My covenant I will establish with Isaac" (Gen 17:19) states none. Hebrews says the heirs inherit "through faith and patience" (6:12). In the same paragraph it says God swore an oath "to show even more clearly to the heirs of the promise the unchangeable character of his purpose" (6:17). The faith and the guarantee stand in one paragraph there, as they do in Romans 4:16.
 
@@ -454,7 +452,7 @@ This is corroboration, not a premise. Two cautions. Rebekah's conception produce
 
 ## What is inferred, and where to attack
 
-Steps 1 and 2 report what the texts say. Step 8 reports the naming and then adds two moves of its own, listed below with the rest. Every other step contains an exegetical move. Here they are.
+Steps 1 and 2 report what the texts say. Step 8 reports the naming and then adds two moves of its own, listed below with the rest. Every other step contains an exegetical move. Here they are. Where a move reads a text in one book by a text in another, it is canonical synthesis in corpus.md's sense; joins within Paul's letters are same-author usage. Three joins of that kind are not listed below, and they are canonical synthesis too: the reading of the Abrahamic oath by Psalms 89 and 132 (step 3); Colossians 2:11 and Philippians 2:13 and 3:3 applied to the obligations of Genesis 17 (step 8); and Deuteronomy 30:6 carried to Isaac through Galatians 4:28 (step 8).
 
 **Step 3:** that the obedience clauses at Genesis 22:16 and 26:5 join the promise's fulfillment to Abraham's obedience without making the grant to Isaac uncertain or restricting its content, and that Genesis 17:1's "walk before me, and be blameless" governs life inside the covenant rather than conditioning its giving. The argument for this is that the content sworn at Moriah was already given, that Genesis 15 ratifies with Abraham asleep and precedes chapter 17 entire, and that no *if* is printed at 17:1–2. A reader may take any of the three clauses as conditional in force; he must then say what the oath added to what was already promised, and how 17:2 can offer a covenant Genesis 15 had already cut.
 
@@ -472,13 +470,13 @@ The premise is direct. Its scope is contested. And it is not the only support fo
 
 The inferences below carry more weight than the rest, and an attack is better spent on one of them than on the list above.
 
-**The indefectibility of the grant** (step 3). The oath carries it, with God's character. Everlasting language alone would not, as 1 Samuel 2:30 shows. Genesis 24:7, 26:3, and 50:24 show that the land was sworn.
+**The indefectibility of the grant** (step 3). The oath carries it, with God's character. Everlasting language alone would not, as 1 Samuel 2:30 shows. Genesis 26:3, Deuteronomy 1:8, and Psalm 105:9–11 show that the land was sworn, and sworn to the patriarchs themselves.
 
 **Personal reception after death** (step 4). This stands on Stephen's two-party wording. A corporate reading has to say what Abraham personally was promised and what he got, and it does not touch the God-relation clause at all.
 
 **The scope of the naming** (step 8). This is the hinge of the Isaac half. The argument's premise is that "my covenant I will establish with Isaac" covers the covenant as defined at 17:7–8, absent a textual partition. The opponent's counter-premise is that it covers a vocational subset. Neither sentence is printed in Genesis. What the text gives is the order and the form: God defines the covenant, then names Isaac as the one with whom he will establish it, in one speech, and 17:19 uses for Isaac the form 17:7 used for Abraham. The paper reads the naming at the scope of the definition it follows. A partition is available as a possibility and unsupported by the speech that defines the covenant.
 
-**The certainty of Isaac's faith** (step 8, second half). This is an entailment rather than a reading of a text, and it should be labeled as one. From three things the objection grants — the promise does not fail to the man it names, Isaac is named to that same promise, and faith is how what is promised is received — it follows that Isaac's faith is not left open by the naming. The step imports nothing beyond those three. Its weakest joint is the second, since indefectibility is argued of Abraham at step 3 and carried to Isaac on the strength of Genesis 17:19 and Hebrews 11:9 saying it is the same covenant and the same promise, and of Genesis 26:3, where the oath is repeated to Isaac by name. An objector who wants the conclusion gone has to cut one of the three. The objection in its usual form grants all three. An objector can instead contest the second, that the promise is indefectible to Isaac personally, and that is the second exit named at step 8. The texts offered for that exit are taken up there: Romans 9:6, Genesis 18:19, the obligations of Genesis 17 with Deuteronomy 30:6 and Paul, Romans 4:16 with 9:7–8, 1 Chronicles 28, and Hebrews 6:12.
+**The certainty of Isaac's faith** (step 8, second half). This is an entailment rather than a reading of a text, and it should be labeled as one. From three premises — the promise does not fail to the man it names, Isaac is named to that same promise, and faith is how what is promised is received — it follows that Isaac's faith is not left open by the naming. The step imports nothing beyond those three. Its weakest joint is the second, since indefectibility is argued of Abraham at step 3 and carried to Isaac on the strength of Genesis 17:19 and Hebrews 11:9 saying it is the same covenant and the same promise, and of Genesis 26:3, where the oath is repeated to Isaac by name. An objector who wants the conclusion gone has to cut one of the three. The objection in its usual form grants the third, and it grants that Isaac is named to the same promise. What it has to contest is that the promise is indefectible to Isaac personally, and that is the second exit named at step 8. The texts offered for that exit are taken up there: Romans 9:6, Genesis 18:19, the obligations of Genesis 17 with Deuteronomy 30:6 and Paul, 1 Chronicles 28, and Hebrews 6:12.
 
 Two limits on that entailment, both stated where it is made. It is a conditional proof: it grants the naming's full scope and shows what follows, so an objector who still wants the later-faith move must win the partition first. And it establishes that the faith is certain, not why — a reader who holds that God named Isaac because he foresaw the faith can grant the entailment and keep his account of the basis.
 
@@ -506,7 +504,7 @@ That objection has real support. The Galatians 4 context is about Sarah and Haga
 
 **What would settle it.** A comparison transfers its point of likeness and stops. A category assignment carries the properties that define the category. So the question is whether Scripture treats believers as sharing Isaac's one salient feature, or as holding what made him the promise-heir.
 
-**The evidence.** The covenantal properties are reassigned, one at a time, by name, in separate sentences, by different writers.
+**The evidence.** The covenantal properties are reassigned, one at a time, by name, by different writers.
 
 | Isaac | Believers |
 |---|---|
@@ -518,11 +516,11 @@ That objection has real support. The Galatians 4 context is about Sarah and Haga
 | Inheritance | "heirs according to the promise" (Gal 3:29); "the promise that he would inherit the world" (Rom 4:13) |
 | Offspring of Abraham | "And if you belong to Christ, then you are Abraham's offspring." (Gal 3:29) |
 
-**The argument from that list.** Seven correspondences, each in its own sentence, across seven books. One correspondence is easily a comparison. Seven, distributed that way, make a one-feature reading substantially less economical — because the thin reading has to explain each of the other six separately, while the category reading explains all seven at once.
+**The argument from that list.** Seven correspondences across seven books. One correspondence is easily a comparison. Seven, distributed that way, make a one-feature reading substantially less economical — because the thin reading has to explain each of the others separately, while the category reading explains all seven at once.
 
 Notice what is not on the list. Believers are not Sarah's physical descendants, not bound on Moriah, not dwellers in Gerar. The properties Scripture reassigns are the covenantal ones and only those — which is what makes the pattern an assignment rather than a pile of resemblances. If the New Testament were reaching for illustrations it would have no reason to sort them this way.
 
-And notice which single property the thin reading selects. It picks the manner of birth, which is one of the seven. The other six have nothing to do with how anyone was born. The reading that stops at one of seven has to say why six more were written.
+And notice which single property the thin reading selects. It picks the manner of birth. Two rows concern birth: the first, and John 1:13. The other five have nothing to do with how anyone was born. The reading that stops at birth has to say why five more were written.
 
 **The cost.** Not all seven are identities, and this appendix does not claim they are. Isaac's birth was from a barren womb and the believer's is from God — the same shape, not the same event. Luke 22:20 is the new covenant in Christ's blood, not Genesis 17 repeated. Ephesians 1:4 and Revelation 17:8 are antecedent divine choice, not a name spoken to a man's father.
 
@@ -530,7 +528,7 @@ So this is not a proof that every property transfers at equal strength. It is ev
 
 **Where this sits.** Step 9's answer from Galatians 4:29–31 is direct: Paul raises the inheritance and then says believers *are* children of the free woman. This appendix is cumulative circumstantial support behind that sentence. It is good in that role and would be weaker standing alone.
 
-*On the third row: Revelation 13:8 is often cited here, but its syntax is contested — "from the foundation of the world" may modify the writing of the names or the slaying of the Lamb. Revelation 17:8 has no such ambiguity and says what is needed.*
+*On the third row: Revelation 13:8 is often cited here, but its syntax is contested — "from the foundation of the world" may modify the writing of the names or the slaying of the Lamb. Revelation 17:8 has no such ambiguity. It speaks of those "whose names have not been written in the book of life from the foundation of the world," so it ties the writing to the foundation of the world directly, and the writing of other names by implication.*
 
 
 ---
