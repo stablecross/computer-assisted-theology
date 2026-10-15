@@ -1,6 +1,6 @@
 # The Election Is Not Grounded in the Man
 
-*Version 66.*
+*Version 67.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -671,6 +671,8 @@ Be exact about what the saying then establishes, because it is easy to take one 
 
 The verb at 6:44 is ἑλκύω, *helkyō*, and there is a long dispute about whether it means to draw irresistibly or to draw in a way that can be refused. The argument does not enter it. What these verses supply is the *cannot* — no one is able to come apart from a divine act — and the statement at 6:37 that those given do come. Neither claim depends on how forcefully the drawing is construed.
 
+The next verse says what the drawing is. "It is written in the prophets, 'And they shall all be taught by God.' Everyone who has heard and learned from the Father comes to me." (6:45) The drawing is the Father's teaching, and the one taught hears and learns. So the verse names a human reception within the drawing. Like 6:40, it describes who comes. It does not say why one man hears and learns and another does not, and it does not say what grounds the giving at 6:37.
+
 "For he has graciously granted you the privilege not only of believing in Christ, but of suffering for him as well." (Phil 1:29)
 
 Peter joins the promise to the calling in one clause at Pentecost: "For the promise is for you, for your children, and for all who are far away, **everyone whom the Lord our God calls to him**." (Acts 2:39) The promise reaches as far as the calling does, and the calling is God's. Like the rest of this step, it does not say why he calls those he calls.
@@ -801,9 +803,9 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 
 *God can be the source of mercy and still apply a criterion; naming the decider does not exclude a rule the decider uses.* — Step 2b. Granted as a logical possibility. The answer is comparative: 9:11–12, 9:14, 9:15–18, and 11:7 repeatedly put the explanatory terms on God's side, while the criterion model must insert an unstated lower-level rule; 9:19 is used only as weak corroboration because the hardening clause can motivate the objection by itself.
 
-*The injustice objection at 9:14 arises from the pre-birth timing alone, not from the absence of a criterion.* — Step 2b, eighth plank. Available, and it costs the objector a resolvable charge left standing through 9:15–18 and answered at 9:20 by refusing the questioner's standing. It also requires supplying a hidden criterion rather than locating one, in an objection Paul himself constructs and answers. Unlike 9:19, this objection has no alternative motivation in the immediate context, since hardening is not yet in view.
+*The injustice objection at 9:14 arises from the pre-birth timing alone, not from the absence of a criterion.* — Step 2b, eighth plank. Available, and it costs the objector a resolvable charge left standing through 9:15–18 and answered at 9:20 by refusing the questioner's standing. It also requires supplying a hidden criterion rather than locating one, in an objection Paul himself constructs and answers. Unlike 9:19, this objection cannot be motivated by hardening, which is not yet in view. The chapter's frame (9:6) and the pre-birth timing remain possible sources, and the plank uses only what Paul does with the charge.
 
-*The injustice charge at 9:14 comes from covenant fidelity: how can Israel's exclusion square with God's word and Israel's privileges (9:3–8)?* — Step 2b, eighth plank. Not answered in the body. Paul raises that question at 9:6, "It is not as though the word of God had failed," and answers it through 9:13. The question at 9:14 is a different one. It asks about injustice, and it follows directly on 9:13: "I have loved Jacob, but I have hated Esau." So what 9:14 asks about is the discrimination between the twins, and Paul answers it at 9:15–18 by restating that discrimination.
+*The injustice charge at 9:14 comes from covenant fidelity: how can Israel's exclusion square with God's word and Israel's privileges (9:3–8)?* — Step 2b, eighth plank, which grants that the chapter's frame may be one source of the charge. Paul raises the covenant-fidelity question at 9:6, "It is not as though the word of God had failed," and answers it through 9:13. The question at 9:14 asks about injustice, and it follows directly on 9:13: "I have loved Jacob, but I have hated Esau." So what 9:14 asks about is the discrimination between the twins, whatever else contributes to the charge, and Paul answers it at 9:15–18 by restating that discrimination.
 
 *2 Thessalonians 2:13's en-phrase modifies "chose," not "salvation," so faith is grammatically attached to the choosing.* — Step 5a. The attachment is granted, and the objector does not need *because of*, since a means can be a condition. The verse alone does not decide whether belief is the means by which the choice is carried out or the means by which a man comes to be among the chosen. 1 Peter 1:2 and 2 Thessalonians 2:14 favor the first. The result is comparative and is weighed at 2b.
 
@@ -893,7 +895,7 @@ Each objection is stated in one sentence at its strongest, with where the paper 
 
 *That B does not believe today does not make B non-elect.* — The question section. The scene displays the question and rules on neither man.
 
-*If every man eventually believes, no A/B contrast exists, so a faith-condition escapes fork two.* — Answered twice. The definition at the front and fork two: a condition does not stop being one because everyone meets it, and the contrast is how the paper tests for a condition rather than what makes something one. Then 2a's per-instance reading of 9:16, which carries 2b's result to the ground of each election without reference to whether another man fails it. Step 6a adds that the contrast case is not empty in any event, since Esau is placed outside the class by Hebrews 12:17.
+*If every man eventually believes, no A/B contrast exists, so a faith-condition escapes fork two.* — Answered twice. The definition at the front and fork two: a condition does not stop being one because everyone meets it, and the contrast is how the paper tests for a condition rather than what makes something one. Then 2a's per-instance reading of 9:16, which carries 2b's result to the ground of each election without reference to whether another man fails it. Step 6a adds that the contrast is not empty at the level of the patriarchal designation, since Hebrews 12:17 shows Esau passed over in it.
 
 *Esau lost a paternal blessing, not an eternal inheritance, so step 6a proves nothing about the class.* — Step 6a. Genesis 28:4 names the thing conferred as the blessing of Abraham, and the companion paper argues that inheritance terminates in salvation. An objector who reads ἀπεδοκιμάσθη, *apedokimasthē*, as rejection from one occasion owes an account of why Hebrews builds a warning against falling away on a man who lost only a paternal blessing.
 
