@@ -1,6 +1,6 @@
 # No One Comes to Christ Unless God First Changes the Heart
 
-*Version 24.*
+*Version 25.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -157,7 +157,7 @@ Ezekiel already treats the two adjectives as one condition. At 2:4 the pairing i
 
 And the canon joins hardness of heart, stone, and refusal of the prophetic word in a single sentence. Zechariah, looking back on Israel's refusal of the former prophets: "They made their hearts adamant in order not to hear the law and the words that the LORD of hosts had sent by his spirit through the former prophets." (Zech 7:12) The word rendered *adamant* is שָׁמִיר, *šāmîr*, flint. A heart made of stone, refusing the word of the prophets, is one complex there — the complex Ezekiel 3:7 and 36:26 stand at either end of.
 
-To deny the identification a critic needs Ezekiel to name one defect of the heart that blocks hearing and a second, unrelated defect that God removes at the restoration, with no verse joining them. That is conceivable. Nothing in the book warrants it.
+To deny the identification a critic needs Ezekiel to name one defect of the heart that blocks hearing and a different one that God removes at the restoration. He can say the two are related aspects of one condition, but then the remedy still addresses the refusal, which is all this step needs. To keep them apart he needs a verse that separates them, and the book gives none.
 
 Every verb in the promise has God as its subject. Give, put, remove, give, put, make. The man is the object throughout.
 
@@ -185,7 +185,7 @@ Acts 11:18 also names a people, the Gentiles, and its *even*, καί, *kai*, mar
 
 Second Timothy 2:25 carries the most. Its objects are particular men, the opponents Timothy is to correct. The NRSV reads "God may perhaps grant that they will repent." The Greek names what God may give: δώῃ αὐτοῖς ὁ θεὸς μετάνοιαν, *dōē autois ho theos metanoian*, God may give them repentance. The object of the giving is repentance, not the opportunity to repent. God may give it through the correction Timothy offers. The next verse says what the men are while they lack it: "and that they may escape from the snare of the devil, having been held captive by him to do his will" (2:26). Their will is held.
 
-So an opportunity reading has three things to explain: why Paul names repentance as the thing given, why he says *perhaps* of an opportunity Timothy is already supplying by correcting them, and why the men are captive to another's will. The usage of Wisdom 12 concerns nations given time. It does not show that the reading applies to particular men held captive.
+So an opportunity reading has three things to explain: why Paul names repentance as the thing given, why he says *perhaps* of an opportunity Timothy is already supplying by correcting them, and why the men are captive to another's will. That God gives a particular person room to repent is warranted. Of the woman at Thyatira he says, "I gave her time to repent, but she refuses to repent of her fornication" (Rev 2:21). So the recipients being particular men does not by itself exclude the opportunity reading. The object of the giving does. In Revelation what God gives is time, ἔδωκα αὐτῇ χρόνον, *edōka autē chronon*. In 2 Timothy what God gives is repentance.
 
 So the route rests on 2 Timothy 2:25. Acts 11:18 and Acts 5:31 are corroborative.
 
@@ -597,7 +597,7 @@ Two things in Paul's own sentence answer it.
 
 The verb he attaches to them is passive: παρεδόθητε, *paredothēte*, you were handed over to that pattern of teaching. They did not take themselves to it.
 
-And the sentence opens with thanks to God for the obedience. "Thanks be to God that you... have become obedient from the heart." A man is not thanked for what another man did. Paul's framing makes the heart-obedience something God is to be thanked for.
+And the sentence opens with thanks to God for the obedience. "Thanks be to God that you... have become obedient from the heart." Paul thanks God for what the Romans did, so he counts their heart-obedience as something God did. The thanks attributes the obedience to God. It does not by itself say how God brought it about.
 
 **"You have purified your souls" — 1 Peter 1:22.**
 
@@ -713,7 +713,7 @@ The veil hides glory. That is its whole office in the passage.
 
 Hardening and veil belong to one complex of not-perceiving, and nothing here needs them prised apart into separate mechanisms. What the argument needs is narrower: Paul does not identify the covering whose removal he times at 3:16 with the heart of stone Ezekiel says God removes.
 
-What the text supports is that the two are related, since both concern not perceiving, and not identical, since one hides glory and the other refuses to hear.
+What the text supports is that the two are related, since both concern not perceiving. It does not show that they are identical. Paul's figure is a covering that hides glory, Ezekiel's is a heart that refuses to hear, and neither text equates the two.
 
 **Third, what follows for the order.** Ezekiel's trouble is a heart that will not *listen*, and God takes it out and puts another in so they will *walk*. Paul's trouble here is a covering that keeps men from *seeing* glory, removed so that they behold the Lord and are changed. Those can be two descriptions of one conversion. They are not the same act in the same words.
 
@@ -841,7 +841,7 @@ Step 1 reports what the text says. Every other step makes a move, and here they 
 
 The granting texts at the end of the step are reports rather than inferences. Reading them as a pattern — that what God gives is the response and not merely its precondition — is the move, and it is the one the production half rests on. It does not depend on anything else in the step.
 
-The three repentance texts are ranked, and the ranking tells an objector where to aim. Second Timothy 2:25 carries the route, because its recipients are particular men, the object of God's giving is repentance, and the next verse calls them captive to another's will. Acts 11:18 and Acts 5:31 are corroborative, because each names a people, and there the opportunity reading has evidence of usage (Wis 12:10, 19; Acts 14:27). Acts 11:18 is drawn from the case of Cornelius's household, which weighs toward a result, but the case does not exclude the door. An objector who wants to break production in the named cases has to break 2 Timothy 2:25 in the first kind and Acts 16:14 in the second. Winning at Acts 5:31 or Acts 11:18 moves nothing.
+The three repentance texts are ranked, and the ranking tells an objector where to aim. Second Timothy 2:25 carries the route, because the object of God's giving is repentance and the next verse calls the men captive to another's will. Its recipients are particular men, but that alone does not decide it, since Revelation 2:21 has God giving a particular person time to repent. Acts 11:18 and Acts 5:31 are corroborative, because each names a people, and there the opportunity reading has evidence of usage (Wis 12:10, 19; Acts 14:27). Acts 11:18 is drawn from the case of Cornelius's household, which weighs toward a result, but the case does not exclude the door. An objector who wants to break production in the named cases has to break 2 Timothy 2:25 in the first kind and Acts 16:14 in the second. Winning at Acts 5:31 or Acts 11:18 moves nothing.
 
 The extension from the cases to every instance of the response is a further move. It rests on three things. John 6:65 and 1 Corinthians 12:3 say that no one comes or confesses without God's giving, and 12:6 and 12:11 show what "by the Spirit" means in that chapter. The cases name what the giving is. And 1 John 5:1 says every believer has been born of God, in a construction the letter uses of acts that mark the birth (2:29; 4:7), with the birth given as the reason (3:9). John 6:65 can be read as the gift of the ability to come, on the pattern of John 19:11, and on that reading it states necessity only. The weak joint is 1 John 5:1: an objector has to show why the construction runs the other way with believing than with doing right and loving. The absence of a text naming another source for a response is not part of the proof. It is the evidential rule's constraint on a rival that needs such a source.
 
@@ -877,9 +877,11 @@ The second is that no one is good. Jesus states it flatly — "No one is good bu
 
 That second claim is argued here in a paragraph and the first at length. The proportions are not an accident of emphasis. The second is not seriously disputed by most of the people who dispute the first, and the texts for it are short and plain.
 
-Two things the label does not mean, and this paper does not claim.
+Three things the label does not mean, and this paper does not claim.
 
 It does not mean that every act a man performs is as wicked as it could be. The tradition itself denies this — the Canons of Dort grant the unregenerate a regard for virtue and for good order in society (III/IV, art. 4).
+
+Nor does it deny that men God has changed are called good. Luke calls Joseph of Arimathea "a good and righteous man" (Luke 23:50) and Barnabas "a good man, full of the Holy Spirit and of faith" (Acts 11:24). The claim concerns man as Romans 3:9–12 describes him, "under the power of sin," not what God makes of him.
 
 And it does not mean that God withholds the change from anyone, or why. That is a separate question and it is not argued here.
 
