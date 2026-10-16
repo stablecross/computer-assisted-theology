@@ -1,6 +1,6 @@
 # Christ Died for Everyone
 
-*Version 18.*
+*Version 19.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -21,7 +21,7 @@ A defect in an import is a defect in the paper that argues it, and any claim res
 
 *From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about.
 
-*From "[God Brings Every Heir to Faith and Loses None of Them](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/heirs-brought-and-kept.md)."* The heir claim: every heir of the promise is brought to faith by God's act. The keeping claim: no one who is justified finally falls away. The rule of its step 14: an argument from the greater to the lesser holds for anyone of whom its ground holds. Its reading of Hebrews 10:29: the man there was set apart by the covenant blood and not saved, and a reading on which he was justified and finally lost is not available (its answer to Hebrews 10:26–29). Its finding that the forgiveness of Matthew 18:27 is not shown to be justification (its answer to Matthew 18:23–35).
+*From "[God Brings Every Heir to Faith and Loses None of Them](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/heirs-brought-and-kept.md)."* The heir claim: every heir of the promise is brought to faith by God's act. The keeping claim: no one who is justified finally falls away. The rule of its step 14: an argument from the greater to the lesser holds for anyone of whom its ground holds. Its reading of Hebrews 10:29: the man there was set apart by the covenant blood and not saved, and a reading on which he was justified and finally lost has to take Paul's assurances as conditioned on a continuing God may leave unsecured, which they do not state (its answer to Hebrews 10:26–29). Its finding that the forgiveness of Matthew 18:27 is not shown to be justification (its answer to Matthew 18:23–35).
 
 None of these imports is a premise of the exclusion claim or the extent claim. The reading of Hebrews 10:29 is corroboration at step 8. The rest are used in part four and in the objections, to answer arguments that say universal extent would leave salvation to the man.
 
@@ -76,7 +76,7 @@ The second is the reconciliation a man receives. "Through whom we have now recei
 
 Limited atonement is a universal negative. It says no one outside the elect was died for. One case refutes it: one person Christ died for who is not elect. Part two gives that case.
 
-The extent claim is a universal positive. It says everyone was died for. A single case does not establish it. Part three gives two routes to it.
+The extent claim is a universal positive. It says everyone was died for. A single case does not establish it. Part three gives it from the texts that name the extent.
 
 Part one shows something further. No collection of texts saying that Christ died for some can establish limited atonement, however many there are. So every argument for it needs another premise, and part one says what form that premise must take.
 
@@ -102,17 +102,17 @@ Second, the evidential rule of the evaluation criteria. An element with no posit
 
 Against the exclusion claim: show that the men of 2 Peter 2:1 were not bought by Christ, or were not bought by his death, with a marker in the text for the reading. A reading that is only possible does not meet the burden.
 
-Against the extent claim: break both routes of part three. Each route can be attacked where part three marks its weak joints. Route A has two lines, and breaking it means breaking both.
+Against the extent claim: break part three at the weak joints it marks.
 
 Against the bridge claim: produce, from a text, a premise of either kind of step 3, stated as a rule. A premise drawn from a passage about "us" or "the sheep" and widened to a rule needs warrant for the widening.
 
 Against the proclamation claim: state a proposition about what Christ's death has done about the hearer's own sins that is true, on limited atonement, of every hearer of the gospel, that he can know before he believes, and that saving faith receives.
 
-Showing that the promise "whoever trusts Christ will be forgiven through his death" is true on limited atonement, or that the hearer can know it from God's testimony, does not meet this. The paper grants both (step 54). The objection has to name what limited atonement can tell the hearer about what Christ's death does about his sins, knowable before he believes, that is neither "Christ died for you" nor "you will turn out to be elect."
+Showing that the promise "whoever trusts Christ will be forgiven through his death" is true on limited atonement, or that the hearer can know it from God's testimony, does not meet this. The paper grants both (step 49). The objection has to name what limited atonement can tell the hearer about what Christ's death does about his sins, knowable before he believes, that is neither "Christ died for you" nor "you will turn out to be elect."
 
 **The spine.** Peter says that false teachers deny "the Master who bought them," and bring swift destruction on themselves. So some whom Christ bought perish. So "only the elect" is false.
 
-Then the extent. God sends the gospel to every nation and commands everyone to believe it. The gospel tells each hearer that forgiveness of sins through Christ's death is proclaimed to him. The faith it commands receives Christ as the one "who loved me and gave himself for me." God does not send a false message, and he does not command anyone to believe what is false. So what the gospel tells each hearer is true of each hearer. And John says Christ is the atoning sacrifice "for the sins of the whole world," in a letter that uses "the whole world" for everyone outside the "we."
+Then the extent. John says Christ is the atoning sacrifice "for the sins of the whole world," in a letter that uses "the whole world" for everyone outside the "we." Paul says Christ "gave himself a ransom for all," in a paragraph whose "all" is humankind.
 
 Then the arguments for limited atonement. Each one needs a premise Scripture does not state. Most such premises rest on an assumption about the death's effect or its purpose, and Scripture states neither.
 
@@ -120,11 +120,11 @@ Then the gospel. Limited atonement cannot say what the unbeliever is commanded t
 
 **How the parts depend on each other.** The exclusion claim rests on 2 Peter 2:1, with Hebrews 10:29 and John 11:51–52 as corroboration. It does not use the extent claim.
 
-The extent claim has two routes. Route A runs through the gospel's commission and proclamation. Route B runs through the texts that name the extent. They share no textual premise. Route A reaches every human being to whom the gospel may be preached. Route B reaches the whole world, and step 21 carries the extent back to those who died before the cross. Part three states what survives if either falls.
+The extent claim rests on the texts of part three, which name the extent, and on step 16, which carries it back to those who died before the cross.
 
-The bridge claim does not need the exclusion claim or the extent claim. It asks each argument for its premise.
+The bridge claim uses the exclusion and extent claims where an argument's premise contradicts them (steps 21, 22, 24, 33). Elsewhere it asks each argument for its premise and finds none stated.
 
-The proclamation claim does not rest on Route A. Its negative half rests on part five's tests. Its positive half rests on what the apostles said: "that Christ died for our sins" (1 Cor 15:3), proclaimed before it was received, and the message of reconciliation, which tells the world what God did about its trespasses before it appeals to men to be reconciled (2 Cor 5:19–20). A weak joint in Route A limits the extent claim on that route. It does not limit the proclamation claim.
+The proclamation claim's negative half rests on part five's tests. Its positive half rests on what the apostles said and on the extent texts. Paul proclaimed "that Christ died for our sins" (1 Cor 15:3) before it was received, and the message of reconciliation tells the world what God did about its trespasses before it appeals to men to be reconciled (2 Cor 5:19–20). Read with 1 John 2:2, that message tells each hearer what God did about his sins.
 
 ---
 
@@ -166,9 +166,9 @@ Either assumption yields the conclusion that whoever Christ died for is saved. T
 
 The purpose assumption needs both of its parts. A saving purpose yields the exclusion only if it is always achieved. It does not need to be the death's only purpose. Other ends beside it leave the inference intact.
 
-Part four answers the effect assumption in the section on what Scripture distinguishes. It answers the purpose assumption at step 30.
+Part four answers the effect assumption in the section on what Scripture distinguishes. It answers the purpose assumption at step 25.
 
-Not every premise of these kinds comes from the two assumptions. Step 44 draws an exclusion from a covenant boundary, and step 46 draws one from the word "many." Those steps answer them on their own terms.
+Not every premise of these kinds comes from the two assumptions. Step 39 draws an exclusion from a covenant boundary, and step 41 draws one from the word "many." Those steps answer them on their own terms.
 
 **4. The burden lies on the one who asserts the premise.**
 
@@ -256,7 +256,7 @@ So the case stands. The men of 2 Peter 2:1 were bought by Christ, and they peris
 
 The relative clause is ἐν ᾧ ἡγιάσθη, *en hō hēgiasthē*, "by which he was sanctified." The blood of the covenant is Christ's blood. So the verse describes a man who had a relation to Christ's blood, set apart by it, and who perishes.
 
-This step is corroboration. "God Brings Every Heir to Faith and Loses None of Them" reads the sanctification here as a setting apart that did not save. It shows that a reading on which the man was justified and finally lost is not available once the verse is held with the rest of Scripture. This paper takes the same reading.
+This step is corroboration. "God Brings Every Heir to Faith and Loses None of Them" reads the sanctification here as a setting apart that did not save. It argues that a reading on which the man was justified and finally lost has to take Paul's assurances as conditioned on a continuing God may leave unsecured, which they do not state. This paper takes the same reading.
 
 *The rejoinder: the one sanctified is Christ.* On this reading "he was sanctified" refers to the Son of God, who was set apart by his own blood.
 
@@ -268,7 +268,7 @@ The sentence's subject is the man who spurned, profaned, and outraged. The relat
 
 "The nation" is τὸ ἔθνος, *to ethnos*. The council has just used the word for the Jewish people as a whole: "the Romans will come and destroy both our holy place and our nation" (11:48). Caiaphas uses it again: "it is better for you to have one man die for the people than to have the whole nation destroyed" (11:50). John's comment takes up their word. And John has already reported that many in that nation did not belong to Christ's sheep: "you do not believe, because you do not belong to my sheep" (10:26), spoken to "the Jews" (10:24).
 
-So in John, Jesus dies for the nation, and the nation includes men who are not his sheep. To read "the nation" at 11:51 as the elect within the nation is to partition John's own repeated noun, and the passage marks no partition.
+So in John, Jesus dies for the nation, and the nation includes men who are not his sheep. To read "the nation" at 11:51 as the elect within the nation is to partition John's own repeated noun, and the passage marks no partition. A reader can take "for the nation" corporately, without applying it to each member. On that reading the verse does not settle the question, which is why this step is corroboration.
 
 This step is corroboration. The exclusion claim rests on step 7.
 
@@ -280,73 +280,11 @@ Some for whom Christ died perish. So there is someone Christ died for who is not
 
 ## Part three: Christ died for every human being
 
-The exclusion claim shows that Christ died for some who perish. It does not show that he died for everyone. Two routes reach the extent claim.
-
-### Route A: the gospel's commission and proclamation
-
-**11. The gospel is sent to every nation, and God commands all people to believe it.**
-
-The risen Christ says, "repentance and forgiveness of sins is to be proclaimed in his name to all nations" (Luke 24:47). "Go therefore and make disciples of all nations" (Matt 28:19).
-
-Paul tells the Athenians, "now he commands all people everywhere to repent" (Acts 17:30). The Greek is παραγγέλλει τοῖς ἀνθρώποις πάντας πανταχοῦ μετανοεῖν, *parangellei tois anthrōpois pantas pantachou metanoein*: all people, everywhere. John makes believing a commandment: "And this is his commandment, that we should believe in the name of his Son Jesus Christ" (1 John 3:23).
-
-The commission names no class within mankind to whom the gospel may not be preached. So every human being is a lawful hearer of it.
-
-**12. What the gospel proclaims to the hearer concerns the hearer.**
-
-At Pisidian Antioch Paul says, "Let it be known to you therefore, my brothers, that through this man forgiveness of sins is proclaimed to you; by this Jesus everyone who believes is set free from all those sins from which you could not be freed by the law of Moses" (Acts 13:38–39). The Greek is διὰ τούτου ὑμῖν ἄφεσις ἁμαρτιῶν καταγγέλλεται, *dia toutou hymin aphesis hamartiōn katangelletai*: through this man, to you, forgiveness of sins is proclaimed.
-
-"Through this man" points back to his death and resurrection, which Paul has just recounted (13:28–30). And the "you" includes men who then refused it. A week later Paul tells some of the same hearers, "Since you reject it and judge yourselves to be unworthy of eternal life, we are now turning to the Gentiles" (13:46).
-
-So Paul proclaimed to a mixed audience, before any of them believed, that forgiveness of sins through Christ's death was proclaimed to them. Some of them rejected what was proclaimed to them.
-
-Paul also says what he proclaimed at Corinth. "I would remind you, brothers and sisters, of the good news that I proclaimed to you, which you in turn received... For I handed on to you as of first importance what I in turn had received: that Christ died for our sins" (1 Cor 15:1–3). The gospel proclaimed, before it was received, included Christ's death "for our sins."
-
-**13. Saving faith receives Christ as the one who gave himself for the believer.**
-
-Paul states the faith he lives by: "the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me" (Gal 2:20). The Greek is τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ, *tou agapēsantos me kai paradontos heauton hyper emou*: who loved me and gave himself *for me*. The preposition is ὑπέρ, *hyper*, the same as in the texts tabled under *Died for*. The object of the faith is the Son of God who gave himself for the believer.
-
-This is not a faith peculiar to Paul. In the same passage he names the faith by which anyone is justified: "a person is justified not by the works of the law but through faith in Jesus Christ" (2:16). The faith he then lives by is that faith. So the faith that justifies receives Christ as the one who gave himself for the one believing.
-
-The giving came before the believing. The participles are aorist, he loved and he gave, and the aorist presents each act as a whole without dating it. The date comes from the history: Christ gave himself at the cross, before Paul believed. Paul's faith received that giving. It did not bring it about.
-
-The claim is about what the faith receives. It is not a claim about how fully a new believer can put that into words.
-
-Jesus gives the figure for it. "Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life" (John 3:14–15). The serpent was set up for the bitten: "everyone who is bitten shall look at it and live" (Num 21:8). The bitten man looked at what had been set up for him.
-
-**14. God does not send a false message.**
-
-The preacher speaks as God's ambassador: "God is making his appeal through us" (2 Cor 5:20). God "never lies" (Titus 1:2). So what God proclaims to a hearer through his messenger is true.
-
-What God commands a man to believe is part of that message. So God does not command anyone to believe what is false.
-
-**15. Therefore Christ died for every human being to whom the gospel may be preached.**
-
-Two lines reach this conclusion. Each reaches it without the other.
-
-The first line runs from the proclamation. The gospel proclaims to each hearer forgiveness of sins through Christ's death (step 12). God's proclamation is true (step 14). So for each hearer it is true that there is forgiveness of sins through Christ's death for him to receive. That cannot be true of a man Christ did not die for. So Christ died for each hearer.
-
-The second line runs from the faith commanded. God commands each hearer to believe (step 11). The faith he commands receives the Son of God as the one who gave himself for the believer (step 13). That giving took place before the hearer believes. His faith receives it and does not make it true. God does not command anyone to believe what is false (step 14). So for each hearer it is true that Christ gave himself for him.
-
-Every human being is a lawful hearer (step 11). So Christ died for every human being to whom the gospel may be preached.
-
-*Scope.* This route reaches every human being to whom the gospel may lawfully be preached. Since the commission excludes no one, that is every human being living after the commission was given. Route B reaches the whole world, and step 21 reaches those who died before the cross.
-
-*The weak joints.* Each line has one. Route A falls only if both lines fall.
-
-Step 12, in the first line. A defender of limited atonement will say that what is proclaimed to the hearer is a conditional promise, "everyone who believes is set free" (13:39), and not a statement about Christ's death that is true of the hearer.
-
-Step 13, in the second line. A defender will say that "for me" is the believer's assurance. On this reply, it is what a man concludes about himself after he believes, and not what he is commanded to believe. But the giving in Galatians 2:20 is past, and it took place before Paul believed. And if the first act of faith cannot include "for me," its content has to be something else.
-
-Both replies leave one question open: what the unbeliever is commanded to believe about Christ's death. A reply that leaves "believe" without content does not defeat either line. Part five takes up that question and every answer the defender can give it.
-
-### Route B: the texts that name the extent
-
-This route does not use the commission, the proclamation, or the premise that God's message is true. It reads the texts that name the objects of Christ's death and asks what fixes the domain of each.
+The exclusion claim shows that Christ died for some who perish. It does not show that he died for everyone. This part reads the texts that name the objects of Christ's death and asks what fixes the domain of each.
 
 Arguing over the word *all* by itself settles nothing. "All" and "world" often have a restricted domain in ordinary speech, and both sides know it. So the question for each text is not whether its word *can* be restricted. It is what in the text fixes the domain. The texts below are chosen because each has such a marker.
 
-**16. John sets "the whole world" against "ours," and uses the same phrase for everyone outside the believing "we."**
+**11. John sets "the whole world" against "ours," and uses the same phrase for everyone outside the believing "we."**
 
 "My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous; and he is the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world." (1 John 2:1–2)
 
@@ -364,17 +302,17 @@ The construction is shared. What fills it differs. At John 11:52 the added class
 
 The same letter agrees: "The Father has sent his Son as the Savior of the world" (1 John 4:14). And in the Gospel, which is joined to the letter here as canonical synthesis, the prayer most often cited for limited atonement sets the world against the given: "I am not asking on behalf of the world, but on behalf of those whom you gave me" (John 17:9). The given were taken "from the world" (17:6), but in that prayer "world" does not name them. So the verse its defenders rely on does not make "world" a name for the given.
 
-**17. Paul's "all" in 1 Timothy 2 is one domain through one paragraph.**
+**12. Paul's "all" in 1 Timothy 2 is one domain through one paragraph.**
 
 "First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for everyone, for kings and all who are in high positions... This is right and is acceptable in the sight of God our Savior, who desires everyone to be saved and to come to the knowledge of the truth. For there is one God; there is also one mediator between God and humankind, Christ Jesus, himself human, who gave himself a ransom for all." (1 Tim 2:1–6)
 
 The phrase recurs: ὑπὲρ πάντων ἀνθρώπων, *hyper pantōn anthrōpōn*, "for all people" (2:1); πάντας ἀνθρώπους, *pantas anthrōpous*, "all people" (2:4); ὑπὲρ πάντων, *hyper pantōn*, "for all" (2:6). The paragraph joins the prayer to God's desire by a relative clause: "God our Savior, who desires everyone to be saved" (2:3–4). It joins God's desire to the one mediator by γάρ, *gar*, for (2:5). Some manuscripts add γάρ at 2:3 as well; the critical text does not have it there. So the repeated word, in one argumentative sequence, marks one domain.
 
-A reader can keep one domain and make it "all kinds of people" throughout. The sentence that names the ransom answers that. It names the class first: "there is one God; there is also one mediator between God and humankind, Christ Jesus, himself human, who gave himself a ransom for all" (2:5–6). The mediator stands between God and humankind, not between God and kinds of people, and the "all" of the ransom stands in the same sentence. Step 21 uses the same sentence.
+A reader can keep one domain and make it "all kinds of people" throughout. The sentence that names the ransom counts against that, with the rest of the paragraph. It names the class first: "there is one God; there is also one mediator between God and humankind, Christ Jesus, himself human, who gave himself a ransom for all" (2:5–6). The mediator stands between God and humankind, not between God and kinds of people, and the "all" of the ransom stands in the same sentence. Step 16 uses the same sentence.
 
 The prayer of 2:1 is for everyone. Kings are named in it as a class, and Paul does not limit the prayer to the kings who would believe. A reading that restricts the ransom of 2:6 to the elect has to restrict the prayer of 2:1 and the desire of 2:4 the same way, or partition one "all" from the next. Neither has a marker.
 
-**18. Paul calls God the Savior of all people, especially of believers.**
+**13. Paul calls God the Savior of all people, especially of believers.**
 
 "For to this end we toil and struggle, because we have our hope set on the living God, who is the Savior of all people, especially of those who believe." (1 Tim 4:10)
 
@@ -382,49 +320,41 @@ The Greek is σωτὴρ πάντων ἀνθρώπων μάλιστα πιστ�
 
 *The rejoinder.* "Savior" here means preserver, in the sense of providence, not Savior from sin. The context gives this some support. Paul has just spoken of foods "which God created to be received with thanksgiving" (4:3) and of godliness "holding promise for both the present life and the life to come" (4:8). Against it, the Pastoral Epistles use the language of God's saving for his saving through Christ (1 Tim 1:15; 2:3–4; Titus 2:13–14; 3:4–6). This step is corroboration only. It names God as Savior rather than Christ's death, and the sense of "Savior" here is contested.
 
-**19. Further texts.**
+**14. Further texts.**
 
 These carry less alone, and they are listed as corroboration.
 
 "We do see Jesus... crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone" (Heb 2:9). The Greek is ὑπὲρ παντός, *hyper pantos*, singular: for each one. A reader can argue that the "many children" of 2:10 fix the domain, and this paper does not rest on the verse.
 
-"Here is the Lamb of God who takes away the sin of the world!" (John 1:29). The domain is John's "world," as in step 16.
+"Here is the Lamb of God who takes away the sin of the world!" (John 1:29). The domain is John's "world," as in step 11.
 
 "For the love of Christ urges us on, because we are convinced that one has died for all; therefore all have died. And he died for all, so that those who live might live no longer for themselves" (2 Cor 5:14–15). Paul describes those Christ died for as "all" and then names "those who live." Two descriptions can name one class or a class and its part. On limited atonement they must be one class, and the wording does not mark them as one.
 
-"The bread that I will give for the life of the world is my flesh" (John 6:51). The domain is John's "world," as in step 16, and the same discourse makes the receiving a matter of eating (6:53–54).
+"The bread that I will give for the life of the world is my flesh" (John 6:51). The domain is John's "world," as in step 11, and the same discourse makes the receiving a matter of eating (6:53–54).
 
 "For the grace of God has appeared, bringing salvation to all" (Titus 2:11). The Greek is σωτήριος πᾶσιν ἀνθρώποις, *sōtērios pasin anthrōpois*, to all people. Three verses later the redeeming and purifying are stated of "us" and "a people of his own" (2:14). A reader can take "all people" as all kinds, as the paragraph's slaves and masters invite.
 
-**20. Therefore Christ died for the whole world.**
+**15. Therefore Christ died for the whole world.**
 
-Christ is the atoning sacrifice for the sins of the whole world, where "the whole world" is everyone beyond the believing company (step 16). He gave himself a ransom for all, in a paragraph whose "all" is one domain that includes those who are not believers (step 17).
+Christ is the atoning sacrifice for the sins of the whole world, where "the whole world" is everyone beyond the believing company (step 11). He gave himself a ransom for all, in a paragraph whose "all" is one domain that includes those who are not believers (step 12).
 
 *The weak joint.* The domain of "the whole world" at 1 John 2:2. It rests on the contrast "not ours only, but also," which is direct, and on 5:19, which is same-author usage in the same letter.
 
-**21. The extent reaches those who died before the cross.**
+**16. The extent reaches those who died before the cross.**
 
-Route A reaches those living after the commission. Route B's texts speak in the present: Christ "is" the atoning sacrifice for the whole world (1 John 2:2). Three things carry the extent back past the cross.
+The texts above speak in the present: Christ "is" the atoning sacrifice for the whole world (1 John 2:2). Three things carry the extent back past the cross.
 
 First, Christ's saving office is defined over the human race, with no limit of date. "There is one God; there is also one mediator between God and humankind, Christ Jesus, himself human" (1 Tim 2:5). "There is salvation in no one else, for there is no other name under heaven given among mortals by which we must be saved" (Acts 4:12). "Humankind" and "mortals" render the same Greek word, ἄνθρωποι, *anthrōpoi*, human beings. Neither text limits the class by date or place.
 
 Second, that office acted before the cross. Christ is the mediator of a new covenant, "so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant" (Heb 9:15). The blood of bulls and goats never took away sins (10:4), and "without the shedding of blood there is no forgiveness of sins" (9:22). God put Christ forward as a sacrifice of atonement because "in his divine forbearance he had passed over the sins previously committed" (Rom 3:25). So the death reaches back past its date. These texts show the reach in time. They do not by themselves say for whom. Hebrews 9:15 names "those who are called," and Romans 3:26 names "the one who has faith in Jesus."
 
-Third, the ransom is for the whole of that class. The mediator "between God and humankind" is the one "who gave himself a ransom for all" (1 Tim 2:5–6). "All" stands in the same sentence as "humankind," and the paragraph has one domain (step 17). The class of 2:5 is not limited by date. So the "all" of 2:6 is not limited by date either.
+Third, the ransom is for the whole of that class. The mediator "between God and humankind" is the one "who gave himself a ransom for all" (1 Tim 2:5–6). "All" stands in the same sentence as "humankind," and the paragraph has one domain (step 12). The class of 2:5 is not limited by date. So the "all" of 2:6 is not limited by date either.
 
 Paul's Adam–Christ parallel agrees: "just as one man's trespass led to condemnation for all, so one man's act of righteousness leads to justification and life for all" (Rom 5:18). The first "all" includes everyone who has ever lived. The second is the same word, in the same sentence. Paul can narrow a paired "all," and when he does, he marks it: "all will be made alive in Christ. But each in his own order: Christ the first fruits, then at his coming those who belong to Christ" (1 Cor 15:22–23). Romans 5:18 has no such phrase. Its nearest limit, "those who receive the abundance of grace and the free gift of righteousness" (5:17), names who receive life. This verse supports the step. It does not carry it.
 
 The good news was also proclaimed before the cross to men who perished. "For indeed the good news came to us just as to them; but the message they heard did not benefit them" (Heb 4:2). "Them" is the generation "whose bodies fell in the wilderness" (3:17). Scripture "declared the gospel beforehand to Abraham" (Gal 3:8). This is corroboration.
 
-*The weak joint.* That the "all" of 1 Timothy 2:6 has the same undated domain as "humankind" in 2:5. The two words stand in one sentence, and step 17 argues that the paragraph has one domain. Romans 5:18 supports it. Its second "all" is contested between everyone the act was for and those who receive life.
-
-### What survives if a route falls
-
-If Route A falls, Route B still reaches the whole world, and the extent claim stands on it.
-
-If Route B falls, Route A still reaches every human being to whom the gospel may be preached. The thesis then narrows to that class.
-
-If both fall, the exclusion claim of part two still stands. Christ died for some who perish, and "only the elect" remains false.
+*The weak joint.* That the "all" of 1 Timothy 2:6 has the same undated domain as "humankind" in 2:5. The two words stand in one sentence, and step 12 argues that the paragraph has one domain. Romans 5:18 supports it. Its second "all" is contested between everyone the act was for and those who receive life.
 
 ---
 
@@ -440,9 +370,9 @@ The quotations from Owen, Berkhof, and Palmer below state the arguments under re
 
 Most of the bridge premises say that if Christ died for a man, the man is reconciled or saved. Before taking them up, here is what the texts say about how Christ's death and a man's reconciliation stand to each other. These are the positive warrant for the distinction this paper keeps. The criteria require the paper to show warrant for its own distinctions, and this section is where it does.
 
-*God reconciling the world, and men being reconciled, are two things in one sentence.* "In Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us. So we are ambassadors for Christ, since God is making his appeal through us; we entreat you on behalf of Christ, be reconciled to God" (2 Cor 5:19–20). If God's reconciling the world were the same as each man's being reconciled, the appeal of verse 20 would have nothing left to ask.
+*God reconciling the world, and men being reconciled, are two things in one sentence.* "In Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us. So we are ambassadors for Christ, since God is making his appeal through us; we entreat you on behalf of Christ, be reconciled to God" (2 Cor 5:19–20). Paul states God's act toward the world first and the appeal to be reconciled after it. He makes his appeals to the Corinthians as well (6:1), so the sequence alone does not show that the two differ in extent. That comes from 2 Peter 2:1 and 1 John 2:2.
 
-An objector will say that "not counting their trespasses" is justification, because Paul uses the same verb for it: "blessed is the one against whom the Lord will not reckon sin" (Rom 4:8), οὐ μὴ λογίσηται, *ou mē logisētai*, which Paul calls being reckoned righteous apart from works (4:6). Then the world of 2 Corinthians 5:19 would be the justified. The two sentences differ. Romans 4:8 states the blessing of the man whose sin is not reckoned. Second Corinthians 5:19 has a present participle, μὴ λογιζόμενος, *mē logizomenos*, inside the imperfect "was reconciling," ἦν… καταλλάσσων, *ēn… katallassōn*, and it describes God's act in Christ toward the world. The next verse still appeals to men to be reconciled. On the objector's reading, 5:20 appeals to the justified to be reconciled.
+An objector will say that "not counting their trespasses" is justification, because Paul uses the same verb for it: "blessed is the one against whom the Lord will not reckon sin" (Rom 4:8), οὐ μὴ λογίσηται, *ou mē logisētai*, which Paul calls being reckoned righteous apart from works (4:6). Then the world of 2 Corinthians 5:19 would be the justified. The two sentences differ in object. Romans 4:8 states the blessing of the man whose sin is not reckoned. Second Corinthians 5:19 states what God was doing in Christ toward the world.
 
 *Romans 5 puts the reconciling in the death, and says it of the justified.* "If while we were enemies, we were reconciled to God through the death of his Son, much more surely, having been reconciled, will we be saved by his life. But more than that, we even boast in God through our Lord Jesus Christ, through whom we have now received reconciliation" (Rom 5:10–11). Paul defines the "we" in the same paragraph: "since we are justified by faith" (5:1), and "now that we have been justified by his blood" (5:9). So the verse says that Christ's death reconciled the justified, and that they have received the reconciliation. It does not say the death reconciled everyone it was for. A statement of that form is the subject of step 2. Romans 5 does not by itself separate the death from the reconciliation. Second Corinthians 5:19–20 does.
 
@@ -462,7 +392,7 @@ So Scripture distinguishes Christ's death for a man from that man's being reconc
 
 ### Family A: the bridge premise
 
-**22. Owen's trilemma.**
+**17. Owen's trilemma.**
 
 *The argument.* John Owen, in *The Death of Death in the Death of Christ* (1647), Book I, chapter 3, states it so:
 
@@ -480,7 +410,7 @@ The options leave out a mixed case: Christ died for every sin except final unbel
 
 *Result.* Failure of the offered proof. Owen's three options are not exhaustive, and what gives the trilemma its force is the bridge premise.
 
-**23. Double payment.**
+**18. Double payment.**
 
 *The argument.* If Christ paid for a man's sins, God cannot justly punish the man for the same sins. Justice does not take payment twice. So everyone Christ died for escapes punishment, and since not all do, he did not die for all.
 
@@ -498,7 +428,7 @@ Reformed theology has drawn the same line. Charles Hodge separated a debt of mon
 
 *Result.* Failure of the offered proof. This is Owen's bridge premise in a different form, not an independent argument.
 
-**24. "If substitution, then all would be saved."**
+**19. "If substitution, then all would be saved."**
 
 *The argument.* Edwin Palmer states the conclusion directly: the Calvinist "says that if Christ actually took away the penalty of everybody's sins, then everybody is saved" (*The Five Points of Calvinism: A Study Guide*, pp. 49–50). Later in the chapter he gives it the form of a dilemma: "either the atonement is limited in its extent or it is limited in its nature or power." An atonement unlimited in power saves everyone it was made for, so, unless all are saved, it must be limited in extent.
 
@@ -510,7 +440,7 @@ The dilemma collapses the same two things. What makes a man's salvation certain 
 
 *Result.* Failure of the offered proof.
 
-**25. Wasted blood.**
+**20. Wasted blood.**
 
 *The argument.* Palmer again: "Christ not only shed his blood, he also spilled it. He intended to save all, but only some will be saved. Therefore, some of his blood was wasted: it was spilled" (pp. 49–50).
 
@@ -530,7 +460,7 @@ Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed 
 
 *Result.* Failure of the offered proof.
 
-**26. Purchase and ransom.**
+**21. Purchase and ransom.**
 
 *The argument.* A ransom liberates the ransomed. A purchase acquires the purchased. It does not merely make liberation or acquisition possible. So everyone Christ bought or ransomed is actually freed, and since not all are, he did not buy or ransom all (Mark 10:45; Acts 20:28; 1 Cor 6:20; Titus 2:14; Rev 5:9).
 
@@ -540,17 +470,17 @@ Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed 
 
 *Result.* Refuted, if step 7 stands. Part two shows the premise false.
 
-**27. Propitiation.**
+**22. Propitiation.**
 
 *The argument.* If Christ is the propitiation for a man's sins, God's wrath toward him is turned away. So God cannot remain wrathful toward anyone Christ propitiated for. Since God's wrath remains on unbelievers (John 3:36), Christ is not the propitiation for their sins.
 
 *What it needs.* That Christ's being the atoning sacrifice for a man's sins entails that God's wrath is removed from that man, whether or not he receives reconciliation.
 
-*The answer.* John says Christ is "the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world" (1 John 2:2). John also says "whoever disobeys the Son will not see life, but must endure God's wrath" (John 3:36). Both are John's. So in John's own writings the sacrifice is for the whole world and wrath remains on the one who disobeys. Paul joins the propitiation to faith in one phrase: God put Christ forward as a sacrifice of atonement "through faith" (διὰ πίστεως, *dia pisteōs*, Rom 3:25). The argument needs to make one of John's statements false.
+*The answer.* John says Christ is "the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world" (1 John 2:2). John also says "whoever disobeys the Son will not see life, but must endure God's wrath" (John 3:36). Joining the Gospel to the letter is canonical synthesis, since their common authorship is treated as disputed. So in the Johannine writings the sacrifice is for the whole world and wrath remains on the one who disobeys. Paul joins the propitiation to faith in one phrase: God put Christ forward as a sacrifice of atonement "through faith" (διὰ πίστεως, *dia pisteōs*, Rom 3:25). The argument needs to make one of John's statements false.
 
 *Result.* Failure of the offered proof.
 
-**28. Reconciliation.**
+**23. Reconciliation.**
 
 *The argument.* If Christ reconciled a man to God, the man cannot remain God's enemy. So Christ reconciled only the saved.
 
@@ -560,7 +490,7 @@ Narrowed to Christ's blood, the principle becomes "Christ's blood is never shed 
 
 *Result.* Failure of the offered proof.
 
-**29. Representation and union.**
+**24. Representation and union.**
 
 *The argument.* Christ died as the representative of those he died for. If he represented a man, the man died with him and is raised with him (Rom 6:3–8; Gal 2:20; Eph 2:5–6). Not everyone is raised with Christ, so he did not represent everyone.
 
@@ -576,7 +506,7 @@ The union reading also fails when it is held with the rest of Scripture. Taken a
 
 *Result.* Failure of the offered proof.
 
-**30. God's intention always succeeds.**
+**25. God's intention always succeeds.**
 
 *The argument.* God accomplishes everything he intends (Isa 46:10; 55:11). If Christ died for everyone, God intended to save everyone. Not everyone is saved. So Christ did not die for everyone.
 
@@ -606,7 +536,7 @@ The argument needs a determining purpose to save everyone the death was for. The
 
 *Result.* Failure of the offered proof.
 
-**31. "It is finished."**
+**26. "It is finished."**
 
 *The argument.* Christ said "It is finished" (John 19:30). The atonement is complete, not a possibility awaiting completion. So it saves all it was made for.
 
@@ -616,7 +546,7 @@ The argument needs a determining purpose to save everyone the death was for. The
 
 *Result.* Failure of the offered proof.
 
-**32. Christ purchased faith.**
+**27. Christ purchased faith.**
 
 *The argument.* Faith is God's gift (Eph 2:8; Phil 1:29). Every saving gift comes to the elect through Christ's death. So Christ's death purchased faith for those he died for. So everyone he died for receives faith. Not all do, so he did not die for all.
 
@@ -626,7 +556,7 @@ The argument needs a determining purpose to save everyone the death was for. The
 
 *Result.* Failure of the offered proof.
 
-**33. The blood of the new covenant.**
+**28. The blood of the new covenant.**
 
 *The argument.* Christ's blood is "my blood of the covenant, which is poured out for many for the forgiveness of sins" (Matt 26:28). The new covenant is made with God's people. Its blood establishes it. So Christ's blood was shed only for those in the covenant, who are the elect.
 
@@ -636,7 +566,7 @@ The argument needs a determining purpose to save everyone the death was for. The
 
 *Result.* Failure of the offered proof. The argument assumes its conclusion.
 
-**34. The five points stand or fall together.**
+**29. The five points stand or fall together.**
 
 *The argument.* Total depravity, unconditional election, limited atonement, irresistible grace, and perseverance form one system. Without limited atonement the others lose their ground. If Christ died for all, election has no point, grace has no reason to be particular, and the saints' perseverance has no anchor.
 
@@ -650,7 +580,7 @@ The argument needs a determining purpose to save everyone the death was for. The
 
 Each argument here reads *only* into a text that says *for*. No text in this family marks the exclusion. The *only* comes from one of the two assumptions of step 3: if whoever Christ died for is saved, a statement that he died for the saved must be read as saying he died for them alone.
 
-**35. "I lay down my life for the sheep."**
+**30. "I lay down my life for the sheep."**
 
 *The argument.* "I am the good shepherd. The good shepherd lays down his life for the sheep" (John 10:11; also 10:15). And Jesus tells some of his hearers, "you do not believe, because you do not belong to my sheep" (10:26). John distinguishes the sheep from those who are not. Christ dies for the sheep. So he does not die for those who are not sheep.
 
@@ -660,7 +590,7 @@ Each argument here reads *only* into a text that says *for*. No text in this fam
 
 *Result.* Failure of the offered proof.
 
-**36. "Christ loved the church and gave himself up for her."**
+**31. "Christ loved the church and gave himself up for her."**
 
 *The argument.* "Husbands, love your wives, just as Christ loved the church and gave himself up for her" (Eph 5:25). A husband's self-giving for his bride is for her alone. So Christ gave himself for the church in a way he did not give himself for the world. And the giving has a stated purpose: "in order to make her holy by cleansing her with the washing of water by the word, so as to present the church to himself in splendor, without a spot or wrinkle or anything of the kind" (5:26–27). So those Christ died for, he makes holy.
 
@@ -668,11 +598,11 @@ Each argument here reads *only* into a text that says *for*. No text in this fam
 
 *The answer.* The text puts the church among those Christ gave himself for. It does not say that no one else is among them. And Paul is answering how husbands should love their wives, not for whom Christ died. Christ's love for the church is a bridegroom's love for his bride, and it is untouched if his death has a wider object.
 
-The purpose of 5:26–27 is a determining purpose stated of the church (step 30). It succeeds for the church. It is not stated of everyone the death was for.
+The purpose of 5:26–27 is a determining purpose stated of the church (step 25). It succeeds for the church. It is not stated of everyone the death was for.
 
 *Result.* Failure of the offered proof.
 
-**37. "He will save his people from their sins."**
+**32. "He will save his people from their sins."**
 
 *The argument.* "You are to name him Jesus, for he will save his people from their sins" (Matt 1:21). His death is for his people.
 
@@ -682,7 +612,7 @@ The purpose of 5:26–27 is a determining purpose stated of the church (step 30)
 
 *Result.* Failure of the offered proof.
 
-**38. "Who will bring any charge against God's elect?"**
+**33. "Who will bring any charge against God's elect?"**
 
 *The argument.* This is the strongest text for limited atonement. "He who did not withhold his own Son, but gave him up for all of us, will he not with him also give us everything else? Who will bring any charge against God's elect? It is God who justifies. Who is to condemn? It is Christ Jesus, who died, yes, who was raised, who is at the right hand of God, who indeed intercedes for us" (Rom 8:32–34). The "us" for whom God gave up his Son are God's elect. And Paul argues from the giving to "everything else": the one who gave the greater gift will give the lesser. So the argument says the rule is general. Whoever the Son was given up for receives everything else. Not everyone does, so the Son was not given up for everyone.
 
@@ -694,7 +624,7 @@ Read by itself, the sentence supports the rule. "God Brings Every Heir to Faith 
 
 Held with the rest of Scripture, the rule is not available, for two reasons.
 
-The first is what the argument from the greater to the lesser needs. It goes through only where the giving had the purpose of saving the one it was for. Then the one who did not spare his own Son will not withhold the rest. Paul names that purpose for his "us": they are "called according to his purpose" (8:28). The rule needs the purpose assumption of step 3, that the death has the purpose of saving everyone it was for and that purpose does not fail. Step 30 answers it.
+The first is what the argument from the greater to the lesser needs. It goes through only where the giving had the purpose of saving the one it was for. Then the one who did not spare his own Son will not withhold the rest. Paul names that purpose for his "us": they are "called according to his purpose" (8:28). The rule needs the purpose assumption of step 3, that the death has the purpose of saving everyone it was for and that purpose does not fail. Step 25 answers it.
 
 The second is what Scripture states elsewhere. Peter says the Master bought men who bring swift destruction on themselves (2 Pet 2:1). John says Christ is the atoning sacrifice for the sins of the whole world (1 John 2:2), where the whole world is everyone outside the believing company (1 John 5:19). If everyone Christ died for received everything else, those men and that world would be saved. A reading of one text that contradicts warranted readings of others is not available (corpus.md, method assumption 1).
 
@@ -702,7 +632,7 @@ The two readings can be weighed. On the reading taken here, Romans 8:32 is a sta
 
 *Result.* Failure of the offered proof. This is the place where the weights are closest.
 
-**39. "I am not asking on behalf of the world."**
+**34. "I am not asking on behalf of the world."**
 
 *The argument.* "I am asking on their behalf; I am not asking on behalf of the world, but on behalf of those whom you gave me" (John 17:9). Christ's sacrifice and his intercession are two parts of one priestly work, so they have the same objects. He does not intercede for the world, so he did not die for the world. Hebrews joins the two: "he always lives to make intercession for them" (Heb 7:25), and Romans 8:34 sets intercession beside Christ's death.
 
@@ -712,7 +642,7 @@ The two readings can be weighed. On the reading taken here, Romans 8:32 is a sta
 
 *Result.* Failure of the offered proof.
 
-**40. Isaiah 53.**
+**35. Isaiah 53.**
 
 *The argument.* "The righteous one, my servant, shall make many righteous, and he shall bear their iniquities" (Isa 53:11). The Servant bears the iniquities of those he makes righteous. So sin-bearing and justification have the same objects, and not all are made righteous.
 
@@ -722,19 +652,19 @@ The two readings can be weighed. On the reading taken here, Romans 8:32 is a sta
 
 *Result.* Failure of the offered proof.
 
-**41. "To gather into one the dispersed children of God."**
+**36. "To gather into one the dispersed children of God."**
 
 *The argument.* Christ died "to gather into one the dispersed children of God" (John 11:52). His death does not merely permit the gathering. It accomplishes it.
 
 *What it needs.* That a purpose of gathering the children excludes any other object of the death.
 
-*The answer.* The sentence names two objects. Jesus would die "for the nation, and not for the nation only, but to gather into one the dispersed children of God." The nation is the Jewish people as a whole (step 9). So the verse that names the gathering of the children also names a wider object of the same death. The gathering is a determining purpose stated of the children (step 30).
+*The answer.* The sentence names two objects. Jesus would die "for the nation, and not for the nation only, but to gather into one the dispersed children of God." The nation is the Jewish people as a whole (step 9). So the verse that names the gathering of the children also names a wider object of the same death. The gathering is a determining purpose stated of the children (step 25).
 
 *Result.* Failure of the offered proof.
 
 ### Family C: arguments from the system
 
-**42. The harmony of the Trinity.**
+**37. The harmony of the Trinity.**
 
 *The argument.* The Father chose a definite people. The Son died to accomplish the Father's will for those the Father gave him (John 6:37–39). The Spirit applies redemption to the same people. The persons of the Trinity do not have conflicting purposes. So the Son did not die for a wider class than the Father chose and the Spirit regenerates.
 
@@ -742,7 +672,7 @@ A form of the argument runs through love. God does not love everyone with the sa
 
 *What it needs.* That harmony of purpose requires every saving act of the three persons to have the same objects. In the form from love, that the death comes only from God's love for his own.
 
-*The answer.* Harmony requires purposes that do not conflict. It does not require that every act have the same extent. John 17:2 gives two of the Son's relations two extents in one sentence: authority over all people, eternal life to the given. "All people" is πάσης σαρκός, *pasēs sarkos*, "all flesh," the Old Testament's phrase for humankind (Gen 6:12; Isa 40:5). The sentence names the given separately, so "all flesh" cannot be narrowed to them without making the verse say that the Son has authority over the given to give life to the given. The Father's choosing and the Son's keeping of the given are determining purposes toward the heirs. The sending of the Son also carries a desiring purpose toward the world (John 3:17; step 30). The two do not conflict, because the first does not deny the second.
+*The answer.* Harmony requires purposes that do not conflict. It does not require that every act have the same extent. John 17:2 gives two of the Son's relations two extents in one sentence: authority over all people, eternal life to the given. "All people" is πάσης σαρκός, *pasēs sarkos*, "all flesh," the Old Testament's phrase for humankind (Gen 6:12; Isa 40:5). The sentence names the given separately, so "all flesh" cannot be narrowed to them without making the verse say that the Son has authority over the given to give life to the given. The Father's choosing and the Son's keeping of the given are determining purposes toward the heirs. The sending of the Son also carries a desiring purpose toward the world (John 3:17; step 25). The two do not conflict, because the first does not deny the second.
 
 Scripture speaks of God's love in two senses. One is kindness toward the wicked, which Jesus makes the pattern for loving enemies: "Love your enemies and pray for those who persecute you, so that you may be children of your Father in heaven; for he makes his sun rise on the evil and on the good" (Matt 5:44–45). "He is kind to the ungrateful and the wicked" (Luke 6:35). The other is covenant love, tied to an oath: "It was because the LORD loved you and kept the oath that he swore to your ancestors... the faithful God who maintains covenant loyalty with those who love him" (Deut 7:8–9).
 
@@ -750,13 +680,13 @@ Christ's love for the church is the covenant kind, a bridegroom's love for his b
 
 *Result.* Failure of the offered proof.
 
-**43. The covenant of redemption.**
+**38. The covenant of redemption.**
 
 *The argument.* Before creation the Father gave the Son a definite people to redeem. "All that the Father gives me will come to me" (John 6:37). "To give eternal life to all whom you have given him" (17:2). So the Son's death is for those given.
 
 *What it needs.* That the given are the only objects of the death.
 
-*The answer.* The texts cited say the given will come and will receive eternal life. They state the outcome for the given, which this paper agrees is certain. That outcome is a determining purpose stated of the given (step 30). They do not say the Son died for no others. John 17:2, which is cited for the argument, names "all people" in the same breath as a wider class over which the Son has been given authority.
+*The answer.* The texts cited say the given will come and will receive eternal life. They state the outcome for the given, which this paper agrees is certain. That outcome is a determining purpose stated of the given (step 25). They do not say the Son died for no others. John 17:2, which is cited for the argument, names "all people" in the same breath as a wider class over which the Son has been given authority.
 
 The discourse these texts come from does speak of the death, and it names a wider object. Verses 37–40 do not mention the death. Verse 38 gives the purpose of his coming down from heaven. The death comes at 6:51: "the bread that I will give for the life of the world is my flesh." The preposition is ὑπέρ, *hyper*, as when the good shepherd "lays down his life for the sheep" (10:11), and the discourse goes on to the eating of his flesh and the drinking of his blood (6:53–56).
 
@@ -764,7 +694,7 @@ The same verse says who may eat that bread: "whoever eats of this bread will liv
 
 *Result.* Failure of the offered proof.
 
-**44. The high priest and the Day of Atonement.**
+**39. The high priest and the Day of Atonement.**
 
 *The argument.* The high priest offered sacrifice for the covenant people whose names he bore. Christ fulfills that office. So his sacrifice is for his covenant people, who are the elect.
 
@@ -774,11 +704,11 @@ The same verse says who may eat that bread: "whoever eats of this bread will liv
 
 Hebrews carries the pattern into the new covenant itself. It warns its readers by that generation (3:12–4:2), and it speaks of a man who profaned the covenant blood of Christ (10:29). To make the antitype's boundary the elect, the argument has to change the boundary it carries over.
 
-The defender can answer that the old sacrifices never took away sins (Heb 10:4), so the type cannot show that atonement made for a people may fail to save some of them. Grant it. Then the type cannot supply the defender's boundary either, since his argument is also drawn from the type. The pattern Hebrews itself carries into the new covenant is the one stated above.
+The defender can answer that the old sacrifices never took away sins (Heb 10:4), so the type cannot show that atonement made for a people may fail to save some of them. Grant it. Then the type shows nothing about the antitype's boundary either way, and the defender's argument needs it to show an elect-only boundary. The pattern Hebrews itself carries into the new covenant is the one stated above.
 
 *Result.* Failure of the offered proof.
 
-**45. The order of salvation.**
+**40. The order of salvation.**
 
 *The argument.* "Those whom he foreknew he also predestined... And those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified" (Rom 8:29–30). Election stands first in the order, and the atonement serves it. So the atonement is for those elected.
 
@@ -790,9 +720,9 @@ The defender can answer that the old sacrifices never took away sins (Heb 10:4),
 
 ### Family D: arguments from words
 
-Step 46 is an argument for limited atonement: it reads an exclusion out of the word "many." Step 47 is not. It is a reply to the texts of Route B, and the bridge claim does not cover it.
+Step 41 is an argument for limited atonement: it reads an exclusion out of the word "many." Step 42 is not. It is a reply to the texts of part three, and the bridge claim does not cover it.
 
-**46. "Many."**
+**41. "Many."**
 
 *The argument.* Christ gave his life "a ransom for many" (Mark 10:45). He was "offered once to bear the sins of many" (Heb 9:28). The Servant "bore the sin of many" (Isa 53:12). "Many" is fewer than all.
 
@@ -802,13 +732,13 @@ Step 46 is an argument for limited atonement: it reads an exclusion out of the w
 
 *Result.* Failure of the offered proof.
 
-**47. "All kinds" and "the world of the elect."**
+**42. "All kinds" and "the world of the elect."**
 
 *The argument.* "All" can mean all kinds of people, and "the world" can mean the elect in every nation. Augustine read 1 Timothy 2:4 that way (*Enchiridion* 103). So the universal texts do not reach every individual.
 
 *What it needs.* That the restricted sense is the sense in the texts at issue.
 
-*The answer.* Grant that the words can be restricted. That establishes only that a restriction is possible. Route B does not rest on the words alone. It rests on the markers that fix their domain: the contrast "not ours only" and the parallel at 1 John 5:19 (step 16), the one domain of 1 Timothy 2:1–6 (step 17), and the "especially" of 1 Timothy 4:10 (step 18). The restriction has to be located in those texts, against those markers.
+*The answer.* Grant that the words can be restricted. That establishes only that a restriction is possible. Part three does not rest on the words alone. It rests on the markers that fix their domain: the contrast "not ours only" and the parallel at 1 John 5:19 (step 11), the one domain of 1 Timothy 2:1–6 (step 12), and the "especially" of 1 Timothy 4:10 (step 13). The restriction has to be located in those texts, against those markers.
 
 *Result.* Failure of the offered proof.
 
@@ -816,9 +746,9 @@ Step 46 is an argument for limited atonement: it reads an exclusion out of the w
 
 ## Part five: what limited atonement can tell an unbeliever
 
-Route A said that the gospel proclaims to every hearer something about Christ's death that concerns him, and commands a faith that receives Christ as the one who gave himself for the believer. Its weak joints were two replies: that the proclamation is only a conditional promise, and that "for me" is reached only after believing. Both leave open what the unbeliever is commanded to believe about Christ's death. This part takes up that question and every answer limited atonement can give it.
+This part asks what the unbeliever is commanded to believe about Christ's death, and takes up every answer limited atonement can give.
 
-**48. The question and its tests.**
+**43. The question and its tests.**
 
 The question is not whether limited atonement can offer Christ sincerely to everyone. Its defenders answer that it can: command everyone to repent and believe, and promise salvation to everyone who does. Grant that.
 
@@ -826,11 +756,11 @@ The question is what the unbeliever is commanded to believe about Christ's death
 
 The second test matters because a proposition can be about Christ's death without being about the hearer. A man can believe "Christ died for sinners" as he believes a fact of history. It asks nothing of him and tells him nothing about himself.
 
-**49. "Christ died for sinners," or "Christ died for the elect."**
+**44. "Christ died for sinners," or "Christ died for the elect."**
 
 This passes the first test. On limited atonement it fails the second. "Sinners" there means elect sinners, so the proposition is about other people. The hearer can believe it and say, "Good for them."
 
-**50. "Christ died for sinners like you."**
+**45. "Christ died for sinners like you."**
 
 The phrase "like you" can mean two things.
 
@@ -840,7 +770,7 @@ If it means "of your kind," it is a claim about resemblance. On limited atonemen
 
 So "sinners like you" does the work of "for you" without saying it. It is not a third answer.
 
-**51. "Christ's death is sufficient for all."**
+**46. "Christ's death is sufficient for all."**
 
 This is the confessional answer: the death is "of infinite worth and value, abundantly sufficient to expiate the sins of the whole world" (Canons of Dort, II.3).
 
@@ -850,33 +780,33 @@ If he says yes, he holds the extent claim and has declined only its name.
 
 If he says no, then "sufficient" means sufficient in value: the death would be enough if it were for the hearer. The hearer is asked to believe something about the death's worth. He is not told that it bears on him. So the answer passes the first test and fails the second.
 
-**52. "If you believe, you will be saved."**
+**47. "If you believe, you will be saved."**
 
-This is the strongest answer, because the preacher can say it to anyone without saying anything false. It is the reply Route A named at the weak joint of its first line.
+This is the strongest answer, because the preacher can say it to anyone without saying anything false.
 
 But the sentence does not say what to believe. It is a promise about what follows believing, and the word "believe" in it has no content attached. So it does not answer the question. It assumes an answer is available elsewhere.
 
 When the defender supplies that content, he has only the candidates already tested: that Christ died for the elect, which is about other people; that the death is sufficient, which is about its worth; or "trust Christ," and the promise with its content supplied, which are the next two answers.
 
-**53. "Trust Christ."**
+**48. "Trust Christ."**
 
 Trust in a person has content. A man trusts someone to do something, or because of something done. "Trust Christ" invites the question: to do what? If the answer is "to forgive your sins through his death," the preacher has said that Christ's death concerns the hearer, which limited atonement holds he cannot say. If the answer is anything less, it is one of the candidates already tested.
 
-**54. "If you trust Christ for forgiveness, your own sins will be forgiven through his death."**
+**49. "If you trust Christ for forgiveness, your own sins will be forgiven through his death."**
 
-This is the promise of step 52 with its content supplied. On limited atonement it is true of every hearer, because everyone who trusts is someone Christ died for. It concerns the hearer's own sins.
+This is the promise of step 47 with its content supplied. On limited atonement it is true of every hearer, because everyone who trusts is someone Christ died for. It concerns the hearer's own sins.
 
 The hearer can ask, "Why will that hold for me?" The question can mean two things.
 
 It can mean, "How do I know the promise is true?" God's testimony answers that: "everyone who believes in him receives forgiveness of sins through his name" (Acts 10:43). This paper grants that the hearer can know the promise that way, before he knows anything about his election.
 
-Or it can mean, "What about Christ's death bears on my sins?" That is the question the gospel answers, and the testimony to the promise does not answer it. Limited atonement has two answers. The first is "Because Christ died for your sins," which it holds the preacher cannot say. The second is "Because Christ died for everyone who will trust, and if you trust, you will turn out to be one of them." That is true. But it grounds the hearer's trust in his own election. It explains a believer's forgiveness after he believes. It does not give the hearer a ground for beginning to believe.
+Or it can mean, "What about Christ's death bears on my sins?" That is the question the gospel answers, and the testimony to the promise does not answer it. Limited atonement has two answers. The first is "Because Christ died for your sins," which it holds the preacher cannot say. The second is "Because Christ died for everyone who will trust, and if you trust, you will turn out to be one of them." That is true. But it grounds the hearer's trust in his own election. It explains a believer's forgiveness after he believes. It does not tell the hearer, before he believes, what Christ's death has done about his sins.
 
 Scripture puts election on the other side of faith. Paul knows the Thessalonians are chosen "because our message of the gospel came to you not in word only, but also in power and in the Holy Spirit and with full conviction" (1 Thess 1:4–5). Peter tells believers to "be all the more eager to confirm your call and election" (2 Pet 1:10). Election is known from faith. It is not given as a ground for faith.
 
-So the promise passes the first two tests and fails the third. The only reason limited atonement can give the hearer is one he cannot know before he believes. And the answer moves election out of the explanation of who comes to faith and into the message the hearer is given. The apostles gave the ground first, "that Christ died for our sins" (1 Cor 15:3), and the promise after it. Limited atonement keeps the promise and loses the ground.
+So the promise passes the first two tests and fails the third. The only fact about Christ's death and his sins that limited atonement can give the hearer is one he cannot know before he believes. And the answer moves election out of the explanation of who comes to faith and into the message the hearer is given. The apostles gave the ground first, "that Christ died for our sins" (1 Cor 15:3), and the promise after it. Limited atonement keeps the promise and loses that fact.
 
-**55. "Through his death and resurrection, Jesus is Lord over you."**
+**50. "Through his death and resurrection, Jesus is Lord over you."**
 
 This is true, and it concerns the hearer. "For to this end Christ died and lived again, so that he might be Lord of both the dead and the living" (Rom 14:9). And saving faith confesses it: "if you confess with your lips that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved" (Rom 10:9).
 
@@ -884,11 +814,11 @@ But it says what Christ's death and rising were for: his rule over the dead and 
 
 It is also true of those Christ did not die for. Every knee bends to him, "in heaven and on earth and under the earth," and every tongue confesses "that Jesus Christ is Lord" (Phil 2:10–11). The demons know who he is (Mark 1:24), and "it is clear that he did not come to help angels" (Heb 2:16). A proposition that is true of those he did not die for tells the hearer nothing about his own sins.
 
-Saving faith confesses Christ as Lord. It also receives him as the one who gave himself for the believer (step 13). Lordship is part of what faith confesses. It is not an answer to what the unbeliever is told about Christ's death for his sins.
+Saving faith confesses Christ as Lord. Lordship is part of what faith confesses. It is not an answer to what the unbeliever is told about Christ's death for his sins.
 
-A defender can press Romans 10:9 further: there the content of saving faith is "Jesus is Lord" and "God raised him from the dead," with no "for me." The hearer can then ask the question of step 54: why will believing that he was raised save me? Paul answers it. Righteousness "will be reckoned to us who believe in him who raised Jesus our Lord from the dead, who was handed over to death for our trespasses and was raised for our justification" (Rom 4:24–25). The "us" is those who believe. What they believe includes the death "for our trespasses." The resurrection saves because of the death it follows, and the death is "for our trespasses." So Romans 10:9 does not supply a content that leaves out what the death has done about the hearer's sins. It assumes it.
+A defender can press Romans 10:9 further: there the content of saving faith is "Jesus is Lord" and "God raised him from the dead," with no "for me." The hearer can then ask the question of step 49: why will believing that he was raised save me? Paul answers it. Righteousness "will be reckoned to us who believe in him who raised Jesus our Lord from the dead, who was handed over to death for our trespasses and was raised for our justification" (Rom 4:24–25). The "us" is those who believe. What they believe includes the death "for our trespasses." The resurrection saves because of the death it follows, and the death is "for our trespasses." So Romans 10:9 does not supply a content that leaves out what the death has done about the hearer's sins. It assumes it.
 
-**56. The question that ends the round.**
+**51. The question that ends the round.**
 
 Each candidate either names other people, says nothing about the hearer's sins, rests on the hearer's own election, or brings back "for you" in other words. The round can be ended by a question with a yes-or-no answer:
 
@@ -898,17 +828,17 @@ If the defender says yes, he has given up limited atonement.
 
 If he says no, then what he commands the hearer to believe does not tell the hearer what Christ's death does about his own sins.
 
-**57. The apostles said it.**
+**52. The apostles said it.**
 
 Paul said to an assembly at Pisidian Antioch, "through this man forgiveness of sins is proclaimed to you" (Acts 13:38). Some of those hearers rejected it (13:46). Paul proclaimed at Corinth, before any believed, "that Christ died for our sins" (1 Cor 15:3). And he names the order: "so we proclaim and so you have come to believe" (15:11).
 
 Two objections meet this.
 
-The first is that the "our" of 1 Corinthians 15:3 is the believers' "our." Paul writes that way to believers elsewhere: righteousness "will be reckoned to us who believe in him who raised Jesus our Lord from the dead, who was handed over to death for our trespasses" (Rom 4:24–25); Christ "gave himself for our sins" (Gal 1:4). But 1 Corinthians 15 says when this content was given: "the good news that I proclaimed to you, which you in turn received" (15:1), and "so we proclaim and so you have come to believe" (15:11). The content came first and the believing after it. A reading that makes the "our" the company of believers has to say whose sins the Corinthians were told about before they were in that company, and the text does not mark it.
+The first is that the "our" of 1 Corinthians 15:3 is the believers' "our." Paul writes that way to believers elsewhere: righteousness "will be reckoned to us who believe in him who raised Jesus our Lord from the dead, who was handed over to death for our trespasses" (Rom 4:24–25); Christ "gave himself for our sins" (Gal 1:4). But 1 Corinthians 15 says when this content was given: "the good news that I proclaimed to you, which you in turn received" (15:1), and "so we proclaim and so you have come to believe" (15:11). The content came first and the believing after it. Whether the "our" of the formula Paul hands on includes every original hearer is disputed, and the claim here does not rest on it.
 
 The second is that no sermon in Acts says to unbelievers, "Christ died for you." That is an absence, and an absence does not establish a reading. What the sermons do say concerns the hearers. "When God raised up his servant, he sent him first to you, to bless you by turning each of you from your wicked ways" (Acts 3:26). "Through this man forgiveness of sins is proclaimed to you" (13:38). Neither narrows its "you" to those who will believe.
 
-Paul also states what the apostolic message contains, without the first person. God "has given us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us" (2 Cor 5:18–19). The message says what God in Christ did about the world's trespasses. The appeal comes after it: "we entreat you on behalf of Christ, be reconciled to God" (5:20). The Greek has no "you" there: δεόμεθα ὑπὲρ Χριστοῦ, καταλλάγητε τῷ θεῷ, *deometha hyper Christou, katallagēte tō theō*. So the ambassadors' message tells whoever hears it what God did about his trespasses, and then asks him to be reconciled. That does not turn on whose sins "our" names in 1 Corinthians 15:3.
+Paul also states what the apostolic message contains, without the first person. God "has given us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us" (2 Cor 5:18–19). The message says what God in Christ did about the world's trespasses, and the risen Christ sends it "to all nations" (Luke 24:47). Read with 1 John 2:2, where "the whole world" is everyone outside the believing company (step 11), it tells each hearer what God did about his trespasses. That does not turn on whose sins "our" names in 1 Corinthians 15:3.
 
 So the proclamation the apostles made tells each hearer something about what Christ's death does about his sins. Limited atonement has no proposition of that kind to give every hearer. The apostles' gospel is in the indicative: Christ died for our sins. Limited atonement puts it in the conditional: if you believe, you will be forgiven. That is the proclamation claim.
 
@@ -932,7 +862,7 @@ No. Christ's death for a man is not the man's being reconciled (part four, the s
 
 **"Then Christ's death failed for the lost."**
 
-Not in what God determined. What God determines comes to pass (step 30). Toward the world the death carries God's desire that men be saved (John 3:17; 1 Tim 2:4). Men refuse that desire, as they refuse other desires of God (Ezek 33:11; Luke 7:30). A refused desire is not a determining purpose that failed.
+Not in what God determined. What God determines comes to pass (step 25). Toward the world the death carries God's desire that men be saved (John 3:17; 1 Tim 2:4). Men refuse that desire, as they refuse other desires of God (Ezek 33:11; Luke 7:30). A refused desire is not a determining purpose that failed.
 
 **"The gospel was sent only to Israel."**
 
@@ -956,43 +886,35 @@ Paul calls a brother who may be destroyed "one for whom Christ died" (Rom 14:15;
 
 **Step 2** — that statements of the form "Christ died for the S" cannot establish limited atonement. This is a point of logic. It holds whatever readings those texts are given.
 
-**Step 3** — that every argument for limited atonement needs an exclusion premise or a bridge premise. The two kinds are drawn from the arguments taken up in part four, and the bridge claim is stated over those arguments. The two assumptions explain most of the premises, not all of them. Steps 44 and 46 rest on others.
+**Step 3** — that every argument for limited atonement needs an exclusion premise or a bridge premise. The two kinds are drawn from the arguments taken up in part four, and the bridge claim is stated over those arguments. The two assumptions explain most of the premises, not all of them. Steps 39 and 41 rest on others.
 
 **Step 6** — that the Master of 2 Peter 2:1 is Christ. This is canonical synthesis with Jude 4, marked by the shared verb, the shared noun, and the parallel structure of the two letters. The rival reading has the noun's range on its side and no marker in the passage. The exclusion claim needs this identity.
 
 **Step 7** — that "bought" is Christ's purchase by his death. This is canonical synthesis with Revelation 5:9 and 1 Corinthians 6:20. Peter does not name the price. The three rejoinders each need a distinction the passage does not mark. The exodus reading, carried to the churches as it must be, ends at the price Peter names in his first letter (1 Pet 1:18–19), and the reading "Jesus" at Jude 5 does not change that. Galatians 3:13 and Titus 2:14 show that Christ's buying is done by his dying for those he buys, which is why *bought* is read as *died for*. This step carries the exclusion claim, and it is the place to attack it.
 
-**Step 8** — the reading of Hebrews 10:29, shared with "God Brings Every Heir to Faith and Loses None of Them," where a reading on which the man was justified and finally lost is shown not to be available. Corroboration only.
+**Step 8** — the reading of Hebrews 10:29, shared with "God Brings Every Heir to Faith and Loses None of Them," where the comparison favors the reading on which he was not justified. Corroboration only.
 
 **Step 9** — that "the nation" at John 11:51 is the Jewish people as a whole, on the council's and Caiaphas's use of the same noun at 11:48 and 11:50. Corroboration only.
 
-**Step 11** — that the commission excludes no one from the gospel's hearers. Luke 24:47 and Matthew 28:19 are direct. Acts 17:30 is direct for the command.
+**Step 11** — the domain of "the whole world" at 1 John 2:2. The contrast is direct. The parallel at 5:19 is same-letter usage. The shared construction at John 11:51–52 is answered there: the construction adds a class, and the noun names it. This is part three's weak joint.
 
-**Step 12** — that what is proclaimed to the hearer concerns the hearer. Acts 13:38 is direct, and the mixed audience is reported at 13:45–46. That 1 Corinthians 15:3's "our" was in the proclamation before it was received is an inference from 15:1–3. This is the weak joint of Route A's first line. Part five argues it from the other side.
+**Step 12** — that 1 Timothy 2:1–6 has one domain for "all," and that the domain is humankind. It rests on the repeated phrase, the relative clause of 2:4, the γάρ, *gar*, of 2:5, and the "humankind" of 2:5 in the same sentence as the ransom. A reader who partitions it has to locate the partition.
 
-**Step 13** — that the faith commanded of every hearer receives Christ as the one who gave himself for the believer. Galatians 2:20 is direct for Paul. That it describes the faith by which anyone is justified rests on 2:16, in the same passage. That the giving came before the believing rests on the history: the cross came before Paul's faith. This is the weak joint of Route A's second line. Part five argues it from the other side.
+**Step 13** — the force of μάλιστα, *malista*, at 1 Timothy 4:10. Corroboration, since the verse names God as Savior rather than Christ's death, and the sense of "Savior" there is contested.
 
-**Step 15** — two lines. The first: a message from God proclaiming forgiveness through Christ's death to a man cannot be true if Christ did not die for him; this joins step 12 to step 14. The second: God does not command a man to believe that Christ gave himself for him if Christ did not; this joins steps 11 and 13 to step 14. Either line is enough. Its scope is every lawful hearer.
+**Step 16** — that the extent reaches those who died before the cross. The carrier is 1 Timothy 2:5–6: the ransom's "all" stands in one sentence with "humankind," the class of the one mediator, and Acts 4:12 defines the one saving name over the same class with no limit of date. Hebrews 9:15 and Romans 3:25 are direct for the reach in time and do not by themselves say for whom. Romans 5:18 supports the step. Hebrews 4:2 and Galatians 3:8 are corroboration.
 
-**Step 16** — the domain of "the whole world" at 1 John 2:2. The contrast is direct. The parallel at 5:19 is same-letter usage. The shared construction at John 11:51–52 is answered there: the construction adds a class, and the noun names it. This is Route B's weak joint.
+**Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction. It is warranted by 2 Peter 2:1 and 1 John 2:2, which put men Christ died for among the lost. Second Corinthians 5:19–20 states God's act toward the world and the appeal to be reconciled, and does not by itself show that they differ in extent. Romans 5:10–11 puts the reconciling in the death and says it of the justified (5:1, 9). Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 are support.
 
-**Step 17** — that 1 Timothy 2:1–6 has one domain for "all," and that the domain is humankind. It rests on the repeated phrase, the relative clause of 2:4, the γάρ, *gar*, of 2:5, and the "humankind" of 2:5 in the same sentence as the ransom. A reader who partitions it has to locate the partition.
+**Step 24** — that 2 Corinthians 5:14 does not state the bridge premise. "All have died" has no σύν, *syn*, with, where Paul's statements of union have it, and the paper reads it as the death of the one counted as the death of all. That is evidence, not proof. What carries the step is that the union reading, taken as a rule, makes everyone Christ died for united to him, and with 1 John 2:2 and 2 Peter 2:1 that contradicts John 5:28–29.
 
-**Step 18** — the force of μάλιστα, *malista*, at 1 Timothy 4:10. Corroboration, since the verse names God as Savior rather than Christ's death, and the sense of "Savior" there is contested.
+**Step 25** — that Scripture speaks of God's purpose in two ways: what God ordains, which always comes to pass, and what God desires and commands, which men can refuse. This is the paper's own distinction. It is warranted by Luke's use of βουλή, *boulē*, for both (Acts 2:23; 4:28; Luke 7:30), by Lamentations 3:32–33 with 3:37–38, by Ezekiel 33:11, and by 1 Timothy 2:4. The step then sorts the saving purposes Scripture attaches to the death and the mission. Every determining saving purpose is stated of a company. Every saving purpose stated of the world has a divided outcome reported in its context. The weak joint is the second group: an objector can read the world of John 3:17 as the elect, and step 11 answers that reading from John's usage. Second Corinthians 5:15 is support only.
 
-**Step 21** — that the extent reaches those who died before the cross. The carrier is 1 Timothy 2:5–6: the ransom's "all" stands in one sentence with "humankind," the class of the one mediator, and Acts 4:12 defines the one saving name over the same class with no limit of date. Hebrews 9:15 and Romans 3:25 are direct for the reach in time and do not by themselves say for whom. Romans 5:18 supports the step. Hebrews 4:2 and Galatians 3:8 are corroboration.
+**Step 33** — Romans 8:32. Read alone, the sentence supports a rule, since its stated ground is the giving up of the Son. The rule needs the purpose assumption that step 25 answers, and held with 2 Peter 2:1 and 1 John 2:2 it is not available. This is where the weights are closest.
 
-**Part four, the distinctions** — that Scripture distinguishes Christ's death for men from their being reconciled. This is the paper's own distinction. It is warranted by 2 Corinthians 5:19–20, where Romans 4:8 is answered, Romans 5:10–11 puts the reconciling in the death and says it of the justified (5:1, 9). It does not show two acts, and the distinction does not rest on it. Romans 3:25, 1 Corinthians 1:18, Numbers 14:20–23, and Matthew 18 are support.
+**Step 38** — that "my flesh," given "for the life of the world" (John 6:51), is the death. This rests on the preposition ὑπέρ, *hyper*, as at 10:11, and on the flesh-and-blood language of 6:53–56. The step does not show that "world" there means everyone. It shows that the flesh so given is set before hearers who refuse it (6:36, 53, 66), so that holding "world" to the elect requires an offer of flesh not given for those offered it.
 
-**Step 29** — that 2 Corinthians 5:14 does not state the bridge premise. "All have died" has no σύν, *syn*, with, where Paul's statements of union have it, and the paper reads it as the death of the one counted as the death of all. That is evidence, not proof. What carries the step is that the union reading, taken as a rule, makes everyone Christ died for united to him, and with 1 John 2:2 and 2 Peter 2:1 that contradicts John 5:28–29.
-
-**Step 30** — that Scripture speaks of God's purpose in two ways: what God ordains, which always comes to pass, and what God desires and commands, which men can refuse. This is the paper's own distinction. It is warranted by Luke's use of βουλή, *boulē*, for both (Acts 2:23; 4:28; Luke 7:30), by Lamentations 3:32–33 with 3:37–38, by Ezekiel 33:11, and by 1 Timothy 2:4. The step then sorts the saving purposes Scripture attaches to the death and the mission. Every determining saving purpose is stated of a company. Every saving purpose stated of the world has a divided outcome reported in its context. The weak joint is the second group: an objector can read the world of John 3:17 as the elect, and step 16 answers that reading from John's usage. Second Corinthians 5:15 is support only.
-
-**Step 38** — Romans 8:32. Read alone, the sentence supports a rule, since its stated ground is the giving up of the Son. The rule needs the purpose assumption that step 30 answers, and held with 2 Peter 2:1 and 1 John 2:2 it is not available. This is where the weights are closest.
-
-**Step 43** — that "my flesh," given "for the life of the world" (John 6:51), is the death. This rests on the preposition ὑπέρ, *hyper*, as at 10:11, and on the flesh-and-blood language of 6:53–56. The step does not show that "world" there means everyone. It shows that the flesh so given is set before hearers who refuse it (6:36, 53, 66), so that holding "world" to the elect requires an offer of flesh not given for those offered it.
-
-**Step 46** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:18–19 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text. For Mark 10:45 the sense is fixed more closely: Paul restates the saying with "all" in place of "many" (1 Tim 2:6).
+**Step 41** — that "many" does not mark a subset. This applies Paul's usage at Romans 5:18–19 to texts by other writers, and it is offered as showing what the word can do, not as fixing its sense in each text. For Mark 10:45 the sense is fixed more closely: Paul restates the saying with "all" in place of "many" (1 Tim 2:6).
 
 ---
 
