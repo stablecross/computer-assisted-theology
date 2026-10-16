@@ -1,6 +1,6 @@
 # God Brings Every Heir to Faith and Loses None of Them
 
-*Version 18.*
+*Version 19.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -19,7 +19,7 @@ This paper is a synthesis, so most of its premises are conclusions argued elsewh
 
 *From "[Election in the Abrahamic Covenant Is to Salvation](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-to-salvation.md)."* The promise-heir class is elected to salvation. A promise stated as God's own act, sworn, and called everlasting, is kept to the man it named (step 3). Faith is the means by which what was promised is received, so the named man's faith is certain; that paper draws this for Isaac (step 8). Believers belong to the class (steps 9 through 12).
 
-*From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."* The evidential rule (front matter). Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11). Esau was passed over in the patriarchal designation (step 6a). The olive tree of Romans 11 is not the set of Romans 8:29–30 (inference list, under Romans 11).
+*From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."* The evidential rule (front matter). Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 10). Esau was passed over in the patriarchal designation (step 5a). The olive tree of Romans 11 is not the set of Romans 8:29–30 (inference list, under Romans 11).
 
 *From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."* Necessity: the response does not occur while the heart of stone remains. Production: where the response occurs, God's act brought it about. Ezekiel 36:26–27 is one promise, and its stated result attaches to the whole of it (step 5).
 
@@ -103,7 +103,7 @@ The keeping claim has three routes. Step 13 runs through Romans 8 read with Gala
 
 "For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn within a large family. And those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified." (Rom 8:29–30)
 
-The objects are persons. The pronoun is οὕς, *hous*, masculine plural, and "Not Grounded in the Man" argues at step 11 that Paul predicates the predestining of persons rather than of a body. That paper also ties Romans 9's called to this chain: "including us whom he has called, not from the Jews only but also from the Gentiles" (Rom 9:24).
+The objects are persons. The pronoun is οὕς, *hous*, masculine plural, and "Not Grounded in the Man" argues at step 10 that Paul predicates the predestining of persons rather than of a body. That paper also ties Romans 9's called to this chain: "including us whom he has called, not from the Jews only but also from the Gentiles" (Rom 9:24).
 
 The personal part of this step rests on "Not Grounded in the Man," not on "Election in the Abrahamic Covenant Is to Salvation." "Election in the Abrahamic Covenant Is to Salvation" grants the corporate reading of Ephesians 1 at its step 11 and says it needs "the terminus, not the roster." The roster comes from Romans 8:29.
 
@@ -500,7 +500,7 @@ Read alone, the passage has more than one reading. This paper takes the reading 
 
 *The man the writer names.* Esau is the one man Hebrews puts in a warning by name, and the writer describes him as a man who failed to inherit. "See to it that no one becomes like Esau... You know that later, when he wanted to inherit [κληρονομῆσαι, *klēronomēsai*] the blessing, he was rejected" (12:16–17). The writer uses the same word family for the heirs in chapter 6. He urges his readers to imitate "those who through faith and patience inherit [κληρονομούντων, *klēronomountōn*] the promises" (6:12). God's oath is made "to the heirs [κληρονόμοις, *klēronomois*] of the promise" (6:17). So in one letter, one word family names the man who failed to inherit and the people the oath secures.
 
-Esau shared real works of God with the heir. Rebekah was barren, "and the LORD granted his prayer, and his wife Rebekah conceived" (Gen 25:21). Paul stresses that the twins came from the same conception: Rebecca "had conceived children by one husband," ἐξ ἑνὸς κοίτην ἔχουσα, *ex henos koitēn echousa* (Rom 9:10). Isaac blessed both sons: "By faith Isaac invoked blessings for the future on Jacob and Esau" (Heb 11:20). Esau was still passed over in the patriarchal designation ("Not Grounded in the Man," step 6a). Paul puts the difference in God's choice, made "not by works but by his call" (Rom 9:11–12).
+Esau shared real works of God with the heir. Rebekah was barren, "and the LORD granted his prayer, and his wife Rebekah conceived" (Gen 25:21). Paul stresses that the twins came from the same conception: Rebecca "had conceived children by one husband," ἐξ ἑνὸς κοίτην ἔχουσα, *ex henos koitēn echousa* (Rom 9:10). Isaac blessed both sons: "By faith Isaac invoked blessings for the future on Jacob and Esau" (Heb 11:20). Esau was still passed over in the patriarchal designation ("Not Grounded in the Man," step 5a). Paul puts the difference in God's choice, made "not by works but by his call" (Rom 9:11–12).
 
 The objection reasons from the goods of 6:4–5 to the conclusion that the fallen were heirs. Hebrews' own named example is a man who received God's works alongside the heir and was not the heir. So in Hebrews, sharing a work of God with the heirs does not make a man one of them. The example does not by itself say what "shared in the Holy Spirit" means; the paragraph on that phrase gives the reading. Nor does it say what Esau's final state is.
 
@@ -680,7 +680,7 @@ This paper imports no account of the will, and this objection needs one. What th
 
 The imports are argued in their own papers and are not listed here. An attack on one of them belongs there. What follows are the moves this paper makes.
 
-**Step 1** — that the heirs are persons. This is taken from "Not Grounded in the Man," step 11, on the pronoun οὕς, *hous*, at Romans 8:29. It is listed because the heir claim's personal reach depends on it, and "Election in the Abrahamic Covenant Is to Salvation" does not supply it.
+**Step 1** — that the heirs are persons. This is taken from "Not Grounded in the Man," step 10, on the pronoun οὕς, *hous*, at Romans 8:29. It is listed because the heir claim's personal reach depends on it, and "Election in the Abrahamic Covenant Is to Salvation" does not supply it.
 
 **Step 2** — that the entailment "Election in the Abrahamic Covenant Is to Salvation" draws for Isaac holds for every heir. The support is that every heir, like Isaac, is named before he believes: step 1 makes the heirs persons predestined before they are called, and Ephesians 1:11 sets the inheritance under that destining. Galatians 3:29 is not used for this, since it makes believing sufficient for heirship. Paul's chain reaches the same place by a second route, since everyone predestined is justified and justification is by faith. Both routes use step 1.
 
@@ -732,7 +732,7 @@ The keeping claim is the *finally* half of that sentence. The paper argues that 
 
 *Total depravity* is argued by "No One Comes." That paper argues the inability half at length, that no one comes to Christ unless God first changes the heart. It gives the other half, that no one is good, in a paragraph (Luke 18:19; Rom 3:10–12).
 
-*Unconditional election* is argued by "Election in the Abrahamic Covenant Is to Salvation" for the terminus and by "Not Grounded in the Man" for the basis. For foreseen faith, "Not Grounded in the Man" reaches a comparative result, and the synthesis paper takes it up.
+*Unconditional election* is argued by "Election in the Abrahamic Covenant Is to Salvation" for the terminus and by "Not Grounded in the Man" for the basis. "Not Grounded in the Man" leaves faith, actual or foreseen, to the synthesis paper, which takes it up.
 
 *Irresistible grace* is the heir claim and the act claim of this paper.
 
