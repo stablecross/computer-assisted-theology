@@ -1,6 +1,6 @@
 # Four Points of Calvinism: What the Papers Establish
 
-*Version 11.*
+*Version 12.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -23,10 +23,9 @@ Each import is argued in its own paper. A defect in an import is a defect in the
 
 **From "[The Election Is Not Grounded in the Man](https://github.com/stablecross/computer-assisted-theology/blob/main/abrahamic-covenant/election-not-grounded-in-man.md)."**
 - The definition of election: "The antecedent divine determination by which a person is assigned the salvific destiny of the promise-class" (front matter).
-- Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 11).
-- The election is not conditioned on works, and it does not rest on the man's willing or running (steps 1 through 7).
+- Romans 8:29–30 predicates an antecedent predestining of persons and carries the same persons to glory (step 10).
+- The election is not conditioned on works, and it does not rest on the man's willing or running (steps 1 through 6).
 - No responsive candidate other than faith has a text making it the condition of election, so under the evidential rule none is available (step 2a).
-- For faith, the reading with no human criterion is better supported, and the rival is not shown unavailable there (steps 2b, 5a, and the conclusion).
 
 **From "[No One Comes to Christ Unless God First Changes the Heart](https://github.com/stablecross/computer-assisted-theology/blob/main/ezekiel/no-one-comes.md)."**
 - Necessity: the saving response does not occur while the condition Ezekiel names remains in place (front matter; step 11).
@@ -38,7 +37,7 @@ Each import is argued in its own paper. A defect in an import is a defect in the
 - The heir claim: every heir is brought to faith by God's act (step 4).
 - The act claim: every instance of the regenerating act yields faith (step 9).
 - The keeping claim: no one who is justified finally falls away (step 17), by three routes, Romans 8 (step 13), Romans 5:9–10 (step 14), and Philippians 1:6 and 2:12–13 (step 15).
-- A reading of a warning on which a justified man is finally lost is not available once it is held with Romans 5:9–10, Philippians 1:6, and Philippians 2:13 (section on warnings).
+- A reading of a warning on which a justified man is finally lost has to take Romans 5:9–10, Philippians 1:6, and Philippians 2:13 as conditioned on a continuing God may leave unsecured, which none of them states, and the comparison favors the keeping reading (section on warnings).
 - Not all come to life (John 5:28–29; Dan 12:2), a fact that paper uses and adds nothing to.
 
 ---
@@ -50,7 +49,7 @@ Each import is argued in its own paper. A defect in an import is a defect in the
 - **Irresistible grace.** Everyone to whom God gives the regenerating act comes to faith.
 - **Perseverance of the saints.** No one who is justified finally falls away.
 
-**What this paper does.** Most of it joins conclusions already argued in four papers. It adds three things of its own. The first is the argument in the section on unconditional election, which completes the case for faith that "The Election Is Not Grounded in the Man" left comparative. The other two join texts in the section on total depravity: Adam as the source of the condition, and the condition gathered across the parts of the man. Everything else is stated from the imports, and each joining of texts is classified where it is made.
+**What this paper does.** Most of it joins conclusions already argued in four papers. It adds three things of its own. The first is the argument in the section on unconditional election, which makes the case for faith that "The Election Is Not Grounded in the Man" leaves to this paper. The other two join texts in the section on total depravity: Adam as the source of the condition, and the condition gathered across the parts of the man. Everything else is stated from the imports, and each joining of texts is classified where it is made.
 
 **How the doctrines are stated here.** Each doctrine is stated as a claim about outcomes: who can come, whom God chooses and why, who believes, and who is kept. The traditional formulations also give an account of how grace acts on the will. Scripture says that God is at work in the willing of believers — "it is God who is at work in you, enabling you both to will and to work for his good pleasure" (Phil 2:13). The Greek has God working the willing and the working themselves, καὶ τὸ θέλειν καὶ τὸ ἐνεργεῖν, *kai to thelein kai to energein*. The NRSV supplies *enabling*; the objects of God's working are the willing and the working themselves. Scripture does not say how God works them, and this paper brackets the mechanism. The Canons of Dort and the Westminster Confession are named below only to report where the outcomes agree with them. They are not premises.
 
@@ -97,7 +96,7 @@ Gathering these into one claim, that the condition is found across these parts o
 
 ## Unconditional election
 
-**What is imported.** The election is to salvation. It is an antecedent determination with persons as its objects (Rom 8:29–30), made before they had done anything (Rom 9:11; 2 Tim 1:9). It is not conditioned on works, and it does not rest on the man's willing or running. No responsive candidate other than faith has a text behind it. For faith, "The Election Is Not Grounded in the Man" shows only that the reading with no criterion is better supported. It leaves the step from better supported to excluded to this paper.
+**What is imported.** The election is to salvation. It is an antecedent determination with persons as its objects (Rom 8:29–30), made before they had done anything (Rom 9:11; 2 Tim 1:9). It is not conditioned on works, and it does not rest on the man's willing or running. No responsive candidate other than faith has a text behind it. "The Election Is Not Grounded in the Man" does not take up faith. This paper does.
 
 **The argument for faith.** It uses the imports of all four papers and adds no new premise. It runs in seven steps.
 
@@ -149,7 +148,7 @@ Gathering these into one claim, that the condition is found across these parts o
 
 **What is imported.** The keeping claim: no one who is justified finally falls away. It rests on three routes. The first runs through Romans 8: the justified are children and heirs, and the chain carries them to glory: "those whom he justified he also glorified" (Rom 8:30). The second runs through Romans 5: "Much more surely then, now that we have been justified by his blood, will we be saved through him from the wrath of God" (5:9). The third runs through Philippians: the one who began a good work "will bring it to completion by the day of Jesus Christ" (Phil 1:6), and God works in believers the willing and the working (2:13). None of the three uses another, and none uses the act claim.
 
-**How the keeping works.** Through faith, not around it. Paul puts the command and God's working in one sentence: "work out your own salvation with fear and trembling; for it is God who is at work in you, enabling you both to will and to work for his good pleasure" (Phil 2:12–13). The warnings are real, they make continuing necessary, and they are among the means by which God keeps the heirs believing. "God Brings Every Heir to Faith" places each warning it takes up under that account or under the account of a mixed assembly, and it marks which placements are readings. A reading of a warning on which a justified man is finally lost contradicts Romans 5:9–10, Philippians 1:6, and Philippians 2:13, so it is not available. That paper applies this to Hebrews 10:29 and Matthew 18:23–35.
+**How the keeping works.** Through faith, not around it. Paul puts the command and God's working in one sentence: "work out your own salvation with fear and trembling; for it is God who is at work in you, enabling you both to will and to work for his good pleasure" (Phil 2:12–13). The warnings are real, they make continuing necessary, and they are among the means by which God keeps the heirs believing. "God Brings Every Heir to Faith" places each warning it takes up under that account or under the account of a mixed assembly, and it marks which placements are readings. A reading of a warning on which a justified man is finally lost has to take Romans 5:9–10, Philippians 1:6, and Philippians 2:13 as conditioned on a continuing God may leave unsecured. None of them states that condition, so the comparison favors the keeping reading. That paper applies this to Hebrews 10:29 and Matthew 18:23–35.
 
 **What is not claimed.** That a believer cannot fall *totally* for a time. The Westminster Confession (17.1) says the saints "can neither totally nor finally fall away from the state of grace." This paper claims the second. There is a text toward the first: "I have prayed for you that your own faith may not fail; and you, when once you have turned back, strengthen your brothers" (Luke 22:32). Peter denies Christ that night, and the prayer is that his faith not fail through it. That is one case, and one case does not establish the general claim.
 
