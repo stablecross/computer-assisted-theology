@@ -1,8 +1,8 @@
 # Four-Stage Evaluation Criteria
 
-*Version 14.*
+*Version 15.*
 
-Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis and the record described under "Standing of each thesis." A later stage may send a finding back to an earlier one in one case only: a Stage 3 text may show that a Stage 2 reading of a cited passage was too thin. When that happens, say so in both stages and revise the Stage 2 result there. Stage 4 consequences may never be used as evidence at Stages 1 through 3.
+Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis and the record described under "Standing of each thesis." A later stage may send a finding back to an earlier one in two cases. First, a passage the document cites may have immediate context that Stage 2 did not read (category D at Stage 3), and that context may change the Stage 2 reading. Second, a later stage may find that the thesis entails a proposition whose denial is independently established. That is a Stage 1 finding when the document's own premises yield the denial, and a Stage 3 finding otherwise. In both cases, say so in both stages and revise the earlier result there. No other Stage 4 consequence may be used as evidence at Stages 1 through 3.
 
 **The same rules bind author and reviewer.** Whoever asserts a proposition must support it. Whoever challenges an inference must identify and demonstrate its defect. Neither party must prove the opposite conclusion merely to show that the other's argument falls short. A reviewer's findings are propositions too, and they are tested by these rules when the review is itself reviewed.
 
@@ -231,7 +231,7 @@ End Stage 4 with:
 
 End the review with the standing of each thesis the document claims. The standing adds no new judgment. It is read off the results of Stages 1 through 3. Stage 4 may not raise or lower it.
 
-- **Established.** The argument is valid at Stage 1. Every necessary premise is accepted at Stage 2. No omission at Stage 3 is fatal, and the whole-canon countermodel test fails.
+- **Established.** Stage 1's verdict is "Formally valid" or "Not an argument." Every necessary premise is accepted at Stage 2. No omission at Stage 3 is fatal, and the whole-canon countermodel test fails.
 - **Supported.** As for Established, except that a countermodel survives. The datum ledger charges it more than it charges the document's reading. The thesis is better supported than its strongest rival, and the rival is not excluded. A Supported standing must name the surviving countermodel, and every element it cannot do without must have passed the admissibility test at Stage 3.
 - **Not shown.** The offered proof fails at a stated step and no independent route survives, or a countermodel survives at equal or lower cost.
 - **Refuted.** A landed objection, after global propagation, establishes that the thesis is false.
