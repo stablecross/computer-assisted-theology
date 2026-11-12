@@ -186,6 +186,16 @@ Show the defect. "This step seems weak" is not a bug report. "Step 7 needs X, an
 
 Reports produced with an AI model are welcome. Say which model and version you used.
 
+## Contributions
+
+Reviews are expensive to run. One review of election-to-salvation.md on Claude Fable 5.2 at maximum effort used an entire session limit and more than ten dollars in API credits, and each new version of a paper needs reviewing again. Contributions pay for review runs and for the development of the papers.
+
+To contribute, use Cash App: [$stablecrosswrf3](https://cash.app/$stablecrosswrf3), or scan the code below.
+
+![Cash App QR code for $stablecrosswrf3](images/cashapp-qr.png)
+
+Contributions do not buy a review, a standing, or a change to any paper. They are gifts to the author, not tax-deductible donations.
+
 ## Credits
 
 The papers were drafted and revised with Claude (Anthropic), mostly Claude Opus up to version 5.5, with some runs on Claude Fable. Claude did most of the drafting, the revision after each review, and the checking of quotations against the NRSV.
