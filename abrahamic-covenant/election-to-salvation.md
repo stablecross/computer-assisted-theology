@@ -1,6 +1,6 @@
 # Election in the Abrahamic Covenant Is to Salvation
 
-*Version 45.*
+*Version 46.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -37,7 +37,7 @@ Two live positions, and only one of them is an objection.
 
 **What the argument does not import.** No theory of the will. No account of how responsibility attaches to an act. No claim about what would be fair. No definition of freedom, and no position on whether a determined choice can be a free one. The steps below run on who was named, what was promised, who received it, and where Scripture places the men afterward. An objector cannot answer any of them by adjusting his view of volition, because none of them consults it.
 
-**What it does use.** Two things, neither of them metaphysics. First, that a promise stated as God's own act, made to a named man, is not left unpaid to that man — grounded at step 3 on God's own oath and inability to lie rather than on a principle about promises in general. Second, a rule of reading: when the text marks a designation as taking up what was just defined, the designation covers all of it unless the text supplies a partition. The markers come first, and step 8 gives them. Only then does the burden fall on the reader who proposes a partition.
+**What it does use.** Two things, neither of them metaphysics. First, that a promise stated as God's own act and sworn to a man by name does not go unreceived by that man — grounded at step 3 on God's oath to him and God's inability to lie, rather than on a principle about promises in general. A sworn promise to a people is a different case, taken up at step 8. Second, a rule of reading: when the text marks a designation as taking up what was just defined, the designation covers all of it unless the text supplies a partition. The markers come first, and step 8 gives them. Only then does the burden fall on the reader who proposes a partition.
 
 **The spine.** The inheritance was promised to Abraham personally. He died without receiving it. Hebrews locates the patriarchs' fulfillment beyond their mortal lives. Jesus places Abraham personally in the eschatological kingdom. So Abraham's own promised inheritance is received after his death, in resurrection.
 
