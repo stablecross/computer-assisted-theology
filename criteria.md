@@ -1,6 +1,6 @@
 # Four-Stage Evaluation Criteria
 
-*Version 15.*
+*Version 16.*
 
 Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis and the record described under "Standing of each thesis." A later stage may send a finding back to an earlier one in two cases. First, a passage the document cites may have immediate context that Stage 2 did not read (category D at Stage 3), and that context may change the Stage 2 reading. Second, a later stage may find that the thesis entails a proposition whose denial is independently established. That is a Stage 1 finding when the document's own premises yield the denial, and a Stage 3 finding otherwise. In both cases, say so in both stages and revise the earlier result there. No other Stage 4 consequence may be used as evidence at Stages 1 through 3.
 
@@ -240,6 +240,16 @@ End the review with the standing of each thesis the document claims. The standin
 
 **Name the limiting step.** For any standing below Established, name the step, premise, import, or countermodel that keeps the thesis from the next standing up. A standing without a named limiting step is not a finding.
 
+**Show the limiting step in a table.** For each standing below Established, give one row for each limiting step, with these columns:
+
+1. The step, premise, import, or countermodel.
+2. The document's words for it, quoted, with their location.
+3. What the finding says is wrong with those words.
+4. The text the finding cites, and the inference from that text to the finding.
+5. Each element the finding needs that neither the document nor the cited source states, with its class.
+
+A row with an empty column is not a finding. A finding that needs an element of class (c) is an attack candidate and does not lower the standing.
+
 **Comparative theses.** Some theses say that one reading is better supported than another. A rival that survives at higher cost does not make such a thesis false. Only a reading on which the rival does as well or better does. So a comparative thesis is Established when the datum ledger shows the advantage and no admissible reading equalizes or reverses it. It is Not shown when an admissible reading equalizes the comparison, and Refuted when one reverses it.
 
 **Name the deciding data.** A comparative finding, whether a comparative thesis or a Supported standing, must name the data on which the comparison turns and say which way each one cuts. A margin stated without its deciding data is not a finding.
@@ -259,6 +269,8 @@ At every stage, keep the proposition under review frozen.
 An objection succeeds only if it attacks something the argument actually claims at that stage.
 
 Do not strengthen the claim in order to defeat it. Do not weaken the claim in order to accept it. Do not use downstream theological discomfort as evidence that an upstream logical or exegetical inference is defective.
+
+**Quote what you rule on.** Every ruling against a premise or a conclusion quotes the document's own words for it and gives their location. The ruling tests those words. A paraphrase may be added to explain the quotation, but it may not replace it, and a ruling that tests a paraphrase wider or stronger than the quotation is void.
 
 For every objection, take four steps in order:
 
@@ -285,6 +297,8 @@ These are two different things, and each carries its own burden.
 Neither finding substitutes for the other. A failure in the document's proof does not establish a competing reading. A failure in the competing reading does not supply warrant the document's proof lacks. An evaluator who shows a gap in the document may not then report that a rival reading survives unless he has done the second task as well.
 
 The same holds in reverse. A document that answers a competing reading has not thereby repaired a defect in its own proof.
+
+**A proof objection is classified like a countermodel.** A proof objection need not supply a rival reading, but its demonstration has a decisive proposition: the one that, if true, makes the challenged step fail. State that proposition. If the document does not state it and the cited source does not state it, classify it under "Classification of introduced elements" before ruling. If it is class (c), the objection is an attack candidate. Presenting a failed countermodel as a proof objection does not change the class of the element it needs. The document's defenses are tested the same way: a defense whose decisive proposition is class (c) does not answer the objection.
 
 ---
 
@@ -315,6 +329,8 @@ Whenever an attack, a defense, or a countermodel is saved by introducing a disti
 
 Category (c) cannot make an attack succeed and cannot make a defense succeed. Say which category each introduced element falls in before ruling on the objection it serves. Do not rule first and classify afterward.
 
+**There is no fourth class.** "Not established," "not shown to be (a) or (b)," and similar phrases are not classifications. An evaluator who declines to class an element (c) must class it (a) or (b), say which, and give the text and the inference. An evaluator who cannot say what establishes an element for the case in dispute has classed it (c), and the ruling says so. This applies to the document's elements and to its rivals' alike.
+
 **Argue the classification; do not announce it.** This is where an evaluator's leverage is greatest, because moving one element from (b) to (c) decides the objection it serves without any further argument. So give the reasoning each time. If a critic offers a passage as independent warrant for his element, the evaluator may not label the element merely conceivable and move on. He has to say what relation that passage does warrant, what relation the countermodel needs, and why the second does not follow from the first. The same duty applies to an element of the document's own.
 
 **The duty runs the other way too.** An element is (b) only if the evidence establishes the relation the reading needs, applied to the case in dispute. A relation shown to hold elsewhere does not warrant its application here until the application is argued. For example, a condition stated in one person's appointment does not show that a differently worded appointment of another person carries the same condition. Before classifying an element as (b), state the proposition the reading needs, what the cited evidence establishes, and the inference that connects them. Apply this to the document and to its rivals alike.
@@ -329,7 +345,18 @@ Two consequences follow, and they run in opposite directions.
 
 First, an objection does not defeat a no-grounding claim merely by observing that some further reason could exist, or by producing one. It must show that the reason it produces stands in the grounding relation the claim denies. A reason of some other kind is not a counterexample.
 
-Second, an undisclosed qualifying condition may not be introduced merely to preserve a countermodel. If the countermodel needs such a condition, the condition requires positive or independent warrant, and the classification above applies to it.
+Second, an undisclosed qualifying condition may not be introduced merely to preserve a countermodel or a proof objection. If either needs such a condition, the condition requires positive or independent warrant, and the classification above applies to it.
+
+### Stated conditions and stated scope
+
+A reading may not add a condition to a grant the text states without one, or a limit to a scope the text states without one, unless it cites a text that states the condition or the limit, or establishes it for the case in dispute under the test for class (b). The same burden applies to a reading that removes a condition or a limit the text does state.
+
+The presence of one thing does not establish the absence of another. Each of the following needs its own warrant:
+
+- That a requirement applies to a person does not establish that whether he will meet it was left open.
+- That a text names a people does not establish that it names no individual, and the reverse.
+- That a writer's sources speak of one thing does not establish that his conclusion speaks of nothing else.
+- That one statement of a promise names no condition does not establish that the promise has none, where another statement of it names one.
 
 ### Referee check
 
