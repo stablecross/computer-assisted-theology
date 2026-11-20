@@ -1,6 +1,6 @@
 # Election in the Abrahamic Covenant Is to Salvation
 
-*Version 47.*
+*Version 48.*
 
 *© 2026 William R. Felts III. Licensed under CC BY-ND 4.0; see [copyright.md](https://github.com/stablecross/computer-assisted-theology/blob/main/copyright.md).*
 
@@ -90,6 +90,8 @@ The Genesis 22 oath names offspring, enemies' gates, and blessing to the nations
 The God-relation was sworn too. Moses says the covenant is made "in order that he may establish you today as his people, and that he may be your God, as he promised you and as he swore to your ancestors, to Abraham, to Isaac, and to Jacob" (Deut 29:13). Moses states the descendants' side of the clause. It is still the God-relation clause of Genesis 17:7, and it is under the oath. So the oath covers both clauses of Genesis 17:7–8, and not the land alone.
 
 The indefectibility rests on the purpose the oath shows and on the character of the one who swore it, not on the word *ʿôlām* alone. Everlasting language by itself is not enough. God told Eli, "'I promised that your family and the family of your ancestor should go in and out before me forever'; but now the LORD declares: 'Far be it from me'" (1 Sam 2:30). The Hebrew is עַד־עוֹלָם, *ʿad-ʿôlām*, and the promise was withdrawn. Nothing in the account says that promise was sworn. The promise to Abraham was, and Hebrews says why the oath was given: to show the heirs that God's purpose does not change (Heb 6:17).
+
+Hebrews also says what the hope resting on the oath is. "We have this hope, a sure and steadfast anchor of the soul, a hope that enters the inner shrine behind the curtain, where Jesus, a forerunner on our behalf, has entered, having become a high priest forever according to the order of Melchizedek" (Heb 6:19–20). The hope the oath secures goes where Jesus has gone, into the presence of God. So the passage that gives the oath's purpose also gives its object: entry where Jesus has entered.
 
 A sworn promise to a named man stands even when his descendants fail. God swore to David, and said of David's sons, "If his children forsake my law… then I will punish their transgression with the rod… but I will not remove from him my steadfast love… Once and for all I have sworn by my holiness; I will not lie to David" (Ps 89:30–35). The sons are punished. The promise to the named man stands. That is the distinction step 4 draws between Abraham and his descendants, and step 8 draws for Isaac.
 
@@ -282,6 +284,8 @@ Second, Isaac is a named recipient of that same promise, not of a resembling one
 
 The texts that name Isaac in the oath are later than his naming. Genesis 17 has no oath. Genesis 26:3 is spoken to Isaac as a grown man, and Deuteronomy 1:8 and Psalm 105:9 look back. So one more step is needed: that the grant sworn to Isaac is what was announced at his naming, and not something added afterward. Genesis 26:3 supplies it. Its last clause, which the NRSV renders "I will fulfill the oath," is וַהֲקִמֹתִי אֶת־הַשְּׁבֻעָה, *wahăqimōtî ʾet-haššəbuʿâ*, literally *and I will establish the oath*. The verb is the one God used when he named Isaac, in the same form: וַהֲקִמֹתִי אֶת־בְּרִיתִי אִתּוֹ, *wahăqimōtî ʾet-bərîtî ʾittô*, "I will establish my covenant with him" (17:19). At the naming God said he would establish his covenant with Isaac. At 26:3 he tells Isaac what that establishing is: the oath sworn to Abraham, with its content, "to you and to your descendants I will give all these lands." Exodus 6:4 says the same of all three men: God established his covenant with them "to give them the land of Canaan." The land had been given to Abraham's offspring by covenant before Isaac existed (Gen 15:18), and Abraham reports that God swore it (24:7). Genesis 17:19–21 says Isaac is the offspring with whom the covenant is established. So the grant sworn to Isaac in person is what was established with him at his naming.
 
+The grant at 26:3 follows a command. "Do not go down to Egypt; settle in the land that I shall show you. Reside in this land as an alien, and I will be with you, and will bless you; for to you and to your descendants I will give all these lands" (26:2–3). The command is joined to God's presence and blessing, and a reader may take those as following on Isaac's residing there. The land grant is joined differently. It is introduced by כִּי, *kî*, "for," and so it is the reason given for the command, not a reward offered for obeying it. Two verses later the text states the ground of the grant, and the ground is Abraham's conduct, not Isaac's: "because Abraham obeyed my voice and kept my charge" (26:5). So the command does not make the sworn grant to Isaac wait on Isaac's obedience.
+
 Third, what was promised includes the land at its full scope and the personal God-relation — step 1 for the two clauses, step 5 for the scope, steps 6 and 7 for where Scripture locates the reception.
 
 Fourth, faith is the means by which what was promised is received. This paper grants that, and the objection is built on it.
@@ -400,6 +404,8 @@ The NRSV's *children* renders υἱοί, *huioi*, and υἱοθεσία, *huioth
 
 So what Ephesians names as predestined, before the foundation of the world, is adoption as sons.
 
+The same paragraph says what goes with that adoption. "In him we have redemption through his blood, the forgiveness of our trespasses" (Eph 1:7). "In Christ we have also obtained an inheritance, having been destined according to the purpose of him who accomplishes all things according to his counsel and will" (1:11). The NRSV notes another rendering of 1:11, "been made a heritage," but 1:14 names the inheritance either way: the Spirit is "the pledge of our inheritance." The word the readers believed is "the gospel of your salvation," and believing it they "were marked with the seal of the promised Holy Spirit" (1:13). So the predestined adoption of 1:5 stands in one paragraph with redemption, forgiveness, inheritance, and salvation.
+
 **Adoption said of the unsaved, which is the hardest problem in this step.** Paul writes that to the Israelites "belong **the adoption**, the glory, the covenants" (Rom 9:4) — and he is grieving over those same Israelites as cut off from Christ. So *huiothesia* can be predicated of people who are not saved.
 
 Sonship language makes it worse before it makes it better. Sonship is a covenant category before it is a Pauline one: God tells Pharaoh "Israel is my firstborn son" (Exod 4:22), and Hosea says "out of Egypt I called my son" (Hos 11:1). The son there is the nation. That national sonship did not save the nation.
@@ -455,6 +461,8 @@ Peter quotes the Abrahamic promise and then names the blessing it speaks of. The
 That bears on this step because the objection here is about content. It says what believers inherit is a standing rather than the Abrahamic grant. Peter, addressing men who held the covenant by descent, tells them the blessing promised to Abraham's offspring is one that turns a man from his wickedness — which is not a standing, and not a piece of national furniture.
 
 This is a second witness rather than a premise. The step stands on Galatians. What Acts adds is that an apostle preaching to the covenant people read the Abrahamic blessing as salvific in content, and said so in the same breath as the quotation.
+
+**Zechariah names what the oath to Abraham grants.** "Thus he has shown the mercy promised to our ancestors, and has remembered his holy covenant, the oath that he swore to our ancestor Abraham, to grant us that we, being rescued from the hands of our enemies, might serve him without fear, in holiness and righteousness before him all our days." (Luke 1:72–75) He names the covenant and the oath, and he says what the oath grants: rescue, and service before God in holiness and righteousness. This too is a witness rather than a premise. It shows a second speaker giving the oath to Abraham that content.
 
 **13. Which is where steps 1 through 8 have already been.**
 
@@ -558,7 +566,7 @@ That objection has real support. The Galatians 4 context is about Sarah and Haga
 
 **The argument from that list.** Seven correspondences across seven books. One correspondence is easily a comparison. Seven, distributed that way, make a one-feature reading substantially less economical — because the thin reading has to explain each of the others separately, while the category reading explains all seven at once.
 
-Notice what is not on the list. Believers are not Sarah's physical descendants, not bound on Moriah, not dwellers in Gerar. The properties Scripture reassigns are the covenantal ones and only those — which is what makes the pattern an assignment rather than a pile of resemblances. If the New Testament were reaching for illustrations it would have no reason to sort them this way.
+Notice what is not on the list. Believers are not Sarah's physical descendants, not bound on Moriah, not dwellers in Gerar. The properties Scripture reassigns are the covenantal ones and only those. That shows the pattern is not a pile of chance resemblances. It does not by itself show an assignment rather than an analogy, because a deliberate analogy between two covenants would select the same properties. What favors assignment is the number of correspondences and the different writers who make them, as the paragraph above argues.
 
 And notice which single property the thin reading selects. It picks the manner of birth. Two rows concern birth: the first, and John 1:13. The other five have nothing to do with how anyone was born. The reading that stops at birth has to say why five more were written.
 
