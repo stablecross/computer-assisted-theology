@@ -1,6 +1,6 @@
 # Four-Stage Evaluation Criteria
 
-*Version 16.*
+*Version 17.*
 
 Evaluate the argument in four stages, after completing the pre-analysis map. Report the stages separately, and end with the standing of each thesis and the record described under "Standing of each thesis." A later stage may send a finding back to an earlier one in two cases. First, a passage the document cites may have immediate context that Stage 2 did not read (category D at Stage 3), and that context may change the Stage 2 reading. Second, a later stage may find that the thesis entails a proposition whose denial is independently established. That is a Stage 1 finding when the document's own premises yield the denial, and a Stage 3 finding otherwise. In both cases, say so in both stages and revise the earlier result there. No other Stage 4 consequence may be used as evidence at Stages 1 through 3.
 
@@ -244,11 +244,14 @@ End the review with the standing of each thesis the document claims. The standin
 
 1. The step, premise, import, or countermodel.
 2. The document's words for it, quoted, with their location.
-3. What the finding says is wrong with those words.
-4. The text the finding cites, and the inference from that text to the finding.
-5. Each element the finding needs that neither the document nor the cited source states, with its class.
+3. What limits the standing: a demonstrated defect in those words, a dependence on an import, a scope limit, or a surviving admissible countermodel.
+4. The text, evidence, or logical demonstration the finding rests on, and the inference from it to the limit.
+5. Each element the finding needs that neither the document nor the cited source states, with its class. Enter "None" if there is none.
+6. Each element the document's reading needs at that step that neither the document's texts nor the cited source states, with its class. Enter "None" if there is none.
 
-A row with an empty column is not a finding. A finding that needs an element of class (c) is an attack candidate and does not lower the standing.
+A row with an empty column is incomplete and is not a finding. A finding that needs an element of class (c) is an attack candidate and does not lower the standing. An element of the document's that is class (c), and that a necessary step needs, is itself a limiting step and gets its own row.
+
+**Record the strongest attacks on an Established thesis.** For each thesis graded Established, list the two or three strongest attacks the evaluator built or received. For each, give the document's quoted words the attack targets, the attack's decisive proposition, that proposition's class, and why the attack failed: its class, a failure under global propagation, or a contradicting text. This record does not raise or lower the standing. It makes a positive verdict as checkable as a negative one.
 
 **Comparative theses.** Some theses say that one reading is better supported than another. A rival that survives at higher cost does not make such a thesis false. Only a reading on which the rival does as well or better does. So a comparative thesis is Established when the datum ledger shows the advantage and no admissible reading equalizes or reverses it. It is Not shown when an admissible reading equalizes the comparison, and Refuted when one reverses it.
 
@@ -270,7 +273,7 @@ An objection succeeds only if it attacks something the argument actually claims 
 
 Do not strengthen the claim in order to defeat it. Do not weaken the claim in order to accept it. Do not use downstream theological discomfort as evidence that an upstream logical or exegetical inference is defective.
 
-**Quote what you rule on.** Every ruling against a premise or a conclusion quotes the document's own words for it and gives their location. The ruling tests those words. A paraphrase may be added to explain the quotation, but it may not replace it, and a ruling that tests a paraphrase wider or stronger than the quotation is void.
+**Quote what you rule on.** Every ruling on a disputed premise or conclusion, whether it rejects or accepts it, quotes the document's own words for it and gives their location. The ruling tests those words. A paraphrase may be added to explain the quotation, but it may not replace it. A ruling that tests a paraphrase wider, narrower, stronger, or weaker than the quotation is void.
 
 For every objection, take four steps in order:
 
@@ -299,6 +302,8 @@ Neither finding substitutes for the other. A failure in the document's proof doe
 The same holds in reverse. A document that answers a competing reading has not thereby repaired a defect in its own proof.
 
 **A proof objection is classified like a countermodel.** A proof objection need not supply a rival reading, but its demonstration has a decisive proposition: the one that, if true, makes the challenged step fail. State that proposition. If the document does not state it and the cited source does not state it, classify it under "Classification of introduced elements" before ruling. If it is class (c), the objection is an attack candidate. Presenting a failed countermodel as a proof objection does not change the class of the element it needs. The document's defenses are tested the same way: a defense whose decisive proposition is class (c) does not answer the objection.
+
+A formal countermodel at Stage 1 is not an introduced element. It is a demonstration about entailment. It assigns values on which every stipulated premise is true and the conclusion is false, and it asserts nothing about what the texts say. Its warrant is that demonstration, as "What counts as a landed objection" provides. It does not license an exegetical reading whose distinctions lack warrant.
 
 ---
 
@@ -331,6 +336,8 @@ Category (c) cannot make an attack succeed and cannot make a defense succeed. Sa
 
 **There is no fourth class.** "Not established," "not shown to be (a) or (b)," and similar phrases are not classifications. An evaluator who declines to class an element (c) must class it (a) or (b), say which, and give the text and the inference. An evaluator who cannot say what establishes an element for the case in dispute has classed it (c), and the ruling says so. This applies to the document's elements and to its rivals' alike.
 
+Classify the exact proposition at the strength at which the reading uses it. If the evidence warrants a weaker proposition, state the weaker one. Then show the step from it to the stronger one, and show that no text licenses that step. That step is the element classed (c). Classing an element (c) makes it unavailable as a premise. It does not mean that no relevant evidence exists, and it does not mean that the element is false.
+
 **Argue the classification; do not announce it.** This is where an evaluator's leverage is greatest, because moving one element from (b) to (c) decides the objection it serves without any further argument. So give the reasoning each time. If a critic offers a passage as independent warrant for his element, the evaluator may not label the element merely conceivable and move on. He has to say what relation that passage does warrant, what relation the countermodel needs, and why the second does not follow from the first. The same duty applies to an element of the document's own.
 
 **The duty runs the other way too.** An element is (b) only if the evidence establishes the relation the reading needs, applied to the case in dispute. A relation shown to hold elsewhere does not warrant its application here until the application is argued. For example, a condition stated in one person's appointment does not show that a differently worded appointment of another person carries the same condition. Before classifying an element as (b), state the proposition the reading needs, what the cited evidence establishes, and the inference that connects them. Apply this to the document and to its rivals alike.
@@ -349,11 +356,15 @@ Second, an undisclosed qualifying condition may not be introduced merely to pres
 
 ### Stated conditions and stated scope
 
+Read the statement first. Its scope is established from its language and context, under the Stage 2 rules for continuity and partition. Silence about a boundary is not, by itself, evidence that a scope is unlimited. The absence of a stated condition is not, by itself, a positive marker of continuity.
+
+A condition is different from a scope. A condition the text does not state, entail, or warrant elsewhere has no positive or independent warrant, so it is unavailable as a premise under "Comparative support and categorical negation." Neither party may build on it.
+
 A reading may not add a condition to a grant the text states without one, or a limit to a scope the text states without one, unless it cites a text that states the condition or the limit, or establishes it for the case in dispute under the test for class (b). The same burden applies to a reading that removes a condition or a limit the text does state.
 
 The presence of one thing does not establish the absence of another. Each of the following needs its own warrant:
 
-- That a requirement applies to a person does not establish that whether he will meet it was left open.
+- That a requirement applies to a person establishes neither that whether he will meet it was left open nor that his meeting it was secured.
 - That a text names a people does not establish that it names no individual, and the reverse.
 - That a writer's sources speak of one thing does not establish that his conclusion speaks of nothing else.
 - That one statement of a promise names no condition does not establish that the promise has none, where another statement of it names one.
